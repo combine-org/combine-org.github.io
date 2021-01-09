@@ -4,7 +4,7 @@
 
 * follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
 * cd into a directory you want to have the file in
-* git clone https://github.com/MyersResearchGroup/myersresearchgroup.github.io.git
+* git clone this repository
 * cd into the myersresearchgroup folder
 * hugo server
 * check it is up and running at localhost:1313
