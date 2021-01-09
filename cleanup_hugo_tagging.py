@@ -1,6 +1,6 @@
 import os
 
-pub_path = "C:/Users/JVM/Downloads/sbks temp/publication"
+pub_path = "C:/.../publication"
 
 files_list = []
 
