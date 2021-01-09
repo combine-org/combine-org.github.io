@@ -12,6 +12,10 @@
 * create branch for the repository and open the branch in vs code
 * Page about website structure: https://wowchemy.com/docs/get-started/
 
+## Publications
+For updating publications follow the instructions here: https://wowchemy.com/docs/managing-content/#create-a-publication
+Then run the cleanup_hugo_tagging.py script (make sure the path is to the publications folder) to clean up the extra "" in tags.
+
 ## Website Structure Overview
 
 * The general file structure looks like this: https://wowchemy.com/docs/get-started/#remove-any-unused-example-pages
