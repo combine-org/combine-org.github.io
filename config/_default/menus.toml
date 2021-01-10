@@ -27,6 +27,11 @@
   identifier = "tools-id"
 
 [[main]]
+  name = "Funding"
+  url = "#funding"
+  weight = 70 
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 80  
