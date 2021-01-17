@@ -11,7 +11,8 @@ names:
 - Yikai Hao
 - Y. Hao
 
-#Use 1 for Faculty, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Order to show in compared to other authors when using people section
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
 weight: 200
 
 # Is this the primary user of the site?
@@ -91,6 +92,20 @@ email: ""
 user_groups:
 - Researchers
 - Graduate Students
+# - Genetic Design Automation
+# - SBOL Canvas
+# - SynBioHub
+# - SBOL Explorer
+# - SynBioHub Plugins
+# - SBOL Designer
+
+# # #any user groups to display on the page
+# display_groups:
+# - SynBioHub Tool
+# - SBOL Explorer Tool
+# - SBOL Canvas Tool
+# - SBOL Designer Tool
+# - SynBioHub Plugins Tool
 ---
 
 Jet Mante joined the Genetic Logic Lab as a Ph.D. student under the Supervision of Professor Chris Myers. She is a plant scientist whose research focuses on the reuse of data and genetic components in Synthetic Biology. She is expanding her computational skills working on search and curation methods in SynBioHub.

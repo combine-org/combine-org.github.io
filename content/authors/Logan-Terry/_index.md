@@ -24,7 +24,8 @@ department:
 projects:
 # - <a href="/author/sbol-canvas/">SBOLCanvas</a>
 
-#Use 1 for Faculty, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Order to show in compared to other authors when using people section
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
 weight: 300
 
 # Organizations/Affiliations
@@ -74,6 +75,11 @@ email: ""
 user_groups:
 - Researchers
 - Graduate Students
+- SBOL Canvas
+
+# #any user groups to display on the page
+display_groups:
+- SBOL Canvas Tool
 ---
 
 Likes solving puzzles and plays a lot of puzzle games. Got into programming because of video games. Plays a lot of Minecraft. Can solve a Rubik's cube in just over a minute. Interested in operating systems, and compilers.

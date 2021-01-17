@@ -25,7 +25,7 @@ organizations:
   url: ""
 
 #Order to show in compared to other authors when using people section
-#Use 1 for Faculty, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
 weight: 1
 
 #Utah or CU
@@ -38,9 +38,9 @@ interests:
 - Synthetic Biology
 - Asynchronous Circuits
 
-# projects:
-# - <a href="https://synbioks.github.io/">SBKS</a>
-# - <a href="/author/sbol-canvas/">SBOLCanvas</a>
+projects:
+- <a href="https://synbioks.github.io/">SBKS</a>
+- <a href="/author/sbol-canvas/">SBOLCanvas</a>
 
 
 department:
@@ -84,9 +84,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-8762-8444
-# - icon: university-logo
-#   icon_pack: Custom_University
-#   link: https://www.colorado.edu/ecee
+- icon: university-logo
+  icon_pack: Custom_University
+  link: https://www.colorado.edu/ecee
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -117,6 +117,20 @@ email: ""
 user_groups:
 - Researchers
 - Faculty
+- Genetic Design Automation
+- SBOL Canvas
+- SynBioHub
+- SBOL Explorer
+- SynBioHub Plugins
+- SBOL Designer
+
+# #any user groups to display on the page
+display_groups:
+- SynBioHub Tool
+- SBOL Explorer Tool
+- SBOL Canvas Tool
+- SBOL Designer Tool
+- SynBioHub Plugins Tool
 ---
 
 Chris J. Myers received the BS degree in electrical engineering and Chinese history in 1991 from the California Institute of Technology in Pasadena, California, and the MSEE and PhD degrees from Stanford University in 1993 and 1995, respectively. Before arriving at CU Boulder, he was a professor and associate chair in the Department of Electrical and Computer Engineering at the University of Utah in Salt Lake City.
