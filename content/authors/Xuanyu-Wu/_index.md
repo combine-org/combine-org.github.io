@@ -11,7 +11,8 @@ names:
 - Xuanyu Wu
 - X. Wu
 
-#Use 1 for Faculty, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Order to show in compared to other authors when using people section
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
 weight: 400
 
 # Is this the primary user of the site?
@@ -87,6 +88,20 @@ email: ""
 user_groups:
 - Researchers
 - Undergraduate Students
+# - Genetic Design Automation
+# - SBOL Canvas
+# - SynBioHub
+# - SBOL Explorer
+# - SynBioHub Plugins
+# - SBOL Designer
+
+# # #any user groups to display on the page
+# display_groups:
+# - SynBioHub Tool
+# - SBOL Explorer Tool
+# - SBOL Canvas Tool
+# - SBOL Designer Tool
+# - SynBioHub Plugins Tool
 ---
 
 Xuanyu Wu is a senior undergraduate double majoring in Data Science and Applied Mathematics

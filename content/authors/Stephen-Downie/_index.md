@@ -23,7 +23,7 @@ organizations:
   url: ""
 
 #Order to show in compared to other authors when using people section
-#Use 1 for Faculty, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
 weight: 1
 
 #Utah or CU
@@ -115,6 +115,20 @@ email: ""
 user_groups:
 - Researchers
 - Faculty
+# - Genetic Design Automation
+# - SBOL Canvas
+# - SynBioHub
+# - SBOL Explorer
+# - SynBioHub Plugins
+# - SBOL Designer
+
+# # #any user groups to display on the page
+# display_groups:
+# - SynBioHub Tool
+# - SBOL Explorer Tool
+# - SBOL Canvas Tool
+# - SBOL Designer Tool
+# - SynBioHub Plugins Tool
 ---
 
 Design and evaluation of information retrieval systems, including multimedia music information retrieval; the political economy of internetworked communication systems; database design; Web-based technologies.
