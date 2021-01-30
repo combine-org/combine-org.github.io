@@ -1,0 +1,18 @@
+{
+  "name": "Synthetic Biology Knowledge System",
+  "short_name": "Synthetic Biology Knowledge System",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu506751a9b1968827413e70b30c336728_17544_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu506751a9b1968827413e70b30c336728_17544_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
