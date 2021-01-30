@@ -1,23 +1,21 @@
 ---
 # Display name
-title: Chris Myers
-
+title: Michael Hucka
 # Username (this should match the folder name)
 authors:
-- Chris Myers
+- Michael Hucka
 
 #Author Names (alternative spellings etc)
 names:
-- Chris Myers
-- Chris J. Myers
-- Chris J Myers
-- C Myers
+- Michael Hucka
+- M. Hucka
+
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: SBOL Delegate (Chair)
+role: SBML Delegate
 
 # Organizations/Affiliations
 organizations:
@@ -115,7 +113,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-ordinators
+- Past Co-odrdinators
 
 # # #any user groups to display on the page
 # display_groups:

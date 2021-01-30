@@ -73,40 +73,7 @@
       {{ $list := .Params.names}}
       {{ $research_tags := .Params.research_area_tags}}
 
-      {{ if $count }}
-      <div class="article-widget content-widget-hr">
-        <h3>Publications</h3>
-        {{$research_area := .Scratch.Get "research_area"}}
-        <!-- If a research area then get latest publications based on tags -->
-        {{if in (slice "True") $research_area}}
-          <!-- Untoggle the three lines of code below to see all possible tags to work with -->
-          <!-- {{ range site.Taxonomies.tags }}
-          <li><a href="{{.Page.RelPermalink}}">{{.Page.Title}}</a></li>
-          {{ end }} -->
-          {{ range $query }}
-            {{$intersects := intersect $research_tags .Params.tags}}
-            {{$intersect_count := len $intersects}}
-            {{ if $intersect_count}}
-              <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </li>
-            {{ end}}
-          {{ end }}
-        <!-- Otherwise use author publications -->
-        {{else}}
-        <ul>
-          {{ range $query }}
-            {{$intersects := intersect $list .Params.authors}}
-            {{ if $intersects}}
-              <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </li>
-            {{ end}}
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-    {{end}}
+
     {{end}}
 
     {{/* If no _index.md file exists for the author */}}

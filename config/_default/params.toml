@@ -90,16 +90,17 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 # Enter contact details (optional). To hide a field, clear it to "".
 #If you are using the contact form for the email and you are using formspree replace email
 #witht he last bit of the formspree id. E.g. for https://formspree.io/x/alkdjf just the bit after .io/ so "x/alkdjf"
-email = "f/xpzojplq" #this is linked to the formspree account with the lab email address
+#email = "f/xpzojplq" #this is linked to the formspree account with the lab email address
+email = "combine-discuss@googlegroups.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "425 UCB #1B55", city = "Boulder", region = "CO", postcode = "80309", country = "United States", country_code = "US"}
+# address = {street = "425 UCB #1B55", city = "Boulder", region = "CO", postcode = "80309", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.0076", longitude = "-105.2620"}
+# coordinates = {latitude = "40.0076", longitude = "-105.2620"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -114,10 +115,16 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "github", icon_pack = "fab", name = "Github Contact", link = "https://github.com/MyersResearchGroup"}
-  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
- # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
- # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  {icon = "github", icon_pack = "fab", name = "Github Contact", link = "https://github.com/combine-org"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/combine_coord"},
+  #{icon = "envelope", icon_pack = "fas", name = "COMBINE Discuss", link = "mailto:combine-discuss@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Archive", link = "mailto:combine-archive@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Annotation", link = "mailto:combine-annot@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Multicell", link = "mailto:combine-multicell@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Metadata", link = "mailto:combine-meta@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Site Support", link = "mailto:combine-support@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Co-ordinators", link = "mailto:combine-coord@googlegroups.com"}
+ # {icon = "keybase", icon_pack = "fab", name = "COMBINE News", link = "https://keybase.io/"},
  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]

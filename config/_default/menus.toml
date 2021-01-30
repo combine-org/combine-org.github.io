@@ -10,26 +10,27 @@
 
 [[main]]
   name = "People"
-  url = "/People-SBKS"
-  identifier = "people"
+  url = "/People"
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "/publication"
-  weight = 50
-  identifier = "Publications"
+  name = "Standards"
+  url = "/Standards"
+  identifier = "standards"
+  weight = 30
 
-  [[main]]
-  name = "Tools"
-  url = "/tools"
-  weight = 60
-  identifier = "tools-id"
 
 [[main]]
-  name = "Funding"
-  url = "#funding"
-  weight = 70 
+  name = "Events"
+  url = "/events"
+  weight = 50
+  identifier = "events"
+
+  [[main]]
+  name = "Documents"
+  url = "/documents"
+  weight = 60
+  identifier = "documents"
 
 [[main]]
   name = "Contact"
