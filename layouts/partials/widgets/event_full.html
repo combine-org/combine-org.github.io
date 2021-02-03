@@ -73,7 +73,7 @@
     <!-- Overview -->
     <p></p>
     <div class="row">
-      {{ $person_page.Content }}
+      <div class="description">{{ $person_page.Content }}</div>
     </div>
 
     <!-- Information -->
@@ -86,7 +86,7 @@
           {{ else }}
             <h2 style="color:rgb(141, 199, 66)"><b>{{ .name }}</b></h2>
           {{ end }}
-          <p>{{ .description }}</p>
+          <div class="description">{{ .description }}</div>
         </div>
         {{ end }}
       {{ end }}
