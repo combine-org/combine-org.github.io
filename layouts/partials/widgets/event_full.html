@@ -29,72 +29,54 @@
 
 <div class="row">
   <div class="col-11 col-lg-4">
-    <div>
 
       <!-- Conference date -->
-      <div>
         <h2 style="color:rgb(141, 199, 66)"><b>Conference Date</b></h2>
         <b>{{ $person.conf_date}}</b>
-      </div>
 
       <!-- Conference Location -->
-      <div>
         <h2 style="color:rgb(141, 199, 66)"><b>Conference Location</b></h2>
         <b>{{ $person.conf_location}}</b>
-      </div>
 
       <!-- Important Dates -->
-      <div>
         {{ with $person.important_dates }}
           <h2 style="color:rgb(141, 199, 66)"><b>Important Dates</b></h2>
             {{ range . }}
-              <div class="description">{{ .name | markdownify | emojify }}</div>
-              <div><b>{{ .date | markdownify | emojify }}</b></div>
+              <div>{{ .name | markdownify | emojify }}</div>
+              <b>{{ .date | markdownify | emojify }}</b>
               <p></p>
             {{ end }}
         {{ end }}
-      </div>
 
       <!-- Important Links -->
-      <div>
         {{ with $person.important_links }}
           <h2 style="color:rgb(141, 199, 66)"><b>Important Links</b></h2>
             {{ range . }}
               <div class="description"><a href={{ .link }} style="color:rgb(31, 100, 107)">{{ .name | markdownify | emojify }}</a></div>
             {{ end }}
         {{ end }}
-      </div>
-
-    </div>
   </div>
 
   <div class="col-12 col-lg-6">
-    <div>
     <!-- Overview -->
     <p></p>
-    <div class="row">
-      <div class="description">{{ $person_page.Content }}</div>
-    </div>
+      {{ $person_page.Content }}
 
     <!-- Information -->
-    <div class="row">
       {{ with $person.information }}
         {{ range .}}
-        <div>
           {{ if .link }}
             <a href={{ .link }}><h2 style="color:rgb(141, 199, 66)"><b>{{ .name }}</b></h2></a>
           {{ else }}
             <h2 style="color:rgb(141, 199, 66)"><b>{{ .name }}</b></h2>
           {{ end }}
-          <div class="description">{{ .description }}</div>
-        </div>
+
+          {{ .description }}
         {{ end }}
       {{ end }}
 
-
       <!-- Topics of interest -->
       {{ with $person.topics }}
-      <div>
         <h2 style="color:rgb(141, 199, 66)"><b>Topics of Interest</b></h2>
         <ul>
           {{ range . }}
@@ -103,9 +85,6 @@
           </li>
           {{ end }}
         </ul>
-      </div>
       {{ end }}
-    </div>
-    </div>
   </div>
 </div>
