@@ -19,28 +19,30 @@
 
 
 {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-{{ if and $page.Params.widget $page.Title }}<div class=row><h1><b>{{ $page.Title | markdownify | emojify }}</b></h1></div>{{ end }}
+{{ if and $page.Params.widget $page.Title }}<div class=row><div class="col-12 col-lg-8"><h1>{{ $page.Title | markdownify | emojify }}</h1></div></div>{{ end }}
 
 <div class="row">
-  <h1 style="color:rgb(31, 100, 107)"><b>{{ $person.title }}</b></h1>
+  <div class="col-12 col-lg-4">
+    <h1 style="color:rgb(31, 100, 107)">{{ $person.title }}</h1>
+  </div>
 </div>
 
 <!-- NEW -->
 
 <div class="row">
-  <div class="col-11 col-lg-4">
+  <div class="col-12 col-lg-4">
 
       <!-- Conference date -->
-        <h2 style="color:rgb(141, 199, 66)"><b>Conference Date</b></h2>
+        <h2 style="color:rgb(141, 199, 66)">Conference Date</h2>
         <b>{{ $person.conf_date}}</b>
 
       <!-- Conference Location -->
-        <h2 style="color:rgb(141, 199, 66)"><b>Conference Location</b></h2>
+        <h2 style="color:rgb(141, 199, 66)">Conference Location</h2>
         <b>{{ $person.conf_location}}</b>
 
       <!-- Important Dates -->
         {{ with $person.important_dates }}
-          <h2 style="color:rgb(141, 199, 66)"><b>Important Dates</b></h2>
+          <h2 style="color:rgb(141, 199, 66)">Important Dates</h2>
             {{ range . }}
               <div>{{ .name | markdownify | emojify }}</div>
               <b>{{ .date | markdownify | emojify }}</b>
@@ -50,14 +52,14 @@
 
       <!-- Important Links -->
         {{ with $person.important_links }}
-          <h2 style="color:rgb(141, 199, 66)"><b>Important Links</b></h2>
+          <h2 style="color:rgb(141, 199, 66)">Important Links</h2>
             {{ range . }}
               <div class="description"><a href={{ .link }} style="color:rgb(31, 100, 107)">{{ .name | markdownify | emojify }}</a></div>
             {{ end }}
         {{ end }}
   </div>
 
-  <div class="col-12 col-lg-6">
+  <div class="col-12 col-lg-8">
     <!-- Overview -->
     <p></p>
       {{ $person_page.Content }}
@@ -66,7 +68,7 @@
       {{ with $person.information }}
         {{ range .}}
           {{ if .link }}
-            <a href={{ .link }}><h2 style="color:rgb(141, 199, 66)"><b>{{ .name }}</b></h2></a>
+            <h2><a href={{ .link }} target="_blank" rel="noopener"><span style="color:rgb(141, 199, 66)">{{ .name }}</span> <i class="fas fa-chevron-right" aria-hidden="true"></i></a></h2>
           {{ else }}
             <h2 style="color:rgb(141, 199, 66)"><b>{{ .name }}</b></h2>
           {{ end }}
@@ -77,7 +79,7 @@
 
       <!-- Topics of interest -->
       {{ with $person.topics }}
-        <h2 style="color:rgb(141, 199, 66)"><b>Topics of Interest</b></h2>
+        <h2 style="color:rgb(141, 199, 66)">Topics of Interest</h2>
         <ul>
           {{ range . }}
           <li>
