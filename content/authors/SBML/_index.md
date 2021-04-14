@@ -35,4 +35,10 @@ user_groups:
 
 ---
 
-What is SBML ?
+The <a rel="nofollow" class="external text" href="http://sbml.org"> Systems Biology Markup Language (SBML)</a> is a computer-readable <a rel="nofollow" class="external text" href="http://www.w3.org/XML/">  XML format</a> for representing models of biological processes. SBML is suitable for, but not limited to,  models using a process description approach.
+
+The latest stable specification is <a rel="nofollow" class="external text" href="http://sbml.org/Documents/Specifications"> Level 3 Version 2 Core</a>.
+
+SBML development is <a rel="nofollow" class="external text" href="http://sbml.org/About"> coordinated</a> by an elected editorial board and central developer team.
+
+Over 250 software systems known to support SBML can be found in the <a rel="nofollow" class="external text" href="http://sbml.org/SBML_Software_Guide"> SBML software guide</a>.  APIs are available to help implementing support: <a rel="nofollow" class="external text" href="http://sbml.org/Software/libSBML"> libSBML</a> in C++ and <a rel="nofollow" class="external text" href="http://sbml.org/Software/JSBML"> JSBML</a> in Java.
