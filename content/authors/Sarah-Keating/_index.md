@@ -125,4 +125,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Sarah Keating
+Sarah Keating is a Senior Research Engineer at UCL. She has worked as a member of the SBML Team since 2002 and has on four separate occasions served as an SBML Editor. 
