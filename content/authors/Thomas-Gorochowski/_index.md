@@ -72,7 +72,7 @@ social:
 #  link: https://www.colorado.edu/ecee/chris-myers
 - icon: github
   icon_pack: fab
-  link: https://github.com/BiocomputeLab
+  link: https://github.com/chofski
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
