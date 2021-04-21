@@ -4,7 +4,7 @@ title: SBOL Visual
 
 # Username (this should match the folder name)
 authors:
-- SBOL-Visual
+- SBOL Visual
 
 # Is this the primary user of the site?
 superuser: false
