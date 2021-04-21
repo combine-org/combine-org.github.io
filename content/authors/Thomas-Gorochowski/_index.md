@@ -24,38 +24,34 @@ organizations:
 - name: University of Bristol
   url: ""
 
-#Order to show in compared to other authors when using people section
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 1
-
-#Utah or CU
 university: University of Bristol
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Research Software Engineering
+- Synthetic Biology
+- Biological Computation
+- Multicellular Systems
+- Biometrology
 
 projects:
-- <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="/author/sbol-canvas/">SBOLCanvas</a>
-
+- <a href="https://github.com/VoigtLab/dnaplotlib">DNAplotlib</a>
 
 department:
-- Research Software Development Group
+- School of Biological Sciences
 
 education:
   courses:
-  - course: PhD in Electrical and Electronic Engineering
-    institution: University College London
-    year: 2004
-  - course: MSc in Information Technology
-    institution: University College London
-    year: 1998
-  - course: BSc in Physics
+  - course: PhD in Engineering Mathematics
     institution: University of Bristol
-    year: 1987
+    year: 2012
+  - course: MRes in Complexity Sciences
+    institution: University of Bristol
+    year: 2008
+  - course: MEng in Computer Science
+    institution: University of Warwick
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,16 +72,16 @@ social:
 #  link: https://www.colorado.edu/ecee/chris-myers
 - icon: github
   icon_pack: fab
-  link: https://github.com/skeating
+  link: https://github.com/BiocomputeLab
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-3356-3542
+  link: https://orcid.org/0000-0003-1702-786X
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.ucl.ac.uk/isd/services/research-it/research-software-development
+  link: https://research-information.bris.ac.uk/en/persons/thomas-e-gorochowski
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -109,7 +105,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "thomas.gorochowski@bristol.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -125,4 +121,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Sarah Keating is a Senior Research Engineer at UCL. She has worked as a member of the SBML Team since 2002 and has on four separate occasions served as an SBML Editor. 
+Thomas Gorochowski (Ph.D. in Engineering Mathematics) is a Royal Society University Research Fellow and Lecturer at the University of Bristol, UK where he heads up the <a rel="nofollow" class="external text" href="http://www.biocomputelab.org">Biocompute Lab</a>. His research is focused on better understanding how biological systems process information and exploiting synthetic biology techniques to rationally reprogram living cells with our own desired functions. Since 2016 he has been involved with the SBOL Data and Visual standards and is currently a member of the SBOL Scientific Steering Committee.
