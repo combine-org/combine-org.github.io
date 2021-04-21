@@ -13,16 +13,16 @@ superuser: false
 social:
 - icon: star
   icon_pack: fas
-  link: https://sbolstandard.org/visual-about/
+  link: 'https://sbolstandard.org/visual-about/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sbol-visual@googlegroups.com'
 - icon: quote-left
   icon_pack: fas
-  link: https://doi.org/10.1021/acssynbio.9b00139
+  link: 'https://doi.org/10.1021/acssynbio.9b00139'
 - icon: github
   icon_pack: fab
-  link: https://github.com/SynBioDex/SBOL-visual
+  link: 'https://github.com/SynBioDex/SBOL-visual'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
