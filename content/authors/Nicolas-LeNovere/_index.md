@@ -1,25 +1,24 @@
 ---
 # Display name
-title: Michael Hucka
+title: Nicolas Le Novere
+
 # Username (this should match the folder name)
 authors:
-- Michael Hucka
+- Nicolas Le Novere
 
 #Author Names (alternative spellings etc)
 names:
-- Michael Hucka
-- M. Hucka
-
+- Nicolas Le Novere
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: SBML Delegate
+role: Past Delegate
 
 # Organizations/Affiliations
 organizations:
-- name: Caltech
+- name: 
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -31,21 +30,6 @@ weight: 1
 
 interests:
 - Systems Biology
-
-#department:
-#- Electrical, Computer, and Energy Engineering
-
-#education:
-#  courses:
-#  - course: PhD in Electrical Engineering
-#    institution: Stanford University
-#    year: 1995
-#  - course: MS in Electrical Engineering
-#    institution: Stanford University
-#    year: 1993
-#  - course: BS in Electrical Engineering / History
-#    institution: California Institute of Technology
- #   year: 1991
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,19 +47,19 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: user-graduate
 #  icon_pack: fas
-#  link: https://www.colorado.edu/ecee/chris-myers
+#  link: 
 # - icon: github
 #  icon_pack: fab
-#  link: https://github.com/cjmyers
+#  link: 
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: orcid
 #  icon_pack: fab
-#  link: https://orcid.org/0000-0002-8762-8444
+#  link: 
 # - icon: university-logo
 #  icon_pack: Custom_University
-#  link: https://www.colorado.edu/ecee
+#  link: 
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -108,4 +92,4 @@ user_groups:
 
 ---
 
-Michael Hucka (Ph.D. in Computer Science and Engineering), staff scientist at Caltech. He has chaired the <a class="freelinking external" href="http://sbml.org "> SBML</a> effort by community consensus since 2003. Today he works on all aspects of SBML and is involved with <a class="freelinking external" href="http://biomodels.net "> BioModels.net</a> activities. 
+Led a research group at the EMBL-EBI and the Babraham Institute. His interests included signal transduction and computational modeling of biological processes. His group participated to the development of <a class="freelinking external" href="http://www.ebi.ac.uk/biomodels "> BioModels Database</a> and <a class="freelinking external" href="http://www.ebi.ac.uk/sbo "> SBO</a>. He was also involved in the development of <a class="freelinking external" href="http://sbml.org "> SBML</a>.
