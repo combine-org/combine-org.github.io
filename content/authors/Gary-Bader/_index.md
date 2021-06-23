@@ -1,51 +1,54 @@
 ---
 # Display name
-title: Padraig Gleeson
+title: Gary Bader
 
 # Username (this should match the folder name)
 authors:
-- Padraig Gleeson
+- Gary Bader
 
 #Author Names (alternative spellings etc)
 names:
-- Padraig Gleeson
+- Gary Bader
+- Gary D. Bader
+- Gary D Bader
+- G.D. Bader
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: NeuroML Delegate
+role: BioPAX Delegate
 
 # Organizations/Affiliations
 organizations:
-- name: University College London
-  url: ""
+- name: University of Toronto
+  url: "http://www.utoronto.ca/"
 
-university: University of Bristol
+university: University of Toronto
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computational Neuroscience
+- Biological Networks
+- Protein Interactions
+- Biochemical Pathways
+- BioPAX
 
 projects:
-- <a href="https://www.opensourcebrain.org/">Open Source Brain</a>
+- <a href="http://www.biopax.org/">BioPAX</a>
 
 department:
-- Department of Neuroscience, Physiology and Pharmacology
+- The Donnelly Centre
 
 education:
   courses:
-  - course: PhD Computational Neuroscience, 2012
-    institution: University College London
-    year: 2012
-  - course: MSc Mathematical Physics, 
-    institution: University College Dublin
-    year: 1996
-  - course: BSc Joint Honours in Experimental and Mathematical Physics
-    institution: University College Dublin
-    year: 1995
+  - course: PhD in Biochemistry
+    institution: University of Toronto
+    year: 2002
+  - course: B.Sc. Biochemistry, Computer Science
+    institution: McGill University
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,15 +67,18 @@ social:
 #- icon: user-graduate
 #  icon_pack: fas
 #  link: https://www.colorado.edu/ecee/chris-myers
-- icon: github
-  icon_pack: fab
-  link: https://github.com/pgleeson
+# - icon: github
+# icon_pack: fab
+# link: https://github.com/chofski
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0001-5963-8576
+# - icon: orcid
+#  icon_pack: fab
+#  link: https://orcid.org/0000-0003-1702-786X
+- icon: university-logo
+  icon_pack: Custom_University
+  link: https://baderlab.org/GaryBader
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -96,7 +102,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "p.gleeson@ucl.ac.uk"
+email: "gary.bader@utoronto.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -112,4 +118,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Padraig Gleeson completed an MSc in theoretical physics at University College Dublin before spending a number of years working in research and development in the telecommunications industry. He joined the lab of Angus Silver in University College London in 2012 for a PhD in computational neuroscience where he is now a Principal Research Fellow. His work focuses on development of tools and standards to facilitate the generation, analysis and sharing of models of biologically detailed neuronal networks. He has developed neuroConstruct, a graphical application for constructing and analysing such models in 3D. He is the main technical contributor to the NeuroML language for simulator independent model descriptions in neuroscience. He leads the development of the Open Source Brain repository which aims to facilitate the sharing and collaborative development of neuronal models in an open source environment. He is also a Senior Contributor to the OpenWorm project which is seeking to create a highly detailed in-silico model of the nematode C. elegans.
+Gary D. Bader (Ph.D. Biochemistry) works on biological network analysis and pathway information resources as an Associate Professor at The Donnelly Centre at the University of Toronto. He has been involved in leading development of protein interaction and pathway databases and standards, including the <a rel="nofollow" class="external text" href="http://www.biopax.org/">BioPAX</a> biological pathways exchange language.

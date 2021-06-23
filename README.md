@@ -1,15 +1,20 @@
 # Best-practices documentation for modifying the website
 
-## Website editting
+## Setup and requirements
+The website is developed with [hugo](https://gohugo.io/) and requires
+* `hugo-extended` version
+* `go`
+Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies.
 
-* follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
+Next step is to clone the repository
 * cd into a directory you want to have the file in
-* git clone this repository
-* cd into the myersresearchgroup folder
-* hugo server
-* check it is up and running at localhost:1313
-* install vs studio code
-* create branch for the repository and open the branch in vs code
+* git clone this repository: `git clone https://github.com/combine-org/combine-org.github.io.git`
+* change into the folder: `cd combine-org.github.io`
+* run the hugo server: `hugo server`
+* check it is up and running at `https://localhost:1313`
+  
+## Changing pages
+* create a branch for the changes
 * Page about website structure: https://wowchemy.com/docs/get-started/
 
 ## Publications
