@@ -44,7 +44,7 @@ user_groups:
 
 ---
 
-The <a href="http://sbgn.org/" target="_blank">Systems Biology Graphical Notation (SBGN)</>, is a set standard graphical languages to describe visually biological knowledge. It is currently made up of three languages describing Process Descriptions, Entity Relationships and Activity Flows.
+The <a href="http://sbgn.org/" target="_blank">Systems Biology Graphical Notation (SBGN)</a>, is a set standard graphical languages to describe visually biological knowledge. It is currently made up of three languages describing Process Descriptions, Entity Relationships and Activity Flows.
 
 The <a href="http://sbgn.github.io/sbgn/specifications" target="_blank">last specifications</a> are SBGN PD Level 1 Version 2.0, SBGN ER Level 1 Version 2 and SBGN AF Level 1 Version 1.2.
 
