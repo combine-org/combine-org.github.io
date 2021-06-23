@@ -40,12 +40,12 @@ education:
   - course: PhD Computational Neuroscience, 2012
     institution: University College London
     year: 2012
-  - course: MRes in Complexity Sciences
-    institution: University of Bristol
-    year: 2008
-  - course: MEng in Computer Science
-    institution: University of Warwick
-    year: 2004
+  - course: MSc Mathematical Physics, 
+    institution: University College Dublin
+    year: 1996
+  - course: BSc Joint Honours in Experimental and Mathematical Physics
+    institution: University College Dublin
+    year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,16 +66,13 @@ social:
 #  link: https://www.colorado.edu/ecee/chris-myers
 - icon: github
   icon_pack: fab
-  link: https://github.com/chofski
+  link: https://github.com/pgleeson
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0003-1702-786X
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://research-information.bris.ac.uk/en/persons/thomas-e-gorochowski
+  link: https://orcid.org/0000-0001-5963-8576
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -99,7 +96,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "thomas.gorochowski@bristol.ac.uk"
+email: "p.gleeson@ucl.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
