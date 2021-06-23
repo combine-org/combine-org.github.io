@@ -27,25 +27,25 @@ university: University of Bristol
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computational neuroscience
+- Computational Neuroscience
 
 projects:
-- <a href="https://github.com/VoigtLab/dnaplotlib">DNAplotlib</a>
+- <a href="https://www.opensourcebrain.org/">Open Source Brain</a>
 
 department:
-- School of Biological Sciences
+- Department of Neuroscience, Physiology and Pharmacology
 
 education:
   courses:
-  - course: PhD in Engineering Mathematics
-    institution: University of Bristol
+  - course: PhD Computational Neuroscience, 2012
+    institution: University College London
     year: 2012
-  - course: MRes in Complexity Sciences
-    institution: University of Bristol
-    year: 2008
-  - course: MEng in Computer Science
-    institution: University of Warwick
-    year: 2004
+  - course: MSc Mathematical Physics, 
+    institution: University College Dublin
+    year: 1996
+  - course: BSc Joint Honours in Experimental and Mathematical Physics
+    institution: University College Dublin
+    year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,16 +66,13 @@ social:
 #  link: https://www.colorado.edu/ecee/chris-myers
 - icon: github
   icon_pack: fab
-  link: https://github.com/chofski
+  link: https://github.com/pgleeson
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0003-1702-786X
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://research-information.bris.ac.uk/en/persons/thomas-e-gorochowski
+  link: https://orcid.org/0000-0001-5963-8576
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -99,7 +96,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "thomas.gorochowski@bristol.ac.uk"
+email: "p.gleeson@ucl.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -115,4 +112,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Padraig Gleeson is ...
+Padraig Gleeson completed an MSc in theoretical physics at University College Dublin before spending a number of years working in research and development in the telecommunications industry. He joined the lab of Angus Silver in University College London in 2012 for a PhD in computational neuroscience where he is now a Principal Research Fellow. His work focuses on development of tools and standards to facilitate the generation, analysis and sharing of models of biologically detailed neuronal networks. He has developed neuroConstruct, a graphical application for constructing and analysing such models in 3D. He is the main technical contributor to the NeuroML language for simulator independent model descriptions in neuroscience. He leads the development of the Open Source Brain repository which aims to facilitate the sharing and collaborative development of neuronal models in an open source environment. He is also a Senior Contributor to the OpenWorm project which is seeking to create a highly detailed in-silico model of the nematode C. elegans.
