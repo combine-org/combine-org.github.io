@@ -1,27 +1,24 @@
 ---
 # Display name
-title: Thomas Gorochowski
+title: Padraig Gleeson
 
 # Username (this should match the folder name)
 authors:
-- Thomas Gorochowski
+- Padraig Gleeson
 
 #Author Names (alternative spellings etc)
 names:
-- Thomas Gorochowski
-- Thomas E. Gorochowski
-- Thomas E Gorochowski
-- T.E. Gorochowski
+- Padraig Gleeson
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: SBOL Visual Delegate
+role: NeuroML Delegate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Bristol
+- name: University College London
   url: ""
 
 university: University of Bristol
@@ -30,10 +27,7 @@ university: University of Bristol
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Biological Computation
-- Multicellular Systems
-- Biometrology
+- Computational neuroscience
 
 projects:
 - <a href="https://github.com/VoigtLab/dnaplotlib">DNAplotlib</a>
@@ -121,4 +115,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Padraig Gleeson
+Padraig Gleeson is ...
