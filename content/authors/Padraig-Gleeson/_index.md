@@ -112,4 +112,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Padraig Gleeson is ...
+Padraig Gleeson completed an MSc in theoretical physics at University College Dublin before spending a number of years working in research and development in the telecommunications industry. He joined the lab of Angus Silver in University College London in 2012 for a PhD in computational neuroscience where he is now a Principal Research Fellow. His work focuses on development of tools and standards to facilitate the generation, analysis and sharing of models of biologically detailed neuronal networks. He has developed neuroConstruct, a graphical application for constructing and analysing such models in 3D. He is the main technical contributor to the NeuroML language for simulator independent model descriptions in neuroscience. He leads the development of the Open Source Brain repository which aims to facilitate the sharing and collaborative development of neuronal models in an open source environment. He is also a Senior Contributor to the OpenWorm project which is seeking to create a highly detailed in-silico model of the nematode C. elegans.
