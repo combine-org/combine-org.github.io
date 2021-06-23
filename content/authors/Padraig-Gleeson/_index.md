@@ -27,18 +27,18 @@ university: University of Bristol
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computational neuroscience
+- Computational Neuroscience
 
 projects:
-- <a href="https://github.com/VoigtLab/dnaplotlib">DNAplotlib</a>
+- <a href="https://www.opensourcebrain.org/">Open Source Brain</a>
 
 department:
-- School of Biological Sciences
+- Department of Neuroscience, Physiology and Pharmacology
 
 education:
   courses:
-  - course: PhD in Engineering Mathematics
-    institution: University of Bristol
+  - course: PhD Computational Neuroscience, 2012
+    institution: University College London
     year: 2012
   - course: MRes in Complexity Sciences
     institution: University of Bristol
