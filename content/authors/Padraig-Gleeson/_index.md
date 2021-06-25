@@ -40,7 +40,7 @@ education:
   - course: PhD Computational Neuroscience, 2012
     institution: University College London
     year: 2012
-  - course: MSc Mathematical Physics, 
+  - course: MSc Mathematical Physics,
     institution: University College Dublin
     year: 1996
   - course: BSc Joint Honours in Experimental and Mathematical Physics
@@ -112,4 +112,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Padraig Gleeson completed an MSc in theoretical physics at University College Dublin before spending a number of years working in research and development in the telecommunications industry. He joined the lab of Angus Silver in University College London in 2012 for a PhD in computational neuroscience where he is now a Principal Research Fellow. His work focuses on development of tools and standards to facilitate the generation, analysis and sharing of models of biologically detailed neuronal networks. He has developed neuroConstruct, a graphical application for constructing and analysing such models in 3D. He is the main technical contributor to the NeuroML language for simulator independent model descriptions in neuroscience. He leads the development of the Open Source Brain repository which aims to facilitate the sharing and collaborative development of neuronal models in an open source environment. He is also a Senior Contributor to the OpenWorm project which is seeking to create a highly detailed in-silico model of the nematode C. elegans.
+Padraig Gleeson is a Principal Research Fellow at University College London. His work focuses on development of tools and standards to facilitate the generation, analysis and sharing of models of biologically detailed neuronal networks. He has developed <a class="external text" href="http://www.neuroConstruct.org">neuroConstruct</a>, a graphical application for constructing and analysing such models in 3D. He is the main technical contributor to the <a class="external text" href="http://www.neuroml.org">NeuroML</a> language for simulator independent model descriptions in neuroscience. He leads the development of the <a class="external text" href="http://www.opensourcebrain.org">Open Source Brain</a> repository which aims to facilitate the sharing and collaborative development of neuronal models in an open source environment. He is also a Senior Contributor to the <a class="external text" href="http://www.openworm.org">OpenWorm project</a> which is seeking to create a highly detailed <i>in-silico</i> model of the nematode <i>C. elegans</i>.
