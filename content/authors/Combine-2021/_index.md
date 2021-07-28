@@ -4,37 +4,43 @@ title: COMBINE 2021
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: 22-26 March 2035
+conf_date: 11-15 October 2021
 
 conf_location: Online (Virtual)
 
 important_dates:
 - name: Breakout submission deadline
-  date: 23rd Feb 2021
+  date: 3rd Sept 2021
 - name: Lightning talk submission deadline
-  date: 23rd Feb 2021
+  date: 3rd Sept 2021
 - name: Notification of acceptance of breakouts
-  date: 1st March 2021
+  date: 17th Sept 2021
 - name: HARMONY Workshop
-  date: 22-26th March 2021
+  date: 11-15 Oct 2021
 
-important_links:
-- name: Agenda
-  link: http://co.mbine.org/events/COMBINE_2019/attendees
-- name: Conference Book
-  link: http://co.mbine.org/events/COMBINE_2019/attendees
+# important_links:
+# - name: Agenda
+#   link: TBA
+# - name: Conference Book
+#   link: TBA
 
 information:
 - name: Registration
-  description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to video conferencing links, etc.
-  link: https://forms.gle/U6SHJyowQnwJ7fmb8
+  description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
+  link: https://docs.google.com/forms/d/18ieIT6VP9k0GaydMFsFgMyKfqSyaijd13GvDtTFP6xg
+- name: Call for Abstracts
+  description: We solicit high-quality abstracts, to be refereed by the COMBINE Coordinators, for online presentation at the Workshop. Abstracts will appear on the COMBINE website only, there will be no formal publication.
+  link: https://docs.google.com/forms/d/1gNO6HHtLDZ8cx5cz2VvB9u1YJpiDFmtNSaP66dfUwjg
 - name: Call for Breakout Sessions
-  description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted at the link below. Note, breakout session organisers will be responsible for creating and hosting their own online sessions.
-  link: https://forms.gle/J13diBX6iipx4w8E9
-- name: Call for Lightning Talks
-  description: Requests for a lightning talk (3 min max.) can be submitted via the form below. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session.
-  link: https://forms.gle/z1kzkN2NNaN9JzMM6
-
+  description: All attendees can suggest breakout sessions for detailed discussions of certain aspects of one or several of the COMBINE standard(s), discussions on metadata and semantic annotations (format-specific or overarching), discussions on the application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted at the link below.
+  link: https://docs.google.com/forms/d/1zn3pOnRHLWZ3Ej0eMw3B2dey6OhFGIiwnFb6mOMMSUM
+- name: Call for Tutorials
+  description: If there are tutorials on tools, standards or resources (or any other topic) which would be relevant for the COMBINE community (see Topics of Interest below), these can be proposed as tutorials
+  link: https://docs.google.com/forms/d/1zn3pOnRHLWZ3Ej0eMw3B2dey6OhFGIiwnFb6mOMMSUM
+- name: Organisers 
+  description: The COMBINE 2020 virtual meeting is organised by the COMBINE coordinators.
+  link: ../people/
+  
 topics:
 - Data exchange, pipelines and model standards for systems and synthetic biology
 - Visualization and graphical notation standards for systems and synthetic biology
@@ -53,6 +59,6 @@ user_groups:
 - Events
 
 ---
-The Computational Modeling in Biology Network (COMBINE) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2021 will be a workshop-style online event with oral presentations, breakout sessions and tutorials. The five meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
 
-HARMONY 2021 will be an online only meeting similar to COMBINE 2020 (http://co.mbine.org/events/COMBINE_2020). Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
+COMBINE 2021 will be an online (virtual) meeting from October 11th (Monday) to October 15th (Friday). It will provide a schedule which takes into account all time zones around the world, a real 24 hour conference. The meeting will be free of charge.
