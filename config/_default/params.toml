@@ -115,15 +115,15 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "github", icon_pack = "fab", name = "Github Contact", link = "https://github.com/combine-org"},
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/combine_coord"},
-  #{icon = "envelope", icon_pack = "fas", name = "COMBINE Discuss", link = "mailto:combine-discuss@googlegroups.com"},
-  {icon = "envelope", icon_pack = "fas", name = "COMBINE Archive", link = "mailto:combine-archive@googlegroups.com"},
-  {icon = "envelope", icon_pack = "fas", name = "COMBINE Annotation", link = "mailto:combine-annot@googlegroups.com"},
-  {icon = "envelope", icon_pack = "fas", name = "COMBINE Multicell", link = "mailto:combine-multicell@googlegroups.com"},
-  {icon = "envelope", icon_pack = "fas", name = "COMBINE Metadata", link = "mailto:combine-meta@googlegroups.com"},
-  {icon = "envelope", icon_pack = "fas", name = "COMBINE Site Support", link = "mailto:combine-support@googlegroups.com"},
-  {icon = "envelope", icon_pack = "fas", name = "COMBINE Co-ordinators", link = "mailto:combine-coord@googlegroups.com"}
+  {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/combine-org"},
+  {icon = "twitter", icon_pack = "fab", name = "COMBINE News - General announcement about COMBINE and its activities", link = "https://twitter.com/combine_coord"},
+  #{icon = "envelope", icon_pack = "fas", name = "COMBINE Discuss - Main discussion forum of the COMBINE community, Feel free to use it to any aspect of the project, meetings, technology etc.", link = "mailto:combine-discuss@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Archive - Forum to discuss the OMEX format, the structure of the COMBINE archive, implementation issues, and all related questions.", link = "mailto:combine-archive@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Annotation - Forum and working group for policies and technologies for improved annotation of biosimulation models.", link = "mailto:combine-annot@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Multicell - Forum and working group for the specification, implementation and further developments of a standard format for multi-cellular, agent-based models.", link = "mailto:combine-multicell@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Metadata - Forum to discuss the structure and content of metadata to use together with COMBINE formats.", link = "mailto:combine-meta@googlegroups.com"},
+#  {icon = "envelope", icon_pack = "fas", name = "COMBINE Site Support", link = "mailto:combine-support@googlegroups.com"},
+  {icon = "envelope", icon_pack = "fas", name = "COMBINE Coordinators - Use this address to contact COMBINE coordinators or to report problems with the website.", link = "mailto:combine-coord@googlegroups.com"}
  # {icon = "keybase", icon_pack = "fab", name = "COMBINE News", link = "https://keybase.io/"},
  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
