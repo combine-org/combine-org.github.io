@@ -4,25 +4,21 @@ title: Dagmar Waltemath
 
 # Username (this should match the folder name)
 authors:
-- Chris Myers
+- Dagmar Waltemath
 
 #Author Names (alternative spellings etc)
 names:
-- Chris Myers
-- Chris J. Myers
-- Chris J Myers
-- C Myers
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: SBOL Delegate (Chair)
+role: Medical Informatics Delegate (Vize Chair)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Colorado Boulder
-  url: ""
+- name: University Medicine Greifswald
+  url: "https://www.medizin.uni-greifswald.de/de/home/"
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
@@ -32,31 +28,29 @@ weight: 1
 university: CU
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: I am a professor of medical informatics and head of the data integration center at the University Medicine Greifswald, Germany. My research focuses on biomedical data integration, including the development of strategies and tools for research data management, provenance and integration of biomedical data with clinical and health data. I have been actively involved in the development of SED-ML, SBML and the COMBINE Archive. 
 
 interests:
-- Synthetic Biology
-- Asynchronous Circuits
+- biomedical data integration
+- health data quality
+- standards
 
 projects:
-- <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="/author/sbol-canvas/">SBOLCanvas</a>
-
+- <a href="https://www.miracum.org/">MIRACUM</a>
+- <a href="https://www.nfdi4health.de/">NFDI4Health</a>
+- <a href="https://healthecco.org/">HealthEcco</a>
 
 department:
-- Electrical, Computer, and Energy Engineering
+- Medical Informatics
 
 education:
   courses:
-  - course: PhD in Electrical Engineering
-    institution: Stanford University
-    year: 1995
-  - course: MS in Electrical Engineering
-    institution: Stanford University
-    year: 1993
-  - course: BS in Electrical Engineering / History
-    institution: California Institute of Technology
-    year: 1991
+  - course: PhD in Database and Information Systems
+    institution: University of Rostock
+    year: 2011
+  - course: MS in Computer Science
+    institution: University of Rostock
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,19 +68,19 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.colorado.edu/ecee/chris-myers
+  link: https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss 
 - icon: github
   icon_pack: fab
-  link: https://github.com/cjmyers
+  link: https://github.com/dagwa
 # - icon: external-link-alt
 #   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#   link: https://scholar.google.com/citations?user=wmBwmLIAAAAJ&hl=en
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-8762-8444
+  link: https://orcid.org/0000-0002-5886-5563
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.colorado.edu/ecee
+  link: https://www.medizin.uni-greifswald.de/de/home/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -125,5 +119,3 @@ user_groups:
 # - SBOL Designer Tool
 # - SynBioHub Plugins Tool
 ---
-
-Chris Myers (Ph.D. in Electrical Engineering) is a Professor of Electrical and Computer Engineering at the University of Utah. He conducts research in design automation for asynchronous electronic circuits, analog/mixed-signal circuits, and genetic circuits for which he was named an IEEE Fellow in 2013. He has been working in the fields of systems and synthetic biology for more than 10 years which led to the development of the iBioSim software and the textbook Engineering Genetic Circuits. During this time, he has been heavily involved in standards, previously serving as an SBML editor and currently as a member of the SBOL advisory board. 
