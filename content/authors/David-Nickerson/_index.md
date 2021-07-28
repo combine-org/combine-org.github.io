@@ -60,7 +60,7 @@ social:
    link: https://twitter.com/andreshouse?lang=en
  - icon: google-scholar
    icon_pack: ai
-   link:    link: https://scholar.google.com/citations?user=56_TdbgAAAAJ&hl=en
+   link: https://scholar.google.com/citations?user=56_TdbgAAAAJ&hl=en
 #- icon: user-graduate
 #  icon_pack: fas
 #  link: https://www.colorado.edu/ecee/chris-myers
