@@ -1,10 +1,10 @@
 ---
-title: Harmony 2021
+title: COMBINE 2021
 
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: 22-26 March 2021
+conf_date: 22-26 March 2035
 
 conf_location: Online (Virtual)
 
@@ -50,7 +50,7 @@ topics:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Past Events
+- Events
 
 ---
 The Computational Modeling in Biology Network (COMBINE) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
