@@ -115,7 +115,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/combine-org"},
+  {icon = "github", icon_pack = "fab", name = "Github - Repository for the COMBINE organization", link = "https://github.com/combine-org"},
   {icon = "twitter", icon_pack = "fab", name = "COMBINE News - General announcement about COMBINE and its activities", link = "https://twitter.com/combine_coord"},
   #{icon = "envelope", icon_pack = "fas", name = "COMBINE Discuss - Main discussion forum of the COMBINE community, Feel free to use it to any aspect of the project, meetings, technology etc.", link = "mailto:combine-discuss@googlegroups.com"},
   {icon = "envelope", icon_pack = "fas", name = "COMBINE Archive - Forum to discuss the OMEX format, the structure of the COMBINE archive, implementation issues, and all related questions.", link = "mailto:combine-archive@googlegroups.com"},
