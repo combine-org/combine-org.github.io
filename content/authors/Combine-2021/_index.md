@@ -15,7 +15,7 @@ important_dates:
   date: 3rd Sept 2021
 - name: Notification of acceptance of breakouts
   date: 17th Sept 2021
-- name: HARMONY Workshop
+- name: COMBINE Forum
   date: 11-15 Oct 2021
 
 # important_links:
