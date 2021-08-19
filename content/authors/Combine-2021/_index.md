@@ -27,17 +27,17 @@ important_dates:
 information:
 - name: Registration
   description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
-  link: https://docs.google.com/forms/d/18ieIT6VP9k0GaydMFsFgMyKfqSyaijd13GvDtTFP6xg
+  link: https://forms.gle/mnjPg6HhjzQpX4Bt7
 - name: Call for Abstracts
   description: We solicit high-quality abstracts, to be refereed by the COMBINE Coordinators, for online presentation at the Workshop. Abstracts will appear on the COMBINE website only, there will be no formal publication.
-  link: https://docs.google.com/forms/d/1gNO6HHtLDZ8cx5cz2VvB9u1YJpiDFmtNSaP66dfUwjg
+  link: https://forms.gle/2huuneL7EURZE9256
 - name: Call for Breakout Sessions
   description: All attendees can suggest breakout sessions for detailed discussions of certain aspects of one or several of the COMBINE standard(s), discussions on metadata and semantic annotations (format-specific or overarching), discussions on the application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted at the link below.
-  link: https://docs.google.com/forms/d/1zn3pOnRHLWZ3Ej0eMw3B2dey6OhFGIiwnFb6mOMMSUM
+  link: https://forms.gle/qrKbB45UbfdZ6R1t6
 - name: Call for Tutorials
   description: If there are tutorials on tools, standards or resources (or any other topic) which would be relevant for the COMBINE community (see Topics of Interest below), these can be proposed as tutorials
-  link: https://docs.google.com/forms/d/1zn3pOnRHLWZ3Ej0eMw3B2dey6OhFGIiwnFb6mOMMSUM
-- name: Organisers 
+  link: https://forms.gle/qrKbB45UbfdZ6R1t6
+- name: Organizers 
   description: The COMBINE 2020 virtual meeting is organised by the COMBINE coordinators.
   link: ../people/
   
