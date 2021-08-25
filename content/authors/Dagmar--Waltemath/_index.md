@@ -119,3 +119,4 @@ user_groups:
 # - SBOL Designer Tool
 # - SynBioHub Plugins Tool
 ---
+Dagmar is a professor of medical informatics and head of the data integration center at the University Medicine Greifswald, Germany. Her research focuses on biomedical data integration, including the development of strategies and tools for research data management, provenance and integration of biomedical data with clinical and health data. She has been actively involved in the development of SED-ML, SBML and the COMBINE Archive. 
