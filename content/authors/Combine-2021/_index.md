@@ -9,11 +9,11 @@ conf_date: 11-15 October 2021
 conf_location: Online (Virtual)
 
 important_dates:
-- name: Breakout submission deadline
-  date: 3rd Sept 2021
-- name: Lightning talk submission deadline
-  date: 3rd Sept 2021
-- name: Notification of acceptance of breakouts
+- name: Breakout/tutorial submission deadline
+  date: 10th Sept 2021
+- name: Talk abstract submission deadline
+  date: 10th Sept 2021
+- name: Notification of acceptance
   date: 17th Sept 2021
 - name: COMBINE Forum
   date: 11-15 Oct 2021
