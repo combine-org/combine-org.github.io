@@ -19,9 +19,9 @@ People interested in organizing a meeting should start by filling the <a rel="no
 
 # Procedure to organize a COMBINE meeting
 
-People interested in organizing a COMBINE meeting should begin by filling out the [http://www.surveymonkey.com/s/combine-harmony-hosting-interest hosting interest survey] as early as possible. This will enable potential hosts to highlight the advantages and possible issues associated with each bid, and start the discussion with the [http://co.mbine.org/about#Coordination COMBINE coordinators]. The currently-planned events are listed on the [http://co.mbine.org/events COMBINE events page]; dates not listed there are usually still up for bidding.
+People interested in organizing a COMBINE meeting should begin by filling out the <a href="http://www.surveymonkey.com/s/combine-harmony-hosting-interest">hosting interest survey as early as possible. This will enable potential hosts to highlight the advantages and possible issues associated with each bid, and start the discussion with the <a href="/people">COMBINE coordinators</a>. The currently-planned events are listed on the <a href="/events">COMBINE events page</a>; dates not listed there are usually still up for bidding.
 
-Well in advance of a given future event, the COMBINE coordinators will discuss the bids made.  Based on the qualities of the proposals, as well as more strategic considerations such as alternating timezones and proximity with other conferences, the coordinators prioritize the bids and also engage in discussions with potential hosts.  When a project is mature, it is announced on the [http://co.mbine.org/events event page], as well as on [[https://twitter.com/combine_coord| Twitter]], and on other social media.
+Well in advance of a given future event, the COMBINE coordinators will discuss the bids made.  Based on the qualities of the proposals, as well as more strategic considerations such as alternating timezones and proximity with other conferences, the coordinators prioritize the bids and also engage in discussions with potential hosts.  When a project is mature, it is announced on the <a href="/events">event page</a>, as well as on <a href="https://twitter.com/combine_coord">Twitter</a>, and on other social media.
 
 Depending on the country where the meeting is located, some people may need visas to enter the country.  This can be easier or harder for people, depending on their country of origin and the hosting country.  For example, Russian and Chinese nationals have a harder time getting into the USA.  To make this even possible for them, they need to know the planned meeting location ''very'' far in advance, because the visa application process takes many months.
 
@@ -45,7 +45,7 @@ Depending on the country where the meeting is located, some people may need visa
 
 * They run the logistic of the meeting.
 
-* They set up the registration system.  (Often they can make use of a free service such as [http://www.eventbrite.com Eventbrite].)
+* They set up the registration system.  (Often they can make use of a free service such as <a href="http://www.eventbrite.com">Eventbrite</a>.)
 
 * They decide how much to charge in registration fees (if any are needed).
 
@@ -65,7 +65,7 @@ Depending on the country where the meeting is located, some people may need visa
 
 The organization of COMBINE meetings can be costly, and the earlier that budgets are established, the better for everyone.
 
-== Expenses ==
+## Expenses
 
 We '''require''' the local organization to provide:
 
@@ -83,7 +83,7 @@ There is no COMBINE policy on travel costs. It is not mandatory for the organize
 
 Similarly, we do not impose a policy on speaker invitations. Having invited speakers at COMBINE forum may help securing funding.  Note, however, that external speakers are discouraged at HARMONY hackathons, because those events should remains technical and productive events.  If speakers are invited, funding for them should come after other expenses above are met. Local organizers are assumed to take responsibility for all arrangements for invited speakers (e.g., accomodations, transportation, etc.).
 
-== Income ==
+## Income
 
 Funding for COMBINE events comes from different sources (e.g., funding agencies, universities, local companies). If possible, cheap or even free venues should be used. An example is rooms made available by university housing.
 
@@ -91,7 +91,7 @@ For COMBINE forums, registration fees bring a significant income.  We advise a f
 
 Fees for HARMONY hackathons are discouraged. The reason is that we want to encourage as many developers as possible to attend the hackathons, and fees discourage attendance.
 
-= Scientific organization =
+# Scientific organization
 
 The scientific organization of COMBINE meetings should start as early as possible. Some people need to have an idea of the program before they will register. However, drawing a detailed program early is counterproductive in that (i) some people may not see their topic of interest and decide not to register; (ii) the program will almost certainly evolve as people register and start self-organizing. It is best to open registration as early as possible, and close it a couple of weeks before the event. Late registrations can always be accommodated on a case-per-case basis, but should remain rare.
 
@@ -109,11 +109,11 @@ Poster sessions need to have some dedicated time to them, perhaps combined with 
 
 The registration process should also include the possibility for participants to submit abstracts for talks and posters.
 
-= Practical considerations =
+# Practical considerations
 
-== Venue ==
+## Venue
 
-=== Rooms ===
+### Rooms
 
 One main room is required for plenary presentations and discussions. The main room for COMBINE forums (a meeting which features many talks) should have audio/microphone equipment, so that people in the back can hear, and we can record the sessions.
 
@@ -123,7 +123,7 @@ In the past, people have expressed a dislike for having presentations in the sam
 
 The venue should not have an early closing or clear-out time. People sometimes want to work or have discussions right up to dinner time, and if the facilities forces them out by (e.g.) 6&nbsp;PM, it is inconvenient.  This is particularly important for COMBINE forums. If a cut-off time is unavoidable, then it must be reasonable.  We absolutely cannot have a 5&nbsp;PM cut-off time; that is too early.
 
-=== Networking ===
+### Networking
 
 It is critical to have a fast and reliable network that can handle 60 people using it at the same time.  '''The capacity issue is serious.'''  Many facilities '''claim''' to be able to support this capacity, but when tested, turn out to be unable to handle that many '''simultaneous''' users.  What then happens during meetings is that the network saturates and frustrates everyone in the room.  '''This has happened repeatedly, so we cannot overstate the importance of verifying that the network truly can handle the load.'''  Do not simply trust what your networking/facilities/IT people claim.  You need to verify the capacity or have direct experience from past meetings in the same room.
 
@@ -137,27 +137,27 @@ Ports should be open so that people can log to remote systems, download/upload f
 
 At some venues, a technician has to be present during meetings; the costs for this have to be taken into consideration in the meeting budget.
 
-=== Electricity ===
+### Electricity
 
 Remember that virtually all COMBINE attendees are bringing laptops.  They expect to run them during the meetings.  (During hackathons, 100% of the people need to run their computers 100% of the time.)  For this reason, '''it is critical to have power outlets for everyone in the room''', distributed rationally throughout the room. Most attendees will not bring extension cords, so it is really not workable to have a room where power is available but distributed in only a few locations in the room.  It is simply not viable to have a few power outlets distributed around the periphery of the room (which is, sadly, all too common).
 
-=== Flexible table/chair arrangements ===
+### Flexible table/chair arrangements
 
 HARMONY requires desks, preferably movable desks and chairs. COMBINE forums are also best served with movable desks and chairs, but lecture halls have also worked in the past.  (However, if it is a lecture hall arrangement, then there must be power outlets near every seat so that people can still set up their laptops.)
 
-=== Others ===
+### Others
 
 Prepare name badges and relevant information (network access, local map, printed program) for participants. Give a welcome address and let participants know where they can find help (e.g., local oranizers).
 
-=== What to avoid ===
+### What to avoid
 
 * Lecture-hall seating arrangement with very tight spacing. If one can only get in and out of the rows from the sides, people cannot get in or out of the middle seats without requiring all people in the intervening seats to get up and let them through.
 
 * Desktops attached to the rows in front of each seat with a fold-away arrangement with a gap that can cause contents such as laptops to be easily spilled on the floor.
 
-== Accommodation ==
+## Accommodation
 
-=== Hotels ===
+### Hotels
 
 Sometimes hotels agree on special rates for events which can be helpful to reduce the costs for participants. A list of appropriate hotels should be put on the web by the local organizers.
 
@@ -169,11 +169,11 @@ Just like at the meeting venue, it is critical that the hotel(s) haves fast and 
 
 Athletic facilities available is a plus, either at the hotels or nearby.  For a one-week stay, it becomes a consideration for people. This is more than simply the option of running outside.  Some people may not be able to run due to physical reasons, but can use cardio equipment in a gym; moreover, weight training equipment is important to some people.
 
-=== Airport transportation issues ===
+### Airport transportation issues
 
 It is vastly preferable if people can arrange their own reasonably-priced transportation from the airport to the hotels.  The alternative of having to arrange transportation (either individual cars or vans) not only tends to be expensive for the organizers or hosts, but also is incredibly complicated to arrange.  (It requires knowing everyone's flight schedules, AND it requires the organizers to be responsible for dealing with the situation where someone's flight is delayed or cancelled, to avoid stranding that person at the airport.)
 
-== Catering ==
+## Catering
 
 Coffee/tea/soft drinks/water needs to be available nearby. Coffee and tea is not enough; some people don't drink either and really want soft drinks or water.
 
