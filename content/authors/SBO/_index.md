@@ -15,10 +15,12 @@ superuser: false
 user_groups:
 - Associated Standards
 
+interests:
+
+- The <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/sbo"> Systems Biology Ontology (SBO) </a> is a set of controlled, relational vocabularies of terms commonly used in Systems Biology, and in particular in computational modeling. 
+
+- Each element of an SBML file carries an optional attribute sboTerm which value must be a term from SBO. 
+
+- Each symbol of SBGN is associated with an SBO term.
+
 ---
-
-The <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/sbo"> Systems Biology Ontology (SBO) </a> is a set of controlled, relational vocabularies of terms commonly used in Systems Biology, and in particular in computational modeling. 
-
-Each element of an SBML file carries an optional attribute sboTerm which value must be a term from SBO. 
-
-Each symbol of SBGN is associated with an SBO term.

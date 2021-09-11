@@ -16,6 +16,7 @@ superuser: false
 user_groups:
 - Associated Standards
 
----
+interests:
+- A <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/omex">COMBINE archive</a> is a single file bundling the various documents necessary for a modelling and simulation project, and all relevant information. The archive is encoded using the <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/omex">Open Modeling EXchange format (OMEX)</a>.
 
-A <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/omex">COMBINE archive</a> is a single file bundling the various documents necessary for a modelling and simulation project, and all relevant information. The archive is encoded using the <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/omex">Open Modeling EXchange format (OMEX)</a>.
+---

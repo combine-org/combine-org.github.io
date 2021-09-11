@@ -16,8 +16,9 @@ superuser: false
 user_groups:
 - Associated Standards
 
+interests:
+- The <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/kisao"> Kinetic Simulation Algorithm Ontology (KiSAO) </a> describes existing algorithms and their inter-relationships through their characteristics and parameters. 
+
+- KiSAO is used in SED-ML, which allows simulation software to automatically choose the best algorithm available to perform a simulation and unambiguously refer to it. 
+
 ---
-
-The <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/kisao"> Kinetic Simulation Algorithm Ontology (KiSAO) </a> describes existing algorithms and their inter-relationships through their characteristics and parameters. 
-
-KiSAO is used in SED-ML, which allows simulation software to automatically choose the best algorithm available to perform a simulation and unambiguously refer to it. 
