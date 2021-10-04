@@ -28,19 +28,10 @@ information:
 - name: Registration
   description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
   link: https://forms.gle/mnjPg6HhjzQpX4Bt7
-- name: Call for Abstracts
-  description: We solicit high-quality abstracts, to be refereed by the COMBINE Coordinators, for online presentation at the Workshop. Abstracts will appear on the COMBINE website only, there will be no formal publication.
-  link: https://forms.gle/2huuneL7EURZE9256
-- name: Call for Breakout Sessions
-  description: All attendees can suggest breakout sessions for detailed discussions of certain aspects of one or several of the COMBINE standard(s), discussions on metadata and semantic annotations (format-specific or overarching), discussions on the application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted at the link below.
-  link: https://forms.gle/qrKbB45UbfdZ6R1t6
-- name: Call for Tutorials
-  description: If there are tutorials on tools, standards or resources (or any other topic) which would be relevant for the COMBINE community (see Topics of Interest below), these can be proposed as tutorials
-  link: https://forms.gle/qrKbB45UbfdZ6R1t6
-- name: Organizers 
+- name: Organizers
   description: The COMBINE 2020 virtual meeting is organised by the COMBINE coordinators.
   link: ../people/
-  
+
 topics:
 - Data exchange, pipelines and model standards for systems and synthetic biology
 - Visualization and graphical notation standards for systems and synthetic biology
@@ -62,3 +53,14 @@ user_groups:
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2021 will be a workshop-style online event with oral presentations, breakout sessions and tutorials. The five meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
 
 COMBINE 2021 will be an online (virtual) meeting from October 11th (Monday) to October 15th (Friday). It will provide a schedule which takes into account all time zones around the world, a real 24 hour conference. The meeting will be free of charge.
+
+<h1>Agenda</h1>
+
+The latest agenda is available on Sched at <a rel="nofollow" class="external text" href="https://combine2021.sched.com">https://combine2021.sched.com</a>. The page is password protected (to protect access to the links for video conferencing sessions), and full details will be sent to registered attendees.
+
+You can download a pdf of the <b>provisional agenda</b> <a href="https://github.com/combine-org/combine-org.github.io/raw/master/content/documents/COMBINE%202021%20Print%20Schedule.pdf">here</a> (subject to change; all times in UTC).
+
+The times of the invited speaker presentations can be seen below (all times in UTC).
+
+<p align="centre"><img src="../documents/invited1.png" height="100px"/></p>
+<p align="centre"><img src="../documents/invited2.png" height="100px"/></p>
