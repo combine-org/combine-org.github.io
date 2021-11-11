@@ -60,6 +60,8 @@ The latest agenda is available on Sched at <a rel="nofollow" class="external tex
 
 You can download a pdf of the <b>provisional agenda</b> <a href="https://github.com/combine-org/combine-org.github.io/raw/master/content/documents/COMBINE%202021%20Print%20Schedule.pdf">here</a> (subject to change; all times in UTC).
 
+The recordings of the COMBINE 2021 presentations are available here: https://drive.google.com/drive/folders/1tYBeV6Evm5i2VAvfsLUXii6bI8ZCBfXw?usp=sharing.
+
 The times of the invited speaker presentations can be seen below (all times in UTC).
 
 <p align="centre"><img src="../documents/invited1.png" height="100px"/></p>
