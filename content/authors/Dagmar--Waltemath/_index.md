@@ -13,7 +13,7 @@ names:
 superuser: false
 
 # Role/position
-role: Medical Informatics Delegate (Vice Chair)
+role: Semantic Annotation Delegate (Vice Chair)
 
 # Organizations/Affiliations
 organizations:
