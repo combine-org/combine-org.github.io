@@ -47,7 +47,7 @@ topics:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Events
+- Past Events
 
 ---
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2021 will be a workshop-style online event with oral presentations, breakout sessions and tutorials. The five meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
