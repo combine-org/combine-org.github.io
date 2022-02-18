@@ -55,4 +55,9 @@ user_groups:
 ---
 The Computational Modeling in Biology Network (COMBINE) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
 
-HARMONY 2022 will be a mixture of offline and online meeting similar to COMBINE 2021 (http://co.mbine.org/events/COMBINE_2021). Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
+HARMONY 2022 is going to be organized as a hybrid event with in-person and online participants. In particular:
+  * April 26 : Online lightning talks (EST afternoon)
+  * April 27-29 : in-person breakouts with online participants (8am to 5pm EST)
+  * April 30 : online breakouts (8am to 5pm EST)
+
+Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
