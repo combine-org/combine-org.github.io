@@ -60,5 +60,5 @@ HARMONY 2022 is going to be organized as a hybrid event with in-person and onlin
   * April 27-29 : in-person breakouts with online participants (8am to 5pm EST)
   * April 30 : online breakouts (8am to 5pm EST)
 
-This event is co-located with [2022 Synthetic Biology: Engineering, Evolution & Design (SEED)](2022 https://synbioconference.org/2022).
+This event is co-located with [2022 Synthetic Biology: Engineering, Evolution & Design (SEED)](https://synbioconference.org/2022).
 Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
