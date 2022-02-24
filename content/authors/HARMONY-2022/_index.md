@@ -62,3 +62,11 @@ HARMONY 2022 is going to be organized as a hybrid event with in-person and onlin
 
 This event is co-located with [2022 Synthetic Biology: Engineering, Evolution & Design (SEED)](https://synbioconference.org/2022).
 Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
+
+### **Workshop Location Details**
+The site is the Institute for Bioscience and Biotechnology Research (https://www.ibbr.umd.edu/).
+The address is 9600 Gudelsky Drive, Rockville, Maryland 20850 (https://www.ibbr.umd.edu/about)
+ 
+Attendees should park in the garage at 9621 Gudelsky Drive, Rockville, Maryland 20850.
+NIST will validate parking, so attendees don’t have to pay the $15/day fee.
+Please enter through the double doors located to the right of the flag poles in front of the circular drive.
