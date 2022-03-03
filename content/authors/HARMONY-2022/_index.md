@@ -62,7 +62,7 @@ This event is co-located with [2022 Synthetic Biology: Engineering, Evolution & 
 Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
 
 ### **Workshop Location Details**
-The site is the Institute for Bioscience and Biotechnology Research (https://www.ibbr.umd.edu/).
+The site is the Institute for Bioscience and Biotechnology Research (https://www.ibbr.umd.edu).
 The address is 9600 Gudelsky Drive, Rockville, Maryland 20850 (https://www.ibbr.umd.edu/about)
  
 Attendees should park in the garage at 9621 Gudelsky Drive, Rockville, Maryland 20850.
