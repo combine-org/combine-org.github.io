@@ -21,8 +21,6 @@ important_dates:
 important_links:
 - name: Agenda
   link: https://combine-org.github.io/events/
-- name: Registration
-  link: https://forms.gle/AvdPZ5pLNSWBtZWq5
 
 information:
 - name: Registration
