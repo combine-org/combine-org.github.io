@@ -28,13 +28,13 @@ important_links:
 
 information:
 - name: Registration
-  description: Registration for the meeting is open and is free. Please register at https://forms.gle/AvdPZ5pLNSWBtZWq5 as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to video conferencing links, etc.
+  description: Registration for the meeting is open and is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to video conferencing links, etc.
   link: https://forms.gle/AvdPZ5pLNSWBtZWq5
 - name: Call for Breakout Sessions
-  description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via this form https://forms.gle/8Q8iSn16VWmuGWgh7. Note, breakout session organisers will be responsible for creating and hosting their own online sessions.
+  description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions.
   link: https://forms.gle/8Q8iSn16VWmuGWgh7
 - name: Call for Lightning Talks
-  description: Requests for a lightning talk (3 min max.) can be submitted via https://forms.gle/QbQfmDPYUi2pHy5W7. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session.
+  description: Requests for a lightning talk (3 min max.) can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session.
   link: https://forms.gle/QbQfmDPYUi2pHy5W7
 
 topics:
