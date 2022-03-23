@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: SBOL Delegate (Chair)
+role: SBOL Delegate
 
 # Organizations/Affiliations
 organizations:

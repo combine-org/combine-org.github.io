@@ -13,7 +13,7 @@ names:
 superuser: false
 
 # Role/position
-role: Semantic Annotation Delegate (Vice Chair)
+role: Semantic Annotation Delegate (Chair)
 
 # Organizations/Affiliations
 organizations:
