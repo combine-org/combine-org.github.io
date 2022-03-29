@@ -10,11 +10,11 @@ conf_location:  Washington, DC - Hybrid (Online and Offline)
 
 important_dates:
 - name: Breakout submission deadline
-  date: March 28, 2022
+  date: April 4, 2022
 - name: Lightning talk submission deadline
-  date: March 28, 2022
+  date: April 4, 2022
 - name: Notification of acceptance of breakouts
-  date: March 30, 2022
+  date: April 6, 2022
 - name: HARMONY Workshop
   date: April 26 to 30, 2022
 
