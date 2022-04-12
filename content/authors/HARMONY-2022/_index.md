@@ -65,7 +65,7 @@ HARMONY 2022 is going to be organized as a hybrid event with in-person and onlin
 This event is co-located with [2022 Synthetic Biology: Engineering, Evolution & Design (SEED)](https://synbioconference.org/2022).
 Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
 
-Please see this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=bW1wbnNwMzVoYWplMnZjNjJuYjdoMWRmdG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for the live HARMONY 2022 Schedule. This calendar is only accessible to registered attendees. If you have difficulties accessing the calendar please contact the organisers.
+Please see this [Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=mmpnsp35haje2vc62nb7h1dfto@group.calendar.google.com) for the live HARMONY 2022 Schedule. This calendar is only accessible to registered attendees. If you have difficulties accessing the calendar please contact the organisers.
 
 ### **Workshop Location Details**
 The site is the Institute for Bioscience and Biotechnology Research (https://www.ibbr.umd.edu).
