@@ -29,7 +29,7 @@ information:
 #  description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
 #  link: soon-to-come
 - name: Organizers
-  description: The COMBINE 2022 meeting is organised by the COMBINE coordinators.
+  description: The COMBINE 2022 meeting is organised by Dagmar Waltemath and Matthias König.
   link: ../people/
 
 topics:
@@ -52,7 +52,7 @@ user_groups:
 ---
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2022 will be a workshop-style event with oral presentations, breakout sessions and tutorials. The three meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
 
-COMBINE 2022 will be a face-to-face meeting orgranised as a satellite to the [ICSB 2022 meeting](https://www.icsb2022.berlin/) in Berlin.
+COMBINE 2022 will be a face-to-face meeting orgranised as a satellite to the [ICSB 2022 meeting](https://www.icsb2022.berlin/) in Berlin. There will be a series of tutorials related to various COMBINE standards running from October 6th - 7th.
 
 <h1>Agenda</h1>
 
