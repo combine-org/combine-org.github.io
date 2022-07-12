@@ -54,6 +54,10 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 
 COMBINE 2022 will be a face-to-face meeting orgranised as a satellite to the [ICSB 2022 meeting](https://www.icsb2022.berlin/) in Berlin. There will be a series of tutorials related to various COMBINE standards running from October 6th - 7th.
 
+To submit an abstract for the COMBINE forum on Saturday October 8, please use the official ICSB abstract submission portal on EasyChair:
+- Submit your abstract at https://easychair.org/conferences/?conf=icsb2022
+- Select "COMBINE: Satellite Event" as your submission topic
+
 <h1>Agenda</h1>
 
 COMBINE Community meet-up Oct 6-7, 9a.m.-6p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
