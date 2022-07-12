@@ -6,7 +6,7 @@ superuser: false
 
 conf_date: 06-08 October 2022
 
-conf_location: Berlin Congress Center (BCC), Berlin (In Person)
+conf_location: Humboldt University of Berlin, Philippstraße 13, Haus 20, Berlin (In Person)
 
 important_dates:
 - name: Breakout/tutorial submission deadline
@@ -56,9 +56,9 @@ COMBINE 2022 will be a face-to-face meeting orgranised as a satellite to the [IC
 
 <h1>Agenda</h1>
 
-COMBINE Community meet-up Oct 6-7, 9a.m.-6p.m.
+COMBINE Community meet-up Oct 6-7, 9a.m.-6p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
-COMBINE Forum Oct 8, 8a.m.-1:30p.m. at H4 Hotel Berlin Alexanderplatz.
+COMBINE Forum Oct 8, 8a.m.-1:30p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
 Details and call for papers to come. Be on the look out!
 
