@@ -28,10 +28,9 @@ important_links:
 #   link: TBA
 
 information:
-#  - name: Registration
-#    description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
-#    link: https://forms.gle/Em226LwEQsuJedkf7
-
+- name: Registration
+  description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
+  link: https://forms.gle/Em226LwEQsuJedkf7
 - name: Organizers
   description: The COMBINE 2022 meeting is organised by Dagmar Waltemath and Matthias König.
   link: ../people/
@@ -62,11 +61,11 @@ To submit an abstract for the COMBINE forum on Saturday October 8, please use th
 - Submit your abstract at https://easychair.org/conferences/?conf=icsb2022
 - Select "COMBINE: Satellite Event" as your submission topic
 
-<h1>Agenda</h1>
+<h2>Agenda</h2>
 
-COMBINE Community meet-up Oct 6-7, 9a.m.-6p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+COMBINE Community meet-up Oct 6-7, 9 a.m.-6 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
-COMBINE Forum Oct 8, 8a.m.-1:30p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+COMBINE Forum Oct 8, 8 a.m.-1:3 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
 Details and call for papers to come. Be on the look out!
 
