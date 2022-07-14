@@ -29,7 +29,7 @@ important_links:
 
 information:
 - name: Registration
-  description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
+  description: Registration for the meeting is open and is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
   link: https://forms.gle/Em226LwEQsuJedkf7
 - name: Organizers
   description: The COMBINE 2022 meeting is organised by Dagmar Waltemath and Matthias König.
@@ -65,9 +65,7 @@ To submit an abstract for the COMBINE forum on Saturday October 8, please use th
 
 COMBINE Community meet-up Oct 6-7, 9 a.m.-6 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
-COMBINE Forum Oct 8, 8 a.m.-1:3 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
-
-Details and call for papers to come. Be on the look out!
+COMBINE Forum Oct 8, 8 a.m.-1:30 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
 <!---
 <p align="centre"><img src="../documents/invited1.png" height="100px"/></p>
