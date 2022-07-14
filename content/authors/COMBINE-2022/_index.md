@@ -65,9 +65,7 @@ To submit an abstract for the COMBINE forum on Saturday October 8, please use th
 
 COMBINE Community meet-up Oct 6-7, 9 a.m.-6 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
-COMBINE Forum Oct 8, 8 a.m.-1:3 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
-
-Details and call for papers to come. Be on the look out!
+COMBINE Forum Oct 8, 8 a.m.-1:30 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
 <!---
 <p align="centre"><img src="../documents/invited1.png" height="100px"/></p>
