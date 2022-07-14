@@ -29,7 +29,7 @@ important_links:
 
 information:
 - name: Registration
-  description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
+  description: Registration for the meeting is open and is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
   link: https://forms.gle/Em226LwEQsuJedkf7
 - name: Organizers
   description: The COMBINE 2022 meeting is organised by Dagmar Waltemath and Matthias König.
