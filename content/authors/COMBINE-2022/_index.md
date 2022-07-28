@@ -71,17 +71,58 @@ discussions on metadata and semantic annotations (format-specific or overarching
 of the COMBINE standards, or any other topic relevant for the COMBINE community.
 
 We also solicit applications to host **tutorials** on tools, standards or resources (or any other topic) which would be relevant for the
-COMBINE community (see Topics of Interest below). The link to submit suggestions for breakout sessions or tutorials is [here](https://forms.gle/4VHZTxR5FcY2GLhR8), and the deadline is on the left.
+COMBINE community (see Topics of Interest below). The link to submit suggestions for breakout sessions or tutorials is
+ [here](https://forms.gle/4VHZTxR5FcY2GLhR8), and the deadline is on the left.
 
 <h3>COMBINE Forum</h3>
 
 **Single track session with invited and submitted talks**
 
-**Sat 8th Oct**, 8am-1:30pm at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+**Sat 8th Oct**, 8am-1pm at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
 To submit an abstract for the **COMBINE Forum** on Saturday October 8, please use the official ICSB abstract submission portal on EasyChair:
 - Submit your abstract at https://easychair.org/conferences/?conf=icsb2022
 - Select "COMBINE: Satellite Event" as your submission topic
+
+<h3>Detailed Agenda</h3>
+
+
+| |**Thursday Oct. 6 - COMBINE Community meet-up Day 1**| |
+|:---|:---|:---|
+| 8:45 |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
+| 9am  |  Breakout 1 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 10:30am  |  Break | |
+| 11am  |  Breakout 2 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 12:30pm  |  Lunch | |
+| 2pm  |  Breakout 3 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 3:30pm  |  Break | |
+| 4pm  | Breakout 4 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 5:30pm  |  Wrap-up | |
+
+
+| |**Friday Oct. 7 - COMBINE Community meet-up Day 2**| |
+|:---|:---|:---|
+| 8:45am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
+| 9am  |  Breakout 1 |*Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 10:30am  |  Break | |
+| 11am  |  Breakout 2 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 12:30pm  |  Lunch | |
+| 2pm  |  Breakout 3 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 3:30pm  |  Break | |
+| 4pm  | Breakout 4 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 5:30pm  |  Wrap-up | |
+
+
+| |**Saturday Oct 8 - COMBINE Forum**| |
+|:---|:---|:---|
+| 8am |  Coffee / Poster Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
+| 9am |  Invited Talk | |
+| 9:30am |  Contributed Talks | *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
+| 10:30am |  Break / Poster Session | |
+| 11am |  Invited Talk | |
+| 11:30am |  Contributed Talks |  *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
+| 12:30pm |  Coffee / Poster Session | |
+| 1pm | Adjourn | |
 
 <!---
 <p align="centre"><img src="../documents/invited1.png" height="100px"/></p>
