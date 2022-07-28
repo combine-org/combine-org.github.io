@@ -11,7 +11,7 @@ conf_location: Humboldt University of Berlin, Philippstraße 13, Haus 20, Berlin
 important_dates:
 - name: Breakout/tutorial submission deadline
   date: August 26, 2022
-- name: Talk abstract submission deadline
+- name: Forum abstract submission deadline
   date: August 26, 2022
 - name: Notification of acceptance
   date: September 9, 2022
@@ -55,17 +55,33 @@ user_groups:
 ---
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2022 will be a workshop-style event with oral presentations, breakout sessions and tutorials. The three meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
 
-COMBINE 2022 will be a face-to-face meeting orgranised as a satellite to the [ICSB 2022 meeting](https://www.icsb2022.berlin/) in Berlin. There will be a series of tutorials related to various COMBINE standards running from October 6th - 7th.
+COMBINE 2022 will be an **in-person meeting** organised as a satellite to the [ICSB 2022 meeting](https://www.icsb2022.berlin/) in Berlin.
 
-To submit an abstract for the COMBINE forum on Saturday October 8, please use the official ICSB abstract submission portal on EasyChair:
-- Submit your abstract at https://easychair.org/conferences/?conf=icsb2022
-- Select "COMBINE: Satellite Event" as your submission topic
 
 <h2>Agenda</h2>
 
-COMBINE Community meet-up Oct 6-7, 9 a.m.-6 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+<h3>COMBINE Community meet-up</h3>
 
-COMBINE Forum Oct 8, 8 a.m.-1:30 p.m. at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+**Two days of breakout sessions and tutorials related to COMBINE standards**
+
+**Thus 6th & Fri 7th Oct**, 9am-6pm at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+
+All attendees can suggest **breakout sessions** for detailed discussions of certain aspects of one or several of the COMBINE standard(s),
+discussions on metadata and semantic annotations (format-specific or overarching), discussions on the application and implementations
+of the COMBINE standards, or any other topic relevant for the COMBINE community.
+
+We also solicit applications to host **tutorials** on tools, standards or resources (or any other topic) which would be relevant for the
+COMBINE community (see Topics of Interest below). The link to submit suggestions for breakout sessions or tutorials is [here](https://forms.gle/4VHZTxR5FcY2GLhR8), and the deadline is on the left.
+
+<h3>COMBINE Forum</h3>
+
+**Single track session with invited and submitted talks**
+
+**Sat 8th Oct**, 8am-1:30pm at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+
+To submit an abstract for the **COMBINE Forum** on Saturday October 8, please use the official ICSB abstract submission portal on EasyChair:
+- Submit your abstract at https://easychair.org/conferences/?conf=icsb2022
+- Select "COMBINE: Satellite Event" as your submission topic
 
 <!---
 <p align="centre"><img src="../documents/invited1.png" height="100px"/></p>
