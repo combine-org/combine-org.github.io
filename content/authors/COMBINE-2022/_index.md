@@ -89,7 +89,7 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 
 | |**Thursday Oct. 6 - COMBINE Community meet-up Day 1**| |
 |:---|:---|:---|
-| 8:45 |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
+| 8:30 |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
 | 9am  |  Breakout 1 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 10:30am  |  Break | |
 | 11am  |  Breakout 2 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
@@ -102,7 +102,7 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 
 | |**Friday Oct. 7 - COMBINE Community meet-up Day 2**| |
 |:---|:---|:---|
-| 8:45am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
+| 8:30am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
 | 9am  |  Breakout 1 |*Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 10:30am  |  Break | |
 | 11am  |  Breakout 2 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
