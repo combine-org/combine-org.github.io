@@ -105,11 +105,11 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 | 8:45am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
 | 9am  |  Breakout 1 |*Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 10:30am  |  Break | |
-| 11am  |  Breakout 2 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 11am  |  Tutorial: CovidGraph: Interfaces and Usage | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 12:30pm  |  Lunch | |
-| 2pm  |  Breakout 3 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 2pm  |  Tutorial: Creating reproducible biochemical modeling workflows in Python (Part 1) | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 3:30pm  |  Break | |
-| 4pm  | Breakout 4 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 4pm  | Tutorial: Creating reproducible biochemical modeling workflows in Python (Part 2) | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 5:30pm  |  Wrap-up | |
 
 
