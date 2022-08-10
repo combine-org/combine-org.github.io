@@ -119,13 +119,13 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 
 | &nbsp; | | |
 |:---|:---|:---|
-| 8am |  Coffee / Poster Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;  | |
-| 9am |  Invited Talk | |
-| 9:30am |  Contributed Talks | *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
-| 10:30am |  Break / Poster Session | |
-| 11am |  Invited Talk | |
-| 11:30am |  Contributed Talks |  *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
-| 12:30pm |  Coffee / Poster Session | |
+| 8am | <b><i>Poster Session</i></b> / Coffee  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;&nbsp;  | |
+| 9am |  <b><i>Invited Talk</i></b> | |
+| 9:30am |  <b><i>Contributed Talks | *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
+| 10:30am |  <b><i>Poster Session</i></b> / Break   | |
+| 11am |  <b><i>Invited Talk</i></b> | |
+| 11:30am |  <b><i>Contributed Talks</i></b> |  *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
+| 12:30pm |  <b><i>Poster Session</i></b> / Coffee | |
 | 1pm | Adjourn | |
 
 <!---
