@@ -85,43 +85,47 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 - Select "COMBINE: Satellite Event" as your submission topic
 
 <h3>Detailed Agenda</h3>
+<h4>Thursday Oct. 6 - COMBINE Community meet-up Day 1</h4>
 
-
-| |**Thursday Oct. 6 - COMBINE Community meet-up Day 1**| |
+| &nbsp; | | |
 |:---|:---|:---|
-| 8:30 |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
-| 9am  |  Breakout 1 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 8:30am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
+| 9am  |  <b><i>Breakouts & Tutorials 1</i></b> | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
 | 10:30am  |  Break | |
-| 11am  |  Breakout 2 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 11am  |  <b><i>Breakouts & Tutorials 2</i></b> | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
 | 12:30pm  |  Lunch | |
-| 2pm  |  Breakout 3 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 2pm  |  <b><i>Breakouts & Tutorials 3</i></b> | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
 | 3:30pm  |  Break | |
-| 4pm  | Breakout 4 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 4pm  | <b><i>Breakouts & Tutorials 4</i></b> | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
 | 5:30pm  |  Wrap-up | |
 
+<br/>
+<h4>Friday Oct. 7 - COMBINE Community meet-up Day 2</h4>
 
-| |**Friday Oct. 7 - COMBINE Community meet-up Day 2**| |
+| &nbsp; | | |
 |:---|:---|:---|
 | 8:30am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
-| 9am  |  Breakout 1 |*Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 9am  |  <b><i>Breakouts & Tutorials 5</i></b> |*Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 10:30am  |  Break | |
-| 11am  |  Breakout 2 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 11am  |  <b><i>Breakouts & Tutorials 6</i></b> <br/>Tutorial: CovidGraph: Interfaces and Usage | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 12:30pm  |  Lunch | |
-| 2pm  |  Breakout 3 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 2pm  |  <b><i>Breakouts & Tutorials 7</i></b> <br/>Tutorial: Creating reproducible biochemical modeling workflows in Python (Part 1) | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 3:30pm  |  Break | |
-| 4pm  | Breakout 4 | *Submit suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 4pm  | <b><i>Breakouts & Tutorials 8</i></b> <br/>Tutorial: Creating reproducible biochemical modeling workflows in Python (Part 2) | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
 | 5:30pm  |  Wrap-up | |
 
+<br/>
+<h4>Saturday Oct 8 - COMBINE Forum</h4>
 
-| |**Saturday Oct 8 - COMBINE Forum**| |
+| &nbsp; | | |
 |:---|:---|:---|
-| 8am |  Coffee / Poster Session &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
-| 9am |  Invited Talk | |
-| 9:30am |  Contributed Talks | *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
-| 10:30am |  Break / Poster Session | |
-| 11am |  Invited Talk | |
-| 11:30am |  Contributed Talks |  *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
-| 12:30pm |  Coffee / Poster Session | |
+| 8am | <b><i>Poster Session</i></b> / Coffee  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;&nbsp;  | |
+| 9am |  <b><i>Invited Talk</i></b> | |
+| 9:30am |  <b><i>Contributed Talks | *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
+| 10:30am |  <b><i>Poster Session</i></b> / Break   | |
+| 11am |  <b><i>Invited Talk</i></b> | |
+| 11:30am |  <b><i>Contributed Talks</i></b> |  *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
+| 12:30pm |  <b><i>Poster Session</i></b> / Coffee | |
 | 1pm | Adjourn | |
 
 <!---
