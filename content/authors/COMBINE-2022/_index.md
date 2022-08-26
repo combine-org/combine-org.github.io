@@ -10,10 +10,10 @@ conf_location: Humboldt University of Berlin, Philippstraße 13, Haus 20, Berlin
 
 important_dates:
 - name: Breakout/tutorial submission deadline
-  date: August 26, 2022
+  date: ~~August 26, 2022~~ September 10, 2022
 - name: Forum abstract submission deadline
-  date: August 26, 2022
-- name: Notification of acceptance
+  date: ~~August 26, 2022~~ September 30, 2022
+- name: Initial notification of acceptance (and then ongoing)
   date: September 9, 2022
 
 important_links:
