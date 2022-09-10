@@ -136,19 +136,26 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 | Irina Balaur | University of Luxembourg | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>COMBINE Archive and OMEX, Personalized Medicine, SBGN |
 | Jacob Beal | Raytheon BBN | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>SBOL, SBOL Visual |
 | Frank Bergmann | Heidelberg University, BioQUANT / COS | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>COMBINE Archive and OMEX, FROG, PEtab, SBGN, SBML, SED-ML |
+| Michael Blinov | UConn Health | Friday 7th October, Saturday 8th October <br/>BioPAX, COMBINE Archive and OMEX, ModeleXchange, PEtab, SBGN, SBML, SED-ML |
 | Lutz Brusch | Technische Universität Dresden | Friday 7th October, Saturday 8th October <br/>COMBINE Archive and OMEX, PEtab, MultiCellML, MorpheusML, SBML-Spatial |
 | Lukas Buecherl | University of Colorado Boulder | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>CellML, COMBINE Archive and OMEX, Personalized Medicine, SBML, SBOL, SBOL Visual, SED-ML |
+| Famke Bäuerle | University of Tuebingen | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>COMBINE Archive and OMEX, FROG, Personalized Medicine, SBGN, SBML, SED-ML |
+| Tobias Czauderna | University of Applied Sciences Mittweida | Friday 7th October, Saturday 8th October <br/>SBGN |
 | Andreas Dräger | Eberhard Karls Universität Tübingen | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>COMBINE Archive and OMEX, FROG, SBGN, SBML, SED-ML |
+| Fabian Fröhlich | Harvard Medical School | Friday 7th October, Saturday 8th October <br/>BioPAX, PEtab, SBML, SED-ML |
 | Mose Giordano | UCL | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>SBML |
 | Thomas Gorochowski | University of Bristol | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>SBOL, SBOL Visual |
 | Lea Gütebier | Department of Medical Informatics, Institute for Community Medicine, University Medicine Greifswald | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>CellML, Personalized Medicine, SBML, SED-ML |
+| Joseph Hellerstein | eScience Institute, University of Washington | Thursday 6th October <br/>SBML, SED-ML |
 | Sebastian Höpfl | Institute for Systems Theory and Automatic Control (IST) | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>COMBINE Archive and OMEX, Personalized Medicine, PEtab, SBML |
 | Miroslav Kratochvíl | Luxembourg Centre for Systems Biomedicine | Saturday 8th October <br/>FROG, SBML |
 | Olga Krebs | Heidelberg Institute for Theoretical Studies | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>Personalized Medicine, PEtab, SBML, SBOL, SBOL Visual, SED-ML |
 | Matthias König | Humboldt-University Berlin | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>COMBINE Archive and OMEX, FROG, Personalized Medicine, PEtab, SBML, SED-ML |
 | Paul Lang | University of Oxford; Julia Computing | Saturday 8th October <br/>Personalized Medicine, PEtab, SBML |
 | Sebastian Lobentanzer | University Hospital Heidelberg | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>BioPAX, Personalized Medicine, PEtab, SBGN, SBML |
+| Karin Lundengård | Auckland Bioengineering Institute | Thursday 6th October, Friday 7th October  |
 | Lukrécia Mertová | Heidelberg Institute for Theoretical Studies HITS gGmbH | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>BioPAX, ModeleXchange, Personalized Medicine, SBML, SBOL |
+| Sébastien Moretti | SIB Swiss Institute of Bioinformatics | Thursday 6th October, Friday 7th October <br/>SBML |
 | Chris Myers | University of Colorado Boulder | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>SBOL, SBOL Visual, SBML, SED-ML |
 | Tung Nguyen | EMBL-EBI | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>BioPAX, CellML, COMBINE Archive and OMEX, FROG, ModeleXchange, Personalized Medicine, PEtab, SBGN, SBML, SED-ML |
 | David Nickerson | Auckland Bioengineering Institute, University of Auckland | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>CellML, COMBINE Archive and OMEX, ModeleXchange, Personalized Medicine, PEtab, SED-ML |
@@ -158,6 +165,7 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 | Susana Roman garcia | University of Edinburgh | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>BioPAX, CellML, COMBINE Archive and OMEX, ModeleXchange, NeuroML, Personalized Medicine, PEtab, SBGN, SBML, SBOL, SBOL Visual, SED-ML |
 | Herbert Sauro | University of Washington | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>COMBINE Archive and OMEX, SBML, SED-ML |
 | Falk Schreiber | University of Konstanz | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>SBGN, SBML, SBOL Visual |
+| Woosub Shin | Auckland Bioengineering Institute, University of Washington |  <br/>SBML |
 | Jörn Starruß | TU Dresden | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>PEtab, SBML, MultiCellML |
 | Krishna kumar Tiwari | EMBL-EBI | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>FROG, ModeleXchange, Personalized Medicine, SBGN |
 | Matej Troják | Masaryk university  | Thursday 6th October, Friday 7th October, Saturday 8th October <br/>SBML |
