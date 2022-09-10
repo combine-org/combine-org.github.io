@@ -116,16 +116,16 @@ To submit an abstract for the **COMBINE Forum** on Saturday October 8, please us
 <br/>
 <h4>Saturday Oct 8 - COMBINE Forum</h4>
 
-| &nbsp; | | |
-|:---|:---|:---|
-| 8am | <b><i>Poster Session</i></b> / Coffee  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;&nbsp;  | |
-| 9am |  <b><i>Invited Talk</i></b> | |
-| 9:30am |  <b><i>Contributed Talks | *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
-| 10:30am |  <b><i>Poster Session</i></b> / Break   | |
-| 11am |  <b><i>Invited Talk</i></b> | |
-| 11:30am |  <b><i>Contributed Talks</i></b> |  *Submit abstract [here](https://easychair.org/conferences/?conf=icsb2022)*|
-| 12:30pm |  <b><i>Poster Session</i></b> / Coffee | |
-| 1pm | Adjourn | |
+| &nbsp; | |
+|:---|:---|
+| 8am | <b><i>Poster Session</i></b> / Coffee  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;&nbsp;  |
+| 9am |  <b><i>Invited Talk</i></b> |
+| 9:30am |  <b><i>Contributed Talks</b> <br/>FROG Analysis - a community standard to foster reproducibility and curation of constraint-based models	**Rahuman Malik Sheriff** <br/>BioCypher: an ontology-driven framework for flexible harmonisation of large-scale biomedical knowledge graphs	**Sebastian Lobentanzer**<br/> Implementing Safe Cross-Document RDF References	**Jacob Beal**<br/>The Protocol Activity Modeling Language	**Jacob Beal**|
+| 10:30am |  <b><i>Poster Session</i></b> / Break   |
+| 11am |  <b><i>Invited Talk</i></b> |
+| 11:30am |  <b><i>Contributed Talks</i></b> <br/>FAIRDOM: Promoting and Supporting FAIR Data and Model Management in Systems Biology	**Olga Krebs**<br/>MeDaX - our vision for bioMedical Data eXploration	**Judith Wodke**<br/>Morpheus: Multi-scale, Multi-cellular, Spatio-temporal Modeling Made Easy	**Jörn Starruß**<br/>Analyze Parameter Space for Rule-based Models with Simmune Analyzer	**Fengkai Zhang** |
+| 12:30pm |  <b><i>Poster Session</i></b> / Coffee |
+| 1pm | Adjourn |
 
 
 <h1>Attendees</h1>
