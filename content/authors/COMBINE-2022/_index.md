@@ -6,22 +6,22 @@ superuser: false
 
 conf_date: 06-08 October 2022
 
-conf_location: Humboldt University of Berlin, Philippstraße 13, Haus 20, Berlin (In Person)
+conf_location: Humboldt University of Berlin, Philippstraße 13, Haus 4, Berlin (In Person)
 
-important_dates:
-- name: Breakout/tutorial submission deadline
-  date: ~~August 26, 2022~~ September 10, 2022
-- name: Forum abstract submission deadline
-  date: ~~August 26, 2022~~ September 30, 2022
-- name: Initial notification of acceptance (and then ongoing)
-  date: September 9, 2022
+# important_dates:
+# - name: Breakout/tutorial submission deadline
+#   date: ~~August 26, 2022~~ September 10, 2022
+# - name: Forum abstract submission deadline
+#   date: ~~August 26, 2022~~ September 30, 2022
+# - name: Initial notification of acceptance (and then ongoing)
+#  date: September 9, 2022
 
 important_links:
 - name: Registration
   link: https://forms.gle/Em226LwEQsuJedkf7
-- name: Breakouts/Tutorials submission
-  link: https://forms.gle/4VHZTxR5FcY2GLhR8
 
+# - name: Breakouts/Tutorials submission
+#   link: https://forms.gle/4VHZTxR5FcY2GLhR8
 # - name: Agenda
 #   link: TBA
 # - name: Conference Book
@@ -53,9 +53,11 @@ user_groups:
 - Events
 
 ---
+<img src="/images/combine2022/COMBINE2022_logo.png" alt="demo" class="img-responsive">
+
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2022 will be a workshop-style event with oral presentations, breakout sessions and tutorials. The three meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
 
-COMBINE 2022 will be an **in-person meeting** organised as a satellite to the [ICSB 2022 meeting](https://www.icsb2022.berlin/) in Berlin.
+COMBINE 2022 will be an **in-person meeting** organised as a satellite to the [ICSB 2022 meeting](https://www.icsb2022.berlin/) in Berlin. The daily welcomes, wrap-up and the COMBINE forum will be streamed online. Please register via the following link for the stream: https://hu-berlin.zoom.us/meeting/register/u5EocOGoqzgiE9LPwbHLtC-m_6UTn7LCXx6X
 
 <h1>Overview</h1>
 
@@ -63,7 +65,7 @@ COMBINE 2022 will be an **in-person meeting** organised as a satellite to the [I
 
 **Two days of breakout sessions and tutorials related to COMBINE standards**
 
-**Thus 6th & Fri 7th Oct**, 9am-6pm at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+**Thus 6th & Fri 7th Oct**, 8:30am-6pm at [Humboldt University of Berlin, Philippstraße 13, House 4](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
 All attendees can suggest **breakout sessions** for detailed discussions of certain aspects of one or several of the COMBINE standard(s),
 discussions on metadata and semantic annotations (format-specific or overarching), discussions on the application and implementations
@@ -77,41 +79,49 @@ COMBINE community (see Topics of Interest below). The link to submit suggestions
 
 **Single track session with invited and submitted talks**
 
-**Sat 8th Oct**, 8am-1pm at [Humboldt University of Berlin, Philippstraße 13, Haus 20](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+**Sat 8th Oct**, 8am-1pm at [Humboldt University of Berlin, Philippstraße 13, House 4](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
 
 To submit an abstract for the **COMBINE Forum** on Saturday October 8, please use the official ICSB abstract submission portal on EasyChair:
 - Submit your abstract at https://easychair.org/conferences/?conf=icsb2022
 - Select "COMBINE: Satellite Event" as your submission topic
 
+<h1>How to get there?</h1>
+
+COMBINE2022 is located at [Humboldt University of Berlin, Philippstraße 13, House 4](https://goo.gl/maps/fkXSerwGRWSFUPSC9)
+
+The main entry is at Philippstraße 13. The main event site is in House 4, where the daily welcomes, wrap-ups and the COMBINE Forum will take place. In addition, some breakouts will take place in Haus 20 and Haus 18. Please see the following plan for details:
+
+<img src="/images/combine2022/COMBINE2022_plan.png" alt="demo" class="img-responsive">
+
 <h1>Agenda</h1>
 <h4>Thursday Oct. 6 - COMBINE Community meet-up Day 1</h4>
 
-| &nbsp; | | |
-|:---|:---|:---|
-| 8:30am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
-| 9am  |  <b><i>Breakouts & Tutorials 1</i></b> <br/> **Breakouts**: <br/> - Room 1: SEP 55 (Prashant Vaidyanathan) <br/> - Room 2: SED-ML Level 2: Proposals and Requirements (Lucian Smith) <br/> - Room 3: | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
-| 10:30am  |  Break | |
-| 11am  |  <b><i>Breakouts & Tutorials 2</i></b> <br/>**Tutorial:** CovidGraph: Interfaces and Usage <br/> **Breakouts**: <br/> - Room 1: Parametric SVG for SBOL Visual (Thomas Gorochowski) <br/> - Room 2: SED-ML Level 2: Proposals and Requirements <br/> - Room 3: | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
-| 12:30pm  |  Lunch | |
-| 2pm  |  <b><i>Breakouts & Tutorials 3</i></b> <br/>**Tutorial:** Clinical trial simulations with the Jinkō modeling platform <br/> **Breakouts**: <br/> - Room 1: SBOL 3.1 (Gonzalo Vidal)<br/> - Room 2: Curating models and simulations for BioSimulations (David Nickerson)<br/> - Room 3: Protocol Activity Modeling Language Standard Working Group (Daniel Bryce)| Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
-| 3:30pm  |  Break | |
-| 4pm  | <b><i>Breakouts & Tutorials 4</i></b> <br/>**Tutorial:** Modelling with VCell <br/> **Breakouts**: <br/> - Room 1: Representation of Site-Variant Libraries (James Diggans) <br/> - Room 2: VSCode-Antimony: A Smart Editor for Developing Models in Systems Biology (Joe Hellerstein/Herbert Sauro) <br/> - Room 3: Protocol Activity Modeling Language Standard Working Group| Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
-| 5:30pm  |  Wrap-up | |
+| &nbsp; |                                                                                                                                                                                                                                                                                                                                                                                                                                             | |
+|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---|
+| 8:30am | Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
+| 9am  | <b><i>Breakouts & Tutorials 1</i></b> <br/> **Breakouts**: <br/> - Room 1: SEP 55 (Prashant Vaidyanathan) <br/> - Room 2: SED-ML Level 2: Proposals and Requirements (Lucian Smith) <br/> - Room 3:                                                                                                                                                                                                                                         | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
+| 10:30am  | Break                                                                                                                                                                                                                                                                                                                                                                                                                                       | |
+| 11am  | <b><i>Breakouts & Tutorials 2</i></b> <br/>**Tutorial:** CovidGraph: Interfaces and Usage <br/> **Breakouts**: <br/> - Room 1: Parametric SVG for SBOL Visual (Thomas Gorochowski) <br/> - Room 2: SED-ML Level 2: Proposals and Requirements <br/> - Room 3:                                                                                                                                                                               | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
+| 12:30pm  | Lunch                                                                                                                                                                                                                                                                                                                                                                                                                                       | |
+| 2pm  | <b><i>Breakouts & Tutorials 3</i></b> <br/>**Tutorial:** Clinical trial simulations with the Jinkō modeling platform <br/> **Breakouts**: <br/> - Room 1: SBOL 3.1 (Gonzalo Vidal)<br/> - Room 2: Curating models and simulations for BioSimulations (David Nickerson)<br/> - Room 3: Protocol Activity Modeling Language Standard Working Group (Daniel Bryce)                                                                             | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
+| 3:30pm  | Break                                                                                                                                                                                                                                                                                                                                                                                                                                       | |
+| 4pm  | <b><i>Breakouts & Tutorials 4</i></b> <br/>**Tutorial:** Modelling with VCell <br/> **Breakouts**: <br/> - Room 1: Representation of Site-Variant Libraries (James Diggans) <br/> - Room 2: VSCode-Antimony: A Smart Editor for Developing Models in Systems Biology (Joe Hellerstein/Herbert Sauro) <br/> - Room 3: Protocol Activity Modeling Language Standard Working Group                                                             | Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8) |
+| 5:30pm  | Wrap-up                                                                                                                                                                                                                                                                                                                                                                                                                                     | |
 
 <br/>
 <h4>Friday Oct. 7 - COMBINE Community meet-up Day 2</h4>
 
-| &nbsp; | | |
-|:---|:---|:---|
-| 8:30am |  Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
-| 9am  |  <b><i>Breakouts & Tutorials 5</i></b> <br/>**Tutorial:** Morpheus: Multi-scale, Multi-cellular, Spatio-temporal Modeling with Hands-on for Your Own Projects <br/> **Breakouts**: <br/> - Room 1: Managing RDF Packages (Jacob Beal) <br/> - Room 2: FROG Analysis - a community standard to foster reproducibility and curation of constraint-based models (Rahuman Sheriff) <br/> - Room 3: Similarity Computation of Small Molecule Names (Lukrécia Mertová)|*Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
-| 10:30am  |  Break | |
-| 11am  |  <b><i>Breakouts & Tutorials 6</i></b> <br/>**Tutorial:** <br/> **Breakouts**: <br/> - Room 1: SBOL Examples (Prashant Vaidyanathan) <br/> - Room 2: FAIRness assessment of COMBINE archives (Irina Balaur, Dagmar Waltemath) <br/> - Room 3: MutliCellML -- a "to-be" Multi-cellular Modelling language <br/> - Room 4  SBML FBC | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
-| 12:30pm  |  Lunch | |
-| 2pm  |  <b><i>Breakouts & Tutorials 7</i></b> <br/>**Tutorial:** Creating reproducible biochemical modeling workflows in Python (Part 1) <br/> **Breakouts**: <br/> - Room 1: RNA Working Group Discussions (Thomas Gorochowski) <br/> - Room 2: FAIRness assessment of COMBINE archives <br/> - Room 3: MutliCellML -- a "to-be" Multi-cellular Modelling language (Jörn Starruß) <br/> - Protocol Activity Modeling Language Standard Working Group (Daniel Bryce)| *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
-| 3:30pm  |  Break | |
-| 4pm  | <b><i>Breakouts & Tutorials 8</i></b> <br/>**Tutorial:** Creating reproducible biochemical modeling workflows in Python (Part 2) <br/> **Breakouts**: <br/> - Room 1: RNA Working Group Discussions <br/> - Room 2: "Data Hazards: framework for thinking ethics in computational systems biology (Susana Roman Garcia)" <br/> - Room 3: SBGN general discussion (Adrien Rougny) <br/> - Protocol Activity Modeling Language Standard Working Group (Daniel Bryce)| *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
-| 5:30pm  |  Wrap-up | |
+| &nbsp; |                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | |
+|:---|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---|
+| 8:30am | Welcome &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                                                                                                                                                                                                                                        | |
+| 9am  | <b><i>Breakouts & Tutorials 5</i></b> <br/>**Tutorial:** Morpheus: Multi-scale, Multi-cellular, Spatio-temporal Modeling with Hands-on for Your Own Projects <br/> **Breakouts**: <br/> - Room 1: Managing RDF Packages (Jacob Beal) <br/> - Room 2: FROG Analysis - a community standard to foster reproducibility and curation of constraint-based models (Rahuman Sheriff) <br/> - Room 3: Similarity Computation of Small Molecule Names (Lukrécia Mertová)    |*Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 10:30am  | Break                                                                                                                                                                                                                                                                                                                                                                                                                                                              | |
+| 11am  | <b><i>Breakouts & Tutorials 6</i></b> <br/>**Tutorial:** <br/> **Breakouts**: <br/> - Room 1: SBOL Examples (Prashant Vaidyanathan) <br/> - Room 2: FAIRness assessment of COMBINE archives (Irina Balaur, Dagmar Waltemath) <br/> - Room 3: MultiCellML -- a "to-be" Multi-cellular Modelling language <br/> - Room 4  SBML FBC                                                                                                                                   | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 12:30pm  | Lunch                                                                                                                                                                                                                                                                                                                                                                                                                                                              | |
+| 2pm  | <b><i>Breakouts & Tutorials 7</i></b> <br/>**Tutorial:** Creating reproducible biochemical modeling workflows in Python (Part 1) <br/> **Breakouts**: <br/> - Room 1: RNA Working Group Discussions (Thomas Gorochowski) <br/> - Room 2: FAIRness assessment of COMBINE archives <br/> - Room 3: MutliCellML -- a "to-be" Multi-cellular Modelling language (Jörn Starruß) <br/> - Protocol Activity Modeling Language Standard Working Group (Daniel Bryce)       | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 3:30pm  | Break                                                                                                                                                                                                                                                                                                                                                                                                                                                              | |
+| 4pm  | <b><i>Breakouts & Tutorials 8</i></b> <br/>**Tutorial:** Creating reproducible biochemical modeling workflows in Python (Part 2) <br/> **Breakouts**: <br/> - Room 1: RNA Working Group Discussions <br/> - Room 2: "Data Hazards: framework for thinking ethics in computational systems biology (Susana Roman Garcia)" <br/> - Room 3: SBGN general discussion (Adrien Rougny) <br/> - Protocol Activity Modeling Language Standard Working Group (Daniel Bryce) | *Submit further suggestions [here](https://forms.gle/4VHZTxR5FcY2GLhR8)* |
+| 5:30pm  | Wrap-up                                                                                                                                                                                                                                                                                                                                                                                                                                                            | |
 
 <br/>
 <h4>Saturday Oct 8 - COMBINE Forum</h4>
