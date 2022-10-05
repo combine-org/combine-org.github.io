@@ -21,14 +21,6 @@ def read_df(tsv_path: Path) -> pd.DataFrame:
 def create_attendee_md(df: pd.DataFrame) -> str:
     """Creates the markdown from attendee list."""
 
-    # lens = {}
-    # for key in ["first_name", "last_name", "affiliation", "dates", "communities"]:
-    #     lens[key] = int(df[key].str.len().max())
-    # lens["name"] = lens["first_name"] + lens["last_name"] + 1
-    # lens["attendance"] = lens["dates"] + lens["communities"] + 5
-    # print(lens)
-
-    # f"{'Name' :{lens['name']}} | {'Affiliation' :{lens['affiliation']}} | {'Attendance' :{lens['attendance']}}"
     lines = [
       "| Name | Affiliation | Attendance |",
       "|---|---|---|"
@@ -39,15 +31,36 @@ def create_attendee_md(df: pd.DataFrame) -> str:
         affiliation = f"{row['affiliation']}"
         attendance =f"{row['dates']}<br/>{row['communities']}"
         line = f"| {name} | {affiliation} | {attendance} |"
-        # line = f"{name :{lens['name']}} | {affiliation :{lens['affiliation']}} | {attendance :{lens['attendance']}}"
         if row['share'] == "Yes":
             lines.append(line)
 
     return "\n".join(lines)
 
 
+def create_attendee_list(df: pd.DataFrame) -> pd.DataFrame:
+  """Creates the markdown from attendee list."""
+
+  entries = []
+  for index, row in df.iterrows():
+    name = f"{row['last_name']}, {row['first_name']}"
+    affiliation = f"{row['affiliation']}"
+    # attendance = f"{row['dates']}<br/>{row['communities']}"
+    entries.append({
+      "Name": name,
+      "Affiliation": affiliation,
+      "Th 6th Oct": None,
+      "Fr 7th Oct": None,
+      "Sa 8th Oct": None,
+      "Signature": None,
+    })
+
+  return pd.DataFrame(entries)
+
+
 if __name__ == "__main__":
     tsv_path: Path = Path("/home/mkoenig/Downloads/Registration_COMBINE.tsv")
+    xlsx_path: Path = Path("/home/mkoenig/Downloads/Registration_COMBINE.xlsx")
+
     df = read_df(tsv_path)
     md = create_attendee_md(df)
     print("-" * 80)
@@ -58,5 +71,9 @@ if __name__ == "__main__":
 
     with open("participants.md", "w") as f_md:
         f_md.write(md)
+
+    # list for registration
+    df_reg = create_attendee_list(df)
+    df_reg.to_excel(xlsx_path, index=False)
 
 
