@@ -1,1 +1,401 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Combine: Coordinating standards for modeling in Biology</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Combine: Coordinating standards for modeling in Biology</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>/images/logo.svg</url><title>Combine: Coordinating standards for modeling in Biology</title><link>/</link></image><item><title>Events</title><link>/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/events/</guid><description/></item><item><title>People</title><link>/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/people/</guid><description/></item><item><title>Standards</title><link>/standards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/standards/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Combine: Coordinating standards for modeling in Biology</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Combine: Coordinating standards for modeling in Biology</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>/images/logo.svg</url><title>Combine: Coordinating standards for modeling in Biology</title><link>/</link></image><item><title/><link>/author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Affiliation&lt;/th>
+&lt;th>Attendance&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Mihail Anton&lt;/td>
+&lt;td>Chalmers University of Technology&lt;/td>
+&lt;td>Friday 7th October&lt;br/>COMBINE Archive and OMEX, FROG, ModeleXchange, Personalized Medicine, SBGN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Irina Balaur&lt;/td>
+&lt;td>University of Luxembourg&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, Personalized Medicine, SBGN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jacob Barhak&lt;/td>
+&lt;td>Jacob Barhak Analytics&lt;/td>
+&lt;td>Friday 7th October, Saturday 8th October&lt;br/>ModeleXchange, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Bryan Bartley&lt;/td>
+&lt;td>Raytheon BBN&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBOL, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Florian Bartsch&lt;/td>
+&lt;td>Institut für theoretische Biologie, Humboldt-Universität zu Berlin&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October&lt;br/>Personalized Medicine, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jacob Beal&lt;/td>
+&lt;td>Raytheon BBN&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBOL, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Frank Bergmann&lt;/td>
+&lt;td>Heidelberg University, BioQUANT / COS&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, FROG, PEtab, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Michael Blinov&lt;/td>
+&lt;td>UConn Health&lt;/td>
+&lt;td>Friday 7th October, Saturday 8th October&lt;br/>BioPAX, COMBINE Archive and OMEX, ModeleXchange, PEtab, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lutz Brusch&lt;/td>
+&lt;td>Technische Universität Dresden&lt;/td>
+&lt;td>Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, PEtab, MultiCellML, MorpheusML, SBML-Spatial&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Daniel Bryce&lt;/td>
+&lt;td>SIFT, LLC.&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lukas Buecherl&lt;/td>
+&lt;td>University of Colorado Boulder&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>CellML, COMBINE Archive and OMEX, Personalized Medicine, SBML, SBOL, SBOL Visual, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Zsófia Bujtár&lt;/td>
+&lt;td>Max Delbrück Center for Molecular Medicine in the Helmholtz Association (Berlin)&lt;/td>
+&lt;td>Friday 7th October, Saturday 8th October&lt;br/>SBGN, SBML, DDE-BIFTOOL&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Famke Bäuerle&lt;/td>
+&lt;td>University of Tuebingen&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, FROG, Personalized Medicine, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Marie Coutelier&lt;/td>
+&lt;td>Paris Brain Institute&lt;/td>
+&lt;td>-&lt;br/>CellML, COMBINE Archive and OMEX, NeuroML, Personalized Medicine&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tobias Czauderna&lt;/td>
+&lt;td>University of Applied Sciences Mittweida&lt;/td>
+&lt;td>Friday 7th October, Saturday 8th October&lt;br/>SBGN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>James Diggans&lt;/td>
+&lt;td>Twist Bioscience&lt;/td>
+&lt;td>Thursday 6th October&lt;br/>SBOL, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Andreas Dräger&lt;/td>
+&lt;td>Eberhard Karls Universität Tübingen&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, FROG, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dorotea Dudas&lt;/td>
+&lt;td>HITS gGmbH&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ibrahim Dulijan&lt;/td>
+&lt;td>stevens.edu&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBML, SBOL, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Longxuan Fan&lt;/td>
+&lt;td>University of Washington&lt;/td>
+&lt;td>Thursday 6th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fabian Fröhlich&lt;/td>
+&lt;td>Harvard Medical School&lt;/td>
+&lt;td>Friday 7th October, Saturday 8th October&lt;br/>BioPAX, PEtab, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Alan Garny&lt;/td>
+&lt;td>University of Auckland&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>CellML, COMBINE Archive and OMEX, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Robert T. Giessmann&lt;/td>
+&lt;td>Institute for globally distributed open research and education (IGDORE)&lt;/td>
+&lt;td>-&lt;br/>BioPAX, COMBINE Archive and OMEX, SBML, SBOL, SBOL Visual, SED-ML, thermodynamic data, openTECR&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mose Giordano&lt;/td>
+&lt;td>UCL&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Thomas Gorochowski&lt;/td>
+&lt;td>University of Bristol&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBOL, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Alexander Gower&lt;/td>
+&lt;td>Chalmers University of Technology&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>BioPAX, CellML, COMBINE Archive and OMEX, FROG, ModeleXchange, PEtab, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Niklas Gröne&lt;/td>
+&lt;td>Universität Konstanz&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Roy Gusinow&lt;/td>
+&lt;td>University of Bonn&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>NeuroML, PEtab, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lea Gütebier&lt;/td>
+&lt;td>Department of Medical Informatics, Institute for Community Medicine, University Medicine Greifswald&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>CellML, Personalized Medicine, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jan Hasenauer&lt;/td>
+&lt;td>University of Bonn&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>ModeleXchange, Personalized Medicine, PEtab, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Joseph Hellerstein&lt;/td>
+&lt;td>eScience Institute, University of Washington&lt;/td>
+&lt;td>Thursday 6th October&lt;br/>SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ron Henkel&lt;/td>
+&lt;td>University Medicine Greifswald&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>CellML, COMBINE Archive and OMEX, ModeleXchange, SBGN, SBML, SBOL, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sebastian Höpfl&lt;/td>
+&lt;td>Institute for Systems Theory and Automatic Control (IST)&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, Personalized Medicine, PEtab, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>João Júnior&lt;/td>
+&lt;td>Centro de Tecnologia Canavieira&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>CellML, ModeleXchange, Personalized Medicine, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Miroslav Kratochvíl&lt;/td>
+&lt;td>Luxembourg Centre for Systems Biomedicine&lt;/td>
+&lt;td>Saturday 8th October&lt;br/>FROG, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Olga Krebs&lt;/td>
+&lt;td>Heidelberg Institute for Theoretical Studies&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>Personalized Medicine, PEtab, SBML, SBOL, SBOL Visual, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Adrian Köller&lt;/td>
+&lt;td>Institut für theoretische Biologie, Humboldt-Universität zu Berlin&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Matthias König&lt;/td>
+&lt;td>Humboldt-University Berlin&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, FROG, Personalized Medicine, PEtab, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Paul Lang&lt;/td>
+&lt;td>University of Oxford; Julia Computing&lt;/td>
+&lt;td>Saturday 8th October&lt;br/>Personalized Medicine, PEtab, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Eva Liu&lt;/td>
+&lt;td>University of Washington Bioengineering Sys-Bio Lab&lt;/td>
+&lt;td>Thursday 6th October&lt;br/>-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sebastian Lobentanzer&lt;/td>
+&lt;td>University Hospital Heidelberg&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>BioPAX, Personalized Medicine, PEtab, SBGN, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Karin Lundengård&lt;/td>
+&lt;td>Auckland Bioengineering Institute&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October&lt;br/>-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Steve Ma&lt;/td>
+&lt;td>NVIDIA&lt;/td>
+&lt;td>Thursday 6th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lukrécia Mertová&lt;/td>
+&lt;td>Heidelberg Institute for Theoretical Studies HITS gGmbH&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>BioPAX, ModeleXchange, Personalized Medicine, SBML, SBOL&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ion Moraru&lt;/td>
+&lt;td>UConn Health&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October&lt;br/>COMBINE Archive and OMEX, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sébastien Moretti&lt;/td>
+&lt;td>SIB Swiss Institute of Bioinformatics&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Chris Myers&lt;/td>
+&lt;td>University of Colorado Boulder&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBOL, SBOL Visual, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tung Nguyen&lt;/td>
+&lt;td>EMBL-EBI&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>BioPAX, CellML, COMBINE Archive and OMEX, FROG, ModeleXchange, Personalized Medicine, PEtab, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>David Nickerson&lt;/td>
+&lt;td>Auckland Bioengineering Institute, University of Auckland&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>CellML, COMBINE Archive and OMEX, ModeleXchange, Personalized Medicine, PEtab, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dilan Pathirana&lt;/td>
+&lt;td>University of Bonn&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>PEtab, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fronth Nyus Pi&lt;/td>
+&lt;td>Quantum4Life Sensonomiqs&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>CellML, COMBINE Archive and OMEX, NeuroML, SBML, SBOL&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Veronica Porubsky&lt;/td>
+&lt;td>University of Washington&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>NeuroML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Nicole Radde&lt;/td>
+&lt;td>University of Stuttgart&lt;/td>
+&lt;td>Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, ModeleXchange, Personalized Medicine, PEtab, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Karthik Raman&lt;/td>
+&lt;td>Indian Institute of Technology Madras&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>FROG&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gianmarco Rasi&lt;/td>
+&lt;td>-&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Susana Roman Garcia&lt;/td>
+&lt;td>University of Edinburgh&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>BioPAX, CellML, COMBINE Archive and OMEX, ModeleXchange, NeuroML, Personalized Medicine, PEtab, SBGN, SBML, SBOL, SBOL Visual, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Adrien Rougny&lt;/td>
+&lt;td>Independent researcher (former AIST)&lt;/td>
+&lt;td>Friday 7th October, Saturday 8th October&lt;br/>SBGN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Herbert Sauro&lt;/td>
+&lt;td>University of Washington&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Falk Schreiber&lt;/td>
+&lt;td>University of Konstanz&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBGN, SBML, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>James Scott-Brown&lt;/td>
+&lt;td>University of Edinburgh&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October&lt;br/>SBOL, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Vinoo Selvarajah&lt;/td>
+&lt;td>iGEM Foundation&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October&lt;br/>SBOL, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Woosub Shin&lt;/td>
+&lt;td>Auckland Bioengineering Institute, University of Washington&lt;/td>
+&lt;td>-&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lucian Smith&lt;/td>
+&lt;td>University of Washington&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>CellML, COMBINE Archive and OMEX, FROG, PEtab, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jörn Starruß&lt;/td>
+&lt;td>TU Dresden&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>PEtab, SBML, MultiCellML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Melanie Stefan&lt;/td>
+&lt;td>Medical School Berlin&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, Personalized Medicine, SBGN, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Abel Szkalisity&lt;/td>
+&lt;td>University of Helsinki&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>BioPAX, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Baishakhi Tikader&lt;/td>
+&lt;td>Indian Institute of Bombay, India&lt;/td>
+&lt;td>Friday 7th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Krishna Kumar Tiwari&lt;/td>
+&lt;td>EMBL-EBI&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>FROG, ModeleXchange, Personalized Medicine, SBGN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Matej Troják&lt;/td>
+&lt;td>Masaryk university&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Adelinde Uhrmacher&lt;/td>
+&lt;td>University of Rostock&lt;/td>
+&lt;td>Saturday 8th October&lt;br/>CellML, COMBINE Archive and OMEX, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prashant Vaidyanathan&lt;/td>
+&lt;td>Oxford Biomedica&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October&lt;br/>SBOL&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Paola Vera-Licona&lt;/td>
+&lt;td>UConn Health&lt;/td>
+&lt;td>Friday 7th October&lt;br/>BioPAX, Personalized Medicine, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gonzalo Vidal&lt;/td>
+&lt;td>ICOS, Newcastle University&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>SBOL, SBOL Visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dagmar Waltemath&lt;/td>
+&lt;td>University Medicine Greifswald&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, ModeleXchange, Personalized Medicine, SBML, SED-ML, FAIR model indicators&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Daniel Weindl&lt;/td>
+&lt;td>Helmholtz Munich&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>PEtab, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>St. Elmo Wilken&lt;/td>
+&lt;td>Heinrich Heine University&lt;/td>
+&lt;td>Saturday 8th October&lt;br/>-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Pia Wilsdorf&lt;/td>
+&lt;td>University of Rostock&lt;/td>
+&lt;td>Saturday 8th October&lt;br/>COMBINE Archive and OMEX, PEtab, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fengkai Zhang&lt;/td>
+&lt;td>NIAID/NIH&lt;/td>
+&lt;td>Thursday 6th October, Friday 7th October, Saturday 8th October&lt;br/>COMBINE Archive and OMEX, ModeleXchange, SBGN, SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Events</title><link>/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/events/</guid><description/></item><item><title>People</title><link>/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/people/</guid><description/></item><item><title>Standards</title><link>/standards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/standards/</guid><description/></item></channel></rss>
