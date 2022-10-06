@@ -104,7 +104,7 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | 8:30am | <i>Welcome</i> (Matthias König, House 4, Lecture Hall) |
 | 9am | <i>Breakouts & Tutorials 1</i> <br/> **Breakouts**: <br/> - Room 2 (House 4, 012a): SEP 55 (Prashant Vaidyanathan) <br/> - Room 1 (House 4, Lecture Hall): SED-ML Level 2: Proposals and Requirements (Lucian Smith) |
 | 10:30am | <i>Break / Coffee</i> |
-| 11am | <i>Breakouts & Tutorials 2</i> <br/>**Tutorial**:<br/> - Room 3 (House 18, Maut Menten): CovidGraph: Interfaces and Usage <br/> **Breakouts**: <br/> - Room 2 (House 4, 012a): Parametric SVG for SBOL Visual (Thomas Gorochowski) <br/> - Room 1 (House 4, Lecture Hall): SED-ML Level 2: Proposals and Requirements |
+| 11am | <i>Breakouts & Tutorials 2</i> <br/>**Tutorial**:<br/> - Room 3 (House 18, Maut Menten): CovidGraph: Interfaces and Usage (Lea Gütebier) <br/> **Breakouts**: <br/> - Room 2 (House 4, 012a): Parametric SVG for SBOL Visual (Thomas Gorochowski) <br/> - Room 1 (House 4, Lecture Hall): SED-ML Level 2: Proposals and Requirements |
 | 12:30pm | <i>Lunch</i> (self organized) |
 | 2pm | <i>Breakouts & Tutorials 3</i><br/>**Tutorial**: <br/> - Room 3 (House 18, Maud Menten): Clinical trial simulations with the Jinkō modeling platform <br/> **Breakouts**: <br/> - Room 2 (House 4, 012a): SBOL 3.1 (Gonzalo Vidal)<br/> - Room 1 (House 4, Lecture hall): Curating models and simulations for BioSimulations (David Nickerson)<br/> - [online](https://us02web.zoom.us/j/88377443615?pwd=M1FSaEV2OGwrdDlWMUNkYTBseUpSQT09): Protocol Activity Modeling Language Standard Working Group (Daniel Bryce) |
 | 3:30pm | <i>Break / Coffee</i> |
