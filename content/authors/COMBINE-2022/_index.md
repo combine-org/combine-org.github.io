@@ -198,7 +198,6 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | Paul Lang | University of Oxford; Julia Computing | Saturday 8th October<br/>Personalized Medicine, PEtab, SBML |
 | Eva Liu | University of Washington Bioengineering Sys-Bio Lab | Thursday 6th October<br/>- |
 | Sebastian Lobentanzer | University Hospital Heidelberg | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, Personalized Medicine, PEtab, SBGN, SBML |
-| Augustin Luna | Harvard Medical School | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, SBGN, SBML |
 | Augustin Luna | Harvard Medical School | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, SBGN |
 | Karin Lundengård | Auckland Bioengineering Institute | Thursday 6th October, Friday 7th October<br/>- |
 | Steve Ma | NVIDIA | Thursday 6th October<br/>SBML |
@@ -242,3 +241,4 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | Pia Wilsdorf | University of Rostock | Saturday 8th October<br/>COMBINE Archive and OMEX, PEtab, SED-ML |
 | Fengkai Zhang | NIAID/NIH | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>COMBINE Archive and OMEX, ModeleXchange, SBGN, SBML, SED-ML |
 | kristina gruden | NIB | Saturday 8th October<br/>CellML, SBGN, SBML, SBOL |
+

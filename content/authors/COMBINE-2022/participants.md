@@ -46,7 +46,6 @@
 | Paul Lang | University of Oxford; Julia Computing | Saturday 8th October<br/>Personalized Medicine, PEtab, SBML |
 | Eva Liu | University of Washington Bioengineering Sys-Bio Lab | Thursday 6th October<br/>- |
 | Sebastian Lobentanzer | University Hospital Heidelberg | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, Personalized Medicine, PEtab, SBGN, SBML |
-| Augustin Luna | Harvard Medical School | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, SBGN, SBML |
 | Augustin Luna | Harvard Medical School | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, SBGN |
 | Karin Lundengård | Auckland Bioengineering Institute | Thursday 6th October, Friday 7th October<br/>- |
 | Steve Ma | NVIDIA | Thursday 6th October<br/>SBML |
