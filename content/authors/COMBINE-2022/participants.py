@@ -8,7 +8,7 @@ import pandas as pd
 
 
 def read_df(tsv_path: Path) -> pd.DataFrame:
-    """Reads dataframe from https://docs.google.com/spreadsheets/d/1ILZowd1K77Ulf8ITQMgkQOMy2YQgDLQRfdzfwxOVtVA/edit#gid=86280785."""
+    """Reads dataframe from participant xlsx."""
     df = pd.read_csv(tsv_path, sep="\t")
     df.fillna('-', inplace=True)
     # print(df.columns)
@@ -58,8 +58,8 @@ def create_attendee_list(df: pd.DataFrame) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    tsv_path: Path = Path("/home/mkoenig/Downloads/Registration_COMBINE.tsv")
-    xlsx_path: Path = Path("/home/mkoenig/Downloads/Registration_COMBINE.xlsx")
+    tsv_path: Path = Path("/home/mkoenig/Downloads/Registration_COMBINE2022.tsv")
+    xlsx_path: Path = Path("/home/mkoenig/Downloads/Registration_COMBINE2022.xlsx")
 
     df = read_df(tsv_path)
     md = create_attendee_md(df)
@@ -75,5 +75,3 @@ if __name__ == "__main__":
     # list for registration
     df_reg = create_attendee_list(df)
     df_reg.to_excel(xlsx_path, index=False)
-
-

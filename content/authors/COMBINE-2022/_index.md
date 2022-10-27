@@ -153,6 +153,7 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | Name | Affiliation | Attendance |
 |---|---|---|
 | Mihail Anton | Chalmers University of Technology | Friday 7th October<br/>COMBINE Archive and OMEX, FROG, ModeleXchange, Personalized Medicine, SBGN |
+| Lara BRUEZIERE | Novadiscovery | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>SBGN, SBML, SED-ML |
 | Irina Balaur | University of Luxembourg | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>COMBINE Archive and OMEX, Personalized Medicine, SBGN |
 | Jacob Barhak | Jacob Barhak Analytics | Friday 7th October, Saturday 8th October<br/>ModeleXchange, SBML |
 | Bryan Bartley | Raytheon BBN | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>SBOL, SBOL Visual |
@@ -165,6 +166,7 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | Lukas Buecherl | University of Colorado Boulder | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>CellML, COMBINE Archive and OMEX, Personalized Medicine, SBML, SBOL, SBOL Visual, SED-ML |
 | Zsófia Bujtár | Max Delbrück Center for Molecular Medicine in the Helmholtz Association (Berlin) | Friday 7th October, Saturday 8th October<br/>SBGN, SBML, DDE-BIFTOOL |
 | Famke Bäuerle | University of Tuebingen | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>COMBINE Archive and OMEX, FROG, Personalized Medicine, SBGN, SBML, SED-ML |
+| Jeremy Cahill | Metamer Labs | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, CellML, COMBINE Archive and OMEX, FROG, ModeleXchange, NeuroML, Personalized Medicine, PEtab, SBGN, SBML, SBOL, SBOL Visual, SED-ML |
 | Marie Coutelier | Paris Brain Institute | -<br/>CellML, COMBINE Archive and OMEX, NeuroML, Personalized Medicine |
 | Tobias Czauderna | University of Applied Sciences Mittweida | Friday 7th October, Saturday 8th October<br/>SBGN |
 | James Diggans | Twist Bioscience | Thursday 6th October<br/>SBOL, SBOL Visual |
@@ -183,8 +185,11 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | Lea Gütebier | Department of Medical Informatics, Institute for Community Medicine, University Medicine Greifswald | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>CellML, Personalized Medicine, SBML, SED-ML |
 | Jan Hasenauer | University of Bonn | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>ModeleXchange, Personalized Medicine, PEtab, SBGN, SBML, SED-ML |
 | Joseph Hellerstein | eScience Institute, University of Washington | Thursday 6th October<br/>SBML, SED-ML |
+| Joseph Hellerstein | University of Washington | Thursday 6th October<br/>PEtab, SBML, SED-ML |
 | Ron Henkel | University Medicine Greifswald | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>CellML, COMBINE Archive and OMEX, ModeleXchange, SBGN, SBML, SBOL, SED-ML |
+| Henning Hermjakob | EMBL-EBI | Friday 7th October, Saturday 8th October<br/>BioPAX, COMBINE Archive and OMEX, FROG, ModeleXchange, SBML |
 | Sebastian Höpfl | Institute for Systems Theory and Automatic Control (IST) | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>COMBINE Archive and OMEX, Personalized Medicine, PEtab, SBML |
+| Johann Fredrik Jadebeck | IBG-1 Forschungszentrum Jülich  | Thursday 6th October, Saturday 8th October<br/>FROG, SBML |
 | João Júnior | Centro de Tecnologia Canavieira | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>CellML, ModeleXchange, Personalized Medicine, SED-ML |
 | Miroslav Kratochvíl | Luxembourg Centre for Systems Biomedicine | Saturday 8th October<br/>FROG, SBML |
 | Olga Krebs | Heidelberg Institute for Theoretical Studies | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>Personalized Medicine, PEtab, SBML, SBOL, SBOL Visual, SED-ML |
@@ -193,15 +198,21 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | Paul Lang | University of Oxford; Julia Computing | Saturday 8th October<br/>Personalized Medicine, PEtab, SBML |
 | Eva Liu | University of Washington Bioengineering Sys-Bio Lab | Thursday 6th October<br/>- |
 | Sebastian Lobentanzer | University Hospital Heidelberg | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, Personalized Medicine, PEtab, SBGN, SBML |
+| Augustin Luna | Harvard Medical School | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, SBGN, SBML |
+| Augustin Luna | Harvard Medical School | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, SBGN |
 | Karin Lundengård | Auckland Bioengineering Institute | Thursday 6th October, Friday 7th October<br/>- |
 | Steve Ma | NVIDIA | Thursday 6th October<br/>SBML |
+| Simon  Merkt  | University of Bonn  | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>NeuroML, PEtab, SBGN, SBML |
 | Lukrécia Mertová | Heidelberg Institute for Theoretical Studies HITS gGmbH | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, ModeleXchange, Personalized Medicine, SBML, SBOL |
+| Goksel Misirli | Keele University | Thursday 6th October, Friday 7th October<br/>SBOL, SBOL Visual |
 | Ion Moraru | UConn Health | Thursday 6th October, Friday 7th October<br/>COMBINE Archive and OMEX, SBML, SED-ML |
 | Sébastien Moretti | SIB Swiss Institute of Bioinformatics | Thursday 6th October, Friday 7th October<br/>SBML |
 | Chris Myers | University of Colorado Boulder | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>SBOL, SBOL Visual, SBML, SED-ML |
 | Tung Nguyen | EMBL-EBI | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>BioPAX, CellML, COMBINE Archive and OMEX, FROG, ModeleXchange, Personalized Medicine, PEtab, SBGN, SBML, SED-ML |
 | David Nickerson | Auckland Bioengineering Institute, University of Auckland | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>CellML, COMBINE Archive and OMEX, ModeleXchange, Personalized Medicine, PEtab, SED-ML |
 | Dilan Pathirana | University of Bonn | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>PEtab, SBML |
+| Clemens Peiter | IRU MLS, LIMES, University of Bonn | Thursday 6th October, Friday 7th October<br/>PEtab, SBGN, SBML |
+| Sathish Periyasamy | Queensland Brain Institute | Friday 7th October, Saturday 8th October<br/>CellML, NeuroML, Personalized Medicine, SBGN, SBML |
 | Fronth Nyus Pi | Quantum4Life Sensonomiqs | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>CellML, COMBINE Archive and OMEX, NeuroML, SBML, SBOL |
 | Veronica Porubsky | University of Washington | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>NeuroML |
 | Nicole Radde | University of Stuttgart | Friday 7th October, Saturday 8th October<br/>COMBINE Archive and OMEX, ModeleXchange, Personalized Medicine, PEtab, SBML |
@@ -230,3 +241,4 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | St. Elmo Wilken | Heinrich Heine University | Saturday 8th October<br/>- |
 | Pia Wilsdorf | University of Rostock | Saturday 8th October<br/>COMBINE Archive and OMEX, PEtab, SED-ML |
 | Fengkai Zhang | NIAID/NIH | Thursday 6th October, Friday 7th October, Saturday 8th October<br/>COMBINE Archive and OMEX, ModeleXchange, SBGN, SBML, SED-ML |
+| kristina gruden | NIB | Saturday 8th October<br/>CellML, SBGN, SBML, SBOL |
