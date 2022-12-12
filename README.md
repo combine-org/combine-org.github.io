@@ -1,4 +1,4 @@
-# Best-practices documentation for modifying the website
+# Best-practices documentation for modifying the website 
 
 ## Setup and requirements
 The website is developed with [hugo](https://gohugo.io/) and requires
