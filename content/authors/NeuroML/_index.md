@@ -34,7 +34,7 @@ user_groups:
 
  The <a rel="nofollow" class="external text" href="http://neuroml.org">NeuroML project</a> focuses on the development of an XML based description language that provides a common data format for defining and exchanging descriptions of neuronal cell and network models.
 
-The latest stable specification is <a rel="nofollow" class="external text" href="https://docs.neuroml.org/Userdocs/NeuroMLv2.html">Version 2.1</a>.
+The latest stable specification is <a rel="nofollow" class="external text" href="https://docs.neuroml.org/Userdocs/NeuroMLv2.html">Version 2.2</a>.
 
 NeuroML development is coordinated by an <a rel="nofollow" class="external text" href="https://docs.neuroml.org/NeuroMLOrg/Board.html">elected editorial board</a>.
 

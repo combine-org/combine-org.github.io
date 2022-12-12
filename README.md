@@ -11,7 +11,7 @@ Next step is to clone the repository
 * git clone this repository: `git clone https://github.com/combine-org/combine-org.github.io.git`
 * change into the folder: `cd combine-org.github.io`
 * run the hugo server: `hugo server`
-* check it is up and running at `https://localhost:1313`
+* check it is up and running at `http://localhost:1313`
   
 ## Changing pages
 * create a branch for the changes
