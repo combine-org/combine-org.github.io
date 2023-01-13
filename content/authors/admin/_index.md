@@ -70,7 +70,7 @@ user_groups:
 
 ---
 
-The "COmputational Modeling in BIology NEtwork" (COMBINE) is an initiative to coordinate the development of the various community <a href="/standards">standards and formats</a> for computational models. By doing so, it is expected that the federated projects will develop a set of interoperable and non-overlapping standards covering all aspects of modeling in biology. The global COMBINE effort is led by the <a href="/standards">COMBINE Coordination Board</a>.
+The "Computational Modeling in Biology Network" (COMBINE) is an initiative to coordinate the development of the various community <a href="/standards">standards and formats</a> for computational models. By doing so, it is expected that the federated projects will develop a set of interoperable and non-overlapping standards covering all aspects of modeling in biology. The global COMBINE effort is led by the <a href="/standards">COMBINE Coordination Board</a>.
 
 Building on the experience of mature projects, which already have stable specifications, software support, user-base and community governance, COMBINE will help foster or support fledgling efforts aimed at filling gaps or new needs. As those efforts mature, they may become part of the <a href="/standards">core set of COMBINE standards</a>.
 
