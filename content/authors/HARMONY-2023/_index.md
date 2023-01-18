@@ -4,7 +4,7 @@ title: Harmony 2023
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: 25-28, April 2023
+conf_date: 24-27, April 2023
 
 conf_location:  Seattle, WA
 
@@ -16,7 +16,7 @@ important_dates:
 # - name: Notification of acceptance of breakouts
 #  date: April 6, 2022
 - name: HARMONY Workshop
-  date: April 25 to 28, 2023
+  date: April 24 to 27, 2023
 
 important_links:
 - name: Agenda
