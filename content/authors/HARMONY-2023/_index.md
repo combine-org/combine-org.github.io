@@ -9,33 +9,35 @@ conf_date: 24-27, April 2023
 conf_location:  Seattle, WA
 
 important_dates:
-# - name: Breakout submission deadline
-#  date: April 4, 2022
-# - name: Lightning talk submission deadline
-#  date: April 4, 2022
-# - name: Notification of acceptance of breakouts
-#  date: April 6, 2022
+- name: Breakout submission deadline (for initial scheduling)
+  date: April 2, 2023
+- name: Lightning talk and poster submission deadline
+  date: April 2, 2023
+- name: Notification of acceptance of breakouts and abstracts
+  date: April 7, 2023
 - name: HARMONY Workshop
   date: April 24 to 27, 2023
 
 important_links:
 - name: Agenda
   link: https://combine-org.github.io/events/
-# - name: Registration
-#  link: https://forms.gle/AvdPZ5pLNSWBtZWq5
-# - name: Breakout submission
-#  link: https://forms.gle/8Q8iSn16VWmuGWgh7
+- name: Registration
+  link: https://forms.gle/Nqec2JdyRj12HobK9
+- name: Breakout submission
+  link: https://forms.gle/rYZhqbekKLs1RY3B7
+- name: Lightning talk and poster submission
+  link: https://forms.gle/hcpWJrKCtFQDuPwR6
 
 information:
-# - name: Registration
-#  description: Registration for the meeting is open and is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to video conferencing links, etc.
-#  link: https://forms.gle/AvdPZ5pLNSWBtZWq5
-# - name: Call for Breakout Sessions
-#  description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions.
-#  link: https://forms.gle/8Q8iSn16VWmuGWgh7
-# - name: Call for Lightning Talks
-#  description: Requests for a lightning talk (3 min max.) can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session.
-#  link: https://forms.gle/QbQfmDPYUi2pHy5W7
+- name: Registration
+  description: Registration for the meeting is open and is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to video conferencing links, etc.
+  link: https://forms.gle/Nqec2JdyRj12HobK9
+- name: Call for Breakout Sessions
+  description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
+  link: https://forms.gle/rYZhqbekKLs1RY3B7
+- name: Call for Lightning Talks and Posters
+  description: Requests for a lightning talk (3 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
+  link: https://forms.gle/hcpWJrKCtFQDuPwR6
 
 topics:
 - Data exchange, pipelines and model standards for systems and synthetic biology
