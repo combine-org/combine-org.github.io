@@ -6,7 +6,7 @@ superuser: false
 
 conf_date: 24-27, April 2023
 
-conf_location:  Seattle, WA
+conf_location: Seattle, WA
 
 important_dates:
 - name: Breakout submission deadline (for initial scheduling)
