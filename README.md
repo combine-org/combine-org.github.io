@@ -88,13 +88,15 @@ headless = false  # Homepage is headless, other widget pages are not.
 
 * **Creating new event**:
   1) Copy Harmony-2021 folder, and fill up the template.
-  2) Modify or add the "Events tag under the "user_groups:" section.
+  2) Modify or add the "Events" tag under the "user_groups:" section.
 
 * **Changing current event to past event**:
   1) Go to the event folder in \authors. In the index.md file, tag from "Events" to "Past Events" under the "user_groups:" section.
   2) Go to home/current.md and change author to new current event's id. If there is NO new current conference, comment out entire file.
   3) Go to events/current.md change author to new current event's id (Always have to have new event). If there is NO new current, comment out entire file.
-
+   
+* **Changing current event to future event**:
+  1) Go to the event folder in \authors. In the index.md file, tag from "Events" to "Future Events" under the "user_groups:" section.
 ## Common error and mistakes
 
 * Folders **must not** have any spaces. Use web-friendly hyphens instead.
