@@ -64,7 +64,7 @@
     {{end}}
 
     {{/* Display the event layout for current and future events. */}}
-    {{ if and .File (intersect .Params.user_groups (slice "Future Event" "Events")) }}
+    {{ if and .File (intersect .Params.user_groups (slice "Future Events" "Events")) }}
     
       {{ $person := .Params }}
       <div class="row">
