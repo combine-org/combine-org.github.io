@@ -8,19 +8,21 @@ conf_date: XX-XX 2023
 
 conf_location: TBD
 
-# important_dates:
-# - name: Breakout/tutorial submission deadline
-#   date: ~~August 26, 2022~~ September 10, 2022
-# - name: Forum abstract submission deadline
-#   date: ~~August 26, 2022~~ September 30, 2022
-# - name: Initial notification of acceptance (and then ongoing)
-#  date: September 9, 2022
+important_dates:
+- name: Breakout submission deadline (for initial scheduling)
+  date: April 2, 2023
+- name: Lightning talk and poster submission deadline
+  date: April 2, 2023
+- name: Notification of acceptance of breakouts and abstracts
+  date: April 7, 2023
+- name: HARMONY Workshop
+  date: April 24 to 27, 2023
 
-important_links:
-- name: Registration
-  link: TBD
-- name: Zoom stream registration
-  link: TBD
+# important_links:
+# - name: Registration
+#   link: TBD
+# - name: Zoom stream registration
+#   link: TBD
 
 # - name: Breakouts/Tutorials submission
 #   link: https://forms.gle/4VHZTxR5FcY2GLhR8
@@ -46,7 +48,6 @@ user_groups:
 - Future Events
 
 ---
-<img src="/images/combine2022/COMBINE2022_logo.png" alt="demo" class="img-responsive">
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2022 will be a workshop-style event with oral presentations, breakout sessions and tutorials. The three meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
 
