@@ -9,14 +9,14 @@ conf_date: XX-XX 2023
 conf_location: TBD
 
 important_dates:
-- name: Breakout submission deadline (for initial scheduling)
-  date: April 2, 2023
-- name: Lightning talk and poster submission deadline
-  date: April 2, 2023
-- name: Notification of acceptance of breakouts and abstracts
-  date: April 7, 2023
-- name: HARMONY Workshop
-  date: April 24 to 27, 2023
+- name: Registration Opening
+  date: TBC
+#- name: Lightning talk and poster submission deadline
+#  date: April 2, 2023
+#- name: Notification of acceptance of breakouts and abstracts
+#  date: April 7, 2023
+#- name: HARMONY Workshop
+#  date: April 24 to 27, 2023
 
 # important_links:
 # - name: Registration
@@ -33,10 +33,10 @@ important_dates:
 
 information:
 - name: Registration
-  description: Registration for the meeting is open and is free. Please register at the link on the left as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc.
+  description: Stay tuned for announcements confirming the important dates for the meeting.
   link: TBD
 - name: Organizers
-  description: The COMBINE 2023 meeting is organised by Dagmar Waltemath and Matthias König.
+  description: The COMBINE 2023 meeting will be organised by Ion Moraru and Michael Blinov.
   link: ../people/
 
 topics:
@@ -49,7 +49,7 @@ user_groups:
 
 ---
 
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2023 will be a workshop-style event with oral presentations, breakout sessions and tutorials. The three meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2023 will be a workshop-style event hosted at the University of Connecticut Health Center, Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the ICSB meeting. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
 
 
 <h1>Agenda</h1>
