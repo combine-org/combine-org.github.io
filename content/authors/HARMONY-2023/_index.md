@@ -38,6 +38,12 @@ information:
 - name: Call for Lightning Talks and Posters
   description: Requests for a lightning talk (3 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
   link: https://forms.gle/hcpWJrKCtFQDuPwR6
+- name: Workshop Location Details
+  description: HARMONY 2023 takes place at the University of Washington (UW, and commonly called "U-Dub") in Seattle, Washington. HARMONY 2023 will take place in the William H. Foege Bioengineering building, at [3720 15th Ave NE, Seattle, WA 98195](https://goo.gl/maps/rEGPZXcLkiHBcwBa7).  The building is locked during the day, but will be open the half-hour before the meeting begins.  If you arrive later than that, call the department reception at 206-685-2000, or email any of the organizers, or ping us on the [COMBINE slack channel](combine-workspace.slack.com).
+- name: Arrival and Transportation
+  description: From the Seatac Airport, take the [Link Light Rail](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations) north from the airport, and exit at the University of Washington station (NOT Univeristy *Street* Station; that's a downtown stop).  It's a relatively short walk [from there to the Bioengineering building](https://goo.gl/maps/82vspAtwTpG439xN7).  The nearest hotel is [slightly further](https://goo.gl/maps/6TMqczLss91J3TZL7); a little over one mile, so you might want to bus/taxi depending on how much luggage you have.  If you get an [ORCA card](https://www.soundtransit.org/ride-with-us/how-to-pay), you can use that on any of the buses or other light rail trips you might take during your stay.  There's also a ['Transit GO Ticket'](https://kingcounty.gov/en/depts/metro/fares-and-payment/ways-to-pay/transit-go-ticket) app you should be able to use from your phone (untested by me, but it seems reasonable?).
+- name: Hotels
+  description: The closest hotel to the Bioengineering department is the [Univeristy Inn](https://www.staypineapple.com/university-inn-seattle-wa) at [4140 Roosevelt Way NE, Seattle, WA 98105](https://goo.gl/maps/eZ7bJMLNi5hBWr2H6); it's about a [half mile walk](https://goo.gl/maps/bdWK28hoyLREGFff8) between there and the venue.  About a block further (and inexplicably slightly more expensive) is the [Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa), at [4242 Roosevelt Way NE, Seattle, WA 98105](https://goo.gl/maps/3k6jrAKmF9JocTo66).  Any hotel anywhere along the [Link Light Rail](https://www.soundtransit.org/ride-with-us/stations/link-light-rail-stations) line will be easy to get to/from as well, as the Univeristy of Washington station is just a half mile away from the venue.
 
 topics:
 - Data exchange, pipelines and model standards for systems and synthetic biology
@@ -63,6 +69,4 @@ HARMONY 2023 will be hosted by Herbert Sauro and the Center for Reproducible Bio
 
 Most of each day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
 
-<h1>Workshop Location Details</h1>
 
-HARMONY 2023 takes place at the University of Washington (UW, and commonly called "U-Dub") in Seattle, Washington. HARMONY 2023 will take place in the William H. Foege Bioengineering building, more details will be forthcoming.
