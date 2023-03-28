@@ -68,7 +68,7 @@ Most of each day will be scheduled by the communities as breakouts. In addition,
 
 HARMONY 2023 takes place at the University of Washington (UW, and commonly called "U-Dub") in Seattle, Washington. HARMONY 2023 will take place in the William H. Foege Bioengineering building, at [3720 15th Ave NE, Seattle, WA 98195](https://goo.gl/maps/rEGPZXcLkiHBcwBa7).  The building is locked during the day, but will be open the half-hour before the meeting begins.  If you arrive later than that, call the department reception at 206-685-2000, or email any of the organizers, or ping us on the [COMBINE slack channel](combine-workspace.slack.com).
 
-<img src="https://lh3.googleusercontent.com/p/AF1QipMII3K_7bBBFjmJKk8yurRppvMB2bbU3gcQoir3=s1360-w1360-h1020"  width="55%"> <img src="/assets/images/uw_bioe_map_small.png"  width="39%">
+<img src="https://lh3.googleusercontent.com/p/AF1QipMII3K_7bBBFjmJKk8yurRppvMB2bbU3gcQoir3=s1360-w1360-h1020"  width="55%"> <img src="/images/harmony2023/uw_bioe_map_small.png"  width="39%">
 
 <h3>Arrival and Transportation</h3>
 
