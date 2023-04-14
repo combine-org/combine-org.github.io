@@ -41,4 +41,4 @@ The latest stable specification is <a rel="nofollow" class="external text" href=
 
 SBML development is <a rel="nofollow" class="external text" href="http://sbml.org/About"> coordinated</a> by an elected editorial board and central developer team.
 
-Over 250 software systems known to support SBML can be found in the <a rel="nofollow" class="external text" href="http://sbml.org/SBML_Software_Guide"> SBML software guide</a>.  APIs are available to help implementing support: <a rel="nofollow" class="external text" href="http://sbml.org/Software/libSBML"> libSBML</a> in C++ and <a rel="nofollow" class="external text" href="http://sbml.org/Software/JSBML"> JSBML</a> in Java.
+Over 250 software systems known to support SBML can be found in the SBML software documentation.  APIs are available to help implementing support: <a rel="nofollow" class="external text" href="http://sbml.org/Software/libSBML"> libSBML</a> in C++ and <a rel="nofollow" class="external text" href="http://sbml.org/Software/JSBML"> JSBML</a> in Java.

@@ -33,10 +33,8 @@ user_groups:
 
 The <a rel="nofollow" class="external text" href="http://sed-ml.org/">Simulation Experiment Description Markup Language (SED-ML)</a> is an XML-based format for encoding simulation experiments. SED-ML allows to define the models to use, the experimental tasks to run and which results to produce.is a computer-readable format for representing the models of biological processes. SED-ML can be used with models encoded in several languages, as far as they are in XML.
 
-The latest stable specification is <a rel="nofollow" class="external text" href="http://co.mbine.org/specifications/sed-ml.level-1.version-3.pdf">Level 1 Version 3</a>.
+The latest stable specification is <a rel="nofollow" class="external text" href="https://sed-ml.org/documents/sed-ml-L1V3.pdf">Level 1 Version 3</a>.
 
 SED-ML development is coordinated by an <a rel="nofollow" class="external text" href="http://sed-ml.org/about.html">elected editorial board</a>.
 
-APIs are available to help implementing support: <a rel="nofollow" class="external text" href="http://libsedml.sourceforge.net/libSedML/Welcome.html">libSedML</a> in C#, <a rel="nofollow" class="external text" href="https://github.com/fbergmann/libSEDML">libSEDML</a> in C++ with swig bindings for python, java, perl, R and ruby, and <a rel="nofollow" class="external text" href="https://github.com/fbergmann/libSEDMLML/Welcome.html">jlibsedml</a> in Java.
-
-<a rel="nofollow" class="external text" href="http://co.mbine.org/standards/sed-ml">More information</a>
+APIs are available to help implementing support: <a rel="nofollow" class="external text" href="http://libsedml.sourceforge.net/libSedML/Welcome.html">libSedML</a> in C#, <a rel="nofollow" class="external text" href="https://github.com/fbergmann/libSEDML">libSEDML</a> in C++ with swig bindings for python, java, perl, R and ruby, and jlibsedml in Java.

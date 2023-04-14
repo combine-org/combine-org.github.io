@@ -46,4 +46,4 @@ CellML development is coordinated by an <a rel="nofollow" class="external text" 
 
 APIs are available to help implementing support: <a rel="nofollow" class="external text" href="https://libcellml.org">libCellML</a> in C++, with Python and Javascript bindings available.
 
-<a rel="nofollow" class="external text" href="http://co.mbine.org/standards/CellML">More information.</a>
+<a rel="nofollow" class="external text" href="https://www.cellml.org/about">More information.</a>
