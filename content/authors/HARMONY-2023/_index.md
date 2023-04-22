@@ -86,8 +86,6 @@ The closest hotel to the Bioengineering department is the [Univeristy Inn](https
 
 <h3> Attendees </h3>
 
-# Attendees
-
 The following is the list of known attendees as of 21/04/2023 21:59:29 UTC (58 total registered, 51 listed below)
 
 | Name | Affiliation | Attendance |
