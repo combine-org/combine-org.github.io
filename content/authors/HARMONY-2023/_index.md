@@ -63,12 +63,18 @@ HARMONY 2023 will be hosted by Herbert Sauro and the Center for Reproducible Bio
 
 Most of each day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
 
+<h3> Schedule </h3>
+
+Here's the [full (editable) schedule](https://docs.google.com/spreadsheets/d/1Jjs22pMGjJZfeT7tp8btoJxQLXnCdWysEIKn26U72_4/edit#gid=0).  Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE discord for last-minute changes and additions.
+
 
 <h3>Workshop Location Details</h3>
 
 HARMONY 2023 takes place at the University of Washington (UW, and commonly called "U-Dub") in Seattle, Washington. HARMONY 2023 will take place in the William H. Foege Bioengineering building, at [3720 15th Ave NE, Seattle, WA 98195](https://goo.gl/maps/rEGPZXcLkiHBcwBa7).  The building is locked during the day, but will be open the half-hour before the meeting begins.  If you arrive later than that, call the department reception at 206-685-2000, or email any of the organizers, or ping us on the [COMBINE slack channel](combine-workspace.slack.com).
 
 <img src="/images/harmony2023/foege and map.png" width="95%" alt="Foege building and map">
+
+The doors will be locked, so please knock (there's lots of glass), call the Department front desk at (206) 685-2000 or email lpsmith@uw or bioeasst@uw.edu or ping us on the COMBINE Slack!
 
 
 <h3>Arrival and Transportation</h3>
