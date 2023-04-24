@@ -100,3 +100,6 @@ headless = false  # Homepage is headless, other widget pages are not.
 ## Common error and mistakes
 
 * Folders **must not** have any spaces. Use web-friendly hyphens instead.
+  
+## Resources for website design/modification
+* HARMONY 2021 slides that discuss the general website layout and workflows: "static\media\2021 Harmony_Website Creation Hugo and Academic_v001.pptx"
