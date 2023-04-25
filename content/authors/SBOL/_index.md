@@ -33,7 +33,7 @@ user_groups:
 
 The <a rel="nofollow" class="external text" href="http://www.sbolstandard.org/">Synthetic Biology Open Language Data (SBOL Data)</a> is a language for the description and the exchange of synthetic biological parts, devices and systems. 
 
-The latest stable specification of SBOL Data is <a rel="nofollow" class="external text" href="http://co.mbine.org/specifications/sbol.version-3.0.0.pdf">3.0.0</a>.
+The latest stable specification of SBOL Data is <a rel="nofollow" class="external text" href="https://sbolstandard.org/docs/SBOL3.0.0.pdf">3.0.0</a>.
 
 SBOL Data is developed by the <a rel="nofollow" class="external text" href="https://sbolstandard.org/community/">SBOL Developers Group</a>. The development is coordinated by an <a rel="nofollow" class="external text" href="https://sbolstandard.org/community-governance/">editorial board and the SBOL Chair</a>.
 

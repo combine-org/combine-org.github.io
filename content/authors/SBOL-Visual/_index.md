@@ -33,8 +33,8 @@ user_groups:
 
 The <a rel="nofollow" class="external text" href="http://sbolstandard.org/visual/">Synthetic Open Language Visual (SBOL Visual)</a> is an open-source graphical notation that uses schematic “glyphs” to specify genetic parts, devices, modules, and systems.
 
-The latest stable specification of SBOL Visual is <a rel="nofollow" class="external text" href="http://sbolstandard.org/wp-content/uploads/2017/10/SBOLVisual_Specification_2_0_0.pdf">2.0.0</a>.
+The latest stable specification of SBOL Visual is <a rel="nofollow" class="external text" href="https://sbolstandard.org/docs/SBOLVisual_Specification_2_0_0.pdf">2.0.0</a>.
 
-SBOL is developed by the <a rel="nofollow" class="external text" href="http://sbolstandard.org/developers/">SBOL Developers Group</a> and <a rel="nofollow" class="external text" href="http://sbolstandard.org/visual-2/">SBOL Visual Group</a>. The development is coordinated by an <a rel="nofollow" class="external text" href="http://sbolstandard.org/gov/">editorial board and the SBOL Chair</a>.
+SBOL is developed by the SBOL Developers Group and SBOL Visual Group. The development is coordinated by an <a rel="nofollow" class="external text" href="https://sbolstandard.org/community-governance/">editorial board and the SBOL Chair</a>.
 
-SBOL Visual is supported by many <a rel="nofollow" class="external text" href="http://sbolstandard.org/software/tools/">software tools</a>.
+SBOL Visual is supported by many <a rel="nofollow" class="external text" href="https://sbolstandard.org/#applications">software tools</a>.
