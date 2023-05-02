@@ -4,9 +4,9 @@ title: COMBINE 2023
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: XX-XX 2023
+conf_date: 5-8 October, 2023
 
-conf_location: TBD
+conf_location: Center for Cell Analysis and Modeling, UConn Health, 400 Farmington Ave, Farmington CT 06030, USA
 
 important_dates:
 - name: Registration Opening
