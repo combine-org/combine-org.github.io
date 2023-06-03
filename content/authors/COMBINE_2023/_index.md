@@ -11,23 +11,23 @@ conf_location: Center for Cell Analysis and Modeling, UConn Health, 400 Farmingt
 important_dates:
 - name: Registration Opening
   date: June 7, 2023
-- name: Lightning talk and breakouts/tutorials submission deadline
+# - name: Lightning talks, breakouts, tutorials submission deadline
 #  date: September 1, 2023
 - name: Notification of acceptance of breakouts and abstracts
   date: on a rolling basis
-#- name: HARMONY Workshop
+# - name: HARMONY Workshop
 #  date: April 24 to 27, 2023
 
  important_links:
  - name: Registration
    link: TBD
- - name: Students financial support application
-   link: https://docs.google.com/forms/d/1cWZT-batwsEHeb030FYUgXORt73yfltqhNqwNp7TVxU
+# - name: Students financial support application
+#   link: https://docs.google.com/forms/d/1cWZT-batwsEHeb030FYUgXORt73yfltqhNqwNp7TVxU
 
- - name: Breakouts/Tutorials submission
-   link: https://forms.gle/4VHZTxR5FcY2GLhR8
- - name: Agenda
-   link: TBA
+# - name: Breakouts/Tutorials submission
+#   link: https://forms.gle/4VHZTxR5FcY2GLhR8
+# - name: Agenda
+#   link: TBA
 # - name: Conference Book
 #   link: TBA
 
