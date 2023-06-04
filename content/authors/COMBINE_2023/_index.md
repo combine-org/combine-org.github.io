@@ -83,17 +83,3 @@ The closest airport is the Bradley International Airport (BDL). The recommended 
 The closest hotel to the CCAM is the [Homewood Suites by Hilton Hartford-Farmington]([https://www.hilton.com/en/hotels/hfdfmhw-homewood-suites-hartford-farmington/]) at [2 Farm Glen Boulevard, Farmington, Connecticut, 06032](https://goo.gl/maps/jMK2dqEYqKSDf7vC7); it's about a [7 minutes walk](https://goo.gl/maps/D5j5SQnSLiRQFaKx9) between there and the venue. The hotel serves hot breakfast. A University rate of $154/night will be provided upon request. There are more hotels in the area, but any other hotel will require a car.
 
 <h3> Attendees </h3>
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Future Events
-
----
-
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2023 will be a workshop-style event hosted at the University of Connecticut Health Center, Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the ICSB meeting. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
-
-
-<h1>Agenda</h1>
-TBD
-
