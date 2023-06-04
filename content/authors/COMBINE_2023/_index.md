@@ -29,8 +29,6 @@ important_links:
   link: TBA
 
 information:
-- name: Purpose
-  description: The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2023** will be a workshop-style event hosted at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center, Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the **ICSB** meeting. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There are no dedicated poster sessions, but paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 - name: Registration
   description: Registration for the meeting is open and is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
   link: TBA
@@ -40,9 +38,7 @@ information:
 - name: Call for Lightning Talks and Posters
   description: Requests for a lightning talk (3 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
   link: TBA
-- name: Shedule
-  description: A draft schedule will be available soon. Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE discord for last-minute changes and additions.
-   
+
 
 topics:
 - Data exchange, pipelines and model standards for systems and synthetic biology
@@ -62,18 +58,19 @@ user_groups:
 - Events
 
 ---
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2023** will be a workshop-style event hosted at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center, Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the **ICSB** meeting. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There are no dedicated poster sessions, but paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
 COMBINE 2023 will be hosted by Michael Blinov (blinov@uchc.edu) and Ion Moraru (moraru@uchc.edu). 
 
-<h3> Schedule </h3>
+<h3>Schedule</h3>
 
-A draft schedule will be available soon. Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE discord for last-minute changes and additions.
+A draft schedule will be available soon. Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE slack for last-minute changes and additions.
 
-<h3>Workshop Location Details</h3>
+<h3>Workshop Location</h3>
 
 COMBINE 2023 takes place at the Center for Cell Analysis and Modeling (CCAM) in Farmington, CT. COMBINE 2023 will take place in the Cell and Genome Sciences building, at [400 Farmington Ave, Farmington, CT 06119](https://goo.gl/maps/Ms25yakj7NU7dFsv5). If the doors are locked, please knock (there's lots of glass), email blinov@uchc.edu or moraru@uchc.edu, or ping us on the [COMBINE slack channel](combine-workspace.slack.com).
 
-<img src="/images/combine2023/ccam.jpg" width="100%" alt="ccam.jpg">
+<img src="/images/combine2023/ccam.jpg" width="50%" alt="ccam.jpg">
 
 
 <h3>Arrival and Transportation</h3>
@@ -88,5 +85,5 @@ The closest hotel to the CCAM is the [Homewood Suites by Hilton Hartford-Farming
 
 ---
 
-<h1>Agenda</h1>
+#<h1>Agenda</h1>
 
