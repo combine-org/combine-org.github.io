@@ -86,4 +86,3 @@ The closest hotel to the CCAM is the [Homewood Suites by Hilton Hartford-Farming
 
 <h1>Agenda</h1>
 
-
