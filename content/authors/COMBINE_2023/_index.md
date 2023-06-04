@@ -9,24 +9,24 @@ conf_date: 5-8, October 2023
 conf_location: Farmington, CT
 
 important_dates:
-- name: Breakouts, talks and tutorials submission deadline (for initial scheduling)
+- name: Breakouts, talks and tutorials submission deadline
   date: September 1, 2023
 - name: Lightning talk and poster submission deadline
   date: September 15, 2023
-- name: Notification of acceptance of breakouts and abstracts
+- name: Notification of acceptance of breakouts and tutorials
   date: September 7, 2023
-#- name: HARMONY Workshop
-#  date: April 24 to 27, 2023
+- name: DEADLINE for student travel support applications
+  date: September 1, 2023
 
 important_links:
-- name: Agenda
-  link: TBC
+#- name: Agenda
+#  link: 
 - name: Registration
-  link: https://forms.gle/Nqec2JdyRj12HobK9
-- name: TBA
-  link: https://forms.gle/rYZhqbekKLs1RY3B7
-- name: Lightning talk and poster submission
+  link: https://forms.gle/7pbiYps84yUvEbsY9
+- name: Talks, lightning talks, break-outs, tutorials and poster submission
   link: TBA
+- name: Application for student travel support
+  link: https://forms.gle/whr1MusnSEFZD3vy8
 
 information:
 - name: Registration
@@ -70,16 +70,19 @@ A draft schedule will be available soon. Note that many events are scheduled som
 
 COMBINE 2023 takes place at the [Center for Cell Analysis and Modeling (CCAM)](https://health.uconn.edu/cell-analysis-modeling/) in Farmington, CT. **COMBINE 2023** will take place in the Cell and Genome Sciences building, at [400 Farmington Ave, Farmington, CT 06119](https://goo.gl/maps/Ms25yakj7NU7dFsv5). If the doors are locked, please knock, email blinov@uchc.edu or moraru@uchc.edu, or ping us on the [COMBINE slack channel](https://combine-workspace.slack.com).
 
-<img src="/images/combine2023/ccam.jpg" width="50%" alt="ccam.jpg"><img src="/images/combine2023/ccam2.jpg" width="100%" alt="ccam.jpg">
+<img src="/images/combine2023/ccam.jpg" width="45%" alt="ccam.jpg"><img src="/images/combine2023/ccam2.jpg" width="45%" alt="ccam.jpg">
 
+<font color = red>Students may apply for a travel support from NSF!!! Link is on the right! </font>
 
 <h3>Arrival and Transportation</h3>
 
 The closest airport is the [Bradley International Airport (BDL)](https://bradleyairport.com/). The recommended transportation is to take Uber/Lyft to 400 Farmington Ave, Farmington, CT. It takes about 25 minutes and costs about $40. You may rent a car at BDL - all parking at the workshop location and hotel are free. A less expensive but long travel from BDL is to take Bradley Flyer Bus (#30) from BDL to Central Row North Side at Old State House Station, and then take a [bus 66T](https://goo.gl/maps/9BpUPEqBUb5Zgrnm7) from Main St & Asylum St to 400 Farmington Ave. It takes 1 to 3 hours depending on schedules. 
 
-<h3>Hotels</h3>
+<h3>Accomodations and meals</h3>
 
-The closest hotel to the CCAM is the [Homewood Suites by Hilton Hartford-Farmington](https://www.hilton.com/en/hotels/hfdfmhw-homewood-suites-hartford-farmington/) at [2 Farm Glen Boulevard, Farmington, Connecticut, 06032](https://goo.gl/maps/jMK2dqEYqKSDf7vC7); it's [7 minutes walk](https://goo.gl/maps/D5j5SQnSLiRQFaKx9) between there and the venue. The hotel serves hot breakfast. A University rate of $154/night will be provided upon request. There are more hotels in the area, but any other hotel will require a car.
+The closest hotel to the CCAM is the [Homewood Suites by Hilton Hartford-Farmington](https://www.hilton.com/en/hotels/hfdfmhw-homewood-suites-hartford-farmington/) at [2 Farm Glen Boulevard, Farmington, Connecticut, 06032](https://goo.gl/maps/jMK2dqEYqKSDf7vC7); it's [7 minutes walk](https://goo.gl/maps/D5j5SQnSLiRQFaKx9) between there and the venue. A University rate of $154/night will be provided upon request. There are more hotels in the area, but any other hotel will require a car.
+
+The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](https://butchersandbakers.com/) 15 minutes walk, but no food stores within walking distance. We will serve food at the venue, depending on the sponsors it may be free or for a nominal fee.
 
 
 ---
