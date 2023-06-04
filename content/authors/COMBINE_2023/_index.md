@@ -57,11 +57,9 @@ user_groups:
 - Events
 
 ---
-The Computational Modeling in Biology Network (COMBINE) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2023** will be a workshop-style event hosted at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center, Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the **ICSB** meeting. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There are no dedicated poster sessions, but paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
-COMBINE 2023 will be hosted by Michael Blinov and Ion Moraru at the Center for Cell Analysis and Modeling at the UConn Health, Farmington, CT. It is primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
-
-Most of each day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
+COMBINE 2023 will be hosted by Michael Blinov (blinov@uchc.edu) and Ion Moraru (moraru@uchc.edu). 
 
 <h3> Schedule </h3>
 
@@ -69,7 +67,7 @@ A draft schedule will be available soon. Note that many events are scheduled som
 
 <h3>Workshop Location Details</h3>
 
-COMBINE 2023 takes place at the Center for Cell Analysis and Modeling (CCAM) in Farmington, CT. COMBINE 2023 will take place in the Cell and Genome Sciences building, at [400 Farmington Ave, Farmington, CT 06119]([https://goo.gl/maps/Ms25yakj7NU7dFsv5]). If the doors are locked, please knock (there's lots of glass), email blinov@uchc.edu or moraru@uchc.edu, or ping us on the [COMBINE slack channel](combine-workspace.slack.com).
+COMBINE 2023 takes place at the Center for Cell Analysis and Modeling (CCAM) in Farmington, CT. COMBINE 2023 will take place in the Cell and Genome Sciences building, at [400 Farmington Ave, Farmington, CT 06119](https://goo.gl/maps/Ms25yakj7NU7dFsv5). If the doors are locked, please knock (there's lots of glass), email blinov@uchc.edu or moraru@uchc.edu, or ping us on the [COMBINE slack channel](combine-workspace.slack.com).
 
 <img src="/images/combine2023/ccam.jpg" width="100%" alt="ccam.jpg">
 
@@ -80,6 +78,11 @@ The closest airport is the Bradley International Airport (BDL). The recommended 
 
 <h3>Hotels</h3>
 
-The closest hotel to the CCAM is the [Homewood Suites by Hilton Hartford-Farmington]([https://www.hilton.com/en/hotels/hfdfmhw-homewood-suites-hartford-farmington/]) at [2 Farm Glen Boulevard, Farmington, Connecticut, 06032](https://goo.gl/maps/jMK2dqEYqKSDf7vC7); it's about a [7 minutes walk](https://goo.gl/maps/D5j5SQnSLiRQFaKx9) between there and the venue. The hotel serves hot breakfast. A University rate of $154/night will be provided upon request. There are more hotels in the area, but any other hotel will require a car.
+The closest hotel to the CCAM is the [Homewood Suites by Hilton Hartford-Farmington](https://www.hilton.com/en/hotels/hfdfmhw-homewood-suites-hartford-farmington/) at [2 Farm Glen Boulevard, Farmington, Connecticut, 06032](https://goo.gl/maps/jMK2dqEYqKSDf7vC7); it's about a [7 minutes walk](https://goo.gl/maps/D5j5SQnSLiRQFaKx9) between there and the venue. The hotel serves hot breakfast. A University rate of $154/night will be provided upon request. There are more hotels in the area, but any other hotel will require a car.
 
-<h3> Attendees </h3>
+# <h3> Attendees </h3>
+
+---
+
+<h1>Agenda</h1>
+
