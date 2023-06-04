@@ -54,14 +54,14 @@ topics:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Events
+- Past Events
 
 ---
 The Computational Modeling in Biology Network (COMBINE) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
 
-HARMONY 2023 will be hosted by Herbert Sauro and the Center for Reproducible Biomedical Modeling at the University of Washington, Seattle, WA. It is going to be organized primarily as an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
+HARMONY 2023 was hosted by Herbert Sauro and the Center for Reproducible Biomedical Modeling at the University of Washington, Seattle, WA. It was organized primarily as an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
-Most of each day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
+Most of each day was scheduled by the communities as breakouts. In addition, we had some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
 
 <h3> Schedule </h3>
 
