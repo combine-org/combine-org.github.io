@@ -70,7 +70,9 @@ A draft schedule will be available soon. Note that many events are scheduled som
 
 COMBINE 2023 takes place at the [Center for Cell Analysis and Modeling (CCAM)](https://health.uconn.edu/cell-analysis-modeling/) in Farmington, CT. **COMBINE 2023** will take place in the Cell and Genome Sciences building, at [400 Farmington Ave, Farmington, CT 06119](https://goo.gl/maps/Ms25yakj7NU7dFsv5). If the doors are locked, please knock, email blinov@uchc.edu or moraru@uchc.edu, or ping us on the [COMBINE slack channel](https://combine-workspace.slack.com).
 
-<img src="/images/combine2023/ccam.jpg" width="45%" alt="ccam.jpg"><img src="/images/combine2023/ccam2.jpg" width="45%" alt="ccam.jpg">
+<table>
+<tr><img src="/images/combine2023/ccam.jpg" width="45%" alt="ccam.jpg"><img src="/images/combine2023/ccam2.jpg" width="45%" alt="ccam.jpg"></tr>
+ </table>
 
 <font color = red>Students may apply for a travel support from NSF!!! Link is on the right! </font>
 
