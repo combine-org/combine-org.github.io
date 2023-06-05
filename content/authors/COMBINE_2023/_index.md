@@ -62,7 +62,7 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 
 Local organizers are Michael Blinov (blinov@uchc.edu) and Ion Moraru (moraru@uchc.edu). 
 
-<font color = red>Students may apply for a travel support from NSF!!! Link is on the right! </font>
+<font color = red><b>Students may apply for a travel support from NSF!!! Link is on the left! </b></font>
 
 <h3>Schedule</h3>
 
