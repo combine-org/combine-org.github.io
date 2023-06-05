@@ -24,7 +24,7 @@ important_links:
 - name: Registration
   link: https://forms.gle/7pbiYps84yUvEbsY9
 - name: Talks, lightning talks, break-outs, tutorials and poster submission
-  link: TBA
+  link: https://forms.gle/3ej8xnxQotzz6ZV99
 - name: Application for student travel support
   link: https://forms.gle/whr1MusnSEFZD3vy8
 
@@ -34,10 +34,10 @@ information:
   link: https://forms.gle/7pbiYps84yUvEbsY9
 - name: Call for Breakout Sessions and Tutorials
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
-  link: TBA
+  link: https://forms.gle/3ej8xnxQotzz6ZV99
 - name: Call for Lightning Talks and Posters
   description: Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
-  link: TBA
+  link: https://forms.gle/3ej8xnxQotzz6ZV99
 
 
 topics:
