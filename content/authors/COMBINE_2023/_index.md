@@ -23,7 +23,9 @@ important_links:
 #  link: 
 - name: Registration
   link: https://forms.gle/7pbiYps84yUvEbsY9
-- name: Talks, lightning talks, break-outs, tutorials and poster submission
+- name: Break-outs and tutorials submission
+  link: https://forms.gle/i1ENK9NicXBshhUM7
+- name: Talks, lightning talks, and poster submission
   link: https://forms.gle/3ej8xnxQotzz6ZV99
 - name: Application for student travel support
   link: https://forms.gle/whr1MusnSEFZD3vy8
@@ -34,9 +36,9 @@ information:
   link: https://forms.gle/7pbiYps84yUvEbsY9
 - name: Call for Breakout Sessions and Tutorials
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
-  link: https://forms.gle/3ej8xnxQotzz6ZV99
-- name: Call for Lightning Talks and Posters
-  description: Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
+  link: https://forms.gle/i1ENK9NicXBshhUM7
+- name: Call for Talks, Lightning Talks and Posters
+  description: Requests for a talk (40 minutes), lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
   link: https://forms.gle/3ej8xnxQotzz6ZV99
 
 
@@ -58,7 +60,7 @@ user_groups:
 - Events
 
 ---
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2023** will be a workshop-style event hosted at the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling/) at the [University of Connecticut School of Medicine](https://medicine.uconn.edu/), Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the [**International Conference on Systems Biology (ICSB)**](https://icsb2023.bioscience-ct.net/) October 8-12 in Hartford, CT. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There are no dedicated poster sessions, but paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2023** will be a workshop-style event hosted at the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling/) at the [University of Connecticut School of Medicine](https://medicine.uconn.edu/), Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the [**International Conference on Systems Biology (ICSB)**](https://icsb2023.bioscience-ct.net/) October 8-12 in Hartford, CT. Tutorials at the last day (Sunday October 8th) will take place at the ICSB 2023 venue - in the convention center. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There are no dedicated poster sessions, but paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
 Local organizers are Michael Blinov (blinov@uchc.edu) and Ion Moraru (moraru@uchc.edu). 
 
