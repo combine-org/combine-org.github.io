@@ -64,9 +64,9 @@ Local organizers are Michael Blinov (blinov@uchc.edu) and Ion Moraru (moraru@uch
 
 <font color = red>Students may apply for a travel support from NSF!!! Link is on the LEFT! </font>
 
-<h3>Schedule</h3>
+<h3>A tentative schedule</h3>
 
-A draft schedule will be available soon. Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE slack for last-minute changes and additions.
+<img src="/images/combine2023/schedule.png" width="100%" alt="schedule.png">Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE slack for last-minute changes and additions.
 
 <h3>Workshop Location</h3>
 
