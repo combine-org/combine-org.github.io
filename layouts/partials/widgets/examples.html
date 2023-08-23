@@ -1,0 +1,163 @@
+{{/* People Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $show_social := $page.Params.design.show_social | default false }}
+{{ $show_interests := $page.Params.design.show_interests | default true }}
+{{ $show_projects := $page.Params.design.show_projects | default true }}
+{{ $show_department := $page.Params.design.show_department | default true }}
+{{ $show_description := $page.Params.design.show_department | default true }}
+
+<div class="row justify-content-center people-widget">
+    {{ with $page.Title }}
+    <div class="col-md-12 section-heading">
+      <h1>{{ . | markdownify | emojify }}</h1>
+      {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+    </div>
+    {{ end }}
+  
+    {{ with $page.Content }}
+    <div class="col-md-12">
+      {{ . }}
+    </div>
+    {{ end }}
+  
+    {{ range $page.Params.content.user_groups }}
+  
+    {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+  
+    {{if $query}}
+    <style>
+      .underlay {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        opacity: 1;
+      }
+
+      .overlay {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        align-content: center;
+        z-index: 9;
+        opacity: 0;
+        background-color:#ffffffbb;
+      }
+
+      .overlay:hover {
+        opacity: 1;
+        cursor: pointer;
+      }
+
+      .largerBox {
+        width: 1px;
+        height: 250px;
+        background-color: #00c9c5;
+        position: relative;
+        opacity: 0;
+      }      
+
+      .parent {
+        width: 1px;
+        height: 170px;
+        background-color: #7a007a;
+        position: absolute;
+        bottom: 0px;
+        opacity: 0;
+      }    
+
+      .child {
+        width: 1px;
+        height: 90px;
+        background-color: #fff;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        opacity: 0;
+      }
+
+    </style>
+    <div class="col-md-12">
+      <h4 class="mb-4">Here you will find Python Jupyter notebooks that contain simple models for each standard listed</h4>
+    </div>
+    {{end}}
+    {{ range $query }}
+    {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+    {{ $logo := (.Resources.ByType "image").GetMatch "*logo*" }}
+    {{/* Get link to user's profile page. */}}
+    {{ $link := "" }}
+    {{ $link := ".alink" }}
+    {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
+      {{ $link = .RelPermalink }}
+    {{ end }}
+
+    <div class="largerBox">
+      <div class="parent">
+        <div class="child"></div>
+      </div>
+    </div>
+    <div class="largerBox">
+      <div class="parent">
+        <div class="child"></div>
+      </div>
+    </div>
+
+    <div class="col-12 col-sm-auto people-person">
+      {{ $src := "" }}
+      {{ if site.Params.avatar.gravatar }}
+        {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+      {{ else if $avatar }}
+        {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+        {{ $src = $avatar_image.RelPermalink }}
+      {{ end }}
+      {{ if $src }}
+        {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+        {{with .Params.link}}
+        <div class="underlay">
+          <a href="{{.}}">{{end}}
+            <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-square{{end}}" src="{{ $src }}" alt="Avatar">
+            {{ $show_logo := .Params.show_logo }}
+            {{ if $show_logo }}
+              {{ $src := "" }}
+              {{ if site.Params.avatar.gravatar }}
+                {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+              {{ else if $avatar }}
+                {{ $avatar_image := $logo.Fill "270x270 Center" }}
+                {{ $src = $avatar_image.RelPermalink }}
+              {{ end }}
+              {{ if $src }}
+                {{ $avatar_shape := site.Params.logo.shape | default "circle" }}
+                {{with .Params.logo_size}}<center> <img src="{{ $src }}" alt="Avatar" width="{{.}}" height="{{.}}">{{if $link}}</center>{{end}}{{end}}
+            {{ end }} 
+            {{ else }}
+                <h2>{{ .Title }}{{if $link}}</h2>
+
+            {{ end }}
+            {{ end }}
+          </a>
+        </div>
+      {{ end }}
+
+
+  
+      <div class="portrait-title overlay">
+        <br>
+        {{ if $show_description }}<h3 style="color:  black; padding-right: 1px; padding-left: 1px;" class="">{{.Params.description }}</h3>{{ end }}
+        {{with .Params.link}}
+          <a href="{{.}}">
+            <h3 style="color:  black; font-weight: bold;">GitHub</h3>
+          </a>
+        {{end}}  
+        {{with .Params.binder_link}}
+          <a href="{{.}}">
+            <h3 style="color:  black; font-weight: bold;">My Binder</h3>
+          </a>
+        {{end}}  
+        
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
