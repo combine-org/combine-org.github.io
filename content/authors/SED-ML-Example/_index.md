@@ -6,7 +6,7 @@ title: SED-ML
 authors:
 - SED-ML
 
-description: This notebook creates a simple model in SED-ML. Here we will be using an simple SBML model that describes a chemical species being converted to another. 
+description: This notebook creates a simple SED-ML file. We show how to use SED-ML to specify a simulation of an SBML model. 
 
 # Links
 link: https://github.com/combine-org/combine-notebooks/blob/main/notebooks/sedml.ipynb

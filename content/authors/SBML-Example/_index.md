@@ -6,7 +6,7 @@ title: SBML
 authors:
 - SBML
 
-description: This notebook creates a simple model in SBML. The SBML model will consist of two chemical species and a basic reaction that converts between them.
+description: This notebook creates a simple model in SBML. The SBML model consists of two chemical species and a basic reaction that converts one to the other.
 
 # Logo
 show_logo: true

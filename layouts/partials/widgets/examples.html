@@ -80,7 +80,7 @@
 
     </style>
     <div class="col-md-12">
-      <h4 class="mb-4">Here you will find Python Jupyter notebooks that contain simple models for each standard listed</h4>
+      <h4 class="mb-4">Here you will find Python Jupyter notebooks that show how to create simple models for each of the COMBINE standards</h4>
     </div>
     {{end}}
     {{ range $query }}
@@ -147,12 +147,12 @@
         {{ if $show_description }}<h3 style="color:  black; padding-right: 1px; padding-left: 1px;" class="">{{.Params.description }}</h3>{{ end }}
         {{with .Params.link}}
           <a href="{{.}}">
-            <h3 style="color:  black; font-weight: bold;">GitHub</h3>
+            <h3 style="color:  black; font-weight: bold;">View on GitHub</h3>
           </a>
         {{end}}  
         {{with .Params.binder_link}}
           <a href="{{.}}">
-            <h3 style="color:  black; font-weight: bold;">My Binder</h3>
+            <h3 style="color:  black; font-weight: bold;">Run on Binder</h3>
           </a>
         {{end}}  
         

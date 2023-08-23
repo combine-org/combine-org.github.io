@@ -6,7 +6,7 @@ title: NeuroML
 authors:
 - NeuroML
 
-description: This notebook creates a simple model in NeuroML. It adds a simple spiking neuron model to a population and then the population to a network. 
+description: This notebook creates a simple model in NeuroML. It adds a single spiking neuron to a population in a network, and then plots the membrane potential. 
 
 # Links
 link: https://github.com/combine-org/combine-notebooks/blob/main/notebooks/neuroml.ipynb

@@ -10,7 +10,7 @@ authors:
 show_logo: true
 logo_size: 75
 
-description: This notebook creates a model in Synthetic Biology Open Language (SBOL). In this notebook we will be creating a simple sequence.
+description: This notebook illustrates the Synthetic Biology Open Language (SBOL). In this notebook we will be creating a simple sequence and generating a diagram for it.
 
 # Links
 link: https://github.com/combine-org/combine-notebooks/blob/main/notebooks/sbol.ipynb

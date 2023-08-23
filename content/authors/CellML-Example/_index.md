@@ -15,7 +15,7 @@ show_logo: true
 logo_size: 70
 
 
-description: This notebook creates a simple model in CellML. The CellML we create here is a simple model for the growth in the number of cancer cells over time. 
+description: This notebook creates a model in CellML. The CellML we create here is a simple model for the growth of the number of cancer cells over time. 
 
 # Is this the primary user of the site?
 superuser: false
