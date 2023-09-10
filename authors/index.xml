@@ -453,4 +453,213 @@
 &lt;td>Saturday 8th October&lt;br/>CellML, SBGN, SBML, SBOL&lt;/td>
 &lt;/tr>
 &lt;/tbody>
+&lt;/table></description></item><item><title/><link>/author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Affiliation&lt;/th>
+&lt;th>Attendance&lt;/th>
+&lt;th>Projects&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Amir Mahari&lt;/td>
+&lt;td>University of Arkansas&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>SBML;SBGN;Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Augustin Luna&lt;/td>
+&lt;td>Harvard Medical School&lt;/td>
+&lt;td>remotely&lt;/td>
+&lt;td>SBGN;BioPAX&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Bharat Mishra&lt;/td>
+&lt;td>PhD&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Chris Myers&lt;/td>
+&lt;td>University of Colorado Boulder&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dagmar Waltemath&lt;/td>
+&lt;td>University Medicine Greifswald&lt;/td>
+&lt;td>remotely&lt;/td>
+&lt;td>SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Daniel Ajuzie&lt;/td>
+&lt;td>undergraduate&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual;CellML;Ontologies (SBO, KiSAO);Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Daniel Ajuzie&lt;/td>
+&lt;td>undergraduate&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Diego Jahn&lt;/td>
+&lt;td>TUD Dresden University of Technology, Center for Information Services and High Performance Computing (ZIH)&lt;/td>
+&lt;td>Oct 5 Oct 6&lt;/td>
+&lt;td>Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Egils Stalidzans&lt;/td>
+&lt;td>PhD&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SBML;SBOL, SBOL visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elebeoba May&lt;/td>
+&lt;td>University of Wisconsin-Madison&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SBML;Multicellular modeling;Visualization&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fengkai Zhang&lt;/td>
+&lt;td>NIH&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;SBGN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Frank T. Bergmann&lt;/td>
+&lt;td>BioQUANT, Heidelberg University&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;SBGN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gaoxiang Zhou&lt;/td>
+&lt;td>University of Pittsburgh&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>SBML;BioPAX;SBOL, SBOL visual;CellML;Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Gerhard Mayer&lt;/td>
+&lt;td>HITS (Heidelberg Institute for Theoretical Studies) gGmbH, Heidelberg&lt;/td>
+&lt;td>remotely&lt;/td>
+&lt;td>SED-ML, OMEX, COMBINE;Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>James A. Glazier&lt;/td>
+&lt;td>Indiana University&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>John Gennari&lt;/td>
+&lt;td>University of Washington&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;BioPAX;CellML;Ontologies (SBO, KiSAO)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Juliano Ferrari Gianlupi&lt;/td>
+&lt;td>Postdoctoral Scholar, UTHSC&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SBML;CellML;Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jörn Starruß&lt;/td>
+&lt;td>Technische Universität Dresden, Germany&lt;/td>
+&lt;td>remotely&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Jürgen Pahle&lt;/td>
+&lt;td>Heidelberg University&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lea Seep&lt;/td>
+&lt;td>University Bonn, IRU-MLS&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SBML;Ontologies (SBO, KiSAO)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Luis Fonseca&lt;/td>
+&lt;td>University of Florida&lt;/td>
+&lt;td>remotely&lt;/td>
+&lt;td>SBML;SBGN;CellML;NeuroML;Multicellular modeling;ABM&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lukas Buecherl&lt;/td>
+&lt;td>University of Colorado Boulder&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lutz Brusch&lt;/td>
+&lt;td>Technische Universität Dresden, Germany&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Maren Philipps&lt;/td>
+&lt;td>University of Bonn&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mauro Silberberg&lt;/td>
+&lt;td>Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Universidad de Buenos Aires, Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina&lt;/td>
+&lt;td>remotely&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Michael Blinov&lt;/td>
+&lt;td>Center for Cell Analysis and Modeling, UConn Health,&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mustafa Ozen&lt;/td>
+&lt;td>Altos Labs&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Nilesh Kumar&lt;/td>
+&lt;td>PhD&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;CellML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Olga Krebs&lt;/td>
+&lt;td>Heidelberg Institute for Theoretical Studies HITS&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>SED-ML, OMEX, COMBINE;SBOL, SBOL visual;Ontologies (SBO, KiSAO);BioProtocols&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Rahuman Sheriff&lt;/td>
+&lt;td>European Bioinformatics Institute (EMBL-EBI)&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>SBML;SED-ML, OMEX, COMBINE;SBGN;Ontologies (SBO, KiSAO);Multicellular modeling;FROG&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sebastien Moretti&lt;/td>
+&lt;td>SIB Swiss Institute of Bioinformatics&lt;/td>
+&lt;td>remotely&lt;/td>
+&lt;td>SBML;Ontologies (SBO, KiSAO)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sikao Guo&lt;/td>
+&lt;td>PostDoc&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>SBML;BioPAX;CellML;NeuroML;Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>T.J. Sego&lt;/td>
+&lt;td>University of Florida&lt;/td>
+&lt;td>Oct 5 Oct 6 Oct 7 Oct 8&lt;/td>
+&lt;td>SBML;Multicellular modeling&lt;/td>
+&lt;/tr>
+&lt;/tbody>
 &lt;/table></description></item></channel></rss>
