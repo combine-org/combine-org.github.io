@@ -60,6 +60,10 @@ user_groups:
 - Events
 
 ---
+<img src="/images/combine2023/combine23-hartford.png" alt="demo" class="img-responsive">
+<font color = red>NEWS: list of attendees as of September 9 is posted below </font>
+<br>
+
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2023** will be a workshop-style event hosted at the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling/) at the [University of Connecticut School of Medicine](https://medicine.uconn.edu/), Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the [**International Conference on Systems Biology (ICSB)**](https://icsb2023.bioscience-ct.net/) October 8-12 in Hartford, CT. Tutorials at the last day (Sunday October 8th) will take place at the ICSB 2023 venue - in the convention center. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There are no dedicated poster sessions, but paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
 Local organizers are Michael Blinov (blinov@uchc.edu) and Ion Moraru (moraru@uchc.edu). 
