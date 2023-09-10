@@ -21,6 +21,8 @@ important_dates:
 important_links:
 #- name: Agenda
 #  link: 
+- name: List of Attendees
+  link: participants.md
 - name: Registration
   link: https://forms.gle/7pbiYps84yUvEbsY9
 - name: Break-outs and tutorials submission
