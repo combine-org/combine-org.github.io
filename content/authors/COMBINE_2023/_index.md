@@ -88,8 +88,10 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 
 <h3>Attendees</h3>
 
-| Name | Affiliation | Attendance | Projects |
-|---|---|---|
+38 registered participants as of September 9
+
+| Name | Affiliation | Attendance | Interested | Projects |
+|---|---|---|---|---|
 | Amir Mahari | University of Arkansas | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SBGN;Multicellular modeling | I focus on the modeling and simulation of intercellular signaling pathways within melanoma cancer cells. This study holds significance due to the intricate nature of signaling cascades that regulate various cellular processes in melanoma progression. To facilitate this investigation, I employ PySB (Python Systems Biology), a powerful computational framework designed for creating, simulating, and analyzing mathematical models of biochemical systems. PySB's modular and user-friendly nature enables me to construct complex models of intercellular signaling, incorporating factors such as ligand-receptor interactions, protein phosphorylation, and gene expression. Through PySB's simulation capabilities, I can dynamically analyze the behavior of these pathways under different conditions, gaining insights into the underlying mechanisms that drive melanoma growth and metastasis. Ultimately, this research using PySB contributes to an enhanced understanding of melanoma biology, potentially paving the way for novel therapeutic interventions and personalized treatment strategies in combating this aggressive form of cancer. | 
 | Augustin Luna | Harvard Medical School | remotely | SBGN;BioPAX | https://www.pathwaycommons.org/; https://biofactoid.org/ | 
 | Bharat Mishra | PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling | https://www.uab.edu/cores/ircp/bds | 
@@ -123,6 +125,3 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | Sebastien Moretti | SIB Swiss Institute of Bioinformatics | remotely | SBML;Ontologies (SBO, KiSAO) | - | 
 | Sikao Guo | PostDoc | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;CellML;NeuroML;Multicellular modeling | I am currently working on developing and parallelizing NERDSS (Structure-Resolved Reaction-Diffusion Simulation Software). You can find the GitHub page at https://github.com/mjohn218/NERDSS. | 
 | T.J. Sego | University of Florida | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling | CompuCell3D, Tissue Forge | 
-
----
-
