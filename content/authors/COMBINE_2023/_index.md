@@ -90,38 +90,39 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 
 | Name | Affiliation | Attendance | Projects |
 |---|---|---|
-| Amir Mahari | University of Arkansas | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SBGN;Multicellular modeling | I focus on the modeling and simulation of intercellular signaling pathways within melanoma cancer cells. This study holds significance due to the intricate nature of signaling cascades that regulate various cellular processes in melanoma progression. To facilitate this investigation, I employ PySB (Python Systems Biology), a powerful computational framework designed for creating, simulating, and analyzing mathematical models of biochemical systems. PySB's modular and user-friendly nature enables me to construct complex models of intercellular signaling, incorporating factors such as ligand-receptor interactions, protein phosphorylation, and gene expression. Through PySB's simulation capabilities, I can dynamically analyze the behavior of these pathways under different conditions, gaining insights into the underlying mechanisms that drive melanoma growth and metastasis. Ultimately, this research using PySB contributes to an enhanced understanding of melanoma biology, potentially paving the way for novel therapeutic interventions and personalized treatment strategies in combating this aggressive form of cancer. 
-| Augustin Luna | Harvard Medical School | remotely | SBGN;BioPAX | https://www.pathwaycommons.org/; https://biofactoid.org/ 
-| Bharat Mishra | PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling | https://www.uab.edu/cores/ircp/bds 
-| Chris Myers | University of Colorado Boulder | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual | SynBioHub/SynBioSuite/iBioSim 
-| Dagmar Waltemath | University Medicine Greifswald | remotely | SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO) | - 
-| Daniel Ajuzie | undergraduate | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual;CellML;Ontologies (SBO, KiSAO);Multicellular modeling | Ensemble Modeling; Model Optimization and Calibration 
-| Daniel Ajuzie | undergraduate | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML | Multi-phenotype Optimization for Dynamic Modeling 
-| Diego Jahn | TUD Dresden University of Technology, Center for Information Services and High Performance Computing (ZIH) | Oct 5 Oct 6 | Multicellular modeling | MorpheusML, MorpheusML Model Repository (https://morpheus.gitlab.io), Multicellular Modeling 
-| Egils Stalidzans | PhD |  | SBML;SBOL, SBOL visual | ODE-based kinetic modeling, constraint based stoichiometric modeling 
-| Elebeoba May | University of Wisconsin-Madison |  | SBML;Multicellular modeling;Visualization | biochemical/bionetwork ODE models (metabolism, signal transduction, gene networks), multiscale models of host-pathogen systems, multiscale models of microbial communities, modeling synthetic bio systems 
-| Fengkai Zhang | NIH |  | SBML;SED-ML, OMEX, COMBINE;SBGN | - 
-| Frank T. Bergmann | BioQUANT, Heidelberg University | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN | COPASI (https://copasi.org), basico (https://basico.readthedocs.io/), libSBML / libSEDML / libCombine 
-| Gaoxiang Zhou | University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;SBOL, SBOL visual;CellML;Multicellular modeling | https://www.nmzlab.pitt.edu/people/gaoxiang-zhou, https://github.com/pitt-miskov-zivanov-lab, https://melody-biorecipe.readthedocs.io 
-| Gerhard Mayer | HITS (Heidelberg Institute for Theoretical Studies) gGmbH, Heidelberg | remotely | SED-ML, OMEX, COMBINE;Multicellular modeling | EDITH (Ecosystem Digital Twins in Healthcare); https://www.edith-csa.eu 
-| James A. Glazier | Indiana University | Oct 5 Oct 6 Oct 7 Oct 8 | Multicellular modeling | CompuCell3D (https://compucell3d.org/), Virtual Cornea, IMAG/MSM Working Group on Multiscale Modeling and Viral Pandemics (https://www.imagwiki.nibib.nih.gov/working-groups/multiscale-modeling-and-viral-pandemics) 
-| John Gennari | University of Washington | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;BioPAX;CellML;Ontologies (SBO, KiSAO) | Center for Reproducible Biomedical Modeling 
-| Juliano Ferrari Gianlupi | Postdoctoral Scholar, UTHSC |  | SBML;CellML;Multicellular modeling | PhenoCellPy https://www.biorxiv.org/content/10.1101/2023.04.12.535625v2.abstract; Translating PhysiCell specification into CompuCell3D simulation https://github.com/JulianoGianlupi/pcxml2cc3d 
-| Jörn Starruß | Technische Universität Dresden, Germany | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling |  MorpheusML, https://morpheus.gitlab.io, Multicellular modeling, https://MultiCellML.org, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit 
-| Jürgen Pahle | Heidelberg University | Oct 5 Oct 6 Oct 7 Oct 8 | - | Copasi, CoRC 
-| Lea Seep | University Bonn, IRU-MLS |  | SBML;Ontologies (SBO, KiSAO) | - 
-| Luis Fonseca | University of Florida | remotely | SBML;SBGN;CellML;NeuroML;Multicellular modeling;ABM | - 
-| Lukas Buecherl | University of Colorado Boulder |  | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual | - 
-| Lutz Brusch | Technische Universität Dresden, Germany |  | Multicellular modeling | Multicellular modeling, https://MultiCellML.org, MorpheusML, https://morpheus.gitlab.io, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit, FAIRSPACE 
-| Maren Philipps | University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | - | PEtab, pyPESTO 
-| Mauro Silberberg | Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Universidad de Buenos Aires, Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML | poincaré (github.com/maurosilber/poincare) and SimBio (github.com/hgrecco/simbio), which are Python libraries for definition and simulation of dynamical systems. 
-| Michael Blinov | Center for Cell Analysis and Modeling, UConn Health,  | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling | VCell, BNGLViz, MolClustPy,  
-| Mustafa Ozen | Altos Labs |  | SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling | - 
-| Nilesh Kumar | PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML | - 
-| Olga Krebs | Heidelberg Institute for Theoretical Studies  HITS  |  | SED-ML, OMEX, COMBINE;SBOL, SBOL visual;Ontologies (SBO, KiSAO);BioProtocols | FAIRDOM, LiSyM Cancer, MESI-STRAT, PoLiMeR, deNBI 
-| Rahuman Sheriff | European Bioinformatics Institute (EMBL-EBI) | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;Ontologies (SBO, KiSAO);Multicellular modeling;FROG | BioModels https://www.ebi.ac.uk/biomodels 
-| Sebastien Moretti | SIB Swiss Institute of Bioinformatics | remotely | SBML;Ontologies (SBO, KiSAO) | - 
-| Sikao Guo | PostDoc | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;CellML;NeuroML;Multicellular modeling | I am currently working on developing and parallelizing NERDSS (Structure-Resolved Reaction-Diffusion Simulation Software). You can find the GitHub page at https://github.com/mjohn218/NERDSS. 
-| T.J. Sego | University of Florida | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling | CompuCell3D, Tissue Forge 
+| Amir Mahari | University of Arkansas | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SBGN;Multicellular modeling | I focus on the modeling and simulation of intercellular signaling pathways within melanoma cancer cells. This study holds significance due to the intricate nature of signaling cascades that regulate various cellular processes in melanoma progression. To facilitate this investigation, I employ PySB (Python Systems Biology), a powerful computational framework designed for creating, simulating, and analyzing mathematical models of biochemical systems. PySB's modular and user-friendly nature enables me to construct complex models of intercellular signaling, incorporating factors such as ligand-receptor interactions, protein phosphorylation, and gene expression. Through PySB's simulation capabilities, I can dynamically analyze the behavior of these pathways under different conditions, gaining insights into the underlying mechanisms that drive melanoma growth and metastasis. Ultimately, this research using PySB contributes to an enhanced understanding of melanoma biology, potentially paving the way for novel therapeutic interventions and personalized treatment strategies in combating this aggressive form of cancer. | 
+| Augustin Luna | Harvard Medical School | remotely | SBGN;BioPAX | https://www.pathwaycommons.org/; https://biofactoid.org/ | 
+| Bharat Mishra | PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling | https://www.uab.edu/cores/ircp/bds | 
+| Chris Myers | University of Colorado Boulder | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual | SynBioHub/SynBioSuite/iBioSim | 
+| Dagmar Waltemath | University Medicine Greifswald | remotely | SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO) | - | 
+| Daniel Ajuzie | undergraduate | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual;CellML;Ontologies (SBO, KiSAO);Multicellular modeling | Ensemble Modeling; Model Optimization and Calibration | 
+| Daniel Ajuzie | undergraduate | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML | Multi-phenotype Optimization for Dynamic Modeling | 
+| Diego Jahn | TUD Dresden University of Technology, Center for Information Services and High Performance Computing (ZIH) | Oct 5 Oct 6 | Multicellular modeling | MorpheusML, MorpheusML Model Repository (https://morpheus.gitlab.io), Multicellular Modeling | 
+| Egils Stalidzans | PhD |  | SBML;SBOL, SBOL visual | ODE-based kinetic modeling, constraint based stoichiometric modeling | 
+| Elebeoba May | University of Wisconsin-Madison |  | SBML;Multicellular modeling;Visualization | biochemical/bionetwork ODE models (metabolism, signal transduction, gene networks), multiscale models of host-pathogen systems, multiscale models of microbial communities, modeling synthetic bio systems | 
+| Fengkai Zhang | NIH |  | SBML;SED-ML, OMEX, COMBINE;SBGN | - | 
+| Frank T. Bergmann | BioQUANT, Heidelberg University | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN | COPASI (https://copasi.org), basico (https://basico.readthedocs.io/), libSBML / libSEDML / libCombine | 
+| Gaoxiang Zhou | University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;SBOL, SBOL visual;CellML;Multicellular modeling | https://www.nmzlab.pitt.edu/people/gaoxiang-zhou, https://github.com/pitt-miskov-zivanov-lab, https://melody-biorecipe.readthedocs.io | 
+| Gerhard Mayer | HITS (Heidelberg Institute for Theoretical Studies) gGmbH, Heidelberg | remotely | SED-ML, OMEX, COMBINE;Multicellular modeling | EDITH (Ecosystem Digital Twins in Healthcare); https://www.edith-csa.eu | 
+| James A. Glazier | Indiana University | Oct 5 Oct 6 Oct 7 Oct 8 | Multicellular modeling | CompuCell3D (https://compucell3d.org/), Virtual Cornea, IMAG/MSM Working Group on Multiscale Modeling and Viral Pandemics (https://www.imagwiki.nibib.nih.gov/working-groups/multiscale-modeling-and-viral-pandemics) | 
+| John Gennari | University of Washington | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;BioPAX;CellML;Ontologies (SBO, KiSAO) | Center for Reproducible Biomedical Modeling | 
+| Juliano Ferrari Gianlupi | Postdoctoral Scholar, UTHSC |  | SBML;CellML;Multicellular modeling | PhenoCellPy https://www.biorxiv.org/content/10.1101/2023.04.12.535625v2.abstract; Translating PhysiCell specification into CompuCell3D simulation https://github.com/JulianoGianlupi/pcxml2cc3d | 
+| Jörn Starruß | Technische Universität Dresden, Germany | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling |  MorpheusML, https://morpheus.gitlab.io, Multicellular modeling, https://MultiCellML.org, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit | 
+| Jürgen Pahle | Heidelberg University | Oct 5 Oct 6 Oct 7 Oct 8 | - | Copasi, CoRC | 
+| Lea Seep | University Bonn, IRU-MLS |  | SBML;Ontologies (SBO, KiSAO) | - | 
+| Luis Fonseca | University of Florida | remotely | SBML;SBGN;CellML;NeuroML;Multicellular modeling;ABM | - | 
+| Lukas Buecherl | University of Colorado Boulder |  | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual | - | 
+| Lutz Brusch | Technische Universität Dresden, Germany |  | Multicellular modeling | Multicellular modeling, https://MultiCellML.org, MorpheusML, https://morpheus.gitlab.io, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit, FAIRSPACE | 
+| Maren Philipps | University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | - | PEtab, pyPESTO | 
+| Mauro Silberberg | Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Universidad de Buenos Aires, Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML | poincaré (github.com/maurosilber/poincare) and SimBio (github.com/hgrecco/simbio), which are Python libraries for definition and simulation of dynamical systems. | 
+| Michael Blinov | Center for Cell Analysis and Modeling, UConn Health,  | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling | VCell, BNGLViz, MolClustPy,  | 
+| Mustafa Ozen | Altos Labs |  | SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling | - | 
+| Nilesh Kumar | PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML | - | 
+| Olga Krebs | Heidelberg Institute for Theoretical Studies  HITS  |  | SED-ML, OMEX, COMBINE;SBOL, SBOL visual;Ontologies (SBO, KiSAO);BioProtocols | FAIRDOM, LiSyM Cancer, MESI-STRAT, PoLiMeR, deNBI | 
+| Rahuman Sheriff | European Bioinformatics Institute (EMBL-EBI) | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;Ontologies (SBO, KiSAO);Multicellular modeling;FROG | BioModels https://www.ebi.ac.uk/biomodels | 
+| Sebastien Moretti | SIB Swiss Institute of Bioinformatics | remotely | SBML;Ontologies (SBO, KiSAO) | - | 
+| Sikao Guo | PostDoc | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;CellML;NeuroML;Multicellular modeling | I am currently working on developing and parallelizing NERDSS (Structure-Resolved Reaction-Diffusion Simulation Software). You can find the GitHub page at https://github.com/mjohn218/NERDSS. | 
+| T.J. Sego | University of Florida | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling | CompuCell3D, Tissue Forge | 
+
 ---
 
