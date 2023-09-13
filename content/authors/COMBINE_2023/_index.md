@@ -61,12 +61,11 @@ user_groups:
 
 ---
 <img src="/images/combine2023/combine23-hartford.png" alt="demo" class="img-responsive">
-<font color = red>NEWS September 12: 
-  <ul>
-  <li>52 [attendies](#attendies) </li>
-    <li>Preliminary list of 8 [breakouts](#breakouts) and 6 [tutorials](#tutorials)</li>
-    </ul>
-  </font>
+
+**NEWS September 12:**
+- 52 [attendees](#attendees)
+- Preliminary list of 8 [breakouts](#breakouts) and 6 [tutorials](#tutorials)
+
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2023** will be a workshop-style event hosted at the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling/) at the [University of Connecticut School of Medicine](https://medicine.uconn.edu/), Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the [**International Conference on Systems Biology (ICSB)**](https://icsb2023.bioscience-ct.net/) October 8-12 in Hartford, CT. Tutorials at the last day (Sunday October 8th) will take place at the ICSB 2023 venue - in the convention center. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There are no dedicated poster sessions, but paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
@@ -94,7 +93,7 @@ The closest hotel to the CCAM is the [Homewood Suites by Hilton Hartford-Farming
 
 The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](https://butchersandbakers.com/) 15 minutes walk, but no food stores within walking distance. We will serve food at the venue, depending on the sponsors it may be free or for a nominal fee.
 
-<h3><a name="attendies">Attendees</a></h3>
+### <a name="attendees"></a>Attendees
 
 52 registered participants as of September 12
 | Name <hr> Affiliation  | Attendance | Interested <hr>  Projects |
@@ -146,7 +145,7 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Sikao Guo</b> <br/> PostDoc | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;CellML;NeuroML;Multicellular modeling <hr> I am currently working on developing and parallelizing NERDSS (Structure-Resolved Reaction-Diffusion Simulation Software). You can find the GitHub page at https://github.com/mjohn218/NERDSS. | 
 | <b>T.J. Sego</b> <br/> University of Florida | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling <hr> CompuCell3D, Tissue Forge, https://directory.ufhealth.org/sego-t-j | 
 
-<h3><a name="breakouts">Breakout sessions</a></h3>
+### <a name="breakouts"></a>Breakout sessions
 
 <b>SBOL Visual</b> Prashant Vaidyanathanm (Oxford Biomedica)	<br>
 In these breakout sessions, we will develop into two exciting topics. First, we will explore the SBOL Visual Gallery, a novel initiative aimed at showcasing the diverse applications of SBOL visual diagrams. We will discuss strategies for encouraging the community to share their SBOL visual images and consider ways to link these images to SBOL examples. Additionally, we will brainstorm ideas for promoting these images to a wider audience through social media platforms such as Twitter and LinkedIn. Second, we will commemorate the 10th anniversary of SBOL visual by reflecting on its journey and impact over the past decade. We will discuss the evolution of SBOL visual, its contributions to the field, and its future prospects. Join us for a lively discussion on the past, present, and future of SBOL visual.
@@ -208,7 +207,7 @@ In this breakout session, based on audience interests, we will present introduct
 <b>Annotations for SBML-qual models</b>	John Gennari		University of Washington	<br>
 Annotations against standard ontological resources is an important step for model reuse, model merging, and model comprehension. What are the specific needs for annotation of "logical" models (sometimes known as Boolean models)? In this breakout session, we'll look at some example SBML-Qual models, especially gene regulatory networks. The specific augmentations that SBML-qual provides over "plain" SBML means that there are new opportunities to provide specific types of annotations on elements. As with any annotation effort, we will discuss tool support and ways to make annotation semi-automatic or easier for the modeler. We will also discuss how in-line annotations might look within SBML-qual, versus a separate file (per the COMBINE community recommendation).
 
-<h3><a name="tutorials">Tutorials</a></h3>
+### <a name="tutorials"></a>Tutorials</h3>
 
 <b>Biological and Biophysics Simulation in Tissue Forge: Introduction and Guided Simulation Building</b> T.J. Sego		University of Florida	<br>
 Tissue Forge is open-source simulation software for interactive particle-based physics, chemistry and biology modeling and simulation. Tissue Forge allows users to create, simulate and explore models and virtual experiments based on soft condensed matter physics at multiple scales, from the molecular to the multicellular, using a simple interface. While Tissue Forge is designed to simplify solving problems in complex subcellular, cellular and tissue biophysics, it supports applications ranging from classic molecular dynamics to agent-based multicellular systems with dynamic populations. Tissue Forge users can build and interact with models and simulations in real-time and change simulation details during execution, or execute simulations off-screen and/or remotely in high-performance computing environments. Tissue Forge provides a growing library of built-in model components along with support for user-specified models during the development and application of custom, agent-based models. Tissue Forge includes an extensive Python API for model and simulation specification via Python scripts, an IPython console and a Jupyter Notebook, as well as C and C++ APIs for integrated applications with other software tools. Tissue Forge supports installations on Windows, Linux and MacOS systems and is available for local installation via conda. This workshop introduces the basic concepts, modeling and simulation features, and some relevant modeling applications of Tissue Forge through guided simulation scripting. Workshop concepts will introduce basic Tissue Forge modeling concepts and simulation features through the development of interactive simulations in Python. Attendees are encouraged, but not required, to code along as the workshop interactively develops and tests simulations in multicellular and biophysics modeling applications. 
