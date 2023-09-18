@@ -63,19 +63,20 @@ user_groups:
 <img src="/images/combine2023/combine23-hartford.png" alt="demo" class="img-responsive">
 
 **NEWS September 12:**
-- 52 [attendees](#attendees)
-- Preliminary list of 8 [breakouts](#breakouts) and 6 [tutorials](#tutorials)
+- 64 [attendees](#attendees)
+- Preliminary list of 8 [breakouts](#breakouts) and 7 [tutorials](#tutorials)
+- Updated tentative schedule
 
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2023** will be a workshop-style event hosted at the [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling/) at the [University of Connecticut School of Medicine](https://medicine.uconn.edu/), Farmington, CT, USA. The meeting will be held in October 2023, closely aligned with the dates of the [**International Conference on Systems Biology (ICSB)**](https://icsb2023.bioscience-ct.net/) October 8-12 in Hartford, CT. Tutorials at the last day (Sunday October 8th) will take place at the ICSB 2023 venue - in the convention center. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There are no dedicated poster sessions, but paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
 Local organizers are Michael Blinov (blinov@uchc.edu) and Ion Moraru (moraru@uchc.edu). 
 
-<font color = red>Students may apply for a travel support from NSF!!! Link is on the LEFT! </font>
+<!--<font color = red>Students may apply for a travel support from NSF!!! Link is on the LEFT! </font>-->
 
 <h3>A tentative schedule</h3>
 
-<img src="/images/combine2023/schedule.png" width="100%" alt="schedule.png">Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE slack for last-minute changes and additions.
+<img src="/images/combine2023/schedule1.png" width="100%" alt="schedule1.png">Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE slack for last-minute changes and additions.
 
 <h3>Workshop Location</h3>
 
@@ -95,22 +96,26 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 
 ### <a name="attendees"></a>Attendees
 
-52 registered participants as of September 12
+64 registered participants as of September 18
 | Name <hr> Affiliation  | Attendance | Interested <hr>  Projects |
 |---|---|---|
+| <b>Alan Garny</b> <br/> University of Auckland | remotely | SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO) <hr> libOpenCOR (https://opencor.ws/libopencor/) and OpenCOR (https://opencor.ws/) | 
 | <b>Amin Boroomand</b> <br/> Woods Hole institute | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling <hr> - | 
 | <b>Amir Mahari</b> <br/> University of Arkansas | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SBGN;Multicellular modeling <hr> I focus on the modeling and simulation of intercellular signaling pathways within melanoma cancer cells. This study holds significance due to the intricate nature of signaling cascades that regulate various cellular processes in melanoma progression. To facilitate this investigation, I employ PySB (Python Systems Biology), a powerful computational framework designed for creating, simulating, and analyzing mathematical models of biochemical systems. PySB's modular and user-friendly nature enables me to construct complex models of intercellular signaling, incorporating factors such as ligand-receptor interactions, protein phosphorylation, and gene expression. Through PySB's simulation capabilities, I can dynamically analyze the behavior of these pathways under different conditions, gaining insights into the underlying mechanisms that drive melanoma growth and metastasis. Ultimately, this research using PySB contributes to an enhanced understanding of melanoma biology, potentially paving the way for novel therapeutic interventions and personalized treatment strategies in combating this aggressive form of cancer. | 
+| <b>Aniruddha Chattaraj</b> <br/> Harvard University | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Modeling of multivalent protein clustering, statistical analysis of cluster properties and visualization. Developer of MolClustPy. Interested in multi-scale modeling, specially problems related to biofilm formation. Software - Bionetgen, Virtual Cell, SpringSaLaD, LAMMPS, Python | 
 | <b>Augustin Luna</b> <br/> Harvard Medical School | remotely | SBGN;BioPAX <hr> https://www.pathwaycommons.org/; https://biofactoid.org/ | 
 | <b>Bartholomew Jardine</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Software tools for creating, editing, and simulating SBML complient modelss | 
 | <b>Bharat Mishra</b> <br/> PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> https://www.uab.edu/cores/ircp/bds | 
 | <b>Chris Myers</b> <br/> University of Colorado Boulder | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> SynBioHub/SynBioSuite/iBioSim | 
 | <b>Dagmar Waltemath</b> <br/> University Medicine Greifswald | remotely | SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Dan Vasilescu</b> <br/> UCHC | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;BioPAX;Ontologies (SBO, KiSAO) <hr> - | 
-| <b>Daniel Ajuzie</b> <br/> undergraduate | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> Multi-phenotype Optimization for Dynamic Modeling | 
 | <b>Daniel Ajuzie</b> <br/> undergraduate | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual;CellML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Ensemble Modeling; Model Optimization and Calibration | 
+| <b>Daniel Ajuzie</b> <br/> undergraduate | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> Multi-phenotype Optimization for Dynamic Modeling | 
 | <b>David Nickerson</b> <br/> Auckland Bioengineering Institute, University of Auckland | remotely | SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);OMEX Metadata; FAIR indicators for models; repositories <hr> - | 
 | <b>Diego Jahn</b> <br/> TUD Dresden University of Technology, Center for Information Services and High Performance Computing (ZIH) | remotely | Multicellular modeling <hr> MorpheusML, MorpheusML Model Repository (https://morpheus.gitlab.io), Multicellular Modeling | 
 | <b>Difei Tang</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;SBOL, SBOL visual;Ontologies (SBO, KiSAO) <hr> GUI for DySE framework | 
+| <b>Dilan Pathirana</b> <br/> University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Ontologies (SBO, KiSAO);Multicellular modeling;PEtab <hr> PEtab ( https://github.com/PEtab-dev/petab ). PEtab for model selection ( https://github.com/PEtab-dev/petab_select ). Model collection for benchmarking studies ( https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab/ ). | 
+| <b>Edwin Moses Appiah</b> <br/> Center for Cell Analysis and Modelling | Oct 5 Oct 6 Oct 7 Oct 8 | CellML;Multicellular modeling <hr> - | 
 | <b>Egils Stalidzans</b> <br/> PhD |  | SBML;SBOL, SBOL visual <hr> ODE-based kinetic modeling, constraint based stoichiometric modeling | 
 | <b>Elebeoba May</b> <br/> University of Wisconsin-Madison |  | SBML;Multicellular modeling;Visualization <hr> biochemical/bionetwork ODE models (metabolism, signal transduction, gene networks), multiscale models of host-pathogen systems, multiscale models of microbial communities, modeling synthetic bio systems | 
 | <b>Eran Agmon</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Vivarium: https://vivarium-collective.github.io | 
@@ -119,31 +124,39 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Gaoxiang Zhou</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;SBOL, SBOL visual;CellML;Multicellular modeling <hr> https://www.nmzlab.pitt.edu/people/gaoxiang-zhou, https://github.com/pitt-miskov-zivanov-lab, https://melody-biorecipe.readthedocs.io | 
 | <b>Gerhard Mayer</b> <br/> HITS (Heidelberg Institute for Theoretical Studies) gGmbH, Heidelberg | remotely | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> EDITH (Ecosystem Digital Twins in Healthcare); https://www.edith-csa.eu | 
 | <b>Herbert M Sauro</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Multicellular modeling <hr> SBML, roadrunner etc | 
+| <b>Ion Moraru</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;model credibility <hr> VCell, BioSimulations, BioSimulators | 
+| <b>Jacob Beal</b> <br/> Raytheon BBN |  | SBOL, SBOL visual <hr> - | 
 | <b>James A. Glazier</b> <br/> Indiana University | Oct 5 Oct 6 Oct 7 Oct 8 | Multicellular modeling <hr> CompuCell3D (https://compucell3d.org/), Virtual Cornea, IMAG/MSM Working Group on Multiscale Modeling and Viral Pandemics (https://www.imagwiki.nibib.nih.gov/working-groups/multiscale-modeling-and-viral-pandemics) | 
 | <b>Jim Schaff</b> <br/> Contractor - UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Virtual Cell Project (vcell.org), Reproducible Biological Modeling (reproduciblebiomodels.org) | 
 | <b>John Gennari</b> <br/> University of Washington | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;BioPAX;CellML;Ontologies (SBO, KiSAO) <hr> Center for Reproducible Biomedical Modeling | 
 | <b>Juliano Ferrari Gianlupi</b> <br/> Postdoctoral Scholar, UTHSC |  | SBML;CellML;Multicellular modeling <hr> PhenoCellPy https://www.biorxiv.org/content/10.1101/2023.04.12.535625v2.abstract; Translating PhysiCell specification into CompuCell3D simulation https://github.com/JulianoGianlupi/pcxml2cc3d | 
 | <b>Jörn Starruß</b> <br/> Technische Universität Dresden, Germany | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling <hr>  MorpheusML, https://morpheus.gitlab.io, Multicellular modeling, https://MultiCellML.org, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit | 
 | <b>Jürgen Pahle</b> <br/> Heidelberg University | Oct 5 Oct 6 Oct 7 Oct 8 | - <hr> Copasi, CoRC | 
+| <b>Lara Bruezière</b> <br/> Novadiscovery | remotely | SBML;SED-ML, OMEX, COMBINE;SBGN <hr> Jinko software - collaborative clinical trial simulation platform | 
 | <b>Lea Seep</b> <br/> University Bonn, IRU-MLS |  | SBML;Ontologies (SBO, KiSAO) <hr> - | 
+| <b>Leslie Loew</b> <br/> U. Conn. School of Medicine | Oct 5 Oct 6 | SBML;SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Virtual Cell (aka VCell); SpringSaLaD | 
 | <b>Lucian Smith</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Antimony, Roadrunner, Tellurium, SBML, SED-ML | 
 | <b>Luis Fonseca</b> <br/> University of Florida | remotely | SBML;SBGN;CellML;NeuroML;Multicellular modeling;ABM <hr> - | 
 | <b>Lukas Buecherl</b> <br/> University of Colorado Boulder |  | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> - | 
 | <b>Lutz Brusch</b> <br/> Technische Universität Dresden, Germany | remotely | Multicellular modeling <hr> Multicellular modeling, https://MultiCellML.org, MorpheusML, https://morpheus.gitlab.io, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit, FAIRSPACE | 
 | <b>Maren Philipps</b> <br/> University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | - <hr> PEtab, pyPESTO | 
 | <b>Mauro Silberberg</b> <br/> Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Universidad de Buenos Aires, Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> poincaré (github.com/maurosilber/poincare) and SimBio (github.com/hgrecco/simbio), which are Python libraries for definition and simulation of dynamical systems. | 
-| <b>Michael Blinov</b> <br/> Center for Cell Analysis and Modeling, UConn Health  | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling <hr> VCell, BNGLViz, MolClustPy  | 
+| <b>Michael Blinov</b> <br/> Center for Cell Analysis and Modeling, UConn Health,  | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling <hr> VCell, BNGLViz, MolClustPy,  | 
 | <b>Mustafa Ozen</b> <br/> Altos Labs |  | SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling <hr> - | 
 | <b>Natasa Miskov-Zivanov</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;SBOL, SBOL visual;CellML;NeuroML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> - | 
 | <b>Nilesh Kumar</b> <br/> PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML <hr> - | 
 | <b>Olga Krebs</b> <br/> Heidelberg Institute for Theoretical Studies  HITS  |  | SED-ML, OMEX, COMBINE;SBOL, SBOL visual;Ontologies (SBO, KiSAO);BioProtocols <hr> FAIRDOM, LiSyM Cancer, MESI-STRAT, PoLiMeR, deNBI | 
 | <b>Paola Vera-Licona</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling <hr> NETISCE (NETwork-drIven analysiS of CEllular reprogramming) http://veraliconalab.org/Netisce/index.html | 
+| <b>Pedro Cenci Dal Castel </b> <br/> Indiana University Bloomington  |  | SBML <hr> - | 
 | <b>Pedro Mendes</b> <br/> University of Connecticut School of Medicine | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> - | 
 | <b>Prashant Vaidyanathan</b> <br/> Oxford Biomedica | remotely | SBOL, SBOL visual <hr> - | 
 | <b>Rahuman Sheriff</b> <br/> European Bioinformatics Institute (EMBL-EBI) | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;Ontologies (SBO, KiSAO);Multicellular modeling;FROG <hr> BioModels https://www.ebi.ac.uk/biomodels | 
+| <b>Sarah Keating</b> <br/> University College London | remotely | SBML;SED-ML, OMEX, COMBINE <hr> - | 
 | <b>Sebastien Moretti</b> <br/> SIB Swiss Institute of Bioinformatics | remotely | SBML;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Sikao Guo</b> <br/> PostDoc | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;CellML;NeuroML;Multicellular modeling <hr> I am currently working on developing and parallelizing NERDSS (Structure-Resolved Reaction-Diffusion Simulation Software). You can find the GitHub page at https://github.com/mjohn218/NERDSS. | 
-| <b>T.J. Sego</b> <br/> University of Florida | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling <hr> CompuCell3D, Tissue Forge, https://directory.ufhealth.org/sego-t-j | 
+| <b>Sven Sahle</b> <br/> Heidelberg University | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE <hr> COPASI | 
+| <b>T.J. Sego</b> <br/> University of Florida | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling <hr> CompuCell3D, Tissue Forge, https://directory.ufhealth.org/sego-t-j| 
+
 
 ### <a name="breakouts"></a>Breakout sessions
 
@@ -152,7 +165,7 @@ In these breakout sessions, we will develop into two exciting topics. First, we 
 <hr>
 <b>SBOL Outreach</b> Prashant Vaidyanathan	(Oxford Biomedica)	In these breakout sessions, we will address several key topics related to the SBOL community. First, we will discuss the creation of an SBOL Projects portal or dashboard, a new effort designed to highlight tasks and ongoing projects that the community can contribute to. Second, we will explore the SBOL Release cadence, discussing strategies to ensure that the community can benefit from the latest version of SBOL. We will consider ways to keep our tools and models up-to-date to maximize the benefits for the community. Third, we will discuss outreach efforts, exploring ways to reach a wider SBOL audience, increase accessibility, and boost engagement. Lastly, we will discuss SBOL's involvement with the iGEM community and participants, brainstorming ways to enhance our collaboration and support. Join us for a productive conversation on how to strengthen the SBOL community and increase its impact.
 <hr>
-<b>SED2: The next generation of Simulation Experiment Design</b>	Eran Agmon	Lucian Smith	UConn Health	<br>
+<b>SED2: The next generation of Simulation Experiment Design</b>	Eran Agmon,	Lucian Smith,	UConn Health	<br>
 Intended Audience: Researchers, bioinformaticians, software developers, and modelers keen on shaping the future of in silico experiment design standards. Familiarity with SED-ML (https://sed-ml.org/) is advantageous but not essential.<br>
 
 Overview: The evolution of computational biology demands a more adaptable and integrative exchange format. While SED-ML has been instrumental, the emerging needs of the community call for a successor: SED2. This session will focus on the core priorities for SED2: flexibility, the ability to compose different simulation methods with custom annotations, and fostering a computational framework that works with the diverse range of simulation tools within the biological modeling community.<br>
@@ -163,7 +176,7 @@ Session Goals:
 - Building a Collaborative Framework: Engage in discussions to establish a common ground where members of the Biosimulations community can converge on SED2's direction.
 - Exchange Format and API Exploration: Deliberate on the potential of adopting formats like JSON for SED2 and brainstorm on the design of an intuitive API for seamless interactions with the new format.
 <hr>
-<b>Standardizing Multicellular Simulation - Bridging Methods and Models</b>	Eran Agmon, UConn Health;	Sego , T.J. (U of Florida); Glazier, James (Indiana University)		<br>
+<b>Standardizing Multicellular Simulation - Bridging Methods and Models</b>	Eran Agmon (UConn Health),	T.J. Sego (U of Florida); James Glazier (Indiana University)		<br>
 Intended Audience: Researchers, bioinformaticians, software developers, and modelers who are involved in or interested in multicellular simulations across various methodologies. Prior experience with basic concepts in computational biology or multicellular modeling is beneficial but not mandatory.<br>
 
 Overview: Multicellular simulations have become indispensable in understanding complex biological phenomena, from tissue development to disease progression. But the diversity in simulation methods ‚Äì from agent-based models, cellular Potts models, cellular automata, lattice-free models, stochastic particle simulations, etc ‚Äì poses challenges in reproducibility, modularity, reusability, and integration within multi-scale simulation. This session aims to bridge these gaps by focusing on the development of standards and schemas, with special emphasis on multiscale, embedded, and coupled simulation methods. Through a combination of presentations, case studies, and discussions, attendees will gain an understanding of the multicellular simulation landscape, the need for standardization, and the importance of sharing and reusing models.<br>
@@ -175,7 +188,7 @@ Session Goals:
 - Integration and Interoperability: Delve into strategies for ensuring that the developed standards promote seamless integration and interoperability among different simulation tools and platforms.
   
 <hr>
-<b>FROG curation for genome-scale metabolic models</b> Karthik Raman	Rahuman Sheriff and other FROG contributors,	Indian Institute of Technology Madras<br>	
+<b>FROG curation for genome-scale metabolic models</b> Karthik Raman,	Rahuman Sheriff and other FROG contributors (Indian Institute of Technology, Madras)<br>	
 Community standards for consistent reconstruction, FAIR sharing and curation of constraint-based models such as genome-scale metabolic models (GEMs) are crucial to ensure their reproducibility and reliability. We initiated a community effort for a standardised assessment of reproducibility and curation of constraint-based models. Following the discussions at dedicated breakout sessions at HARMONY and COMBINE meetings over the past two
 years, we have developed the FROG analysis, an ensemble of analysis of constraint-based
 models to test the reproducibility of numerical simulation based on a set of standardized
@@ -187,11 +200,11 @@ software and a web-service. FROG analysis is currently used in BioModels‚Äô 
 curate and build a collection of FAIR and reproducible genome-scale metabolic models.
 
 <hr>
-<b>Recent Progress and Future Work Towards Reproducible Stochastic Biological Simulation</b>	T.J. Sego; Rahuman S. Malik Sheriff, University of Florida; European Molecular Biology Laboratory	<br>
+<b>Recent Progress and Future Work Towards Reproducible Stochastic Biological Simulation</b>	T.J. Sego (University of Florida); Rahuman S. Malik Sheriff (European Molecular Biology Laboratory)	<br>
 Stochastic simulations are commonly used to quantitatively or semi-quantitatively describe the dynamics of biological systems. At various scales and in multiple applications, stochastic simulation better reflects observed biological processes and robustness. Various methods are widely used to incorporate stochasticity into biological simulation, such as the Gillespie stochastic simulation algorithm for systems biology modeling, stochastic Boolean networks for network modeling, and the Cellular Potts model methodology for multicellular modeling. Proving reproducibility of simulation results is critical to establishing the credibility of a model. To this end, BioModels, the largest repository of curated mathematical models, tests and reports the reproducibility of simulation results for all submitted models when possible. A recent study showed that about 50% of the deterministic ordinary differential equation models on BioModels could not be reproduced when applying criteria for reproducibility to the information provided in their associated publication, reflecting a current crisis of reproducibility. Furthermore, there are no well-accepted metrics or standards for reproducing stochastic simulation results, thus perpetuating the crisis of reproducibility for a broad class of biological models. This breakout session aims to establish an accepted framework for testing the reproducibility of stochastic simulations in biological modeling. The session will provide an overview of recent progress towards defining quantitative measures to determine whether stochastic simulation results can be reproduced, and when results have been reproduced. Attendees will discuss current issues to address towards consensus and broad adoption in relevant modeling communities, as well as future work towards reproducibility of stochastic simulation results using multiscale and complex models. 
 
 <hr>
-<b>PEtab: current state and future directions</b> Dilan Pathirana	Frank Bergmann	University of Bonn	<br>
+<b>PEtab: current state and future directions</b> Dilan Pathirana,	Frank Bergmann (University of Bonn)<br>
 PEtab is a standardized file format for specifying parameter estimation problems [1]. The interoperable format is currently supported by 11 different tools [2], enabling users to benefit from standardized parameter estimation across frameworks based in Python, Julia, R, MATLAB, C++, or GUIs.
 
 Although PEtab was initially developed for parameter estimation, recent efforts have extended the format to improve standardization of various adjacent tasks, including: model selection, multi-scale modeling, PKPD and NLME modeling, optimal control, and visualization.
@@ -204,16 +217,17 @@ In this breakout session, based on audience interests, we will present introduct
 
 <hr>
 
-<b>Annotations for SBML-qual models</b>	John Gennari		University of Washington	<br>
+<b>Annotations for SBML-qual models</b>	John Gennari (University of Washington)<br>
 Annotations against standard ontological resources is an important step for model reuse, model merging, and model comprehension. What are the specific needs for annotation of "logical" models (sometimes known as Boolean models)? In this breakout session, we'll look at some example SBML-Qual models, especially gene regulatory networks. The specific augmentations that SBML-qual provides over "plain" SBML means that there are new opportunities to provide specific types of annotations on elements. As with any annotation effort, we will discuss tool support and ways to make annotation semi-automatic or easier for the modeler. We will also discuss how in-line annotations might look within SBML-qual, versus a separate file (per the COMBINE community recommendation).
+
 
 ### <a name="tutorials"></a>Tutorials</h3>
 
-<b>Biological and Biophysics Simulation in Tissue Forge: Introduction and Guided Simulation Building</b> T.J. Sego		University of Florida	<br>
+<b>Biological and Biophysics Simulation in Tissue Forge: Introduction and Guided Simulation Building</b> T.J. Sego	(University of Florida)<br>
 Tissue Forge is open-source simulation software for interactive particle-based physics, chemistry and biology modeling and simulation. Tissue Forge allows users to create, simulate and explore models and virtual experiments based on soft condensed matter physics at multiple scales, from the molecular to the multicellular, using a simple interface. While Tissue Forge is designed to simplify solving problems in complex subcellular, cellular and tissue biophysics, it supports applications ranging from classic molecular dynamics to agent-based multicellular systems with dynamic populations. Tissue Forge users can build and interact with models and simulations in real-time and change simulation details during execution, or execute simulations off-screen and/or remotely in high-performance computing environments. Tissue Forge provides a growing library of built-in model components along with support for user-specified models during the development and application of custom, agent-based models. Tissue Forge includes an extensive Python API for model and simulation specification via Python scripts, an IPython console and a Jupyter Notebook, as well as C and C++ APIs for integrated applications with other software tools. Tissue Forge supports installations on Windows, Linux and MacOS systems and is available for local installation via conda. This workshop introduces the basic concepts, modeling and simulation features, and some relevant modeling applications of Tissue Forge through guided simulation scripting. Workshop concepts will introduce basic Tissue Forge modeling concepts and simulation features through the development of interactive simulations in Python. Attendees are encouraged, but not required, to code along as the workshop interactively develops and tests simulations in multicellular and biophysics modeling applications. 
 <hr>
 
-<b>Bridging the Gap - A Practical Guide to Model Specification Translation in Agent-Based Modeling</b> Juliano Ferrari Gianlupi		UTHSC	<br>
+<b>Bridging the Gap - A Practical Guide to Model Specification Translation in Agent-Based Modeling</b> Juliano Ferrari Gianlupi	(UTHSC)<br>
 "https://github.com/JulianoGianlupi/pcxml2cc3d
 In the world of Agent-Based Modeling (ABM), the quest for cross-platform portability and model reproducibility is a formidable challenge. This tutorial is designed to empower modelers, scientists, and researchers with the knowledge and skills to overcome this challenge using a novel Model Specification Translator.
 
@@ -226,11 +240,11 @@ Additionally, we will showcase PhenoCellPy, a Python package that simplifies the
 Join us in this tutorial to explore the significance of cross-platform portability, learn how to overcome the intricacies of model porting, and contribute to the broader ABM community's effort in establishing a universal modeling description standard. By the end of this tutorial, you will be better equipped to advance agent-based modeling, foster model reproducibility, and gain deeper insights into complex biological systems.
 <hr>
 
-<b>Mastering Structure-Resolved Reaction-Diffusion Simulations with NERDSS</b> Sikao Guo		Johns Hopkins University <br>
+<b>Mastering Structure-Resolved Reaction-Diffusion Simulations with NERDSS</b> Sikao Guo (Johns Hopkins University) <br>
 This tutorial (https://sikaoguo22.github.io/NERDSSTutorial/) is intended for researchers, students, and professionals in cellular biology, biophysics, and computational biology who are interested in spatiotemporal reaction-diffusion simulation. NERDSS (https://github.com/mjohn218/NERDSS) is a nonequilibrium reaction-diffusion self-assembly simulator that integrates molecular structures and their processes to understand the dynamics of cellular processes that last for minutes (https://doi.org/10.1016/j.bpj.2020.05.002). It allows users to build a reaction-diffusion model based on actual molecular structures, which enhances the model's accuracy and captures the complexities of multisubunit complexes and their reversible formation. Several case studies have employed NERDSS, such as the formation and spontaneous disassembly of large clathrin lattices (https://doi.org/10.1371/journal.pcbi.1009969), the dynamic behavior of the HIV Gag lattice in virions (https://doi.org/10.7554/eLife.84881), and understanding the temporal influence of cofactors in retroviral Gag lattice assembly (https://doi.org/10.1016/j.bpj.2023.06.021). During the session, we will explore these applications, demonstrating the software's versatility in handling diverse cellular processes. The session will cover core principles of structure-resolved reaction-diffusion, emphasizing its role in cellular biology. We will attempt to build a coarse-grained structure from the real protein structure from the pdb database. Then, we will learn how to set up a model, run the model with NERDSS, analyze and visualize the model outcomes with io_nerdss (https://github.com/mjohn218/io_nerdss) and OVITO.
 <hr>
 
-<b>Tutorial on biological modeling with PySB</b> Mustafa Ozen	Ryan Spangler, Carlos F. Lopez	Altos Labs <br>
+<b>Tutorial on biological modeling with PySB</b> Mustafa Ozen	Ryan Spangler, Carlos F. Lopez	(Altos Labs) <br>
 PySB (Python Systems Biology) is a powerful and versatile biological modeling tool that has gained prominence in systems biology. It provides a Python-based programming platform with a rule-based framework for constructing dynamic models of sophisticated biochemical systems, enabling researchers to simulate and analyze complex cellular processes. This unique tool empowers researchers to modularly define molecular interactions and transformations, facilitating the representation of a wide array of biological processes in a simple, interpretable way. PySB accommodates both stochastic and deterministic simulation methods, providing a comprehensive view of system behavior. Its seamless integration with various model calibration, analysis, and visualization libraries further assists researchers in interpreting simulation results effectively. In this tutorial session, we aim to walk the attendants through the foundations of PySB, show them how it works, and provide them with hands-on experience.  
 
 Relevant Resources:
@@ -240,7 +254,7 @@ PySB GitHub: https://github.com/pysb/pysb
 PySB Tutorial: https://pysb.readthedocs.io/en/stable/tutorial.html
 
 <hr>
-<b>Introducing poincar√© and SimBio</b> Mauro Silberberg		Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de F√≠sica, y CONICET - Universidad de Buenos Aires, Instituto de F√≠sica de Buenos Aires (IFIBA). Buenos Aires, Argentina	
+<b>Introducing poincar√© and SimBio</b> Mauro Silberberg (Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de F√≠sica)	
 <br>
 Poincar√© is a new Python-based library to define and simulate dynamical systems. Trying not to reinvent (much of) the wheel, it uses modern Python syntax to define and compose models in a compact way. This allows us to take advantage of the huge investment on tooling from the broader Python community such as static type checkers, code linters and formatters, autocomplete and refactoring features from IDEs, among others.
 
@@ -250,7 +264,7 @@ SimBio is built on top of poincar√©, adding some components for reaction-base
 <hr>
 
 <b>DySE: Dynamic System Explanation framework</b>
-Tang, Difei (University of Pittsbrugh); Miskov-Zivanov Natasa (University of Pittsburgh)	University of Pittsburgh	<br>
+Difei Tang (University of Pittsbrugh); Natasa Miskov-Zivanov (University of Pittsburgh)<br>
 In this demo, we will showcase our framework, DySE (Dynamic System Explanation), that includes tools for model simulation, model extension, interaction classification, interaction filtering, model checking, and sensitivity analysis. The rapid proliferation of data generated by experiments studying biological systems poses a considerable challenge. This overflow of information is spread across an array of publishing platforms, making it increasingly difficult to manually analyze all available data. This underscores the necessity for automated methods that can retrieve and connect relevant pieces of this voluminous knowledge. Such methods are crucial for understanding, explaining, and predicting the behavior of these complex systems.
  
 To tackle this challenge, DySE integrates machine reading, automated model assembly, and computational analysis to enhance understanding and explanation of complex systems. The toolset is conveniently accessible via a user-friendly graphical interface (GUI).
@@ -262,7 +276,20 @@ In conjunction with these front-end tools, we've also developed back-end tools w
 All of these tools can be used either independently or in combination. For instance, synthetic biologists can rely on it to ensure the reliability of interactions in designing synthetic biological systems. Bioinformaticians can efficiently filter and prioritize data, while computational modelers benefit from model extensions to always get model up-to-date. Professionals in biotech industries utilize sensitivity analysis for optimizing therapies. Additionally, even educators would find it valuable when using simulation software.
 <hr>
 
-<b> Novel advances in the automation of knowledge selection and model assembly</b> 	Natasa Miskov-Zivanov, 	Ahmed, Yasmine; Zhou, Gaoxiang;	University of Pittsburgh <br>
+<b> Novel advances in the automation of knowledge selection and model assembly</b> 	Natasa Miskov-Zivanov, 	Yasmine Ahmed,  Gaoxiang Zhou	(University of Pittsburgh)<br>
 Creating computational models of complicated systems, including intracellular and intercellular bionetworks, is a time and labor-intensive task which is often limited by the knowledge and experience of Pathway database modelers. This has naturally led to the emergence of the idea of automating the process of building new/extending existing models, which could have a significant potential in enabling rapid, consistent, comprehensive and robust analysis of complicated systems. Inspired by this idea, we propose in this work different novel approaches namely ACCORDION (ACCelerating and Optimizing model RecommenDatIONs) and CLARINET (CLARifying NETworks) for expanding models using the information extracted from literature by machine reading engines. Our proposed approaches combine machine reading with clustering, and graph theoretical analysis to create an automated framework for efficient model assembly. Furthermore, by automatically extending models with the information published in literature, our proposed methods allow for collecting the existing information in a consistent and comprehensive way. This, in turn, facilitates information reuse, data reproducibility, and replacing hundreds/thousands of manual experiments, thereby reducing the time needed for the advancement of knowledge. To evaluate ACCORDION1 and CLARINET, we compare their outcomes with three previously published manually created models namely naive T cell differentiation model, T cell large granular lymphocyte leukemia model and pancreatic cancer cell model. Besides demonstrating automated reconstruction of a model that was previously built manually, our tools can assemble multiple models that satisfy desired system properties. As such, they replace large number of tedious or even impractical manual experiments and guide alternative hypotheses and interventions in biological systems.
 A GitHub page, ReadtheDocs and Jupyter notebook are available for ACCORDION http://www.nmzlab.pitt.edu/accordion and CLARINET http://www.nmzlab.pitt.edu/clarinet.
 <hr>
+
+<b>Using Compucell3D as a Platform for Model Building to Explore Intracellular Pathways, Cell Behaviors, Cell-Cell Interactions and Tissue-Level Signaling </b> Pedro Dal-Castel (Biocomplexity Institute and Department of Intelligent Systems Engineering, Indiana University)<br>
+
+Mechanistic agent-based modeling is an integral part of contemporary bioscience, used for hypothesis generation and testing, experiment design and interpretation, and the design of therapeutic interventions. The CompuCell3D (CC3D) modeling environment allows researchers to rapidly build and execute complex virtual tissue simulations with minimal programming experience. CC3D enables biological simulations from subcellular to tissue scales, supporting explicit cell shapes, cell migration, contact-mediated cell interactions, soluble signals, and complex cell state dynamics (gene regulatory, signaling, and metabolic networks). CC3D natively supports SBML, Antimony, and MaBoSS network model integration. Participants will (1) learn how to build models in CC3D, (2) implement network models in CC3D, and (3) develop an example simulation with all concepts learned. CC3D can be accessed from the official website (www.compucell3d.org) or running it on-line at (https://nanohub.org/resources/cc3dbase4x).
+
+Audience: Anyone interested in multicellular Virtual-Tissue modeling or in coupling network models to cell behaviors and dynamic spatial organization.
+
+Learning Outcomes: Ability to use CompuCell3D to design, execute and explore virtual-tissue simulations integrating cells, networks and external chemical fields.
+
+For more information: see https://www.compucell3d.org or contact pdalcastel@gmail.com, or jaglazier@gmail.com
+
+Computer Requirements: Any Windows or Mac computer. CompuCell3D is open-source and free. It also runs on many LINUX deployments (see www.compucell3d.org for details). Our preferred method for this miniworkshop is the nanoHUB CC3D application, which runs in a browser without local installation.
+
