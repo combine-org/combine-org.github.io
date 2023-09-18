@@ -64,5 +64,5 @@ The recordings of the COMBINE 2021 presentations are available here: https://www
 
 The times of the invited speaker presentations can be seen below (all times in UTC).
 
-<p align="centre"><img src="../documents/invited1.png" height="100px"/></p>
-<p align="centre"><img src="../documents/invited2.png" height="100px"/></p>
+<p align="centre"><img src="../../documents/invited1.png" height="100px"/></p>
+<p align="centre"><img src="../../documents/invited2.png" height="100px"/></p>
