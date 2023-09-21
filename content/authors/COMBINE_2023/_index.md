@@ -62,8 +62,8 @@ user_groups:
 ---
 <img src="/images/combine2023/combine23-hartford.png" alt="demo" class="img-responsive">
 
-**NEWS September 12:**
-- 64 [attendees](#attendees)
+**NEWS September 21:**
+- 70 [attendees](#attendees)
 - Preliminary list of 8 [breakouts](#breakouts) and 7 [tutorials](#tutorials)
 - Updated tentative schedule
 
@@ -96,7 +96,7 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 
 ### <a name="attendees"></a>Attendees
 
-64 registered participants as of September 18
+70 registered participants as of September 21
 | Name <hr> Affiliation  | Attendance | Interested <hr>  Projects |
 |---|---|---|
 | <b>Alan Garny</b> <br/> University of Auckland | remotely | SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO) <hr> libOpenCOR (https://opencor.ws/libopencor/) and OpenCOR (https://opencor.ws/) | 
@@ -106,7 +106,8 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Augustin Luna</b> <br/> Harvard Medical School | remotely | SBGN;BioPAX <hr> https://www.pathwaycommons.org/; https://biofactoid.org/ | 
 | <b>Bartholomew Jardine</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Software tools for creating, editing, and simulating SBML complient modelss | 
 | <b>Bharat Mishra</b> <br/> PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> https://www.uab.edu/cores/ircp/bds | 
-| <b>Chris Myers</b> <br/> University of Colorado Boulder | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> SynBioHub/SynBioSuite/iBioSim | 
+| <b>Carolus Vitalis</b> <br/> University of Colorado Boulder |  | SBOL, SBOL visual;Multicellular modeling <hr> - | 
+| <b>Chris Myers</b> <br/> University of Colorado Boulder | remotely | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> SynBioHub/SynBioSuite/iBioSim | 
 | <b>Dagmar Waltemath</b> <br/> University Medicine Greifswald | remotely | SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Dan Vasilescu</b> <br/> UCHC | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;BioPAX;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Daniel Ajuzie</b> <br/> undergraduate | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual;CellML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Ensemble Modeling; Model Optimization and Calibration | 
@@ -127,6 +128,7 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Ion Moraru</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;model credibility <hr> VCell, BioSimulations, BioSimulators | 
 | <b>Jacob Beal</b> <br/> Raytheon BBN |  | SBOL, SBOL visual <hr> - | 
 | <b>James A. Glazier</b> <br/> Indiana University | Oct 5 Oct 6 Oct 7 Oct 8 | Multicellular modeling <hr> CompuCell3D (https://compucell3d.org/), Virtual Cornea, IMAG/MSM Working Group on Multiscale Modeling and Viral Pandemics (https://www.imagwiki.nibib.nih.gov/working-groups/multiscale-modeling-and-viral-pandemics) | 
+| <b>Jessica Yu</b> <br/> Allen Institute for Cell Science | remotely | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> agent-based modeling, cloud-based simulation and analysis workflows | 
 | <b>Jim Schaff</b> <br/> Contractor - UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Virtual Cell Project (vcell.org), Reproducible Biological Modeling (reproduciblebiomodels.org) | 
 | <b>John Gennari</b> <br/> University of Washington | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;BioPAX;CellML;Ontologies (SBO, KiSAO) <hr> Center for Reproducible Biomedical Modeling | 
 | <b>Juliano Ferrari Gianlupi</b> <br/> Postdoctoral Scholar, UTHSC |  | SBML;CellML;Multicellular modeling <hr> PhenoCellPy https://www.biorxiv.org/content/10.1101/2023.04.12.535625v2.abstract; Translating PhysiCell specification into CompuCell3D simulation https://github.com/JulianoGianlupi/pcxml2cc3d | 
@@ -142,9 +144,11 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Maren Philipps</b> <br/> University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | - <hr> PEtab, pyPESTO | 
 | <b>Mauro Silberberg</b> <br/> Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Universidad de Buenos Aires, Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> poincaré (github.com/maurosilber/poincare) and SimBio (github.com/hgrecco/simbio), which are Python libraries for definition and simulation of dynamical systems. | 
 | <b>Michael Blinov</b> <br/> Center for Cell Analysis and Modeling, UConn Health,  | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling <hr> VCell, BNGLViz, MolClustPy,  | 
+| <b>Michael Getz</b> <br/> PostDoc |  | SBML;CellML;Multicellular modeling <hr> - | 
 | <b>Mustafa Ozen</b> <br/> Altos Labs |  | SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling <hr> - | 
 | <b>Natasa Miskov-Zivanov</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;SBOL, SBOL visual;CellML;NeuroML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> - | 
 | <b>Nilesh Kumar</b> <br/> PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML <hr> - | 
+| <b>Norma Perez Rosas</b> <br/> Purdue University | remotely | SBML;SED-ML, OMEX, COMBINE;SBGN;Multicellular modeling <hr> I work with mathematical models (ordinary and partial differential equations, kinetic modeling) to explain calcium activity in different biological systems.    | 
 | <b>Olga Krebs</b> <br/> Heidelberg Institute for Theoretical Studies  HITS  |  | SED-ML, OMEX, COMBINE;SBOL, SBOL visual;Ontologies (SBO, KiSAO);BioProtocols <hr> FAIRDOM, LiSyM Cancer, MESI-STRAT, PoLiMeR, deNBI | 
 | <b>Paola Vera-Licona</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling <hr> NETISCE (NETwork-drIven analysiS of CEllular reprogramming) http://veraliconalab.org/Netisce/index.html | 
 | <b>Pedro Cenci Dal Castel </b> <br/> Indiana University Bloomington  |  | SBML <hr> - | 
@@ -155,7 +159,7 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Sebastien Moretti</b> <br/> SIB Swiss Institute of Bioinformatics | remotely | SBML;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Sikao Guo</b> <br/> PostDoc | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;CellML;NeuroML;Multicellular modeling <hr> I am currently working on developing and parallelizing NERDSS (Structure-Resolved Reaction-Diffusion Simulation Software). You can find the GitHub page at https://github.com/mjohn218/NERDSS. | 
 | <b>Sven Sahle</b> <br/> Heidelberg University | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE <hr> COPASI | 
-| <b>T.J. Sego</b> <br/> University of Florida | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling <hr> CompuCell3D, Tissue Forge, https://directory.ufhealth.org/sego-t-j| 
+| <b>T.J. Sego</b> <br/> University of Florida | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling <hr> CompuCell3D, Tissue Forge, https://directory.ufhealth.org/sego-t-j | 
 
 
 ### <a name="breakouts"></a>Breakout sessions
