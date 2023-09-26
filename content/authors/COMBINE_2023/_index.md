@@ -105,7 +105,7 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Aniruddha Chattaraj</b> <br/> Harvard University | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Modeling of multivalent protein clustering, statistical analysis of cluster properties and visualization. Developer of MolClustPy. Interested in multi-scale modeling, specially problems related to biofilm formation. Software - Bionetgen, Virtual Cell, SpringSaLaD, LAMMPS, Python | 
 | <b>Augustin Luna</b> <br/> Harvard Medical School | remotely | SBGN;BioPAX <hr> https://www.pathwaycommons.org/; https://biofactoid.org/ | 
 | <b>Bartholomew Jardine</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Software tools for creating, editing, and simulating SBML complient modelss | 
-| <b>Bharat Mishra</b> <br/> PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> https://www.uab.edu/cores/ircp/bds | 
+| <b>Bharat Mishra</b> <br/> PhD | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> https://www.uab.edu/cores/ircp/bds | 
 | <b>Carolus Vitalis</b> <br/> University of Colorado Boulder |  | SBOL, SBOL visual;Multicellular modeling <hr> - | 
 | <b>Chris Myers</b> <br/> University of Colorado Boulder | remotely | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> SynBioHub/SynBioSuite/iBioSim | 
 | <b>Dagmar Waltemath</b> <br/> University Medicine Greifswald | remotely | SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO) <hr> - | 
@@ -117,44 +117,44 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Difei Tang</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;SBOL, SBOL visual;Ontologies (SBO, KiSAO) <hr> GUI for DySE framework | 
 | <b>Dilan Pathirana</b> <br/> University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Ontologies (SBO, KiSAO);Multicellular modeling;PEtab <hr> PEtab ( https://github.com/PEtab-dev/petab ). PEtab for model selection ( https://github.com/PEtab-dev/petab_select ). Model collection for benchmarking studies ( https://github.com/Benchmarking-Initiative/Benchmark-Models-PEtab/ ). | 
 | <b>Edwin Moses Appiah</b> <br/> Center for Cell Analysis and Modelling | Oct 5 Oct 6 Oct 7 Oct 8 | CellML;Multicellular modeling <hr> - | 
-| <b>Egils Stalidzans</b> <br/> PhD |  | SBML;SBOL, SBOL visual <hr> ODE-based kinetic modeling, constraint based stoichiometric modeling | 
-| <b>Elebeoba May</b> <br/> University of Wisconsin-Madison |  | SBML;Multicellular modeling;Visualization <hr> biochemical/bionetwork ODE models (metabolism, signal transduction, gene networks), multiscale models of host-pathogen systems, multiscale models of microbial communities, modeling synthetic bio systems | 
+| <b>Egils Stalidzans</b> <br/> PhD | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SBOL, SBOL visual <hr> ODE-based kinetic modeling, constraint based stoichiometric modeling | 
+| <b>Elebeoba May</b> <br/> University of Wisconsin-Madison | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling;Visualization <hr> biochemical/bionetwork ODE models (metabolism, signal transduction, gene networks), multiscale models of host-pathogen systems, multiscale models of microbial communities, modeling synthetic bio systems | 
 | <b>Eran Agmon</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Vivarium: https://vivarium-collective.github.io | 
-| <b>Fengkai Zhang</b> <br/> NIH |  | SBML;SED-ML, OMEX, COMBINE;SBGN <hr> - | 
+| <b>Fengkai Zhang</b> <br/> NIH | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN <hr> Simmune (https://www.niaid.nih.gov/research/simmune-project), rule-based modeling and libSBML-multi | 
 | <b>Frank T. Bergmann</b> <br/> BioQUANT, Heidelberg University | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN <hr> COPASI (https://copasi.org), basico (https://basico.readthedocs.io/), libSBML / libSEDML / libCombine | 
 | <b>Gaoxiang Zhou</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;SBOL, SBOL visual;CellML;Multicellular modeling <hr> https://www.nmzlab.pitt.edu/people/gaoxiang-zhou, https://github.com/pitt-miskov-zivanov-lab, https://melody-biorecipe.readthedocs.io | 
 | <b>Gerhard Mayer</b> <br/> HITS (Heidelberg Institute for Theoretical Studies) gGmbH, Heidelberg | remotely | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> EDITH (Ecosystem Digital Twins in Healthcare); https://www.edith-csa.eu | 
 | <b>Herbert M Sauro</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Multicellular modeling <hr> SBML, roadrunner etc | 
 | <b>Ion Moraru</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;model credibility <hr> VCell, BioSimulations, BioSimulators | 
-| <b>Jacob Beal</b> <br/> Raytheon BBN |  | SBOL, SBOL visual <hr> - | 
+| <b>Jacob Beal</b> <br/> Raytheon BBN | Oct 5 Oct 6 Oct 7 Oct 8 | SBOL, SBOL visual <hr> - | 
 | <b>James A. Glazier</b> <br/> Indiana University | Oct 5 Oct 6 Oct 7 Oct 8 | Multicellular modeling <hr> CompuCell3D (https://compucell3d.org/), Virtual Cornea, IMAG/MSM Working Group on Multiscale Modeling and Viral Pandemics (https://www.imagwiki.nibib.nih.gov/working-groups/multiscale-modeling-and-viral-pandemics) | 
 | <b>Jessica Yu</b> <br/> Allen Institute for Cell Science | remotely | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> agent-based modeling, cloud-based simulation and analysis workflows | 
 | <b>Jim Schaff</b> <br/> Contractor - UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Virtual Cell Project (vcell.org), Reproducible Biological Modeling (reproduciblebiomodels.org) | 
-| <b>John Gennari</b> <br/> University of Washington | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;BioPAX;CellML;Ontologies (SBO, KiSAO) <hr> Center for Reproducible Biomedical Modeling | 
+| <b>John Gennari</b> <br/> University of Washington | Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;BioPAX;CellML;Ontologies (SBO, KiSAO) <hr> Center for Reproducible Biomedical Modeling | 
 | <b>Juliano Ferrari Gianlupi</b> <br/> Postdoctoral Scholar, UTHSC |  | SBML;CellML;Multicellular modeling <hr> PhenoCellPy https://www.biorxiv.org/content/10.1101/2023.04.12.535625v2.abstract; Translating PhysiCell specification into CompuCell3D simulation https://github.com/JulianoGianlupi/pcxml2cc3d | 
 | <b>Jörn Starruß</b> <br/> Technische Universität Dresden, Germany | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling <hr>  MorpheusML, https://morpheus.gitlab.io, Multicellular modeling, https://MultiCellML.org, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit | 
 | <b>Jürgen Pahle</b> <br/> Heidelberg University | Oct 5 Oct 6 Oct 7 Oct 8 | - <hr> Copasi, CoRC | 
 | <b>Lara Bruezière</b> <br/> Novadiscovery | remotely | SBML;SED-ML, OMEX, COMBINE;SBGN <hr> Jinko software - collaborative clinical trial simulation platform | 
-| <b>Lea Seep</b> <br/> University Bonn, IRU-MLS |  | SBML;Ontologies (SBO, KiSAO) <hr> - | 
+| <b>Lea Seep</b> <br/> University Bonn, IRU-MLS | Oct 5 Oct 6 Oct 7 Oct 8  | SBML;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Leslie Loew</b> <br/> U. Conn. School of Medicine | Oct 5 Oct 6 | SBML;SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Virtual Cell (aka VCell); SpringSaLaD | 
 | <b>Lucian Smith</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Antimony, Roadrunner, Tellurium, SBML, SED-ML | 
 | <b>Luis Fonseca</b> <br/> University of Florida | remotely | SBML;SBGN;CellML;NeuroML;Multicellular modeling;ABM <hr> - | 
-| <b>Lukas Buecherl</b> <br/> University of Colorado Boulder |  | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> - | 
+| <b>Lukas Buecherl</b> <br/> University of Colorado Boulder | remotely | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> - | 
 | <b>Lutz Brusch</b> <br/> Technische Universität Dresden, Germany | remotely | Multicellular modeling <hr> Multicellular modeling, https://MultiCellML.org, MorpheusML, https://morpheus.gitlab.io, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit, FAIRSPACE | 
 | <b>Maren Philipps</b> <br/> University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | - <hr> PEtab, pyPESTO | 
 | <b>Mauro Silberberg</b> <br/> Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> poincaré (github.com/maurosilber/poincare) and SimBio (github.com/hgrecco/simbio), which are Python libraries for definition and simulation of dynamical systems. | 
 | <b>Michael Blinov</b> <br/> Center for Cell Analysis and Modeling, UConn Health,  | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling <hr> VCell, BNGLViz, MolClustPy,  | 
 | <b>Michael Getz</b> <br/> PostDoc |  | SBML;CellML;Multicellular modeling <hr> - | 
-| <b>Mustafa Ozen</b> <br/> Altos Labs |  | SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling <hr> - | 
+| <b>Mustafa Ozen</b> <br/> Altos Labs | Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling <hr> - | 
 | <b>Natasa Miskov-Zivanov</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;SBOL, SBOL visual;CellML;NeuroML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> - | 
-| <b>Nilesh Kumar</b> <br/> PhD |  | SBML;SED-ML, OMEX, COMBINE;CellML <hr> - | 
+| <b>Nilesh Kumar</b> <br/> PhD | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;CellML <hr> - | 
 | <b>Norma Perez Rosas</b> <br/> Purdue University | remotely | SBML;SED-ML, OMEX, COMBINE;SBGN;Multicellular modeling <hr> I work with mathematical models (ordinary and partial differential equations, kinetic modeling) to explain calcium activity in different biological systems.    | 
-| <b>Olga Krebs</b> <br/> Heidelberg Institute for Theoretical Studies  HITS  |  | SED-ML, OMEX, COMBINE;SBOL, SBOL visual;Ontologies (SBO, KiSAO);BioProtocols <hr> FAIRDOM, LiSyM Cancer, MESI-STRAT, PoLiMeR, deNBI | 
+| <b>Olga Krebs</b> <br/> Heidelberg Institute for Theoretical Studies  HITS  | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;SBOL, SBOL visual;Ontologies (SBO, KiSAO);BioProtocols <hr> FAIRDOM, LiSyM Cancer, MESI-STRAT, PoLiMeR, deNBI | 
 | <b>Paola Vera-Licona</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling <hr> NETISCE (NETwork-drIven analysiS of CEllular reprogramming) http://veraliconalab.org/Netisce/index.html | 
-| <b>Pedro Cenci Dal Castel </b> <br/> Indiana University Bloomington  |  | SBML <hr> - | 
+| <b>Pedro Cenci Dal Castel </b> <br/> Indiana University Bloomington  | Oct 8 | SBML <hr> - | 
 | <b>Pedro Mendes</b> <br/> University of Connecticut School of Medicine | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> - | 
 | <b>Prashant Vaidyanathan</b> <br/> Oxford Biomedica | remotely | SBOL, SBOL visual <hr> - | 
-| <b>Rahuman Sheriff</b> <br/> European Bioinformatics Institute (EMBL-EBI) | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;Ontologies (SBO, KiSAO);Multicellular modeling;FROG <hr> BioModels https://www.ebi.ac.uk/biomodels | 
+| <b>Rahuman Sheriff</b> <br/> European Bioinformatics Institute (EMBL-EBI) | Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;Ontologies (SBO, KiSAO);Multicellular modeling;FROG <hr> BioModels https://www.ebi.ac.uk/biomodels | 
 | <b>Sarah Keating</b> <br/> University College London | remotely | SBML;SED-ML, OMEX, COMBINE <hr> - | 
 | <b>Sebastien Moretti</b> <br/> SIB Swiss Institute of Bioinformatics | remotely | SBML;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Sikao Guo</b> <br/> PostDoc | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;CellML;NeuroML;Multicellular modeling <hr> I am currently working on developing and parallelizing NERDSS (Structure-Resolved Reaction-Diffusion Simulation Software). You can find the GitHub page at https://github.com/mjohn218/NERDSS. | 
@@ -223,6 +223,15 @@ In this breakout session, based on audience interests, we will present introduct
 
 <b>Annotations for SBML-qual models</b>	John Gennari (University of Washington)<br>
 Annotations against standard ontological resources is an important step for model reuse, model merging, and model comprehension. What are the specific needs for annotation of "logical" models (sometimes known as Boolean models)? In this breakout session, we'll look at some example SBML-Qual models, especially gene regulatory networks. The specific augmentations that SBML-qual provides over "plain" SBML means that there are new opportunities to provide specific types of annotations on elements. As with any annotation effort, we will discuss tool support and ways to make annotation semi-automatic or easier for the modeler. We will also discuss how in-line annotations might look within SBML-qual, versus a separate file (per the COMBINE community recommendation).
+
+<hr>
+
+<b>A COMBINE Standard for Digital Twins of Living System?</b>Rahuman Sheriff (European Bioinformatics Institute, EMBL-EBI) <br>
+Digital Twins are highly accurate and dynamic virtual replicas of real-world systems that has revolutionized a wide range of engineering industry. However, as this paradigm shift extends its reach into the realm of healthcare and medicine, including the ambitious endeavour of creating a human digital twin, it becomes evident that a standardized approach is imperative.
+
+The COmputational Modeling in Biology Network (COMBINE) community, renowned for its development of critical standards such as SBML, CellML, SEDML, and PETab, now faces a pivotal question: Can it deliver a standardized specification for Digital Twins of patients, encompassing the complexities of human biology and beyond?
+
+In this engaging breakout session, we will explore this compelling proposition. Together, we will delve into the pressing need for a COMBINE standard tailored to the model human Digital Twins. In this session, we will engage in discussion, debating the feasibility and implications of developing a universal standard for Digital Twins that promises to shape the future of personalised medicine. If the outcome of the discussion is positive, we could consider writing a white paper on this topic. 
 
 
 ### <a name="tutorials"></a>Tutorials</h3>
