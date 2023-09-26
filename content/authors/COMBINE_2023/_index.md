@@ -142,7 +142,7 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Lukas Buecherl</b> <br/> University of Colorado Boulder |  | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> - | 
 | <b>Lutz Brusch</b> <br/> Technische Universität Dresden, Germany | remotely | Multicellular modeling <hr> Multicellular modeling, https://MultiCellML.org, MorpheusML, https://morpheus.gitlab.io, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit, FAIRSPACE | 
 | <b>Maren Philipps</b> <br/> University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | - <hr> PEtab, pyPESTO | 
-| <b>Mauro Silberberg</b> <br/> Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Universidad de Buenos Aires, Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> poincaré (github.com/maurosilber/poincare) and SimBio (github.com/hgrecco/simbio), which are Python libraries for definition and simulation of dynamical systems. | 
+| <b>Mauro Silberberg</b> <br/> Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> poincaré (github.com/maurosilber/poincare) and SimBio (github.com/hgrecco/simbio), which are Python libraries for definition and simulation of dynamical systems. | 
 | <b>Michael Blinov</b> <br/> Center for Cell Analysis and Modeling, UConn Health,  | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling <hr> VCell, BNGLViz, MolClustPy,  | 
 | <b>Michael Getz</b> <br/> PostDoc |  | SBML;CellML;Multicellular modeling <hr> - | 
 | <b>Mustafa Ozen</b> <br/> Altos Labs |  | SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling <hr> - | 
@@ -258,13 +258,13 @@ PySB GitHub: https://github.com/pysb/pysb
 PySB Tutorial: https://pysb.readthedocs.io/en/stable/tutorial.html
 
 <hr>
-<b>Introducing poincar√© and SimBio</b> Mauro Silberberg (Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de F√≠sica)	
+<b>Introducing poincaré and SimBio</b> Mauro Silberberg (Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisica)	
 <br>
-Poincar√© is a new Python-based library to define and simulate dynamical systems. Trying not to reinvent (much of) the wheel, it uses modern Python syntax to define and compose models in a compact way. This allows us to take advantage of the huge investment on tooling from the broader Python community such as static type checkers, code linters and formatters, autocomplete and refactoring features from IDEs, among others.
+Poincaré is a new Python-based library to define and simulate dynamical systems. Trying not to reinvent (much of) the wheel, it uses modern Python syntax to define and compose models in a compact way. This allows us to take advantage of the huge investment on tooling from the broader Python community such as static type checkers, code linters and formatters, autocomplete and refactoring features from IDEs, among others.
 
 Using standard libraries from the PyData ecosystem, by default, poincar√© compiles into a first-order ODE system using NumPy arrays, and uses solvers from SciPy. But it also provides different backends such as Numba, which compiles just-in-time to LLVM code, providing a significant speed boost, or JAX, which provides autodifferentiation tools targeted for ML. Additionally, it supports units using the Pint library.
 
-SimBio is built on top of poincar√©, adding some components for reaction-based models used in systems biology. It provides some predefined building blocks for the most common reactions, but allows easily to create your own. Finally, it implements an importer and exporter to SBML, allowing to interexchange models with the COMBINE community. We hope that it is simple enough for beginners, but powerful for power-users with the possibility to extend and compose with the large Python ecosystem.
+SimBio is built on top of poincaré, adding some components for reaction-based models used in systems biology. It provides some predefined building blocks for the most common reactions, but allows easily to create your own. Finally, it implements an importer and exporter to SBML, allowing to interexchange models with the COMBINE community. We hope that it is simple enough for beginners, but powerful for power-users with the possibility to extend and compose with the large Python ecosystem.
 <hr>
 
 <b>DySE: Dynamic System Explanation framework</b>
