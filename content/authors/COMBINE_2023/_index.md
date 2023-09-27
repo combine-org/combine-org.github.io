@@ -97,7 +97,7 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 ### <a name="attendees"></a>Attendees
 
 70 registered participants as of September 21
-| Name <hr> Affiliation  | Attendance | Interested <hr>  Projects |
+| Name <hr> Affiliation  | Attendance <br> in person | Interested <hr>  Projects |
 |---|---|---|
 | <b>Alan Garny</b> <br/> University of Auckland | remotely | SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO) <hr> libOpenCOR (https://opencor.ws/libopencor/) and OpenCOR (https://opencor.ws/) | 
 | <b>Amin Boroomand</b> <br/> Woods Hole institute | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling <hr> - | 
@@ -111,7 +111,6 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Dagmar Waltemath</b> <br/> University Medicine Greifswald | remotely | SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Dan Vasilescu</b> <br/> UCHC | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;BioPAX;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Daniel Ajuzie</b> <br/> undergraduate | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual;CellML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Ensemble Modeling; Model Optimization and Calibration | 
-| <b>Daniel Ajuzie</b> <br/> undergraduate | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> Multi-phenotype Optimization for Dynamic Modeling | 
 | <b>David Nickerson</b> <br/> Auckland Bioengineering Institute, University of Auckland | remotely | SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);OMEX Metadata; FAIR indicators for models; repositories <hr> - | 
 | <b>Diego Jahn</b> <br/> TUD Dresden University of Technology, Center for Information Services and High Performance Computing (ZIH) | remotely | Multicellular modeling <hr> MorpheusML, MorpheusML Model Repository (https://morpheus.gitlab.io), Multicellular Modeling | 
 | <b>Difei Tang</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;BioPAX;SBOL, SBOL visual;Ontologies (SBO, KiSAO) <hr> GUI for DySE framework | 
@@ -131,13 +130,13 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Jessica Yu</b> <br/> Allen Institute for Cell Science | remotely | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> agent-based modeling, cloud-based simulation and analysis workflows | 
 | <b>Jim Schaff</b> <br/> Contractor - UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Virtual Cell Project (vcell.org), Reproducible Biological Modeling (reproduciblebiomodels.org) | 
 | <b>John Gennari</b> <br/> University of Washington | Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;BioPAX;CellML;Ontologies (SBO, KiSAO) <hr> Center for Reproducible Biomedical Modeling | 
-| <b>Juliano Ferrari Gianlupi</b> <br/> Postdoctoral Scholar, UTHSC |  | SBML;CellML;Multicellular modeling <hr> PhenoCellPy https://www.biorxiv.org/content/10.1101/2023.04.12.535625v2.abstract; Translating PhysiCell specification into CompuCell3D simulation https://github.com/JulianoGianlupi/pcxml2cc3d | 
+| <b>Juliano Ferrari Gianlupi</b> <br/> Postdoctoral Scholar, UTHSC | Oct 5 Oct 6 Oct 7 | SBML;CellML;Multicellular modeling <hr> PhenoCellPy https://www.biorxiv.org/content/10.1101/2023.04.12.535625v2.abstract; Translating PhysiCell specification into CompuCell3D simulation https://github.com/JulianoGianlupi/pcxml2cc3d | 
 | <b>Jörn Starruß</b> <br/> Technische Universität Dresden, Germany | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling <hr>  MorpheusML, https://morpheus.gitlab.io, Multicellular modeling, https://MultiCellML.org, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit | 
 | <b>Jürgen Pahle</b> <br/> Heidelberg University | Oct 5 Oct 6 Oct 7 Oct 8 | - <hr> Copasi, CoRC | 
 | <b>Lara Bruezière</b> <br/> Novadiscovery | remotely | SBML;SED-ML, OMEX, COMBINE;SBGN <hr> Jinko software - collaborative clinical trial simulation platform | 
 | <b>Lea Seep</b> <br/> University Bonn, IRU-MLS | Oct 5 Oct 6 Oct 7 Oct 8  | SBML;Ontologies (SBO, KiSAO) <hr> - | 
 | <b>Leslie Loew</b> <br/> U. Conn. School of Medicine | Oct 5 Oct 6 | SBML;SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Virtual Cell (aka VCell); SpringSaLaD | 
-| <b>Lucian Smith</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Antimony, Roadrunner, Tellurium, SBML, SED-ML | 
+| <b>Lucian Smith</b> <br/> University of Washington | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Antimony, Roadrunner, Tellurium, SBML, SED-ML | 
 | <b>Luis Fonseca</b> <br/> University of Florida | remotely | SBML;SBGN;CellML;NeuroML;Multicellular modeling;ABM <hr> - | 
 | <b>Lukas Buecherl</b> <br/> University of Colorado Boulder | remotely | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> - | 
 | <b>Lutz Brusch</b> <br/> Technische Universität Dresden, Germany | remotely | Multicellular modeling <hr> Multicellular modeling, https://MultiCellML.org, MorpheusML, https://morpheus.gitlab.io, SBML-Spatial, PEtab-MS, https://gitlab.com/fitmulticell/fit, FAIRSPACE | 
@@ -183,7 +182,7 @@ Session Goals:
 <b>Standardizing Multicellular Simulation - Bridging Methods and Models</b>	Eran Agmon (UConn Health),	T.J. Sego (U of Florida); James Glazier (Indiana University)		<br>
 Intended Audience: Researchers, bioinformaticians, software developers, and modelers who are involved in or interested in multicellular simulations across various methodologies. Prior experience with basic concepts in computational biology or multicellular modeling is beneficial but not mandatory.<br>
 
-Overview: Multicellular simulations have become indispensable in understanding complex biological phenomena, from tissue development to disease progression. But the diversity in simulation methods ‚Äì from agent-based models, cellular Potts models, cellular automata, lattice-free models, stochastic particle simulations, etc ‚Äì poses challenges in reproducibility, modularity, reusability, and integration within multi-scale simulation. This session aims to bridge these gaps by focusing on the development of standards and schemas, with special emphasis on multiscale, embedded, and coupled simulation methods. Through a combination of presentations, case studies, and discussions, attendees will gain an understanding of the multicellular simulation landscape, the need for standardization, and the importance of sharing and reusing models.<br>
+Overview: Multicellular simulations have become indispensable in understanding complex biological phenomena, from tissue development to disease progression. But the diversity in simulation methods ‚ from agent-based models, cellular Potts models, cellular automata, lattice-free models, stochastic particle simulations, etc‚ poses challenges in reproducibility, modularity, reusability, and integration within multi-scale simulation. This session aims to bridge these gaps by focusing on the development of standards and schemas, with special emphasis on multiscale, embedded, and coupled simulation methods. Through a combination of presentations, case studies, and discussions, attendees will gain an understanding of the multicellular simulation landscape, the need for standardization, and the importance of sharing and reusing models.<br>
 
 Session Goals:
 - Landscape of Multicellular Simulations: An overview of the various methods employed in multicellular simulations, highlighting their unique features and common challenges.
@@ -215,7 +214,7 @@ Although PEtab was initially developed for parameter estimation, recent efforts 
 
 In this breakout session, based on audience interests, we will present introductions to PEtab and its extensions, then discuss current efforts to improve PEtab. People unfamiliar with PEtab are welcome to attend, and might first like to check out the tutorial [3].
 
-[1] ""PEtab‚ÄîInteroperable specification of parameter estimation problems in systems biology"" https://doi.org/10.1371/journal.pcbi.1008646
+[1] "PEtab‚ Interoperable specification of parameter estimation problems in systems biology" https://doi.org/10.1371/journal.pcbi.1008646
 [2] https://github.com/PEtab-dev/petab#petab-support-in-systems-biology-tools
 [3] https://petab.readthedocs.io/en/latest/tutorial.html
 
