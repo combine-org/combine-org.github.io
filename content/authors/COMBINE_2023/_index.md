@@ -96,16 +96,16 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 
 ### <a name="attendees"></a>Attendees
 
-70 registered participants as of September 21
+76 registered participants as of October 2
 | Name <hr> Affiliation  | Attendance <br> in person | Interested <hr>  Projects |
 |---|---|---|
 | <b>Alan Garny</b> <br/> University of Auckland | remotely | SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO) <hr> libOpenCOR (https://opencor.ws/libopencor/) and OpenCOR (https://opencor.ws/) | 
+| <b>Alex Patrie</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling <hr> - | 
 | <b>Amin Boroomand</b> <br/> Woods Hole institute | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;Multicellular modeling <hr> - | 
 | <b>Amir Mahari</b> <br/> University of Arkansas | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SBGN;Multicellular modeling <hr> I focus on the modeling and simulation of intercellular signaling pathways within melanoma cancer cells. This study holds significance due to the intricate nature of signaling cascades that regulate various cellular processes in melanoma progression. To facilitate this investigation, I employ PySB (Python Systems Biology), a powerful computational framework designed for creating, simulating, and analyzing mathematical models of biochemical systems. PySB's modular and user-friendly nature enables me to construct complex models of intercellular signaling, incorporating factors such as ligand-receptor interactions, protein phosphorylation, and gene expression. Through PySB's simulation capabilities, I can dynamically analyze the behavior of these pathways under different conditions, gaining insights into the underlying mechanisms that drive melanoma growth and metastasis. Ultimately, this research using PySB contributes to an enhanced understanding of melanoma biology, potentially paving the way for novel therapeutic interventions and personalized treatment strategies in combating this aggressive form of cancer. | 
 | <b>Aniruddha Chattaraj</b> <br/> Harvard University | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;Multicellular modeling <hr> Modeling of multivalent protein clustering, statistical analysis of cluster properties and visualization. Developer of MolClustPy. Interested in multi-scale modeling, specially problems related to biofilm formation. Software - Bionetgen, Virtual Cell, SpringSaLaD, LAMMPS, Python | 
 | <b>Augustin Luna</b> <br/> Harvard Medical School | remotely | SBGN;BioPAX <hr> https://www.pathwaycommons.org/; https://biofactoid.org/ | 
 | <b>Bartholomew Jardine</b> <br/> University of Washington | remotely | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> Software tools for creating, editing, and simulating SBML complient modelss | 
-| <b>Bharat Mishra</b> <br/> PhD | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;CellML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> https://www.uab.edu/cores/ircp/bds | 
 | <b>Carolus Vitalis</b> <br/> University of Colorado Boulder |  | SBOL, SBOL visual;Multicellular modeling <hr> - | 
 | <b>Chris Myers</b> <br/> University of Colorado Boulder | remotely | SBML;SED-ML, OMEX, COMBINE;SBOL, SBOL visual <hr> SynBioHub/SynBioSuite/iBioSim | 
 | <b>Dagmar Waltemath</b> <br/> University Medicine Greifswald | remotely | SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO) <hr> - | 
@@ -143,13 +143,14 @@ The hotel serves hot breakfast. There is a [Butchers and Bakers restaurant](http
 | <b>Maren Philipps</b> <br/> University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | - <hr> PEtab, pyPESTO | 
 | <b>Mauro Silberberg</b> <br/> Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, y CONICET - Instituto de Física de Buenos Aires (IFIBA). Buenos Aires, Argentina | remotely | SBML;SED-ML, OMEX, COMBINE;CellML;NeuroML <hr> poincaré (github.com/maurosilber/poincare) and SimBio (github.com/hgrecco/simbio), which are Python libraries for definition and simulation of dynamical systems. | 
 | <b>Michael Blinov</b> <br/> Center for Cell Analysis and Modeling, UConn Health,  | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;Ontologies (SBO, KiSAO);Multicellular modeling <hr> VCell, BNGLViz, MolClustPy,  | 
-| <b>Michael Getz</b> <br/> PostDoc |  | SBML;CellML;Multicellular modeling <hr> - | 
+| <b>Michael Getz</b> <br/> PostDoc | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;CellML;Multicellular modeling <hr> - | 
 | <b>Mustafa Ozen</b> <br/> Altos Labs | Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;CellML;NeuroML;Multicellular modeling <hr> - | 
 | <b>Natasa Miskov-Zivanov</b> <br/> University of Pittsburgh | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;SBGN;BioPAX;SBOL, SBOL visual;CellML;NeuroML;Ontologies (SBO, KiSAO);Multicellular modeling <hr> - | 
 | <b>Nilesh Kumar</b> <br/> PhD | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;CellML <hr> - | 
 | <b>Norma Perez Rosas</b> <br/> Purdue University | remotely | SBML;SED-ML, OMEX, COMBINE;SBGN;Multicellular modeling <hr> I work with mathematical models (ordinary and partial differential equations, kinetic modeling) to explain calcium activity in different biological systems.    | 
 | <b>Olga Krebs</b> <br/> Heidelberg Institute for Theoretical Studies  HITS  | Oct 5 Oct 6 Oct 7 Oct 8 | SED-ML, OMEX, COMBINE;SBOL, SBOL visual;Ontologies (SBO, KiSAO);BioProtocols <hr> FAIRDOM, LiSyM Cancer, MESI-STRAT, PoLiMeR, deNBI | 
 | <b>Paola Vera-Licona</b> <br/> UConn Health | Oct 5 Oct 6 Oct 7 | SBML;SED-ML, OMEX, COMBINE;CellML;Multicellular modeling <hr> NETISCE (NETwork-drIven analysiS of CEllular reprogramming) http://veraliconalab.org/Netisce/index.html | 
+| <b>Paul Jonas Jost </b> <br/> University of Bonn | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;CellML;Multicellular modeling <hr> - | 
 | <b>Pedro Cenci Dal Castel </b> <br/> Indiana University Bloomington  | Oct 8 | SBML <hr> - | 
 | <b>Pedro Mendes</b> <br/> University of Connecticut School of Medicine | Oct 5 Oct 6 Oct 7 Oct 8 | SBML;SED-ML, OMEX, COMBINE;Ontologies (SBO, KiSAO);Multicellular modeling <hr> - | 
 | <b>Prashant Vaidyanathan</b> <br/> Oxford Biomedica | remotely | SBOL, SBOL visual <hr> - | 
@@ -249,6 +250,8 @@ During this tutorial, participants will embark on a step-by-step journey through
 
 Additionally, we will showcase PhenoCellPy, a Python package that simplifies the creation of cell behavioral patterns. This tool not only enhances model accessibility for biologists but also streamlines the transition from biological concepts to computational implementation.
 
+Participants should have python, a git interface (optional), and CompuCell3D (https://compucell3d.org/SrcBin) installed. I suggest installing CC3D using conda. Please also install the xmltodict python package (https://pypi.org/project/xmltodict/).
+
 Join us in this tutorial to explore the significance of cross-platform portability, learn how to overcome the intricacies of model porting, and contribute to the broader ABM community's effort in establishing a universal modeling description standard. By the end of this tutorial, you will be better equipped to advance agent-based modeling, foster model reproducibility, and gain deeper insights into complex biological systems.
 <hr>
 
@@ -270,7 +273,7 @@ PySB Tutorial: https://pysb.readthedocs.io/en/stable/tutorial.html
 <br>
 Poincaré is a new Python-based library to define and simulate dynamical systems. Trying not to reinvent (much of) the wheel, it uses modern Python syntax to define and compose models in a compact way. This allows us to take advantage of the huge investment on tooling from the broader Python community such as static type checkers, code linters and formatters, autocomplete and refactoring features from IDEs, among others.
 
-Using standard libraries from the PyData ecosystem, by default, poincar√© compiles into a first-order ODE system using NumPy arrays, and uses solvers from SciPy. But it also provides different backends such as Numba, which compiles just-in-time to LLVM code, providing a significant speed boost, or JAX, which provides autodifferentiation tools targeted for ML. Additionally, it supports units using the Pint library.
+Using standard libraries from the PyData ecosystem, by default, poincare compiles into a first-order ODE system using NumPy arrays, and uses solvers from SciPy. But it also provides different backends such as Numba, which compiles just-in-time to LLVM code, providing a significant speed boost, or JAX, which provides autodifferentiation tools targeted for ML. Additionally, it supports units using the Pint library.
 
 SimBio is built on top of poincaré, adding some components for reaction-based models used in systems biology. It provides some predefined building blocks for the most common reactions, but allows easily to create your own. Finally, it implements an importer and exporter to SBML, allowing to interexchange models with the COMBINE community. We hope that it is simple enough for beginners, but powerful for power-users with the possibility to extend and compose with the large Python ecosystem.
 <hr>
@@ -295,13 +298,11 @@ A GitHub page, ReadtheDocs and Jupyter notebook are available for ACCORDION http
 
 <b>Using Compucell3D as a Platform for Model Building to Explore Intracellular Pathways, Cell Behaviors, Cell-Cell Interactions and Tissue-Level Signaling </b> Pedro Dal-Castel (Biocomplexity Institute and Department of Intelligent Systems Engineering, Indiana University)<br>
 
-Mechanistic agent-based modeling is an integral part of contemporary bioscience, used for hypothesis generation and testing, experiment design and interpretation, and the design of therapeutic interventions. The CompuCell3D (CC3D) modeling environment allows researchers to rapidly build and execute complex virtual tissue simulations with minimal programming experience. CC3D enables biological simulations from subcellular to tissue scales, supporting explicit cell shapes, cell migration, contact-mediated cell interactions, soluble signals, and complex cell state dynamics (gene regulatory, signaling, and metabolic networks). CC3D natively supports SBML, Antimony, and MaBoSS network model integration. Participants will (1) learn how to build models in CC3D, (2) implement network models in CC3D, and (3) develop an example simulation with all concepts learned. CC3D can be accessed from the official website (www.compucell3d.org) or running it on-line at (https://nanohub.org/resources/cc3dbase4x).
+Mechanistic agent-based modeling is an integral part of contemporary bioscience, used for hypothesis generation and testing, experiment design and interpretation, and the design of therapeutic interventions. The CompuCell3D (CC3D) modeling environment allows researchers to rapidly build and execute complex virtual tissue simulations with minimal programming experience. CC3D enables biological simulations from subcellular to tissue scales, supporting explicit cell shapes, cell migration, contact-mediated cell interactions, soluble signals, and complex cell state dynamics (gene regulatory, signaling, and metabolic networks). CC3D natively supports SBML, Antimony, and MaBoSS network model integration. Participants will (1) learn how to build models in CC3D, (2) implement network models in CC3D, and (3) develop an example simulation with all concepts learned. CC3D can be accessed from the official website (www.compucell3d.org) or running it on-line at (https://nanohub.org/tools/cc3dbase4x).
 
-Audience: Anyone interested in multicellular Virtual-Tissue modeling or in coupling network models to cell behaviors and dynamic spatial organization.
+Audience: Anyone interested in multicellular Virtual-Tissue modeling or in coupling network models to cell behaviors and dynamic spatial organization. If you plan on participating, please fill out this form: https://forms.gle/TTnw88hR3PebCkmE7
 
-Learning Outcomes: Ability to use CompuCell3D to design, execute and explore virtual-tissue simulations integrating cells, networks and external chemical fields.
+Learning Outcomes: Ability to use CompuCell3D to design, execute and explore virtual-tissue simulations integrating cells, networks and external chemical fields. For more information: see https://www.compucell3d.org or contact pdalcastel@gmail.com, or jaglazier@gmail.com
 
-For more information: see https://www.compucell3d.org or contact pdalcastel@gmail.com, or jaglazier@gmail.com
-
-Computer Requirements: Any Windows or Mac computer. CompuCell3D is open-source and free. It also runs on many LINUX deployments (see www.compucell3d.org for details). Our preferred method for this miniworkshop is the nanoHUB CC3D application, which runs in a browser without local installation.
+Computer Requirements: Any Windows or Mac computer. CompuCell3D is open-source and free. It also runs on many LINUX deployments (see www.compucell3d.org for details). Our preferred method for this miniworkshop is a local installation of CC3D in your machine. However, it can also be launched as a nanoHUB application, which runs in a browser without local installation (open your account in nanoHUB at https://nanohub.org/register/).
 
