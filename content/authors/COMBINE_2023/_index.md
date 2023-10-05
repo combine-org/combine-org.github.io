@@ -240,7 +240,7 @@ Tissue Forge is open-source simulation software for interactive particle-based p
 <hr>
 
 <b>Bridging the Gap - A Practical Guide to Model Specification Translation in Agent-Based Modeling</b> Juliano Ferrari Gianlupi	(UTHSC)<br>
-"https://github.com/JulianoGianlupi/pcxml2cc3d
+
 In the world of Agent-Based Modeling (ABM), the quest for cross-platform portability and model reproducibility is a formidable challenge. This tutorial is designed to empower modelers, scientists, and researchers with the knowledge and skills to overcome this challenge using a novel Model Specification Translator.
 
 Agent-Based Modeling has emerged as a vital tool for exploring intricate biological systems, from cancer progression to embryonic development. However, the lack of interoperability and reusability among ABM platforms has raised concerns about model reproducibility. Our tutorial addresses these concerns head-on, introducing a practical and hands-on approach to translate models across different platforms.
@@ -251,7 +251,7 @@ Additionally, we will showcase PhenoCellPy, a Python package that simplifies the
 
 Participants should have python, a git interface (optional), and CompuCell3D (https://compucell3d.org/SrcBin) installed. I suggest installing CC3D using conda. Please also install the xmltodict python package (https://pypi.org/project/xmltodict/).
 
-Join us in this tutorial to explore the significance of cross-platform portability, learn how to overcome the intricacies of model porting, and contribute to the broader ABM community's effort in establishing a universal modeling description standard. By the end of this tutorial, you will be better equipped to advance agent-based modeling, foster model reproducibility, and gain deeper insights into complex biological systems.
+Join us in this tutorial to explore the significance of cross-platform portability, learn how to overcome the intricacies of model porting, and contribute to the broader ABM community's effort in establishing a universal modeling description standard. By the end of this tutorial, you will be better equipped to advance agent-based modeling, foster model reproducibility, and gain deeper insights into complex biological systems (https://github.com/JulianoGianlupi/pcxml2cc3d).
 <hr>
 
 <b>Mastering Structure-Resolved Reaction-Diffusion Simulations with NERDSS</b> Sikao Guo (Johns Hopkins University) <br>
@@ -301,9 +301,11 @@ Mechanistic agent-based modeling is an integral part of contemporary bioscience,
 
 Audience: Anyone interested in multicellular Virtual-Tissue modeling or in coupling network models to cell behaviors and dynamic spatial organization. If you plan on participating, please fill out this form: https://forms.gle/TTnw88hR3PebCkmE7
 
-Learning Outcomes: Ability to use CompuCell3D to design, execute and explore virtual-tissue simulations integrating cells, networks and external chemical fields. For more information: see https://www.compucell3d.org or contact pdalcastel@gmail.com, or jaglazier@gmail.com
+Learning Outcomes: Ability to use CompuCell3D to design, execute and explore virtual-tissue simulations integrating cells, networks and external chemical fields.
 
-Computer Requirements: Any Windows or Mac computer. CompuCell3D is open-source and free. It also runs on many LINUX deployments (see www.compucell3d.org for details). Our preferred method for this miniworkshop is a local installation of CC3D in your machine. However, it can also be launched as a nanoHUB application, which runs in a browser without local installation (open your account in nanoHUB at https://nanohub.org/register/).
+Computer Requirements: Any Windows or Mac computer. CompuCell3D is open-source and free. It also runs on many LINUX deployments (see www.compucell3d.org for details). Our preferred method for this miniworkshop is launching CC3D from nanoHUB. We ask that you open an account in advance (https://nanohub.org/register/).
+
+Class materials: https://drive.google.com/drive/folders/1RJMgfO9PDGvpfJ5Fp7OvVouNK9DvDuW5?usp=drive_link Zoom session https://iu.zoom.us/j/4555920347 For more information, see https://www.compucell3d.org or contact pdalcastel@gmail.com, or jaglazier@gmail.com
 
 <hr>
 
@@ -370,7 +372,7 @@ RESULTS: The MP model accurately recapitulated 70 - 80% of experimental response
 CONCLUSIONS: Understanding variations in bacterial persistence resulting from differences in the maintenance of iron homeostatic processes could aid in the identification of potential therapeutic targets or novel therapeutic strategies for host-pathogen dynamics. An immediate future application for this model would be its integration into multiscale model of biofilm formation [5] developed in our laboratory to understand how iron metabolism and oxidative stress impacts processes involved in biofilm formation.
 <hr>
 
-<b>Curating models from Biomodels: Developing a workflow for creating OMEX files</b> Jin Hu (U Washington) <br>
+<b>Curating models from Biomodels: Developing a workflow for creating OMEX files</b> Jin Xu (U Washington) <br>
 
 I examined a selection of models in the Biomodels Database. For each model, I reproduced the published results using Tellurium. Once reproduced I manually created a standard OMEX file using SBML and SEDML. These exercises have allowed me to develop a workflow that we will use to develop an online platform to help users more easily curate models for biosimulations.org and www.reproducibilityportal.org. 
 <hr>
