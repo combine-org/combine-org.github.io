@@ -38,8 +38,8 @@
 
       .overlay {
         width: 100%;
-        height: 100%;
-        position: absolute;
+        height: 250px;
+        position: relative;
         align-content: center;
         z-index: 9;
         opacity: 0;
@@ -93,17 +93,6 @@
       {{ $link = .RelPermalink }}
     {{ end }}
 
-    <div class="largerBox">
-      <div class="parent">
-        <div class="child"></div>
-      </div>
-    </div>
-    <div class="largerBox">
-      <div class="parent">
-        <div class="child"></div>
-      </div>
-    </div>
-
     <div class="col-12 col-sm-auto people-person">
       {{ $src := "" }}
       {{ if site.Params.avatar.gravatar }}
@@ -115,7 +104,8 @@
       {{ if $src }}
         {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
         {{with .Params.link}}
-        <div class="underlay">
+        <div class="underlay" style="display: table;">
+        <div style="display: table-row;">
           <a href="{{.}}">{{end}}
             <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-square{{end}}" src="{{ $src }}" alt="Avatar">
             {{ $show_logo := .Params.show_logo }}
@@ -138,13 +128,15 @@
             {{ end }}
           </a>
         </div>
-      {{ end }}
-
+        {{ end }}
+        </div>
+     
 
   
-      <div class="portrait-title overlay">
+      <div class="portrait-title overlay" style="margin-right: 30px; margin-left: 15px;  display: table;">
+      <div style="display: table-row; position: relative;">
         <br>
-        {{ if $show_description }}<h3 style="color:  black; padding-right: 1px; padding-left: 1px;" class="">{{.Params.description }}</h3>{{ end }}
+        {{ if $show_description }}<h3 style="color:  black; padding-right: 15px; padding-left: 15px;" class="">{{.Params.description }}</h3>{{ end }}
         {{with .Params.link}}
           <a href="{{.}}">
             <h3 style="color:  black; font-weight: bold;">View on GitHub</h3>
@@ -155,8 +147,8 @@
             <h3 style="color:  black; font-weight: bold;">Run on Binder</h3>
           </a>
         {{end}}  
-        
       </div>
+    </div>
     </div>
     {{ end }}
     {{ end }}
