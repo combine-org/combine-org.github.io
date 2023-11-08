@@ -2,9 +2,9 @@ name: Hugo check
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, harmony* ]
   pull_request:
-    branches: [ master ]
+    branches: [ master, harmony* ]
 
 jobs:
   deploy:
