@@ -61,10 +61,12 @@ user_groups:
 
 ---
 
+<img src="/images/harmony2024/combine_london24.png" alt="demo" class="img-responsive">
+<br/>
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
 
-HARMONY 2024 will be held at UCL. More details to follow...
+HARMONY 2024 will be held at **University College London**. More details to follow...
 
 Local organizers are Sarah Keating (s.keating@ucl.ac.uk) and Padraig Gleeson,  (p.gleeson@ucl.ac.uk). 
 
