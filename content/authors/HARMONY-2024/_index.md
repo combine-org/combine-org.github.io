@@ -4,7 +4,7 @@ title: HARMONY 2024
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: 8-12, April 2024
+conf_date: 8-11, April 2024
 
 conf_location: UCL, London, UK
 
