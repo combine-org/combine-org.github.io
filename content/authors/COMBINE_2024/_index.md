@@ -53,7 +53,7 @@ topics:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Events
+- Future Events
 
 ---
 <img src="/images/combine2024/combine24-stuttgart.png" alt="demo" class="img-responsive">
