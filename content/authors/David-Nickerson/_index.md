@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: CellML Delegate (Vice Chair)
+role: CellML Delegate (Chair)
 
 # Organizations/Affiliations
 organizations:
