@@ -34,7 +34,7 @@ information:
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
   link: https://forms.gle/489a9ShnjmmagY628
 - name: Call for Talks, Lightning Talks and Posters
-  description: Requests for a talk (40 minutes), lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
+  description: Requests for a talk (30 minutes), lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
   link: https://forms.gle/YycfMdtRfW5veAX58
 
 
@@ -45,7 +45,7 @@ topics:
 - Standards for computational biological models and modelling support
 - Metadata description and model annotation in COMBINE standard formats
 - Implementation of COMBINE standards in tools, databases and other resources
-- Integrated model and data management for sschystems and synthetic biology
+- Integrated model and data management for systems and synthetic biology
 - Standardization of Artificial Intelligence approaches in biological modelling
 - Emerging standardization needs in spatio-temporal, multiscale and multicellular modeling
 - Community aspects of COMBINE
@@ -62,7 +62,7 @@ user_groups:
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2024** will be a workshop-style event hosted at the [University of Stuttgart](https://www.uni-stuttgart.de/en/) in Stuttgart, Germany with support of the [Stuttgart Center for Simulation Science (SimTech)](https://www.simtech.uni-stuttgart.de/). The meeting will be held in September 2024, closely aligned with the dates of the [**Virtual Physiological Human (VPH)2024 Conference**](https://www.vph-institute.org/events/vph2024-conference.html) September 04-06 Stuttgart, Germany.
 
-The official programm takes place from Sunday 01st to Tuesday 3rd September. On the 4th and 5th of September there will only be rooms provided for personal meetings. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There will be also a dedicated poster session, paricipants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
+The official programm takes place from Sunday 01st to Tuesday 3rd September. On Wednesday 4th and Thursday 5th September, there will be rooms provided for personal meetings only. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There will be also a dedicated poster session, participants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
 Local organizers are Nicole Radde (nicole.radde@simtech.uni-stuttgart.de) and Sebastian Höpfl (sebastian.hoepfl@isa.uni-stuttgart.de).
 <img src="/images/combine2024/Simtech_logo.png" width="100%" alt="Simtech_logo.png">
@@ -83,7 +83,7 @@ The closest airport is the [Stuttgart Airport (STR)](https://www.stuttgart-airpo
 
 <h3>Accomodation</h3>
 
-There are no hotels near the workshop venue. However, you can find accommodations along the S-Bahn route, such as near the stations "Hauptbahnhof", "Stadtmitte", "Feuersee" or „Schwabstraße" (e.g. [Studierendenhotel Stuttgart](https://www.studierendenhotel-stuttgart.de/en), [Römerhof Vaihingen](https://roemerhof-kulinarium.de/en/roemerhof/)).
+There are no hotels at the workshop venue. However, you can find accommodations along the S-Bahn route, such as near the stations "Hauptbahnhof", "Stadtmitte", "Feuersee" or „Schwabstraße" (e.g. [Studierendenhotel Stuttgart](https://www.studierendenhotel-stuttgart.de/en), [Römerhof Vaihingen](https://roemerhof-kulinarium.de/en/roemerhof/)). From these stations you will need approximately 15-20 minutes to the campus.
 
 
 ### <a name="breakouts"></a>Breakout sessions
