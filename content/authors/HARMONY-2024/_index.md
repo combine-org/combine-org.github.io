@@ -10,17 +10,17 @@ conf_location: UCL, London, UK
 
 important_dates:
 - name: Breakouts and tutorials submission deadline
-  date: XXX, 2024
+  date: 11 March, 2024
 - name: Notification of acceptance for breakout and tutorials
-  date: XXX, 2024
+  date: 18 March, 2024
 - name: Lightning talk and poster submission deadline
-  date: XXX, 2024
+  date: 11 March, 2024
 - name: Notification of acceptance for lightning talks and posters
-  date: XXX, 2024
+  date: 18 March, 2024
 - name: DEADLINE for travel support applications
-  date: XXX, 2024
+  date: 15 February, 2024
 - name: Notification of travel support awards
-  date: XXX, 2024
+  date: 21 February, 2024
 
 important_links:
 #- name: Agenda
@@ -45,7 +45,7 @@ information:
   description: Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
   link: https://forms.gle/eu8S3eUeS1AoAwwU6
 - name: Application for travel funding
-  description: We have limited funding for travel bursary or contribution towards accomadation. We request that you give us details of what contribution you can make to HARMONY.
+  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who have a significant contribution to make to the HARMONY meeting.
   link: https://forms.gle/Ta72fwz5Bt2zb4YKA
 
 topics:
@@ -100,30 +100,26 @@ A sandwich lunch will also be provided - please make sure you give us the correc
 
 Given that the UK is no longer part of the EU, visa requirements may have changed for you. Please check [here](https://www.gov.uk/check-uk-visa). If you need a letter to support your application, please contact one of the organizers.
 
+Additionally, if you need confirmation that a talk/poster/breakout session will be accepted before the confirmation deadline, please get in contact.
+
 <h3>Schedule</h3>
 
 More details to follow...
 
+<h4>Monday 8th Apr</h4>
+Lightning Talks 
+
+<h4>Tues 9th Apr</h4>
+Breakout sessions
+
+<h4>Wed 10th Apr</h4>
+Breakout sessions
+
+ARC Tech Social
+
+<h4>Thus 11th Apr</h4>
+Breakout sessions
+
 ### <a name="attendees"></a>Attendees
-
-More details to follow...
-
-### <a name="breakouts"></a>Breakout sessions
-
-More details to follow...
-
-### <a name="tutorials"></a>Tutorials</h3>
-
-More details to follow...
-
-<!-- ### <a name="talks"></a> Talks
-
-More details to follow... -->
-
-### <a name="lt"></a> Lightning talks
-
-More details to follow...
-
-### <a name="posters"></a> Posters
 
 More details to follow...
