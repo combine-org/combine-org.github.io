@@ -78,19 +78,15 @@ Local organizers are Sarah Keating (s.keating@ucl.ac.uk) and Padraig Gleeson,  (
 
 <!--<font color = red>Students may apply for a travel support from NSF!!! Link is on the LEFT! </font>-->
 
-<h3>Schedule</h3>
-
-More details to follow...
-
 <h3>Workshop Location</h3>
 
 <img src="/images/harmony2024/90HH.jpg" alt="demo" class="img-responsive" width="200" height="200">
 
-HARMONY 2024 will be held at [Centre For Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/ucl-centre-medical-image-computing-cmic), University College London 90 High Holborn, London, WC1V 6LJ.
+HARMONY 2024 will be held at [Centre For Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/ucl-centre-medical-image-computing-cmic), University College London, 90 High Holborn, London, WC1V 6LJ.
 
 <h3>Arrival and Transportation</h3>
 
-London is served by [six international airports](https://www.visitlondon.com/traveller-information/travel-to-london/airport) and [twelve major stations](https://www.visitlondon.com/traveller-information/travel-to-london/trains-to-london) including St. Pancras International which is the Eurostar hub, with multiple direct connections to Europe.
+London is served by [six international airports](https://www.visitlondon.com/traveller-information/travel-to-london/airport) and [twelve major stations](https://www.visitlondon.com/traveller-information/travel-to-london/trains-to-london) including St. Pancras International, which is the Eurostar hub, with multiple direct connections to Europe.
 
 Travel within London can be done by Tube, Bicycle, Bus, Taxi and more. [More information can be found here](https://www.visitlondon.com/traveller-information/getting-around-london).
 
@@ -102,7 +98,11 @@ A sandwich lunch will also be provided - please make sure you give us the correc
 
 ### <a name="visa"></a>Visa
 
-Given that the UK is no longer part of the EU, visa requirements may have changed for you. Please check [here](https://www.gov.uk/check-uk-visa). If you need a letter to support your application please contact one of the organizers.
+Given that the UK is no longer part of the EU, visa requirements may have changed for you. Please check [here](https://www.gov.uk/check-uk-visa). If you need a letter to support your application, please contact one of the organizers.
+
+<h3>Schedule</h3>
+
+More details to follow...
 
 ### <a name="attendees"></a>Attendees
 
