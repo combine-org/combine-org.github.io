@@ -118,7 +118,7 @@ More details to follow...
 
 <!-- ### <a name="talks"></a> Talks
 
-More details to follow... -->k
+More details to follow... -->
 
 ### <a name="lt"></a> Lightning talks
 
