@@ -14,7 +14,7 @@ important_dates:
 - name: Lightning talk and poster submission deadline
   date: July 29, 2024
 - name: Notification of acceptance of breakouts and tutorials
-  date: August 1, 2024
+  date: August 2, 2024
 
 important_links:
 #- name: Agenda
