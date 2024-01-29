@@ -122,4 +122,18 @@ Breakout sessions
 
 ### <a name="attendees"></a>Attendees
 
-More details to follow...
+| Name | Organization | Interests | Attendance |
+| :--- | :--- | :--- | :--- |
+|Padraig Gleeson|UCL London|CellML, Multicellular modeling, NeuroML, OMEX Metadata, SBML, SED-ML, Open Source Brain|In person|
+|Xiaoming Hu|HITS gGmbH Schloss-Wolfsbrunnenweg 35 69118 Heidelberg Germany|CellML, SBML, SED-ML, Fairdom (https://fair-dom.org/) and NFDI4Health (https://www.nfdi4health.de/en/)|In person|
+|Manuel Lera Ramirez|UCL |SBOL and SBOL Visual, https://genestorian.org/|In person|
+|Lukas Buecherl|University of Colorado Boulder |COMBINE Archive, SBML, SBOL and SBOL Visual, SED-ML|In person|
+|Jona Leka|UCL |NeuroML|In person|
+|Sarah Keating|UCL London|NeuroML, SBML, SED-ML, FROG, CHIMERA|In person|
+|Nicholas Owen|UCL |Multicellular modeling, SBML, SBOL and SBOL Visual, Data Stewardship at UCL|Remotely (virtually)|
+|Alex Fedorec|UCL |COMBINE Archive, Multicellular modeling, SBML, SBOL and SBOL Visual, SED-ML|In person|
+|Kathleen Zhang|UCL  |BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG|In person|
+|Louie Destouches|UCL |Multicellular modeling, SBML, SBOL and SBOL Visual|In person|
+|Casey Chen|UCL |Multicellular modeling, SBML, SBOL and SBOL Visual|In person|
+
+Last updated 27 January 2024
