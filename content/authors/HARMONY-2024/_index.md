@@ -135,5 +135,8 @@ Breakout sessions
 |Kathleen Zhang|UCL  |BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG|In person|
 |Louie Destouches|UCL |Multicellular modeling, SBML, SBOL and SBOL Visual|In person|
 |Casey Chen|UCL |Multicellular modeling, SBML, SBOL and SBOL Visual|In person|
-
-Last updated 27 January 2024
+|Fengkai Zhang|NIH|COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, Simmune, SBML-Multi and rule based model |In person|
+|Georgie Sorensen|University of Bristol|SBOL and SBOL Visual|In person|
+|Subhasis Ray|Plaksha University, Punjab|CellML,. NeuroML, SBML, SED-ML, Multiscale Object Oriented Simulation Environment (https://moose.ncbs.res.in)|In person|
+|Michael Blinov|Center for Cell Analysis and Modeling, UConn Health|BioPAX, COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, http://vcell.org; http://MolClustPy.github.io; http://www.ModelBricks.org|In person|
+Last updated 7 February 2024
