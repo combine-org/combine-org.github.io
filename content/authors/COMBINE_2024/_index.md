@@ -60,14 +60,17 @@ user_groups:
  
 
 
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2024** will be a workshop-style event hosted at the [University of Stuttgart](https://www.uni-stuttgart.de/en/) in Stuttgart, Germany with support of the [Stuttgart Center for Simulation Science (SimTech)](https://www.simtech.uni-stuttgart.de/). The meeting will be held in September 2024, closely aligned with the dates of the [**Virtual Physiological Human (VPH)2024 Conference**](https://www.vph-institute.org/events/vph2024-conference.html) September 04-06 Stuttgart, Germany.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2024** will be a workshop-style event hosted at the [University of Stuttgart](https://www.uni-stuttgart.de/en/) in Stuttgart, Germany with support of the [German Research Foundation (DFG)](https://www.dfg.de/en) through the International scientific events program, the [Stuttgart Center for Simulation Science (SimTech)](https://www.simtech.uni-stuttgart.de/) and the [Stuttgart Research Center Systems Biology (SRCSB)](https://www.srcsb.uni-stuttgart.de/). The meeting will be held in September 2024, closely aligned with the dates of the [**Virtual Physiological Human (VPH)2024 Conference**](https://www.vph-institute.org/events/vph2024-conference.html) September 04-06 Stuttgart, Germany.
 
 The official programm takes place from Sunday 01st to Tuesday 3rd September. On Wednesday 4th and Thursday 5th September, there will be rooms provided for personal meetings only. The meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials. There will be also a dedicated poster session, participants are encouraged to bring posters - poster boards will be provided next to meeting places. Some time each day will be left for community discussion and wrap-ups of breakouts and advertisements for following breakouts. It will be primarily an in-person meeting, with individual breakout sessions responsible for enabling remote participation as needed.
 
 Local organizers are Nicole Radde (nicole.radde@simtech.uni-stuttgart.de) and Sebastian Höpfl (sebastian.hoepfl@isa.uni-stuttgart.de).
-<img src="/images/combine2024/Simtech_logo.png" width="100%" alt="Simtech_logo.png">
 
-<!--<font color = red>Students may apply for a travel support from NSF!!! Link is on the LEFT! </font>-->
+Funded by
+<img src="/images/combine2024/DFG_logo.png" width="100%" alt="DFG_logo.png">
+and
+<img src="/images/combine2024/Simtech_logo.png" width="100%" alt="Simtech_logo.png"> 
+
 
 <h3>A tentative schedule</h3>
 
