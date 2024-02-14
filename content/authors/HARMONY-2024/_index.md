@@ -139,4 +139,6 @@ Breakout sessions
 |Georgie Sorensen|University of Bristol|SBOL and SBOL Visual|In person|
 |Subhasis Ray|Plaksha University, Punjab|CellML,. NeuroML, SBML, SED-ML, Multiscale Object Oriented Simulation Environment (https://moose.ncbs.res.in)|In person|
 |Michael Blinov|Center for Cell Analysis and Modeling, UConn Health|BioPAX, COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, http://vcell.org; http://MolClustPy.github.io; http://www.ModelBricks.org|In person|
-Last updated 7 February 2024
+|Tung Nguyen|EMBL-EBI|BioPAX, CellML, COMBINE Archive, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG, BioModels: https://www.ebi.ac.uk/biomodels/|Remotely (virtually)|
+|Frank Bergmann|BioQUANT, Heidelberg University|COMBINE Archive, SBML, SED-ML, PE-TAB, FROG, COPASI - modeling, simulation and analysis environment for biochemical networks, https://copasi.org. basico - a convenient python interface to COPASI, https://basico.rtfd.io/|In person|
+Last updated 14 February 2024
