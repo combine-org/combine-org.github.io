@@ -124,21 +124,27 @@ Breakout sessions
 
 | Name | Organization | Interests | Attendance |
 | :--- | :--- | :--- | :--- |
-|Padraig Gleeson|UCL London|CellML, Multicellular modeling, NeuroML, OMEX Metadata, SBML, SED-ML, Open Source Brain|In person|
-|Xiaoming Hu|HITS gGmbH Schloss-Wolfsbrunnenweg 35 69118 Heidelberg Germany|CellML, SBML, SED-ML, Fairdom (https://fair-dom.org/) and NFDI4Health (https://www.nfdi4health.de/en/)|In person|
-|Manuel Lera Ramirez|UCL |SBOL and SBOL Visual, https://genestorian.org/|In person|
-|Lukas Buecherl|University of Colorado Boulder |COMBINE Archive, SBML, SBOL and SBOL Visual, SED-ML|In person|
-|Jona Leka|UCL |NeuroML|In person|
-|Sarah Keating|UCL London|NeuroML, SBML, SED-ML, FROG, CHIMERA|In person|
-|Nicholas Owen|UCL |Multicellular modeling, SBML, SBOL and SBOL Visual, Data Stewardship at UCL|Remotely (virtually)|
-|Alex Fedorec|UCL |COMBINE Archive, Multicellular modeling, SBML, SBOL and SBOL Visual, SED-ML|In person|
-|Kathleen Zhang|UCL  |BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG|In person|
-|Louie Destouches|UCL |Multicellular modeling, SBML, SBOL and SBOL Visual|In person|
-|Casey Chen|UCL |Multicellular modeling, SBML, SBOL and SBOL Visual|In person|
-|Fengkai Zhang|NIH|COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, Simmune, SBML-Multi and rule based model |In person|
-|Georgie Sorensen|University of Bristol|SBOL and SBOL Visual|In person|
-|Subhasis Ray|Plaksha University, Punjab|CellML,. NeuroML, SBML, SED-ML, Multiscale Object Oriented Simulation Environment (https://moose.ncbs.res.in)|In person|
-|Michael Blinov|Center for Cell Analysis and Modeling, UConn Health|BioPAX, COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, http://vcell.org; http://MolClustPy.github.io; http://www.ModelBricks.org|In person|
-|Tung Nguyen|EMBL-EBI|BioPAX, CellML, COMBINE Archive, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG, BioModels: https://www.ebi.ac.uk/biomodels/|Remotely (virtually)|
-|Frank Bergmann|BioQUANT, Heidelberg University|COMBINE Archive, SBML, SED-ML, PE-TAB, FROG, COPASI - modeling, simulation and analysis environment for biochemical networks, https://copasi.org. basico - a convenient python interface to COPASI, https://basico.rtfd.io/|In person|
-Last updated 14 February 2024
+| Alex Fedorec | UCL | COMBINE Archive, Multicellular modeling, SBML, SBOL and SBOL Visual, SED-ML | In person |
+| Ankur Sinha | UCL | CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBML, SED-ML, Open Source Brain: https://opensourcebrain.org | In person |
+| Casey Chen | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual | In person |
+| Fengkai Zhang | NIH | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, Simmune. SBML-Multi and rule-based model | In person |
+| Frank Bergmann | BioQUANT, Heidelberg University, INF 267 | COMBINE Archive, SBML, SED-ML, PE-TAB, FROG, COPASI - modeling, simulation and analysis environment for biochemical networks, https://copasi.org. basico - a convenient python interface to COPASI, https://basico.rtfd.io/ | In person |
+| Georgie Sorensen | University of Bristol | SBOL and SBOL Visual | In person |
+| Gonzalo Vidal | University of Colorado Boulder, Boulder, Colorado, US | SBML, SBOL and SBOL Visual, https://gonza10v.github.io/ | In person |
+| Jacob Beal | BBN | SBOL and SBOL Visual | Remotely (virtually) |
+| Jona Leka | UCL | NeuroML | In person |
+| Kathleen Zhang | UCL  | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG | In person |
+| Louie Destouches | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual | In person |
+| Lukas Buecherl | University of Colorado Boulder | COMBINE Archive, SBML, SBOL and SBOL Visual, SED-ML | In person |
+| Manuel Lera Ramirez | UCL | SBOL and SBOL Visual, https://genestorian.org/ | In person |
+| Michael Blinov | Center for Cell Analysis and Modeling, UConn Health, Farmington, CT, USA | BioPAX, COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, http://vcell.org; http://MolClustPy.github.io; http://www.ModelBricks.org/ | In person |
+| Nguyen Tung | EMBL-EBI, Wellcome Trust Genome Campus, Hinxton, Cambridge, UK | BioPAX, CellML, COMBINE Archive, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG, BioModels: https://www.ebi.ac.uk/biomodels/ | Remotely (virtually) |
+| Nicholas Owen | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual, Data Stewardship at UCL | Remotely (virtually) |
+| Padraig Gleeson | UCL, London | CellML, Multicellular modeling, NeuroML, OMEX Metadata, SBML, SED-ML, Open Source Brain | In person |
+| Robert Vickerstaff | UCL | NeuroML, SBML, SED-ML | In person |
+| Sarah Keating | UCL, London | NeuroML, SBML, SED-ML, FROG, CHIMERA | In person |
+| Subhasis Ray | Plaksha University, Alpha, Sector 101, IT City Rd, Sahibzada Ajit Singh Nagar, Punjab 140306 | CellML, NeuroML, SBML, SED-ML, Multiscale Object Oriented Simulation Environment (https://moose.ncbs.res.in) | In person |
+| Thomas Gorochowski | University of Bristol | SBOL and SBOL Visual | Remotely (virtually) |
+| Xiaoming Hu | HITS gGmbH, Schloss-Wolfsbrunnenweg 35 69118 Heidelberg Germany | CellML, SBML, SED-ML, Fairdom (https://fair-dom.org/) and NFDI4Health (https://www.nfdi4health.de/en/) | In person |
+  
+Last updated 17 February 2024
