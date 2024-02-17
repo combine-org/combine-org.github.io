@@ -17,8 +17,8 @@ important_dates:
   date: 11 March, 2024
 - name: Notification of acceptance for lightning talks and posters
   date: 18 March, 2024
-- name: DEADLINE for travel support applications
-  date: 15 February, 2024
+- name: Travel support applications NOW CLOSED 
+  date: 
 - name: Notification of travel support awards
   date: 21 February, 2024
 
@@ -31,8 +31,8 @@ important_links:
   link: https://forms.gle/yWn4Fqetj3pkGF3q8
 - name: Lightning talks and poster submission
   link: https://forms.gle/eu8S3eUeS1AoAwwU6
-- name: Application for travel support
-  link: https://forms.gle/Ta72fwz5Bt2zb4YKA
+- <!-- name: Application for travel support
+  link: https://forms.gle/Ta72fwz5Bt2zb4YKA -->
 
 information:
 - name: Registration
@@ -102,6 +102,13 @@ Given that the UK is no longer part of the EU, visa requirements may have change
 
 Additionally, if you need confirmation that a talk/poster/breakout session will be accepted before the confirmation deadline, please get in contact.
 
+<h3>Power outlet</h3>
+
+<img src="/images/harmony2024/plug.jpg" alt="demo" class="img-responsive" width="200" height="200">
+
+[G-type](https://www.endesa.com/en/blogs/endesa-s-blog/light/types-plugs-travel#:~:text=G%2Dtype%20plugs%2C%20the%20most,a%20triangular%20or%20t%20position.) plugs are used in the UK.
+
+
 <h3>Schedule</h3>
 
 More details to follow...
@@ -115,7 +122,7 @@ Breakout sessions
 <h4>Wed 10th Apr</h4>
 Breakout sessions
 
-ARC Tech Social
+[ARC Tech Social](https://www.ucl.ac.uk/advanced-research-computing/community/techsocial-series) 
 
 <h4>Thus 11th Apr</h4>
 Breakout sessions
