@@ -128,11 +128,20 @@ Breakout sessions
 Breakout sessions
 
 ----
+### <a name="posters"></a>Posters10
+
+| Name | Title | Organization |
+| :--- | :--- | :--- |
+|  Paola Di Maio | Neuroscience Model Card ML (NMCML | IGDORE |
+|  Manuel Lera-Ramirez | ShareYourCloning: towards a FAIR standard for sequence provenance | University College London |
+
+----
 ### <a name="talks"></a>Lightning Talks
 
 | Name | Title | Organization |
 | :--- | :--- | :--- |
-| Manuel Lera-Ramirez | ShareYourCloning: towards a FAIR standard for sequence provenance | UCL |
+|  Paola Di Maio | Neuroscience Model Card ML (NMCML | IGDORE |
+|  Manuel Lera-Ramirez | ShareYourCloning: towards a FAIR standard for sequence provenance | University College London |
 
 ----
 
@@ -152,6 +161,7 @@ Breakout sessions
 | Alex Fedorec | UCL | COMBINE Archive, Multicellular modeling, SBML, SBOL and SBOL Visual, SED-ML | In person |
 | Ankur Sinha | UCL | CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBML, SED-ML, Open Source Brain: https://opensourcebrain.org | In person |
 | Casey Chen | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual | In person |
+| Chris Barnes | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual | In person |
 | Fabian Fröhlich | The Francis Crick Institute | BioPAX, SBML, PE-TAB | In person |
 | Felipe Xavier Buson | University of Cambridge | SBOL and SBOL Visual | In person |
 | Fengkai Zhang | NIH | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, Simmune. SBML-Multi and rule-based model | In person |
@@ -162,6 +172,7 @@ Breakout sessions
 | Jacob Beal | BBN | SBOL and SBOL Visual | Remotely (virtually) |
 | Jona Leka | UCL | NeuroML | In person |
 | Kathleen Zhang | UCL  | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG | In person |
+| Lokesh V | Indian Institute of Technology, Bombay | SBML, FROG, I generate high quality genome scale metabolic models for industrial microorganisms. I understand the basic science of the metabolism using models and provide insilico predictions for engineering applications.  | Remotely (virtually) |
 | Louie Destouches | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual | In person |
 | Lucian Smith | University of Washington, Seattle, WA | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, SED-ML, FROG, Tellurium, Roadrunner, and Antimony (https://tellurium.readthedocs.io/) | In person |
 | Lukas Buecherl | University of Colorado Boulder | COMBINE Archive, SBML, SBOL and SBOL Visual, SED-ML | In person |
@@ -170,6 +181,8 @@ Breakout sessions
 | Nguyen Tung | EMBL-EBI, Wellcome Trust Genome Campus, Hinxton, Cambridge, UK | BioPAX, CellML, COMBINE Archive, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG, BioModels: https://www.ebi.ac.uk/biomodels/ | Remotely (virtually) |
 | Nicholas Owen | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual, Data Stewardship at UCL | Remotely (virtually) |
 | Padraig Gleeson | UCL, London | CellML, Multicellular modeling, NeuroML, OMEX Metadata, SBML, SED-ML, Open Source Brain | In person |
+| Paola Dr Di Maio | IGDORE | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, SED-ML, Model Cards ML, Neuroscience Model Cards | Remotely (virtually) |
+| Pedro Fontanarrosa | UCL | SBOL and SBOL Visual | In person |
 | Rahuman Sheriff | EMBL-EBI | COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBML, SED-ML, PE-TAB, FROG, Stochastic Reproducibility, BioModels | In person |
 | Robert Vickerstaff | UCL | NeuroML, SBML, SED-ML | In person |
 | Sarah Keating | UCL, London | NeuroML, SBML, SED-ML, FROG, CHIMERA | In person |
@@ -178,4 +191,4 @@ Breakout sessions
 | Xiaoming Hu | HITS gGmbH, Schloss-Wolfsbrunnenweg 35 69118 Heidelberg Germany | CellML, SBML, SED-ML, Fairdom (https://fair-dom.org/) and NFDI4Health (https://www.nfdi4health.de/en/) | In person |
 | Yan-Kay Ho | University of Cambridge | SBOL and SBOL Visual | In person |
   
-Last updated 28 February 2024
+Last updated 2 March 2024
