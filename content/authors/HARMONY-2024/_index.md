@@ -160,7 +160,6 @@ Breakout sessions
 | Gonzalo Vidal | University of Colorado Boulder, Boulder, Colorado, US | SBML, SBOL and SBOL Visual, https://gonza10v.github.io/ | In person |
 | Ilya Kiselev | Biosoft.ru | CellML, COMBINE Archive, Multicellular modeling, SBGN, SBML, SED-ML, BioUML platform | Remotely (virtually) |
 | Jacob Beal | BBN | SBOL and SBOL Visual | Remotely (virtually) |
-| Johan Guillen | Brightmont Academy | SBOL and SBOL Visual, SBOL-utilities | Remotely (virtually) |
 | Jona Leka | UCL | NeuroML | In person |
 | Kathleen Zhang | UCL  | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG | In person |
 | Louie Destouches | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual | In person |
