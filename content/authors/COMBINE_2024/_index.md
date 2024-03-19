@@ -73,6 +73,7 @@ Local organizers are Nicole Radde (nicole.radde@simtech.uni-stuttgart.de) and Se
   <li>Irina Balaur, University of Luxembourg</li>
   <li>Dirk Drasdo, Director of Research INRIA (French National Institut(ion) for Research in Computer Science and Control), Rocquencourt, France</li>
   <li>Marc-Thorsten Hütt, Constructor University Bremen</li>
+  <li>Heinz Köppl, TU Darmstadt</li>
   <li>Göksel Misirli, Keele University</li>
   <li>David Nickerson, Auckland Bioengineering Institute, University of Auckland, New Zealand</li>
   <li>Timothy Rudge, Newcastle University</li>
