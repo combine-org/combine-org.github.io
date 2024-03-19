@@ -55,6 +55,7 @@ topics:
 user_groups:
 - Future Events
 
+
 ---
 <img src="/images/combine2024/combine24-stuttgart.png" alt="demo" class="img-responsive">
  
@@ -66,15 +67,27 @@ The official programm takes place from Sunday 01st to Tuesday 3rd September. On 
 
 Local organizers are Nicole Radde (nicole.radde@simtech.uni-stuttgart.de) and Sebastian Höpfl (sebastian.hoepfl@isa.uni-stuttgart.de).
 
+<h3>Confirmed Keynote Speakers and Session Chairs</h3>
+
+<ol>
+  <li>Irina Balaur, University of Luxembourg</li>
+  <li>Dirk Drasdo, Director of Research INRIA (French National Institut(ion) for Research in Computer Science and Control,), Rocquencourt, France</li>
+  <li>Marc-Thorsten Hütt, Constructor University Bremen</li>
+  <li>Göksel Misirli, Keele University</li>
+  <li>David Nickerson, Auckland Bioengineering Institute, University of Auckland, New Zealand</li>
+  <li>Timothy Rudge, Newcastle University</li>
+  <li>Herbert Sauro, University of Washington</li>
+  <li>Lucian Smith, University of Washington</li>
+  <li>Judith Wodke, University of Greifswald</li>
+</ol> 
+
 Funded by
 <img src="/images/combine2024/DFG_logo.png" width="100%" alt="DFG_logo.png">
-and
-<img src="/images/combine2024/Simtech_logo.png" width="100%" alt="Simtech_logo.png"> 
-
+<img src="/images/combine2024/Simtech_logo.png" width="70%" alt="Simtech_logo.png"> and <img src="/images/combine2024/SRCSB-Logo-Kreis_png.png" width="25%" alt="SRCSB-Logo-Kreis_png.png">
 
 <h3>A tentative schedule</h3>
 
-<img src="/images/combine2024/schedule1.png" width="100%" alt="schedule1.png">Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE slack for last-minute changes and additions.
+<img src="/images/combine2024/schedule.png" width="100%" alt="schedule.png">Note that many events are scheduled somewhat spontaneously at these events; keep an eye out here or on the COMBINE slack for last-minute changes and additions.
 
 <h3>Workshop Location</h3>
 
