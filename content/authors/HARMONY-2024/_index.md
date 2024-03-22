@@ -84,6 +84,17 @@ Local organizers are Sarah Keating (s.keating@ucl.ac.uk) and Padraig Gleeson,  (
 
 HARMONY 2024 will be held at [Centre For Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/ucl-centre-medical-image-computing-cmic), University College London, 90 High Holborn, London, WC1V 6LJ.
 
+<h3>Schedule</h3>
+
+A tentative schedule is below...
+
+
+<img src="/images/harmony2024/Harmony2024.png" alt="demo" class="img-responsive">
+<br/>
+
+[More on ARC Tech Socials](https://www.ucl.ac.uk/advanced-research-computing/community/techsocial-series) 
+
+
 <h3>Arrival and Transportation</h3>
 
 London is served by [six international airports](https://www.visitlondon.com/traveller-information/travel-to-london/airport) and [twelve major stations](https://www.visitlondon.com/traveller-information/travel-to-london/trains-to-london) including St. Pancras International, which is the Eurostar hub, with multiple direct connections to Europe.
@@ -108,24 +119,6 @@ Additionally, if you need confirmation that a talk/poster/breakout session will 
 
 [G-type](https://www.endesa.com/en/blogs/endesa-s-blog/light/types-plugs-travel#:~:text=G%2Dtype%20plugs%2C%20the%20most,a%20triangular%20or%20t%20position.) plugs are used in the UK.
 
-
-<h3>Schedule</h3>
-
-More details to follow...
-
-<h4>Monday 8th Apr</h4>
-Lightning Talks 
-
-<h4>Tues 9th Apr</h4>
-Breakout sessions
-
-<h4>Wed 10th Apr</h4>
-Breakout sessions
-
-[ARC Tech Social](https://www.ucl.ac.uk/advanced-research-computing/community/techsocial-series) 
-
-<h4>Thus 11th Apr</h4>
-Breakout sessions
 
 ----
 ### <a name="posters"></a>Posters10
