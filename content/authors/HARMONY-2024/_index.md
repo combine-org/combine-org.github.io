@@ -10,13 +10,13 @@ conf_location: UCL, London, UK
 
 important_dates:
 - name: Breakouts and tutorials submission deadline
-  date: 11 March, 2024
+  date: Extended to 29 March, 2024
 - name: Notification of acceptance for breakout and tutorials
-  date: 18 March, 2024
+  date: 3 Apr, 2024
 - name: Lightning talk and poster submission deadline
-  date: 11 March, 2024
+  date: Extended to 29 March, 2024
 - name: Notification of acceptance for lightning talks and posters
-  date: 18 March, 2024
+  date: 3 Apr, 2024
 - name: Travel support applications NOW CLOSED 
   date: 
 - name: Notification of travel support awards
@@ -120,8 +120,15 @@ Additionally, if you need confirmation that a talk/poster/breakout session will 
 [G-type](https://www.endesa.com/en/blogs/endesa-s-blog/light/types-plugs-travel#:~:text=G%2Dtype%20plugs%2C%20the%20most,a%20triangular%20or%20t%20position.) plugs are used in the UK.
 
 
+<h3>Support</h3>
+
+This meeting has been generously supported by the <a href="https://www.kavlifoundation.org/">Kavli Foundation</a>. 
+
+<img src="/images/harmony2024/the_kavli_logo.jpg" alt="demo" class="img-responsive">
+<br/>
+
 ----
-### <a name="posters"></a>Posters10
+### <a name="posters"></a>Posters
 
 | Name | Title | Organization |
 | :--- | :--- | :--- |
