@@ -10,11 +10,11 @@ conf_location: UCL, London, UK
 
 important_dates:
 - name: Breakouts and tutorials submission deadline
-  date: Extended to 29 March, 2024
+  date: NOW CLOSED
 - name: Notification of acceptance for breakout and tutorials
   date: 3 Apr, 2024
 - name: Lightning talk and poster submission deadline
-  date: Extended to 29 March, 2024
+  date: NOW CLOSED
 - name: Notification of acceptance for lightning talks and posters
   date: 3 Apr, 2024
 - name: Travel support applications NOW CLOSED 
@@ -27,10 +27,10 @@ important_links:
 #  link: 
 - name: Registration
   link: https://forms.gle/ccGUNm8P3LcWkifG8
-- name: Break-outs and tutorials submission
-  link: https://forms.gle/yWn4Fqetj3pkGF3q8
-- name: Lightning talks and poster submission
-  link: https://forms.gle/eu8S3eUeS1AoAwwU6
+- <!-- name: Break-outs and tutorials submission
+  link: https://forms.gle/yWn4Fqetj3pkGF3q8 -->
+- <!-- name: Lightning talks and poster submission
+  link: https://forms.gle/eu8S3eUeS1AoAwwU6 -->
 - <!-- name: Application for travel support
   link: https://forms.gle/Ta72fwz5Bt2zb4YKA -->
 
@@ -92,15 +92,18 @@ A tentative schedule is below...
 <img src="/images/harmony2024/Harmony2024.png" alt="demo" class="img-responsive">
 <br/>
 
+[Evolving full schedule](https://docs.google.com/spreadsheets/d/1woY3WHoI1y3AheDrSqgR6CHF6yMSbv8z5I8mQxrH9aA/edit?usp=sharing)
+
 <br/>
 
 [Abstract book](https://docs.google.com/document/d/1KgmRNDIe-dWBmSTGbOTHqQJMo4K-UtWnDk1Sto7DqME/edit?usp=sharing)
 <br/>
 
+[Break out booklet](https://docs.google.com/document/d/1ad6hnFb7gaoMLupxnZc-w7FEvxFr9jHhSVJLku8K0Y4/edit?usp=sharing)
+
 [More on ARC Tech Socials](https://www.ucl.ac.uk/advanced-research-computing/community/techsocial-series) 
 
 
-<h3>COMING SOON   More details on breakout sessions </h3>
  
 <h3>Arrival and Transportation</h3>
 
@@ -134,16 +137,6 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 <img src="/images/harmony2024/the_kavli_logo.jpg" alt="demo" class="img-responsive">
 <br/>
 
-----
-
-### <a name="breakouts"></a>Breakouts
-
-| Chair | Title | Outline of the session | Time | Location |
-| :--- | :--- | :--- | :--- | :--- |
-| Fengkai Zhang | Demo of Simmune Modeler and Analyzer | We will demonstrate how to create rule-based models using Simmune Modeler and how to explore the parameter space of biological pathways using Simmune Analyzer. We will do our demo on ubuntu 22.04. Virtualbox on windows or intel Mac OS will also be ok for participants to do hand-on practice. Virtualbox file with ubuntu installation will be provided. | TBC | TBC |
-| Padraig Gleeson | NeuroML hackathon: convert your neuron and network models to open, standardised, reusable formats | This will be an opportunity for developers of models in computational neuroscience to get an introduction to the aims and structure of NeuroML, a guide to the tools available for building/converting your models to NeuroML, and to receive hands on help with expressing their models (or other published models they are interested in) in NeuroML format, making them more open, accessible and reusable. | Tuesday 9 April | TBC |
-
-----
 
 ### <a name="attendees"></a>Attendees - in person
 
@@ -155,7 +148,9 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 | Carolus Vitalis | University of Colorado Boulder | SBOL and SBOL Visual |
 | Casey Chen | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual |
 | Chris Barnes | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual |
+| Chris Myers | CU Boulder | COMBINE Archive, SBML, SBOL and SBOL Visual, SED-ML, iBioSim, SynBioHub, SBOLCanvas |
 | Dilan Pathirana | University of Bonn | CellML, SBML, SED-ML, PE-TAB, PEtab extensions (timecourses, model selection, NLME) |
+| Eleonora Bernasconi | University of Herfordshire, Hatfield, Hertfordshire, AL10 9AB, UK | NeuroML, I am a PhD student working on a large scale, biologically realistic model of the cerebellar cortex. |
 | Fabian Fröhlich | The Francis Crick Institute | BioPAX, SBML, PE-TAB |
 | Felipe Xavier Buson | Universit of Cambridge | SBOL and SBOL Visual |
 | Fengkai Zhang | NIH | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, Simmune. SBML-Multi and rule-based model |
@@ -164,6 +159,7 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 | Goksel Misirli | Keele University, School of Computer Science and Mathematics | Multicellular modeling, OMEX Metadata, SBML, SBOL and SBOL Visual, SBOL3 Java Library |
 | Gonzalo Vidal | University of Colorado Boulder, Boulder, Colorado, US | SBML, SBOL and SBOL Visual, https://gonza10v.github.io/ |
 | Hugh Sorby | Auckland Bioengineering Institute | CellML, SED-ML |
+| Ion Moraru | UConn Health, Farmington, CT, USA | COMBINE Archive, NeuroML, OMEX Metadata, SBML, SED-ML, BioSimulations, VCell |
 | Jörn Starruß | Technische Universität Dresden | CellML, Multicellular modeling, SBML, SED-ML, PE-TAB, MorpheusML, Morpheus,  |
 | Jona Leka | UCL | NeuroML |
 | Kathleen Zhang | UCL  | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG |
@@ -182,29 +178,42 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 | Sarah Keating | UCL, London | NeuroML, SBML, SED-ML, FROG, CHIMERA |
 | Sebastian Persson | University of Gothenburg | SBML, PE-TAB |
 | Sotirios Panagiotou | Erasmus Medical Center, Rotterdam, NL | CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SED-ML, VCell, EDEN neural simulator for NeuroML https://eden-simulator.org , BrainFrame for HPC in simulations https://neurocomputinglab.com/research-themes/brainframe/ |
+| Stela Prins | UCL | Multicellular modeling, NeuroML, SBML, SED-ML, Metabolic modeling, COBRA |
 | Subhasis Ray | Plaksha University, Alpha, Sector 101, IT City Rd, Sahibzada Ajit Singh Nagar, Punjab 140306 | CellML, NeuroML, SBML, SED-ML, Multiscale Object Oriented Simulation Environment (https://moose.ncbs.res.in) |
-| Swathi Anil | Imperial College London, Bernstein Centre Freiburg | NeuroML, Large scale network modeling to study perturbation-induced connectivity changes in the brain: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011027 |
+|  Swathi Anil | Imperial College London, Bernstein Centre Freiburg | NeuroML, Large scale network modeling to study perturbation-induced connectivity changes in the brain: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011027 |
 | T.J. Sego | University of Florida | Multicellular modeling, SBML, CompuCell3D, Tissue Forge |
 | Xiaoming Hu | HITS gGmbH, Schloss-Wolfsbrunnenweg 35 69118 Heidelberg Germany | CellML, SBML, SED-ML, Fairdom (https://fair-dom.org/) and NFDI4Health (https://www.nfdi4health.de/en/) |
 | Yan-Kay Ho | University of Cambridge | SBOL and SBOL Visual |
+| Zainab Ashimiyu-Abdusalam | EMBL-EBI, CB10, 1SD, Hinxton near Cambridge | NeuroML, SBML |
+
+
 
 ### <a name="attendees"></a>Attendees - remote
 
 | Name | Organization | Interests |
 | :--- | :--- | :--- |
 | Bart Jardine | University of Washington | CellML, COMBINE Archive, Multicellular modeling, SBML, SED-ML, OpenVT (multicell AB modeling), SBML web related tools  |
+| Carissa Bleker | National Institute of Biology, Slovenia | COMBINE Archive, Multicellular modeling, SBGN, SBML, SED-ML, FROG, ELIXIR Systems Biology community |
+| Chris Evelo | Maastricht University, The Netherlands | BioPAX, SBGN, SBML, WikiPathways, ELIXIR's task on PBPK modelling and SBML conversions for that |
 | Francis Chemorion | University of Pompeu Fabra, InSilicoTrials Technologies | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG, I am a phd student researching the management of clinical, biological and simulated data for uniform simulation workflows in the Disc4All project https://disc4all.upf.edu |
 | Gaoxiang(Gavin) Zhou | University of Pittsburgh, 4200 Fifth Ave, Pittsburgh PA 15260 | BioPAX, CellML, COMBINE Archive, SBML, SBOL and SBOL Visual, PE-TAB, Dish2.0 https://github.com/pitt-miskov-zivanov-lab/DiSH   BioRECIPE https://github.com/pitt-miskov-zivanov-lab/BioRECIPE         Model analysis in sensitivity etc |
+| Haomiao Luo | University of Pittsburgh | BioRECIPE, CAR T cell, DiSH, BioRECIPE, http://www.nmzlab.pitt.edu |
 | Herbert Sauro | University of Washington, Seattle, USA | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, SED-ML |
 | Ilya Kiselev | Biosoft.ru | CellML, COMBINE Archive, Multicellular modeling, SBGN, SBML, SED-ML, BioUML platform |
 | Jacob Beal | BBN | SBOL and SBOL Visual |
+| Leonie Lorenz | EMBL-EBI | SBML, SED-ML, PE-TAB, Pathogen transmission and evolution models |
 | Lokesh V | Indian Institute of Technology, Bombay | SBML, FROG, I generate high quality genome scale metabolic models for industrial microorganisms. I understand the basic science of the metabolism using models and provide insilico predictions for engineering applications.  |
 | Luisa Zapata Saldarriaga | Universidad de Antioquia | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG |
+| Lutz Brusch | Technische Universität Dresden, Dresden, Germany | COMBINE Archive, Multicellular modeling, SBML, PE-TAB, MorpheusML (https://morpheus.gitlab.io/model/published-models/), SBML-Spatial, FAIRSPACE, https://www.MultiCellML.org |
 | Matthias König | Humboldt-University Berlin, Faculty of Life Science, Institute for Theoretical Biology, Berlin, Germany | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG |
 | Nguyen Tung | EMBL-EBI, Wellcome Trust Genome Campus, Hinxton, Cambridge, UK | BioPAX, CellML, COMBINE Archive, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG, BioModels: https://www.ebi.ac.uk/biomodels/ |
 | Nicholas Owen | UCL | Multicellular modeling, SBML, SBOL and SBOL Visual, Data Stewardship at UCL |
 | Paola Dr Di Maio | IGDORE | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, SED-ML, Model Cards ML, Neuroscience Model Cards |
+| Qi Wu | HITS |  |
+| Randy Heiland | Indiana University, Bloomington, IN USA | CellML, Multicellular modeling, SED-ML, PhysiCell, CompuCell3D |
 | Thomas Gorochowski | University of Bristol | SBOL and SBOL Visual |
 | Veronica Henao | Universidad de Antioquia | COMBINE Archive, NeuroML, https://www.canva.com/design/DAFmX5dbOQA/5y0xNdtqzE7RmHXdCERZ3w/view?website#4 |
 
-Last updated 23 March 2024
+
+
+Last updated 1 April 2024
