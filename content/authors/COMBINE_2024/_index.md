@@ -70,16 +70,18 @@ Local organizers are Nicole Radde (nicole.radde@simtech.uni-stuttgart.de) and Se
 <h3>Confirmed Keynote Speakers and Session Chairs</h3>
 
 <ol>
-  <li>Irina Balaur, University of Luxembourg</li>
+  <li>Irina Balaur, University of Luxembourg, Luxembourg</li>
   <li>Dirk Drasdo, Director of Research INRIA (French National Institut(ion) for Research in Computer Science and Control), Rocquencourt, France</li>
-  <li>Marc-Thorsten Hütt, Constructor University Bremen</li>
-  <li>Heinz Köppl, TU Darmstadt</li>
-  <li>Göksel Misirli, Keele University</li>
+  <li>Fabian Fröhlich, Francis Crick Institute, United Kingdom</li>
+  <li>Marc-Thorsten Hütt, Constructor University Bremen, Germany</li>
+  <li>Matthias König, Humboldt-University Berlin, Germany</li>
+  <li>Heinz Köppl, TU Darmstadt, Germany</li>
+  <li>Göksel Misirli, Keele University, United Kingdom</li>
   <li>David Nickerson, Auckland Bioengineering Institute, University of Auckland, New Zealand</li>
-  <li>Timothy Rudge, Newcastle University</li>
-  <li>Herbert Sauro, University of Washington</li>
-  <li>Lucian Smith, University of Washington</li>
-  <li>Judith Wodke, University of Greifswald</li>
+  <li>Timothy Rudge, Newcastle University, United Kingdom</li>
+  <li>Herbert Sauro, University of Washington, USA</li>
+  <li>Lucian Smith, University of Washington, USA</li>
+  <li>Judith Wodke, University of Greifswald, Germany</li>
 </ol> 
 
 Funded by
