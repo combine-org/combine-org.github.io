@@ -84,16 +84,16 @@ Local organizers are Sarah Keating (s.keating@ucl.ac.uk) and Padraig Gleeson,  (
 
 HARMONY 2024 will be held at [Centre For Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/ucl-centre-medical-image-computing-cmic), University College London, 90 High Holborn, London, WC1V 6LJ.
 
+On entering the building turn left to find the reception desk which is hidden away in the left hand corner. The receptionist will let you through to the lifts to the first floor, where somebody will be waiting to let you in.
+
+You should have received an invitation to the meeting mailing list harmony_2024 @ googlegroups.com which will be used for communications.
+
 <h3>Schedule</h3>
 
-A tentative schedule is below...
+The schedule is available below. People who have attended HARMONY in the past will know that this is inclined to change as participants make their own arrangements for conversations/discussions. A link to the editable version will be sent to the mailing list.
 
 
-<img src="/images/harmony2024/Harmony2024.png" alt="demo" class="img-responsive">
-<br/>
-
-[Evolving full schedule](https://docs.google.com/spreadsheets/d/1woY3WHoI1y3AheDrSqgR6CHF6yMSbv8z5I8mQxrH9aA/edit?usp=sharing)
-
+[Schedule](https://docs.google.com/spreadsheets/d/1woY3WHoI1y3AheDrSqgR6CHF6yMSbv8z5I8mQxrH9aA/edit?usp=sharing)
 <br/>
 
 [Abstract book](https://docs.google.com/document/d/1KgmRNDIe-dWBmSTGbOTHqQJMo4K-UtWnDk1Sto7DqME/edit?usp=sharing)
@@ -180,7 +180,7 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 | Sotirios Panagiotou | Erasmus Medical Center, Rotterdam, NL | CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SED-ML, VCell, EDEN neural simulator for NeuroML https://eden-simulator.org , BrainFrame for HPC in simulations https://neurocomputinglab.com/research-themes/brainframe/ |
 | Stela Prins | UCL | Multicellular modeling, NeuroML, SBML, SED-ML, Metabolic modeling, COBRA |
 | Subhasis Ray | Plaksha University, Alpha, Sector 101, IT City Rd, Sahibzada Ajit Singh Nagar, Punjab 140306 | CellML, NeuroML, SBML, SED-ML, Multiscale Object Oriented Simulation Environment (https://moose.ncbs.res.in) |
-|  Swathi Anil | Imperial College London, Bernstein Centre Freiburg | NeuroML, Large scale network modeling to study perturbation-induced connectivity changes in the brain: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011027 |
+| Swathi Anil | Imperial College London, Bernstein Centre Freiburg | NeuroML, Large scale network modeling to study perturbation-induced connectivity changes in the brain: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011027 |
 | T.J. Sego | University of Florida | Multicellular modeling, SBML, CompuCell3D, Tissue Forge |
 | Xiaoming Hu | HITS gGmbH, Schloss-Wolfsbrunnenweg 35 69118 Heidelberg Germany | CellML, SBML, SED-ML, Fairdom (https://fair-dom.org/) and NFDI4Health (https://www.nfdi4health.de/en/) |
 | Yan-Kay Ho | University of Cambridge | SBOL and SBOL Visual |
@@ -201,6 +201,8 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 | Herbert Sauro | University of Washington, Seattle, USA | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, SED-ML |
 | Ilya Kiselev | Biosoft.ru | CellML, COMBINE Archive, Multicellular modeling, SBGN, SBML, SED-ML, BioUML platform |
 | Jacob Beal | BBN | SBOL and SBOL Visual |
+| James Glazier | Indiana University, Bloomington, IN 47408 USA | COMBINE Archive, Multicellular modeling, SBML, SED-ML, OpenVT (Building communities for multicell modeling), CompuCell3D multicell modeling framework (www.compucell3d.org) |
+| John Hancock | University of Ljubljana | COMBINE Archive, SBML, SED-ML, FROG, ELIXIR Systems Biology Community |
 | Leonie Lorenz | EMBL-EBI | SBML, SED-ML, PE-TAB, Pathogen transmission and evolution models |
 | Lokesh V | Indian Institute of Technology, Bombay | SBML, FROG, I generate high quality genome scale metabolic models for industrial microorganisms. I understand the basic science of the metabolism using models and provide insilico predictions for engineering applications.  |
 | Luisa Zapata Saldarriaga | Universidad de Antioquia | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG |
@@ -216,4 +218,4 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 
 
 
-Last updated 1 April 2024
+Last updated 4 April 2024
