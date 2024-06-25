@@ -15,6 +15,8 @@ important_dates:
   date: July 29, 2024
 - name: Notification of acceptance of breakouts and tutorials
   date: August 2, 2024
+- name: Registration deadline
+  date: August 7, 2024
 
 important_links:
 #- name: Agenda
