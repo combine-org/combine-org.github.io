@@ -162,8 +162,16 @@ Tissue Forge is open-source simulation software for interactive particle-based p
 
 ### <a name="Talks"></a> Talks
 
-<b> tba </b> Irina Balaur
+<b> Results and Lessons learnt from the community-level project on “Fostering the uptake of RDA indicators in Systems Biomedicine as a measure for model quality and FAIRness within the COMBINE community” </b> Irina Balaur
  <br>
+Biosimulation models incorporating multi-layered information have been developed to explore complex disease mechanisms. While these models have potential for diagnosis and therapy support, their clinical use is limited by unclear specifications on settings and kinetics, hampering reusability and reproducibility. Adhering to the principles of Findability, Accessibility, Interoperability, and Reusability (FAIR) can enhance the credibility and reproducibility of these models.
+
+In this talk, we will focus on the results and lessons learned from our project on applying RDA indicators for the FAIR evaluation of biosimulation models within the [COMBINE community](https://fair-ca-indicators.github.io/) . Funded by the EOSC Future, the project focused on developing community-level guidelines for FAIR model design and a semi-automatic FAIR evaluation tool for COMBINE models. We adapted the RDA FAIR indicators template from the IMI FAIRplus project to cover the specificities of the COMBINE computational simulations. The semi-automatic FAIR assessment tool enables some RDA FAIR indicators to be filled automatically.
+
+We will also discuss the major challenges and strategies for achieving a community-accepted set of FAIR indicators specific to COMBINE resources. To address these challenges, we organized workshops and training sessions within the RDA and COMBINE communities, and engaged in transparent communication, online dissemination, and involvement acknowledgment. All components of our work are open, freely accessible, and connected via our project website to major frameworks like Zenodo for dissemination materials and GitHub for code files.
+
+We also collaborated with other relevant projects on FAIR data and infrastructure. We will conclude by exemplifying our work on the FAIR assessment of the MINERVA platform, supporting the [Disease Maps Project](https://disease-maps.org/), and the ongoing development of a FAIR-calibration framework for reporting guidelines of AI-related studies in healthcare to enhance reproducibility and open science.
+
 
 <b> tba </b> Dirk Drasdo
  <br>
