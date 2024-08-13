@@ -229,7 +229,7 @@ FAIRification of data and software and the digitalization of biocatalysis improv
  <br>
 We use industrial standard Modelica to express complex models of human physiology [1,2]. Recently we have published enabling technology that allows to export complex models in standard functional mockup interface API (FMI) as a web component to be integrated with other web standards and technologies to create modern [web application](https://bodylight.physiome.cz). Thanks to it the models does not necessarry need to be implemented in Modelica language, but and standard FMI needs to be implemented by other standards to compute model derivatives and do simulation step using a prefered numerical method.
 
-<b>Utilizing Nix for rapid BayModTS development - Lightning talk session 3</b> Otlinghaus, Fritz <br>
+<b>Utilizing Nix for rapid BayModTS development - Lightning talk session 3</b> Hauser, Simon <br>
 BayModTS, a python project for FAIR Bayesian Modelling of Time Series workflows, has a complex setup that requires users of that software to install and compile multiple python packages that have native C dependencies.
 This is a complex endeavor and currently it is not possible to fully resolve these issues using poetry install.
 We present a solution that utilizes a general purpose package manager called Nix, that guarantees that a package and all its dependencies can be built reproducibly.
