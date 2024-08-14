@@ -17,6 +17,8 @@ important_dates:
   date: August 2, 2024
 - name: Registration deadline
   date: August 7, 2024
+- name: Late Registration (Poster submission is still possible upon request)
+  date: September 2, 2024
 
 important_links:
 #- name: Agenda
