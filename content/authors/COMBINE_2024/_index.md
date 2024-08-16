@@ -175,8 +175,9 @@ We will also discuss the major challenges and strategies for achieving a communi
 We also collaborated with other relevant projects on FAIR data and infrastructure. We will conclude by exemplifying our work on the FAIR assessment of the MINERVA platform, supporting the [Disease Maps Project](https://disease-maps.org/), and the ongoing development of a FAIR-calibration framework for reporting guidelines of AI-related studies in healthcare to enhance reproducibility and open science.
 
 
-<b> tba </b> Dirk Drasdo
+<b>CompuTiX: A library for agent based modeling (not only) at a tissue-scale </b> Jiří Pešek and Dirk Drasdo
  <br>
+In recent years, many studies have shown that the tissue microarchitecture along with the mechanical environment has a crucial yet poorly understood impact on the biological processes inside living tissues This have a significant impact on progression of any potential disease or treatment. The limitations of in-vivo imaging techniques together with the small scale and isolated nature of many in-vitro experiments, makes these systems a suitable candidate for in-silico approach, where initial in-vitro experiments can be used to formulate and tune the underlying models and in-vivo imaging is then used to generate a patient specific setup. In particular, an agent based models, where the global effect is achieved by interaction between many, relatively simple, entities, are suitable to capture the spatial and behavioral heterogeneity and complexity of living tissues. In this talk we will present a new open-source computational library, CompuTiX, suitable for agent based simulations of tissues, organoids and more. We will split the talk into two parts. In the first part we will briefly introduce basic bio-physical models starting from simple center based models to more complex models like deformable cell model. In the second, more technical, part we will discuss the architecture of the library, design choices, trade-offs and challenges in our goal to provide a versatile and extensible platform for agent based simulations.
 
 <b> Networks, simple models and model diversity in the description of biological systems</b> Marc-Thorsten Hütt
  <br>
@@ -189,8 +190,9 @@ The formal representation of a mathematical model is often incomplete, compared 
 Lastly, residing on the topic of simple models, I briefly draw the attention to the co-existence of parameter-rich and simple models of biological systems, outlining a few pros and cons and caveats. "
 
 
-<b> tba </b> Heinz Köppl
+<b> Energy and Information in Gene Regulation </b> Heinz Köppl
  <br>
+The essence of cellular function is to maintain a non-equilibrium state through an influx of chemical energy. In particular gene regulation involves several active steps that require energy carriers such as ATP. Thermodynamic uncertainty relations tell us that reducing fluctuations in molecular systems comes at the expense of energy consumption which in turn is related to the rate of entropy production. In this talk I will make this notion more concrete for Markov models of chemical reaction networks and in particular for simple models of gene expression. We will also introduce an operational notion of precision for a molecular signal processing systems using information theory. We show how entropy production rates provides bounds on the achievable information throughput for simple gene expression channels. We also discuss how this analysis can help in designing regulatory circuits in synthetic biology that are energy efficient and yet precise. 
 
 <b> Computational design of biological receivers using multi-scale models and data standards </b> Göksel Misirli
  <br>
