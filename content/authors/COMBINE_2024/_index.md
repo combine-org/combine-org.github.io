@@ -105,6 +105,9 @@ There are no hotels at the workshop venue. However, you can find accommodations 
 
 ### <a name="Breakouts"></a>Breakout sessions
 
+<b>Training Models using PEtab</b> Fröhlich, Fabian	<br>
+[PEtab](https://doi.org/10.1371/journal.pcbi.1008646) is a standardized file format for specifying parameter estimation problems. The interoperable format is currently supported by [11 different tools](https://github.com/PEtab-dev/petab#petab-support-in-systems-biology-tools), enabling users to benefit from standardized parameter estimation across frameworks based in Python, Julia, R, MATLAB, C++, or GUIs. Although PEtab was initially developed for parameter estimation, recent efforts have extended the format to improve standardization of various adjacent tasks, including: model selection, multi-scale modeling, PKPD and NLME modeling, optimal control, and visualization. In this breakout session, based on audience interests, we will present introductions to PEtab and its extensions, then discuss current efforts to improve PEtab. People unfamiliar with PEtab are welcome to attend, and might first like to check out the [tutorial](https://petab.readthedocs.io/en/latest/tutorial.html).
+
 <b>Introduction into Nix for scientific software</b> Hauser, Simon	<br>
 Working on software in a team brings all kinds of challenges, especially because everyone has a slightly different development environment.
 These challenges usually start with onboarding new team members, include complications of moving your local environment to a high performance cluster and end in unreproducible bugs that boil down to ""works on my machine"".
