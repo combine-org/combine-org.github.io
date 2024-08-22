@@ -79,7 +79,7 @@ Local organizers are Nicole Radde (nicole.radde@simtech.uni-stuttgart.de) and Se
   <li>Timothy Rudge, Newcastle University, United Kingdom</li>
   <li>Herbert Sauro, University of Washington, USA</li>
   <li>Lucian Smith, University of Washington, USA</li>
-  <li>Judith Wodke, University of Greifswald, Germany</li>
+  <li>Judith Wodke, University Medicine Greifswald, Germany</li>
 </ol> 
 
 Funded by
