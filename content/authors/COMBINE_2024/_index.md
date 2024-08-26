@@ -232,9 +232,12 @@ FAIRification of data and software and the digitalization of biocatalysis improv
  <br>
 [preCICE](https://precice.org/) is an open-source coupling software for partitioned multi-physics and multi-scale simulations including PDE-PDE and PDE-ODE coupling. Thanks to the software's library approach (the simulations call the coupling) and its high-level API, only minimally-invasive changes are required to prepare an existing (legacy) simulation software for coupling. Moreover, ready-to-use adapters for many popular simulation software packages are available, e.g. for OpenFOAM, SU2, CalculiX, FEniCS, and deal.II. For the actual coupling, preCICE offers methods for fixed-point acceleration (quasi-Newton acceleration), fully parallel communication (MPI or TCP/IP), data mapping (radial-basis function interpolation), and time interpolation (waveform relaxation). Today, although being an academic software project at heart, preCICE is used by more than 100 research groups in both academia and industry. In this presentation, I introduce the basic concepts of preCICE and discuss existing and potential applications in biology.
 
-<b> tba </b> Nicole Radde
+<b> Reproducible tools for dealing with highly variable data </b> Nicole Radde
  <br>
-
+In the biomedical context, data is often sparse, and replicates show a high variability. This is because complex procedures, costs, and ethical aspects constrain measurements. Sparsity and high variability pose a challenge for modeling, especially when building models aiming to capture quantitatively dynamic responses.
+Here, we present two complementary approaches we developed in our group to deal with sparse and variable data. Bayesian  Modeling of Time Series Data [(BayModTS)](https://github.com/Systems-Theory-in-Systems-Biology/BayModTS/tree/main) uses a Bayesian approach and a simulation model to process sparse and highly variable serial data. BayModTS can be used to quantify uncertainty in the observed process or as a noise filtering approach, as we will demonstrate with selected examples.
+Second, Eulerian Parameter Inference [(EPI)](https://systems-theory-in-systems-biology.github.io/EPI/) formulates the parameter estimation problem for a simulation model from experimental data as a stochastic inverse problem and infers a parameter distribution that can reproduce the variability of the input data.
+Both approaches are implemented as documented software packages that use standards such as SBML or PEtab. In my talk, I will briefly explain our methods and discuss the current challenges regarding reproducibility and FAIR principles from a modeler’s perspective.
 <hr>
 
 ### <a name="lt"></a> Lightning talks
