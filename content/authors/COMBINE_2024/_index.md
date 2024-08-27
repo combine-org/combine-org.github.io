@@ -208,8 +208,9 @@ Engineering genetic regulatory circuits that sense external molecules and respon
 <b> tba </b> Timothy Rudge
  <br>
 
-<b> tba </b> Herbert Sauro
+<b> The past, present and possible futures </b> Herbert Sauro
  <br>
+ It has almost been 25 years since Hiroaki Kitano initiated the development of SBML as part of the ERATO project. Together with Bolouri, Doyle, Finney, Hucka, myself and a number of key stakeholders (who continue to meet at COMBINE), we published the first draft and software support libraries for the SBML specification. Around the same time we also saw the publication of the specification for CellML that was a more mathematically oriented proposal. What resulted was most unexpected, the emergence of a new vibrant ecosystem which stimulated further development, created a host of new ancillary standards as well as the indispensable BioModels repository. That ecosystem still exists today. In this talk I will review what I feel remains to be done or is incomplete, what new modeling challenges we face, and describe what the center of model reproducibility in the US is doing in terms of software provision. In particular I will describe a number of new client-based web tools and desktop apps. The client-based tools are unusual in that they can be hosted from any free basic server such as a GitHub, Neocities or Cloudflare page. This makes such apps very low maintenance and tend to persist long after funding stops.  Examples from our center include a model annotation (AWE) platform, a simple model checking app (ratesb), a high speed BioModels cache, a reproducibility portal, a model verification service, a new SBML/Antimony web utility, a Biosimulators/Biosimulations repository, a new SBML compliant desktop app, a number of new python packages for network visualization, a new desktop network editor (Alcuin), new extensions to Antimony (See talk by Lucian Smith), a standard protocol for multi-scale modeling (See talk by Eran Agmon), and the first model credibility hackathon held this summer.
 
 <b> Improving Curation: Biomodels and Annotation </b> Lucian Smith
  <br>
