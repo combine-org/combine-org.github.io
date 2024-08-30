@@ -76,7 +76,6 @@ Local organizers are Nicole Radde (nicole.radde@simtech.uni-stuttgart.de) and Se
   <li>Heinz Köppl, TU Darmstadt, Germany</li>
   <li>Göksel Misirli, Keele University, United Kingdom</li>
   <li>David Nickerson, Auckland Bioengineering Institute, University of Auckland, New Zealand</li>
-  <li>Timothy Rudge, Newcastle University, United Kingdom</li>
   <li>Herbert Sauro, University of Washington, USA</li>
   <li>Lucian Smith, University of Washington, USA</li>
   <li>Judith Wodke, University Medicine Greifswald, Germany</li>
@@ -205,8 +204,6 @@ The essence of cellular function is to maintain a non-equilibrium state through 
  <br>
 Engineering genetic regulatory circuits that sense external molecules and respond is essential for developing diverse biological applications. As the complexity of designs increases, a model-driven design process becomes desirable to explore large design spaces that involve different biological parts and parameters. Moreover, the amount of these molecules reaching a receiver is usually assumed to be constant, and the diffusion dynamics and the interference caused by late-arriving molecules and the cellular dynamics are often not integrated. Additionally, each molecule type may represent a single biological signal and be unsuitable for encoding and decoding multiple data bits. Here, we present the virtual parts repository, a computational framework that provides modular, reusable and composable models. The framework facilitates automating the design of predictable applications via simulations. It builds on the Systems Biology Markup Language to model cellular behaviour and the Synthetic Biology Open Language to capture the details of genetic circuits. We then extend this automation approach to design the end-to-end transmission of signalling molecules from a transmitter to cellular receivers for multi-bit data communications. The resulting framework can be used to understand the cellular response for a sequence of custom data bits, each representing a group of molecules released from a transmitter and diffusing over a molecular channel. The framework validates and verifies various communication parameters and identifies the best communication scenarios. We also present a novel algorithm to minimise signal interference by employing equalisation techniques from communication theory. Our data standards-enabled and multi-scale modelling workflow combines engineering genetic circuits and molecular diffusion dynamics to encode and decode data bits, design efficient cellular signals, minimise noise, and develop biologically plausible applications.
 
-<b> tba </b> Timothy Rudge
- <br>
 
 <b> The past, present and possible futures </b> Herbert Sauro
  <br>
