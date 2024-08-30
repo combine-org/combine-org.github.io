@@ -321,6 +321,11 @@ We are developing a standardized protocol for multi-algorithmic model compositio
 
 <b> BayModTS: A Bayesian workflow to process variable and sparse time series data. </b> Höpfl, Sebastian <br>
 
+<b> The role of standards in defining an ecosystem for Virtual Human Twins (VHTs) </b> Mayer, Gerhard <br>
+
+<b> Recommendations and requirements for implementing computational models in clinical integrated decision support systems </b> Golebiewski, Martin <br>
+
+
 <hr>
 
 
