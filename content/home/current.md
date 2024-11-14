@@ -10,5 +10,5 @@ title = "Upcoming Conferences"
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "HARMONY-2024"
+author = "HARMONY-2025"
 +++
