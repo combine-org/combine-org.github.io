@@ -41,7 +41,7 @@ information:
   description: Registration for the meeting is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
   link: https://forms.gle/BHRkSwZVii9dqnWd8
 - name: Call for Breakout Sessions and Tutorials
-  description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
+  description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organizers will be responsible for creating and hosting their own online sessions, if required.
   link: https://forms.gle/TJzaMwLp7Q67RCwD6
 - name: Call for Lightning Talks and Posters
   description: Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
@@ -53,7 +53,7 @@ information:
 Topics of Interest:
 - Data exchange, pipelines and model standards for systems and synthetic biology
 - Visualization and graphical notation standards for systems and synthetic biology
-- Standards for sharing and analysing biological pathway data
+- Standards for sharing and analyzing biological pathway data
 - Standards for computational biological models and modelling support
 - Metadata description and model annotation in COMBINE standard formats
 - Implementation of COMBINE standards in tools, databases and other resources
@@ -103,19 +103,19 @@ Leuven is a very cyclable city. If you come by train or car you can bring your b
 
 <h3>Sister Meetings</h3>
 
-*9th Disease Maps Community Meeting - DMCM2025*
+**9th Disease Maps Community Meeting - DMCM2025**
 
 Simultaneously from 15th to 17th April 2025 at the same venue.
 
 The 2025 edition of the Disease Maps Community Meeting is set to take place in Leuven, Belgium. This annual gathering brings together the researchers, clinicians, and domain experts involved in mapping and modelling disease mechanisms. The meeting provides a forum for exchanging best practices, sharing information, and developing tools to advance the use of systems medicine in translational medicine projects and decision making support. Building on the success of previous editions in locations like Belval, Maastricht, Sevilla, and Paris, the 2025 meeting in Leuven is expected to attract a diverse group of participants dedicated to furthering the understanding and application of disease maps in research and healthcare.
 
-The DMCM2025 will be held simultaneously with HARMONY 2025, in the same venue. This is expected to enhance interaction between the COMBINE and the Disease Maps coomunities, forstering collaboration oportunities and networking. Coffee breaks and meals will be shared between both meetings.
+The DMCM2025 will be held simultaneously with HARMONY 2025, in the same venue. This is expected to enhance interaction between the COMBINE and the Disease Maps communities, fostering collaboration opportunities and networking. Coffee breaks and meals will be shared between both meetings.
 
 More information can be found here: [DMCM2025](https://disease-maps.io/DMCM2025/). 
 
 To have access to the DMCM talks, registrations should be done separately. 
 
-*byteMAL'25*
+**byteMAL'25**
 
 Monday 14th April 2025
 
