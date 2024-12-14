@@ -48,16 +48,16 @@ information:
   link: https://forms.gle/o8P3zvfdaEoLKUao8
 - name: Topics of Interest:
   description:
-+ Data exchange, pipelines and model standards for systems and synthetic biology
-+ Visualization and graphical notation standards for systems and synthetic biology
-+ Standards for sharing and analyzing biological pathway data
-+ Standards for computational biological models and modelling support
-+ Metadata description and model annotation in COMBINE standard formats
-+ Implementation of COMBINE standards in tools, databases and other resources
-+ Integrated model and data management for systems and synthetic biology
-+ Standardization of Artificial Intelligence approaches in biological modelling
-+ Emerging standardization needs and multicellular modeling
-+ Community aspects of COMBINE
+  - Data exchange, pipelines and model standards for systems and synthetic biology
+  - Visualization and graphical notation standards for systems and synthetic biology
+  - Standards for sharing and analyzing biological pathway data
+  - Standards for computational biological models and modelling support
+  - Metadata description and model annotation in COMBINE standard formats
+  - Implementation of COMBINE standards in tools, databases and other resources
+  - Integrated model and data management for systems and synthetic biology
+  - Standardization of Artificial Intelligence approaches in biological modelling
+  - Emerging standardization needs and multicellular modeling
+  - Community aspects of COMBINE
 
 #- name: Application for travel funding
 #  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who have a significant contribution to make to the HARMONY meeting.
