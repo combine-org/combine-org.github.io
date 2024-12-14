@@ -28,7 +28,7 @@ important_links:
 - name: Agenda
   link: TBA
 - name: Registration
-  link: https://forms.gle/BHRkSwZVii9dqnWd8
+  link: https://forms.gle/TxTch7u8jdbJTyG18
 - name: Break-outs and tutorials submission
   link: https://forms.gle/TJzaMwLp7Q67RCwD6
 - name: Lightning talks and poster submission
@@ -56,7 +56,7 @@ HARMONY 2025 will be held at **KU Leuven**
 
 Local organizers are <a href="mailto:liesbet.geris@kuleuven.be">Liesbet Geris</a>, <a href="mailto:lcladeira@uliege.be">Luiz Ladeira</a>, and <a href="mailto:b.staumont@uliege.be">Bernard Staumont</a>. 
 
-<h2><a href="https://forms.gle/o8P3zvfdaEoLKUao8" target="_blank">Registration</a></h2>
+<h2><a href="https://forms.gle/TxTch7u8jdbJTyG18" target="_blank">Registration</a></h2>
 
 Registration for the meeting is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
 
