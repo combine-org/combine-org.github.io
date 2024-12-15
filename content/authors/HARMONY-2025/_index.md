@@ -11,10 +11,10 @@ conf_location: KU Leuven, Leuven, Belgium
 important_dates:
 - name: Breakouts and tutorials submission deadline
   date: February 16, 2025
-- name: Notification of acceptance for breakout and tutorials
-  date: March 03, 2025
 - name: Lightning talk and poster submission deadline
   date: February 23, 2025
+- name: Notification of acceptance for breakout and tutorials
+  date: March 03, 2025
 - name: Notification of acceptance for lightning talks and posters
   date: March 14, 2025
 - name: Registration deadline
@@ -60,13 +60,19 @@ Local organizers are <a href="mailto:liesbet.geris@kuleuven.be">Liesbet Geris</a
 
 Registration for the meeting is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
 
+Register <a href="https://forms.gle/TxTch7u8jdbJTyG18" target="_blank">here</a>.
+
 <h2><a href="https://forms.gle/TJzaMwLp7Q67RCwD6" target="_blank">Call for Breakout Sessions and Tutorials</a></h2>
 
 All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organizers will be responsible for creating and hosting their own online sessions, if required.
 
+Submit your breakout session and tutorial proposal <a href="https://forms.gle/TJzaMwLp7Q67RCwD6" target="_blank">here</a>.
+
 <h2><a href="https://forms.gle/o8P3zvfdaEoLKUao8" target="_blank">Call for Lightning Talks and Posters</a></h2>
 
 Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
+
+Submit your lightning talks and posters <a href="https://forms.gle/o8P3zvfdaEoLKUao8" target="_blank">here</a>
  
 <h2>Topics of Interest</h2>
 
