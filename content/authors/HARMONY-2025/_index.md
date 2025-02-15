@@ -10,11 +10,11 @@ conf_location: KU Leuven, Leuven, Belgium
 
 important_dates:
 - name: Breakouts and tutorials submission deadline
-  date: ~~February 16, 2025~~ Extended deadline - February 23, 2025
+  date: ~~February 16, 2025~~ Extended deadline - February 28, 2025
 - name: Lightning talk and poster submission deadline
-  date: February 23, 2025
+  date: ~~February 23, 2025~~ Extended deadline - February 28, 2025
 - name: Notification of acceptance for breakout and tutorials
-  date: March 03, 2025
+  date: ~~March 03, 2025~~ March 14, 2025
 - name: Notification of acceptance for lightning talks and posters
   date: March 14, 2025
 - name: Registration deadline
