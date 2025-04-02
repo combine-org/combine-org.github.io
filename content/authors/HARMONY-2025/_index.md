@@ -27,8 +27,8 @@ important_dates:
 important_links:
 - name: Agenda
   link: https://docs.google.com/spreadsheets/d/18npMU97zaigK8tXwySV-mx7l237MWESmtSMgxThFgDs/edit?usp=sharing
-- name: Registration
-  link: https://forms.gle/TxTch7u8jdbJTyG18
+- name: Registration - online only (in person closed)
+  link: https://forms.gle/d48bEYA18MePM93f9
 - name: Break-outs and tutorials submission
   link: https://forms.gle/TJzaMwLp7Q67RCwD6
 - name: Lightning talks and poster submission
