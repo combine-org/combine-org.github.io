@@ -56,7 +56,7 @@ HARMONY 2025 will be held at **KU Leuven**
 
 Local organizers are <a href="mailto:liesbet.geris@kuleuven.be">Liesbet Geris</a>, <a href="mailto:lcladeira@uliege.be">Luiz Ladeira</a>, and <a href="mailto:b.staumont@uliege.be">Bernard Staumont</a>. 
 
-<h2>Schedule</h2>
+<h2>Schedule</h2> 
 
 The schedule is available below. People who have attended HARMONY in the past will know that this is inclined to change as participants make their own arrangements for conversations/discussions. A link to the editable version will be sent to the mailing list.
 
