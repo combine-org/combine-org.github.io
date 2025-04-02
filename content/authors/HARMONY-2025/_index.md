@@ -56,11 +56,24 @@ HARMONY 2025 will be held at **KU Leuven**
 
 Local organizers are <a href="mailto:liesbet.geris@kuleuven.be">Liesbet Geris</a>, <a href="mailto:lcladeira@uliege.be">Luiz Ladeira</a>, and <a href="mailto:b.staumont@uliege.be">Bernard Staumont</a>. 
 
+<h2>Schedule</h2>
+
+The schedule is available below. People who have attended HARMONY in the past will know that this is inclined to change as participants make their own arrangements for conversations/discussions. A link to the editable version will be sent to the mailing list.
+
+
+[Schedule](https://docs.google.com/spreadsheets/d/18npMU97zaigK8tXwySV-mx7l237MWESmtSMgxThFgDs/edit?usp=sharing)
+<br/>
+
+[Abstract book](https://docs.google.com/document/d/14sk00zSOmwFDSyINoJ3iXsKl4iowwKignJ0f8HXYcGk/edit?usp=sharing)
+<br/>
+
+[Break out booklet](https://docs.google.com/document/d/15EMfqEjOp1D3qYbvSRzpL0wczllwdJw_N3VPEE-vWIM/edit?usp=sharing)
+
 <h2><a href="https://forms.gle/TxTch7u8jdbJTyG18" target="_blank">Registration</a></h2>
 
 Registration for the meeting is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
 
-Register <a href="https://forms.gle/d48bEYA18MePM93f9" target="_blank">here</a>.Registrations for in person participation are closed. Please use the link to register for online participation.
+Register <a href="https://forms.gle/d48bEYA18MePM93f9" target="_blank">here</a>. Registrations for in person participation are closed. Please use the link to register for online participation.
 
 <h2><a href="https://forms.gle/TJzaMwLp7Q67RCwD6" target="_blank">Call for Breakout Sessions and Tutorials</a></h2>
 
@@ -96,20 +109,6 @@ ON2 Herestraat 49
 Building number: 402-18   
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7328.8613003821665!2d4.66885008573146!3d50.88098525196122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c160fc387bdcb1%3A0x4a9ac6c9f0a2be73!2sON2!5e0!3m2!1sen!2sbe!4v1724855435189!5m2!1sen!2sbe" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      
-
-<h3>Schedule</h3>
-
-The schedule is available below. People who have attended HARMONY in the past will know that this is inclined to change as participants make their own arrangements for conversations/discussions. A link to the editable version will be sent to the mailing list.
-
-
-[Schedule](https://docs.google.com/spreadsheets/d/18npMU97zaigK8tXwySV-mx7l237MWESmtSMgxThFgDs/edit?usp=sharing)
-<br/>
-
-[Abstract book](https://docs.google.com/document/d/14sk00zSOmwFDSyINoJ3iXsKl4iowwKignJ0f8HXYcGk/edit?usp=sharing)
-<br/>
-
-[Break out booklet](https://docs.google.com/document/d/15EMfqEjOp1D3qYbvSRzpL0wczllwdJw_N3VPEE-vWIM/edit?usp=sharing)
  
 <h3>Arrival and Transportation</h3>
 
