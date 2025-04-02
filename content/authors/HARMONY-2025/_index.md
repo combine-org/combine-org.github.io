@@ -10,9 +10,9 @@ conf_location: KU Leuven, Leuven, Belgium
 
 important_dates:
 - name: Breakouts and tutorials submission deadline
-  date: ~~February 16, 2025~~ Extended deadline - February 28, 2025
+  date: ~~February 16, 2025 - Extended deadline - February 28, 2025~~
 - name: Lightning talk and poster submission deadline
-  date: ~~February 23, 2025~~ Extended deadline - February 28, 2025
+  date: ~~February 23, 2025 - Extended deadline - February 28, 2025~~
 - name: Notification of acceptance for breakout and tutorials
   date: ~~March 03, 2025~~ March 14, 2025
 - name: Notification of acceptance for lightning talks and posters
@@ -26,7 +26,7 @@ important_dates:
 
 important_links:
 - name: Agenda
-  link: TBA
+  link: https://docs.google.com/spreadsheets/d/18npMU97zaigK8tXwySV-mx7l237MWESmtSMgxThFgDs/edit?usp=sharing
 - name: Registration
   link: https://forms.gle/TxTch7u8jdbJTyG18
 - name: Break-outs and tutorials submission
@@ -60,7 +60,7 @@ Local organizers are <a href="mailto:liesbet.geris@kuleuven.be">Liesbet Geris</a
 
 Registration for the meeting is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
 
-Register <a href="https://forms.gle/TxTch7u8jdbJTyG18" target="_blank">here</a>.
+Register <a href="https://forms.gle/d48bEYA18MePM93f9" target="_blank">here</a>.Registrations for in person participation are closed. Please use the link to register for online participation.
 
 <h2><a href="https://forms.gle/TJzaMwLp7Q67RCwD6" target="_blank">Call for Breakout Sessions and Tutorials</a></h2>
 
@@ -100,7 +100,16 @@ Building number: 402-18
 
 <h3>Schedule</h3>
 
-The schedule will be available here.
+The schedule is available below. People who have attended HARMONY in the past will know that this is inclined to change as participants make their own arrangements for conversations/discussions. A link to the editable version will be sent to the mailing list.
+
+
+[Schedule](https://docs.google.com/spreadsheets/d/18npMU97zaigK8tXwySV-mx7l237MWESmtSMgxThFgDs/edit?usp=sharing)
+<br/>
+
+[Abstract book](https://docs.google.com/document/d/14sk00zSOmwFDSyINoJ3iXsKl4iowwKignJ0f8HXYcGk/edit?usp=sharing)
+<br/>
+
+[Break out booklet](https://docs.google.com/document/d/15EMfqEjOp1D3qYbvSRzpL0wczllwdJw_N3VPEE-vWIM/edit?usp=sharing)
  
 <h3>Arrival and Transportation</h3>
 
