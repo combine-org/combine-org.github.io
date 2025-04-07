@@ -31,8 +31,8 @@ interests:
 - Systems Biology
 - Bioinformatics
 
-projects:
-- <a href="https://github.com/VoigtLab/dnaplotlib">DNAplotlib</a>
+#projects:
+#- <a href="https://github.com/VoigtLab/dnaplotlib">DNAplotlib</a>
 
 department:
 - School of Biological Sciences
