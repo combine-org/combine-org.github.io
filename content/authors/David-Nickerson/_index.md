@@ -27,7 +27,7 @@ organizations:
 university: University of Auckland
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a senior research fellow at the Auckland Bioengineering Institute at the University of Auckland, New Zealand. I lead the Auckland Renal Physiome project as well as being involved in many computational modelling projects spanning the cellular, tissue, and whole organ spatial scales. I am  actively involved in the development and application of the CellML and SED-ML standards and related software tools. I am also involved in the Physiome Model Repository.
+bio: I am an associate professor at the Auckland Bioengineering Institute at the University of Auckland, New Zealand. I am an investigator at the Center for Reproducible Biomedical Modeling and involved in many computational modelling projects spanning the cellular, tissue, and whole organ spatial scales. I am  actively involved in the development and application of the CellML and SED-ML standards and related software tools. I am also involved in the Physiome Model Repository. I am also the current editor-in-chief at the journal Physiome.
 
 interests:
 - Computational modeling
@@ -37,6 +37,7 @@ projects:
 - <a href="https://www.cellml.org/">CellML</a>
 - <a href="https://reproduciblebiomodels.org/">Center for Reproducible Biomedical Modeling</a>
 - <a href="https://models.physiomeproject.org/">Physiome Model Repository</a>
+- <a href="https://journal.physiomeproject.org/">Physiome journal</a>
 
 department:
 - Auckland Bioengineering Institute
@@ -55,9 +56,12 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/andreshouse?lang=en
+- icon: user-graduate
+  icon_pack: fas
+  link: https://profiles.auckland.ac.nz/d-nickerson
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/andreshouse?lang=en
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=56_TdbgAAAAJ&hl=en
@@ -73,12 +77,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0003-4667-9779
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://unidirectory.auckland.ac.nz/profile/dnic019
-# - icon: university
-#   icon_pack: fas
-#   link: https://www.colorado.edu/ecee
+- icon: university
+  icon_pack: fas
+  link: https://www.auckland.ac.nz/en/abi.html
 # - icon: user
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -115,4 +116,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-I am a senior research fellow at the Auckland Bioengineering Institute at the University of Auckland, New Zealand. I lead the Auckland Renal Physiome project as well as being involved in many computational modelling projects spanning the cellular, tissue, and whole organ spatial scales. I am  actively involved in the development and application of the CellML and SED-ML standards and related software tools. I am also involved in the Physiome Model Repository.
+I am an associate professor at the Auckland Bioengineering Institute at the University of Auckland, New Zealand. I am an investigator at the Center for Reproducible Biomedical Modeling and involved in many computational modelling projects spanning the cellular, tissue, and whole organ spatial scales. I am  actively involved in the development and application of the CellML and SED-ML standards and related software tools. I am also involved in the Physiome Model Repository. I am also the current editor-in-chief at the journal Physiome.
