@@ -182,9 +182,7 @@ Interested in sponsoring our meeting? Please contact <a href="mailto:lcladeira@u
 | T.J. Sego | University of Florida | Multicellular modeling, SBML, SED-ML, PE-TAB |
 | Charl Linssen | Jülich Supercomputing Centre; RWTH Aachen | CellML, NeuroML, SBML, SED-ML; NESTML domain-specific modeling language and code generator - https://nestml.readthedocs.org/ ; Automatic analysis and solver generation for dynamical systems simulation - https://ode-toolbox.readthedocs.org/ |
 | Brett Olivier | Vrije Universiteit Amsterdam | COMBINE Archive, SBML, SED-ML, FROG |
-| Filip Bartek | Faculty of Informatics, Masaryk University | SBGN, SBML; BCSL, eBCSgen, https://doi.org/10.1007/978-3-030-60327-4_20 |
 | Alessio Gamba | University of Liege | BioPAX, CellML, SBGN, SBML; ONTOX project. Information about the project available at https://ontox-project.eu/project/ |
-| Hasan Balci | National Institutes of Health (NIH) | SBGN, SBML; I am one of the developers of Newt Pathway Editor (https://newteditor.org/) and SyBLaRS (Systems Biology Layout & Rendering Service). I am currently working on projects related to visualization of SBGN maps. |
 | Hugh Sorby | Auckland Bioengineering Institute | CellML, COMBINE Archive, SBML, SED-ML |
 | David Nickerson | Auckland Bioengineering Institute, University of Auckland | CellML, COMBINE Archive, Multicellular modeling, OMEX Metadata, SED-ML, PE-TAB, Repositories, publishing; Center for Reproducible Biomedical Modeling; Physiome / Virtual Physiological Human; Physiome Model Repository; SPARC |
 | Nguyen Tung | EMBL-EBI | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, FROG; BioModels is a repository of mathematical models of biological and biomedical systems. It hosts a vast selection of existing literature-based physiologically and pharmaceutically relevant mechanistic models in standard formats. http://biomodels.org |
@@ -202,7 +200,6 @@ Interested in sponsoring our meeting? Please contact <a href="mailto:lcladeira@u
 | Lutz Brusch | Technische Universität Dresden | OpenVT, MorpheusML, MultiCellML, SBML-spatial, PEtab-MS; Multicellular modeling, https://MultiCellML.org, MorpheusML, https://morpheus.gitlab.io, PEtab-MS, https://gitlab.com/fitmulticell/fit |
 | Ilya Kiselev | Biosoft.RU | COMBINE Archive, Multicellular modeling, SBGN, SBML, SBOL and SBOL Visual, SED-ML; BioUML platform (www.biouml.rog) |
 | Luna Li | University of Washington | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, SED-ML, FROG; Working at the Center for Reproducible Biomedical Modeling on standardizing and annotating models |
-| Augustin Luna | National Library of Medicine | BioPAX, SBGN, SBML, SBOL and SBOL Visual; Systems Biology Graphical Notation (SBGN sbgn.org) |
 | Adel Heydarabadipour | University of Washington | SBGN, SBML; Model Visualization |
 | Lucian Smith | University of Washington | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, SED-ML, FROG; I work with the Center for Reproducible Biomomedical Modeling (https://reproduciblebiomodels.org/), particularly working on Tellurium, Roadrunner, and Antimony |
 | Arnau Montagud | Institute for Integrative Systems Biology (I2SysBio), CSIC-UV | CellML, COMBINE Archive, Multicellular modeling, SBML, SED-ML; EDITH, PerMedCoE |
