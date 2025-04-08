@@ -190,7 +190,6 @@ Interested in sponsoring our meeting? Please contact <a href="mailto:lcladeira@u
 | Crawley Francis P. | Committee on Data (CODATA), International Science Council (ISC) | CellML, NeuroML, OMEX Metadata; Engaged with the EU-funded 'Developing an advanced and secure environment for data visitation across the RDA (DV4RDA) as part of the EOSC-Future/RDA Artificial Intelligence and Data Visitation Working Group. |
 | Chris Myers | University of Colorado Boulder | SBML, SBOL and SBOL Visual, SED-ML; iBioSim, SynBioHub, and SynBioSuite |
 | Jacob Barhak | Jacob Barhak Analytics | SBML; The Reference Model for Disease Progression: https://simtk.org/projects/therefmodel and ClinicalUnitMapping.com: https://clinicalunitmapping.com/about |
-| Fengkai Zhang | NIH, US | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB; Simmune, SBML-Multi |
 | Thomas Schueler | German Federal Institute for Risk Assessment | COMBINE Archive, OMEX Metadata, SBML, SED-ML; FSKX - FAIR Scientific Knowledge Exchange Format: standardized file format designed to facilitate the efficient sharing of scientific models and datasets (https://foodrisklabs.bfr.bund.de/fskx-food-safety-knowledge-exchange-format/); RAKIP-Initiative |
 | Martin Golebiewski | HITS gGmbH | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, ISO standards, health metadata standards; ISO/TC 276 Biotechnology; European Virtual Human Twin (EDITH); National Research Data Infrastructure for Personal Health Data (NFDI4Health) |
 
