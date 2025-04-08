@@ -69,7 +69,7 @@ The schedule is available below. People who have attended HARMONY in the past wi
 
 [Break out booklet](https://docs.google.com/document/d/15EMfqEjOp1D3qYbvSRzpL0wczllwdJw_N3VPEE-vWIM/edit?usp=sharing)
 
-<h2><a href="https://forms.gle/TxTch7u8jdbJTyG18" target="_blank">Registration</a></h2>
+<h2><a href="https://forms.gle/d48bEYA18MePM93f9" target="_blank">Registration [online only, in person closed]</a></h2>
 
 Registration for the meeting is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
 
