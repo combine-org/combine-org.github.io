@@ -192,6 +192,7 @@ Interested in sponsoring our meeting? Please contact <a href="mailto:lcladeira@u
 | Jacob Barhak | Jacob Barhak Analytics | SBML; The Reference Model for Disease Progression: https://simtk.org/projects/therefmodel and ClinicalUnitMapping.com: https://clinicalunitmapping.com/about |
 | Thomas Schueler | German Federal Institute for Risk Assessment | COMBINE Archive, OMEX Metadata, SBML, SED-ML; FSKX - FAIR Scientific Knowledge Exchange Format: standardized file format designed to facilitate the efficient sharing of scientific models and datasets (https://foodrisklabs.bfr.bund.de/fskx-food-safety-knowledge-exchange-format/); RAKIP-Initiative |
 | Martin Golebiewski | HITS gGmbH | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, ISO standards, health metadata standards; ISO/TC 276 Biotechnology; European Virtual Human Twin (EDITH); National Research Data Infrastructure for Personal Health Data (NFDI4Health) |
+| Loïc Comeliau | University of Liège | Multicellular modeling, SBML |
 
 ### <a name="attendees"></a>Attendees - remote
 | Name | Organization | Interests |
@@ -210,4 +211,9 @@ Interested in sponsoring our meeting? Please contact <a href="mailto:lcladeira@u
 | Michael Blinov | UConn Health | BioPAX, COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML; http://vcell.org; http://vcelldb.org; http://bnglviz.github.io; http://MolClustpy.github.io; http://SpringSaLaDpy.github.io |
 | Goksel Misirli | Keele University | Multicellular modeling, OMEX Metadata, SBML, SBOL and SBOL Visual |
 | Metehan Unal | Keele University | SBOL and SBOL Visual; I am a postdoctoral research associate at the School of Computer Science and Mathematics of Keele University. I am working on a BBSRC-funded project to create, visualise and validate biological designs. |
-
+| Felipe Xavier Buson	| University of Bristol | SBOL and SBOL Visual |
+| Fengkai Zhang	| NIH, US | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB |
+| May Elebeoba | University of Wisconsin-Madison | Multicellular modeling, SBML, SBOL and SBOL Visual, SED-ML |
+| Charalampos Katselis | None | BioPAX, CellML, COMBINE Archive, Multicellular modeling, SBML, SED-ML |
+| John Gennari | University of Washington | BioPAX, CellML, COMBINE Archive, OMEX Metadata, SBML, SED-ML |
+| Bhavyahshree Navaneetha Krishnan | University of Washington | BioPAX, CellML, Multicellular modeling, SBML, SED-ML |
