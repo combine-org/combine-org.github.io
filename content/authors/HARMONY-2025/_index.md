@@ -87,7 +87,7 @@ The schedule is available below. People who have attended HARMONY in the past wi
 
 [Break out booklet](https://docs.google.com/document/d/15EMfqEjOp1D3qYbvSRzpL0wczllwdJw_N3VPEE-vWIM/edit?usp=sharing)
 
-<h2><a href="https://forms.gle/TxTch7u8jdbJTyG18" target="_blank">Registration</a></h2>
+<h2><a href="https://forms.gle/d48bEYA18MePM93f9" target="_blank">Registration [online only, in person closed]</a></h2>
 
 Registration for the meeting is free. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
 
@@ -163,3 +163,53 @@ A sandwich lunch will also be provided - please make sure you give us the correc
 <h3>Support</h3>
 
 Interested in sponsoring our meeting? Please contact <a href="mailto:lcladeira@uliege.be">Luiz Ladeira</a> for details. 
+
+### <a name="attendees"></a>Attendees - in person
+| Name | Organization | Interests |
+| :--- | :--- | :--- |
+| Lorenzo Veschini | King's College London, Indiana University Bloomington | COMBINE Archive, Multicellular modeling; Building Immune Digital Twins |
+| Anna Niarakis | University of Toulouse, MCD-CBI, CNRS | COMBINE Archive, Multicellular modeling, SBML, SED-ML, SBML QUAL; Building Immune Digital Twins; CoLoMoTo |
+| Matthias König | Humboldt-University Berlin, Systems Medicine of the Liver | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG; SBML4Humans, libroadrunner |
+| Carissa Bleker | National Institute of Biology | COMBINE Archive, SBGN, SBML, SED-ML, SBML-qual; https://nib-si.github.io/BoolDog/ |
+| Alan Garny | University of Auckland | CellML, COMBINE Archive, Multicellular modeling, OMEX Metadata, SED-ML; libCellML, libOpenCOR, and OpenCOR |
+| Frank T. Bergmann | BioQUANT / Heidelberg University | COMBINE Archive, SBML, SED-ML, PE-TAB, FROG; COPASI (https://copasi.org), basico (http://basico.readthedocs.io/), libsbml |
+| Te Chen | Novo Nordisk Foundation Center for Biosustainability | CellML, SBML |
+| Rahuman Sheriff | European Bioinformatics Institute (EMBL-EBI) | CellML, COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG; EFECT stocastic simulation reproducibility |
+| T.J. Sego | University of Florida | Multicellular modeling, SBML, SED-ML, PE-TAB |
+| Charl Linssen | Jülich Supercomputing Centre; RWTH Aachen | CellML, NeuroML, SBML, SED-ML; NESTML domain-specific modeling language and code generator - https://nestml.readthedocs.org/ ; Automatic analysis and solver generation for dynamical systems simulation - https://ode-toolbox.readthedocs.org/ |
+| Brett Olivier | Vrije Universiteit Amsterdam | COMBINE Archive, SBML, SED-ML, FROG |
+| Alessio Gamba | University of Liege | BioPAX, CellML, SBGN, SBML; ONTOX project. Information about the project available at https://ontox-project.eu/project/ |
+| Hugh Sorby | Auckland Bioengineering Institute | CellML, COMBINE Archive, SBML, SED-ML |
+| David Nickerson | Auckland Bioengineering Institute, University of Auckland | CellML, COMBINE Archive, Multicellular modeling, OMEX Metadata, SED-ML, PE-TAB, Repositories, publishing; Center for Reproducible Biomedical Modeling; Physiome / Virtual Physiological Human; Physiome Model Repository; SPARC |
+| Nguyen Tung | EMBL-EBI | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, FROG; BioModels is a repository of mathematical models of biological and biomedical systems. It hosts a vast selection of existing literature-based physiologically and pharmaceutically relevant mechanistic models in standard formats. http://biomodels.org |
+| Tomas Kulhanek | VITO | CellML, SBML; Physiolibrary, Pharmacolibrary, https://www.physiolibrary.org |
+| Crawley Francis P. | Committee on Data (CODATA), International Science Council (ISC) | CellML, NeuroML, OMEX Metadata; Engaged with the EU-funded 'Developing an advanced and secure environment for data visitation across the RDA (DV4RDA) as part of the EOSC-Future/RDA Artificial Intelligence and Data Visitation Working Group. |
+| Chris Myers | University of Colorado Boulder | SBML, SBOL and SBOL Visual, SED-ML; iBioSim, SynBioHub, and SynBioSuite |
+| Jacob Barhak | Jacob Barhak Analytics | SBML; The Reference Model for Disease Progression: https://simtk.org/projects/therefmodel and ClinicalUnitMapping.com: https://clinicalunitmapping.com/about |
+| Thomas Schueler | German Federal Institute for Risk Assessment | COMBINE Archive, OMEX Metadata, SBML, SED-ML; FSKX - FAIR Scientific Knowledge Exchange Format: standardized file format designed to facilitate the efficient sharing of scientific models and datasets (https://foodrisklabs.bfr.bund.de/fskx-food-safety-knowledge-exchange-format/); RAKIP-Initiative |
+| Martin Golebiewski | HITS gGmbH | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, ISO standards, health metadata standards; ISO/TC 276 Biotechnology; European Virtual Human Twin (EDITH); National Research Data Infrastructure for Personal Health Data (NFDI4Health) |
+| Loïc Comeliau | University of Liège | Multicellular modeling, SBML |
+
+### <a name="attendees"></a>Attendees - remote
+| Name | Organization | Interests |
+| :--- | :--- | :--- |
+| Lutz Brusch | Technische Universität Dresden | OpenVT, MorpheusML, MultiCellML, SBML-spatial, PEtab-MS; Multicellular modeling, https://MultiCellML.org, MorpheusML, https://morpheus.gitlab.io, PEtab-MS, https://gitlab.com/fitmulticell/fit |
+| Ilya Kiselev | Biosoft.RU | COMBINE Archive, Multicellular modeling, SBGN, SBML, SBOL and SBOL Visual, SED-ML; BioUML platform (www.biouml.rog) |
+| Luna Li | University of Washington | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, SED-ML, FROG; Working at the Center for Reproducible Biomedical Modeling on standardizing and annotating models |
+| Adel Heydarabadipour | University of Washington | SBGN, SBML; Model Visualization |
+| Lucian Smith | University of Washington | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, SED-ML, FROG; I work with the Center for Reproducible Biomomedical Modeling (https://reproduciblebiomodels.org/), particularly working on Tellurium, Roadrunner, and Antimony |
+| Arnau Montagud | Institute for Integrative Systems Biology (I2SysBio), CSIC-UV | CellML, COMBINE Archive, Multicellular modeling, SBML, SED-ML; EDITH, PerMedCoE |
+| Rupert Overall | Humboldt University of Berlin | SBGN |
+| Prashant Vaidyanathan | Oxford Biomedica | SBOL and SBOL Visual |
+| Loïc Paulevé | CNRS/LaBRI, Bordeaux, France | COMBINE Archive, SED-ML; CoLoMoTo software distribution - https://colomoto.github.io/colomoto-docker/ |
+| Claudine Chaouiya | I2M, Aix Marseille University | SBML, SED-ML; CoLoMoTo, GINsim |
+| Sylvain Soliman | Inria | SBML, SED-ML |
+| Michael Blinov | UConn Health | BioPAX, COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML; http://vcell.org; http://vcelldb.org; http://bnglviz.github.io; http://MolClustpy.github.io; http://SpringSaLaDpy.github.io |
+| Goksel Misirli | Keele University | Multicellular modeling, OMEX Metadata, SBML, SBOL and SBOL Visual |
+| Metehan Unal | Keele University | SBOL and SBOL Visual; I am a postdoctoral research associate at the School of Computer Science and Mathematics of Keele University. I am working on a BBSRC-funded project to create, visualise and validate biological designs. |
+| Felipe Xavier Buson	| University of Bristol | SBOL and SBOL Visual |
+| Fengkai Zhang	| NIH, US | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB |
+| May Elebeoba | University of Wisconsin-Madison | Multicellular modeling, SBML, SBOL and SBOL Visual, SED-ML |
+| Charalampos Katselis | None | BioPAX, CellML, COMBINE Archive, Multicellular modeling, SBML, SED-ML |
+| John Gennari | University of Washington | BioPAX, CellML, COMBINE Archive, OMEX Metadata, SBML, SED-ML |
+| Bhavyahshree Navaneetha Krishnan | University of Washington | BioPAX, CellML, Multicellular modeling, SBML, SED-ML |
