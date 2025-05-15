@@ -4,7 +4,7 @@ title: COMBINE 2025
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: Mid to late fall 2025
+conf_date: 20 - 23 October 2025
 
 conf_location: University of Wisconsin-Madison, USA
 
