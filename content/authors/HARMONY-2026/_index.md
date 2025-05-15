@@ -4,7 +4,7 @@ title: HARMONY 2026
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: February, 2026
+conf_date: 2 - 5 February 2026
 
 conf_location: University of Auckland, Auckland, New Zealand
 

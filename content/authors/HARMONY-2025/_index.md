@@ -43,7 +43,7 @@ important_links:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Events
+- Past Events
 
 ---
 
@@ -52,9 +52,27 @@ user_groups:
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
 
-HARMONY 2025 will be held at **KU Leuven**
+HARMONY 2025 was held at **KU Leuven**, Leuven, Belgium, 15-18 April 2025.
 
-Local organizers are <a href="mailto:liesbet.geris@kuleuven.be">Liesbet Geris</a>, <a href="mailto:lcladeira@uliege.be">Luiz Ladeira</a>, and <a href="mailto:b.staumont@uliege.be">Bernard Staumont</a>. 
+The local organizers were <a href="mailto:liesbet.geris@kuleuven.be">Liesbet Geris</a>, <a href="mailto:lcladeira@uliege.be">Luiz Ladeira</a>, and <a href="mailto:b.staumont@uliege.be">Bernard Staumont</a>. 
+
+<h3>Sister Meetings</h3>
+
+**9th Disease Maps Community Meeting - DMCM2025**
+
+Simultaneously from 15th to 17th April 2025 at the same venue.
+
+The 2025 edition of the Disease Maps Community Meeting took take place in Leuven, Belgium. This annual gathering brings together the researchers, clinicians, and domain experts involved in mapping and modelling disease mechanisms. The meeting provides a forum for exchanging best practices, sharing information, and developing tools to advance the use of systems medicine in translational medicine projects and decision making support. Building on the success of previous editions in locations like Belval, Maastricht, Sevilla, and Paris, the 2025 meeting in Leuven is attracted a diverse group of participants dedicated to furthering the understanding and application of disease maps in research and healthcare.
+
+The DMCM2025 was held simultaneously with HARMONY 2025, in the same venue. This enhanced interaction between the COMBINE and the Disease Maps communities, fostering collaboration opportunities and networking. Coffee breaks and meals were shared between both meetings.
+
+More information can be found here: [DMCM2025](https://disease-maps.io/DMCM2025/). 
+
+**byteMAL'25**
+
+Monday 14th April 2025
+
+ByteMAL is a conference created by and for early-career researchers in the fields of bioinformatics and systems biomedicine and aims to provide a networking platform for knowledge and expertise exchange across borders. Aiming to vitalize communication amongst researchers from The Netherlands, Belgium, and Germany, ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen, and Liege and for the first time it comes to Leuven! More information will be announced soon.
 
 <h2>Schedule</h2> 
 
@@ -117,28 +135,6 @@ From Brussels-Zaventem Airport (BRU) you can take a train at the airport station
 From Brussels South-Charleroi Airport (CRL) you can take a bus, taxi or shuttle to Charleroi Central train station and take a train to Leuven from there. Shuttles to Midi (Zuid) station in Brussels and then a train to Leuven from there is also an option. 
 
 Leuven is a very cyclable city. If you come by train or car you can bring your bike and enjoy the beautiful city!
-
-<h3>Sister Meetings</h3>
-
-**9th Disease Maps Community Meeting - DMCM2025**
-
-Simultaneously from 15th to 17th April 2025 at the same venue.
-
-The 2025 edition of the Disease Maps Community Meeting is set to take place in Leuven, Belgium. This annual gathering brings together the researchers, clinicians, and domain experts involved in mapping and modelling disease mechanisms. The meeting provides a forum for exchanging best practices, sharing information, and developing tools to advance the use of systems medicine in translational medicine projects and decision making support. Building on the success of previous editions in locations like Belval, Maastricht, Sevilla, and Paris, the 2025 meeting in Leuven is expected to attract a diverse group of participants dedicated to furthering the understanding and application of disease maps in research and healthcare.
-
-The DMCM2025 will be held simultaneously with HARMONY 2025, in the same venue. This is expected to enhance interaction between the COMBINE and the Disease Maps communities, fostering collaboration opportunities and networking. Coffee breaks and meals will be shared between both meetings.
-
-More information can be found here: [DMCM2025](https://disease-maps.io/DMCM2025/). 
-
-To have access to the DMCM talks, registrations should be done separately. 
-
-**byteMAL'25**
-
-Monday 14th April 2025
-
-ByteMAL is a conference created by and for early-career researchers in the fields of bioinformatics and systems biomedicine and aims to provide a networking platform for knowledge and expertise exchange across borders. Aiming to vitalize communication amongst researchers from The Netherlands, Belgium, and Germany, ByteMAL has been hosted alternately by the
-Universities of Maastricht, Aachen, and Liege and for the first time it comes to Leuven! More information will be announced soon.
-
 
 <h3>Accommodations and meals</h3>
 

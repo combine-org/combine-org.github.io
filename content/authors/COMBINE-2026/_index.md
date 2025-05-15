@@ -1,12 +1,12 @@
 ---
-title: COMBINE 2025
+title: COMBINE 2026
 
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: 20 - 23 October 2025
+conf_date: 7 - 10 September 2026
 
-conf_location: University of Wisconsin-Madison, USA
+conf_location: Keele University, UK
 
 important_dates:
 - name: Breakouts and tutorials submission deadline
@@ -63,16 +63,16 @@ topics:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Events
+- Future Events
 
 ---
 
 <img src="/images/harmony2024/combine_london24.png" alt="demo" class="img-responsive">
 <br/>
 
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2024** will be a workshop-style event hosted at the University of Wisconsin-Madison, USA.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2026** will be a workshop-style event hosted at Keele University, UK.
 
-Local organizers are <a href="mailto:emay5@wisc.edu">Elebeoba E. May</a> and colleagues. 
+Local organizers are <a href="mailto:g.misirli@keele.ac.uk">Goksel Misirli</a> and colleagues. 
 
 <h3>Workshop Location</h3>
 
