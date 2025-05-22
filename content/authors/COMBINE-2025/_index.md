@@ -70,7 +70,7 @@ user_groups:
 <img src="/images/harmony2024/combine_london24.png" alt="demo" class="img-responsive">
 <br/>
 
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2024** will be a workshop-style event hosted at the University of Wisconsin-Madison, USA.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2025** will be a workshop-style event hosted at the University of Wisconsin-Madison, USA.
 
 Local organizers are <a href="mailto:emay5@wisc.edu">Elebeoba E. May</a> and colleagues. 
 
