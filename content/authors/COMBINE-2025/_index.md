@@ -26,7 +26,7 @@ important_links:
 #- name: Agenda
 #  link: 
 #- name: Registration
-#  link: https://forms.gle/ccGUNm8P3LcWkifG8
+#  link: https://forms.gle/ccGUNm8P3LcWkifG8sdfh
 #- <!-- name: Break-outs and tutorials submission
 #  link: https://forms.gle/yWn4Fqetj3pkGF3q8 -->
 #- <!-- name: Lightning talks and poster submission
