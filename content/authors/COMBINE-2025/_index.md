@@ -17,6 +17,8 @@ important_dates:
   date: October 6, 2025 
 - name: Notification of acceptance for lightning talks and posters
   date: October 13, 2025
+- name: Accomodations (conference rate) - deadline for booking rooms at the conference hotel (Union South and DoubleTree)
+  date: September 28, 2025
 #- name: Travel support applications NOW CLOSED 
 #  date: 
 #- name: Notification of travel support awards
@@ -27,25 +29,22 @@ important_links:
 #  link: 
 - name: Registration
   link: https://forms.gle/Ri2E2fivqewsLE5Y9
-- <!-- name: Break-outs and tutorials submission
-  link: https://forms.gle/yzwLdzN1BgKqWydq5 -->
-#- <!-- name: Lightning talks and poster submission
-  link: https://forms.gle/psHVu5TwDwAk6Zgu7 -->
+- name: Break-outs and tutorials submission
+  link: https://forms.gle/yzwLdzN1BgKqWydq5
+- name: Lightning talks and poster submission
+  link: https://forms.gle/psHVu5TwDwAk6Zgu7
 #- <!-- name: Application for travel support
 #  link: https://forms.gle/Ta72fwz5Bt2zb4YKA -->
 
 information:
 - name: Registration
   description: Registration for the meeting is $199 USD for in person and free for virtual attendees. Please register at the link above as soon as possible and finalize your registration using the EventBrite link on the registration form. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
-#  link: https://forms.gle/ccGUNm8P3LcWkifG8
   link: https://forms.gle/Ri2E2fivqewsLE5Y9
 - name: Call for Breakout Sessions and Tutorials
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
-#  link: https://forms.gle/yWn4Fqetj3pkGF3q8
   link: https://forms.gle/yzwLdzN1BgKqWydq5
 - name: Call for Lightning Talks and Posters
   description: Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed during a dedicated poster session at the meeting.
-#  link: https://forms.gle/eu8S3eUeS1AoAwwU6
   link: https://forms.gle/psHVu5TwDwAk6Zgu7
 
 #- name: Application for travel funding
@@ -79,18 +78,39 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 Local organizers are <a href="mailto:emay5@wisc.edu">Elebeoba E. May</a> and colleagues. 
 
 <h3>Workshop Location</h3>
+COMBINE 2025 will take place on the campus of the University of Wisconsin-Madison in the Pyle Center (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
+<img width="1372" alt="image" src="https://github.com/user-attachments/assets/d769f971-110c-4e59-9124-f171f8af7a20" />
+
+
+
+
 
 <h3>Schedule</h3>
 
 The schedule will be available here.
  
 <h3>Arrival and Transportation</h3>
+There are several airports near Madison, Wisconsin and the University of Wisconsin-Madison, the location of the workshop:
+Dane County Regional Airport (MSN): 6 miles from downtown, nonstop flights to major hubs. 
+General Mitchell International (MKE): 80 miles east, more flight options.
+Chicago O'Hare International (ORD): 130 miles southeast, ideal for international travel
+Chicago Midway International (MDW): 140 miles southeast, budget-friendly with Southwest
+- name: Ground Transportation
+  Direct flights to MSN are available from major US cities (Chicago, Washington, DC).  If flying into MSN you can use ride share or taxi to get to the university.  If flying into airports close to Madison, WI (e.g., MKE and ORD) there are reasonably priced regional buses with stops on UW-Madison campus. 
+ link: https://transportation.wisc.edu/commuter-solutions/bus/intercitybuses/
 
-Information to come.
+<img width="675" alt="image" src="https://github.com/user-attachments/assets/6c675bf9-8fbf-4257-b08b-a7a6c1793026" />
 
-<h3>Accommodations and meals</h3>
+<h3>Accommodations and Conference Hotels </h3>
+There are two conference hotels for COMBINE 2025, UW-Madison's Union South Hotel and the DoubleTree Hotel. A block of rooms have been held and are available for workshop participants to book stays from October 19th-24th at a nightly rate of $186 USD (exclusive of taxes and any applicable fees).  Reservations must be made by September 28, 2025.  Doubletree is only .4 miles from the Pyle Center.  
 
-<h3>Power outlet</h3>
+- name: DoubleTree Hotel Downtown Madison – COMBINE 2025
+  DoubleTree is 0.4 miles from the Pyle Center with complimentary downtown and airport shuttle service.
+  link: https://www.hilton.com/en/attend-my-event/msndtdt-com-9f9ba3f4-979e-4320-988e-43095848ebec/
 
-<h3>Support</h3>
+
+
+# <h3>Power outlet</h3>
+
+# <h3>Support</h3>
 
