@@ -70,7 +70,7 @@ user_groups:
 
 ---
 
-<img src="/images/harmony2024/combine_london24.png" alt="demo" class="img-responsive">
+# <img src="/images/harmony2024/combine_london24.png" alt="demo" class="img-responsive">
 <br/>
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2025** will be a workshop-style event hosted at the University of Wisconsin-Madison, USA.
@@ -79,10 +79,8 @@ Local organizers are <a href="mailto:emay5@wisc.edu">Elebeoba E. May</a> and col
 
 <h3>Workshop Location</h3>
 COMBINE 2025 will take place on the campus of the University of Wisconsin-Madison in the Pyle Center (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
-<img width="1372" alt="image" src="https://github.com/user-attachments/assets/d769f971-110c-4e59-9124-f171f8af7a20" />
 
-
-
+# <img width="1372" alt="image" src="https://github.com/user-attachments/assets/d769f971-110c-4e59-9124-f171f8af7a20" />
 
 
 <h3>Schedule</h3>
@@ -90,24 +88,25 @@ COMBINE 2025 will take place on the campus of the University of Wisconsin-Madiso
 The schedule will be available here.
  
 <h3>Arrival and Transportation</h3>
-There are several airports near Madison, Wisconsin and the University of Wisconsin-Madison, the location of the workshop:
-Dane County Regional Airport (MSN): 6 miles from downtown, nonstop flights to major hubs. 
-General Mitchell International (MKE): 80 miles east, more flight options.
-Chicago O'Hare International (ORD): 130 miles southeast, ideal for international travel
-Chicago Midway International (MDW): 140 miles southeast, budget-friendly with Southwest
-- name: Ground Transportation
-  Direct flights to MSN are available from major US cities (Chicago, Washington, DC).  If flying into MSN you can use ride share or taxi to get to the university.  If flying into airports close to Madison, WI (e.g., MKE and ORD) there are reasonably priced regional buses with stops on UW-Madison campus. 
- link: https://transportation.wisc.edu/commuter-solutions/bus/intercitybuses/
 
-<img width="675" alt="image" src="https://github.com/user-attachments/assets/6c675bf9-8fbf-4257-b08b-a7a6c1793026" />
+There are several airports near Madison, Wisconsin and the University of Wisconsin-Madison, the location of the workshop.
+
+Dane County Regional Airport (MSN): 6 miles from downtown, nonstop flights to major hubs. 
+General Mitchell International (MKE) - 80 miles east, more flight options.
+Chicago O'Hare International (ORD) - 130 miles southeast, ideal for international travel
+Chicago Midway International (MDW) - 140 miles southeast, budget-friendly with Southwest
+<h4>Ground Transportation </h4>
+  Direct flights to MSN are available from major US cities (Chicago, Washington, DC).  If flying into MSN you can use ride share or taxi to get to the university.  If flying into airports close to Madison, WI (e.g., MKE and ORD) there are reasonably priced regional [buses with stops on UW-Madison campus](https://transportation.wisc.edu/commuter-solutions/bus/intercitybuses/). 
+  
+# <img width="675" alt="image" src="https://github.com/user-attachments/assets/6c675bf9-8fbf-4257-b08b-a7a6c1793026" />
 
 <h3>Accommodations and Conference Hotels </h3>
-There are two conference hotels for COMBINE 2025, UW-Madison's Union South Hotel and the DoubleTree Hotel. A block of rooms have been held and are available for workshop participants to book stays from October 19th-24th at a nightly rate of $186 USD (exclusive of taxes and any applicable fees).  Reservations must be made by September 28, 2025.  Doubletree is only .4 miles from the Pyle Center.  
-
-- name: DoubleTree Hotel Downtown Madison – COMBINE 2025
+There are two conference hotels for COMBINE 2025, UW-Madison's Union South Hotel and the DoubleTree Hotel. A block of rooms have been held and are available for workshop participants to book stays from October 19th-24th at a nightly rate of $186 USD (exclusive of taxes and any applicable fees).  Reservations must be made by September 28, 2025. 
+ <h4>[DoubleTree Hotel Downtown Madison – COMBINE 2025](https://www.hilton.com/en/attend-my-event/msndtdt-com-9f9ba3f4-979e-4320-988e-43095848ebec/) </h4>
   DoubleTree is 0.4 miles from the Pyle Center with complimentary downtown and airport shuttle service.
-  link: https://www.hilton.com/en/attend-my-event/msndtdt-com-9f9ba3f4-979e-4320-988e-43095848ebec/
-
+ <h4>[Union South Hotel – COMBINE 2025](https://go.wisc.edu/hotel-combine-2025) </h4>
+  Union South is 0.8 miles from the Pyle Center with complimentary parking.
+ 
 
 
 # <h3>Power outlet</h3>
