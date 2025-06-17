@@ -74,7 +74,13 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 
 HARMONY 2026 will be held at the **University of Auckland**.
 
-Local organizers are <a href="mailto:d.nickerson@auckland.ac.nz">David Nickerson</a> and colleagues. 
+Local organizers are <a href="mailto:d.nickerson@auckland.ac.nz">David Nickerson</a> and colleagues at the Auckland Bioengineering Institute. 
+
+<h3><a href="https://www.auckland.ac.nz/en/abi/news-and-events/digital-twin-meetings-2026.html">Auckland Human Digital Twin Meetings 2026</a></h3>
+
+From 2–12 Feb 2026, the Auckland Bioengineering Institute hosts three workshops in Auckland advancing digital twin modelling, interoperability standards, and clinical translation.
+
+Find conference accommodation rates, venue and transport information for getting around Auckland, details on the other workshops happening during the same period, information about Waitangi Day — New Zealand’s national holiday, which falls during the meetings; as well as an optional Waiheke Island excursion and plenty of things to do and places to dine around the city.
 
 <h3>Workshop Location</h3>
 
