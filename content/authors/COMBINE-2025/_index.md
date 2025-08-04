@@ -70,8 +70,8 @@ user_groups:
 
 ---
 
-# <img src="/images/harmony2024/combine_london24.png" alt="demo" class="img-responsive">
- <br/>
+<img src="/images/combine2025/combine-2025-logo.png" alt="demo" class="img-responsive">
+<br/>
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2025** will be a workshop-style event hosted at the University of Wisconsin-Madison, USA.
 
@@ -103,10 +103,15 @@ There are two conference hotels for COMBINE 2025, UW-Madison's Union South Hotel
 
  - DoubleTree Hotel Downtown Madison – COMBINE 2025 (https://www.hilton.com/en/attend-my-event/msndtdt-com-9f9ba3f4-979e-4320-988e-43095848ebec/) DoubleTree is 0.4 miles from the Pyle Center with complimentary downtown and airport shuttle service.
  - Union South Hotel COMBINE 2025(https://go.wisc.edu/hotel-combine-2025)  Union South is 0.8 miles from the Pyle Center with complimentary parking.
- 
+
+<h3>Power outlet</h3>
+
+<img src="/images/combine2025/type-a-plug.png" alt="Type A power plug" class="img-responsive" width="200" height="200">
+<img src="/images/combine2025/type-b-plug.png" alt="Type B power plug" class="img-responsive" width="200" height="200">
+
+[Type A](https://www.netio-products.com/en/glossary/type-a-electrical-socketelectrical-plug) and
+[Type B](https://www.netio-products.com/en/glossary/type-b-nema-5-15) plugs are used in USA.
 
 
-# <h3>Power outlet</h3>
-
-# <h3>Support</h3>
+<h3>Support</h3>
 
