@@ -51,7 +51,9 @@ information:
 #  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who have a significant contribution to make to the HARMONY meeting.
 #  link: https://forms.gle/Ta72fwz5Bt2zb4YKA
 
+
 topics:
+- Model use and development to advance mechanistic understanding in various biological areas, including: development, epigenetics, host-pathogen systems, plant systems, and microbiomes and communities
 - Data exchange, pipelines and model standards for systems and synthetic biology
 - Visualization and graphical notation standards for systems and synthetic biology
 - Standards for sharing and analysing biological pathway data
@@ -59,8 +61,8 @@ topics:
 - Metadata description and model annotation in COMBINE standard formats
 - Implementation of COMBINE standards in tools, databases and other resources
 - Integrated model and data management for systems and synthetic biology
-- Standardization of Artificial Intelligence approaches in biological modelling
-- Emerging standardization needs and multicellular and microbial community modeling
+- Standardization and use of Artificial Intelligence approaches in biological modelling
+- Emerging standardization needs in multi-scale, multicellular and microbial community modeling
 - Community aspects of COMBINE
 
 # Organizational groups that you belong to (for People widget)
