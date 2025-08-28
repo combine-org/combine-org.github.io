@@ -81,29 +81,29 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 Local organizers are <a href="mailto:emay5@wisc.edu">Elebeoba E. May</a> and colleagues. 
 
 <h3>Workshop Location</h3>
-COMBINE 2025 will take place on the campus of the [University of Wisconsin-Madison](https://www.wisc.edu/) in the [Pyle Center]([url](https://pyle.wisc.edu/)) (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
+COMBINE 2025 will take place on the campus of the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a> in the Pyle Center (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
 
 <h3>Confirmed Plenary and Invited Speakers</h3>
 
 <ol>
-  <li>Belinda Akpa		University of Tennessee-Knoxville, USA</li>
-  <li>William Bentley 	University of Maryland-College Park, USA</li>
-  <li>Gheorghe Craciun	University of Wisconsin-Madison, USA</li>
-  <li>Adriana Dawes	The Ohio State University, USA</li>
-  <li>Bernard de Bono 	Indiana University, USA & University of Auckland, New Zealand</li>
-  <li>John Denu		University of Wisconsin-Madison, USA</li>
-  <li>Anthony Gitter	Morgridge Institute & University of Wisconsin-Madison, USA</li>
-  <li>Jo Handelsman	University of Wisconsin-Madison, USA</li>
-  <li>Herbert Levine 	Northeastern University, USA</li>
-  <li>Erica Majumder	University of Wisconsin-Madison, USA</li>
-  <li>Megan Mcclean	University of Wisconsin-Madison, USA</li>
-  <li>Ion Moraru		UConn Health, USA</li>
-  <li>David Nickerson, Auckland Bioengineering Institute, University of Auckland, New Zealand</li>
-  <li>Brian Pfleger		University of Wisconsin-Madison, USA</li>
-  <li>Sushmita Roy	University of Wisconsin-Madison, USA</li>
-  <li>James Sluka 	Indiana University - Bloomington, USA</li>
-  <li>Lucian Smith, University of Washington, USA</li>
-  <li>John Yin		University of Wisconsin-Madison, USA</li>
+  <li><a href="https://cbe.utk.edu/people/belinda-akpa/">Belinda Akpa</a>, &nbsp;		University of Tennessee-Knoxville, USA</li>
+  <li><a href="https://bentley.umd.edu/">William Bentley</a>, &nbsp; 	University of Maryland-College Park, USA</li>
+  <li><a href="https://people.math.wisc.edu/~craciun/">Gheorghe Craciun</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
+  <li><a href="https://math.osu.edu/people/dawes.33/">Adriana Dawes</a>, &nbsp;	The Ohio State University, USA</li>
+  <li><a href=" ">Bernard de Bono</a>, &nbsp; 	Indiana University, USA & University of Auckland, New Zealand</li>
+  <li><a href="https://wid.wisc.edu/people/john-denu/">John Denu</a>, &nbsp;		University of Wisconsin-Madison, USA</li>
+  <li><a href="https://morgridge.org/profile/anthony-gitter/">Anthony Gitter</a>, &nbsp;	Morgridge Institute & University of Wisconsin-Madison, USA</li>
+  <li><a href="https://wid.wisc.edu/people/jo-handelsman/">Jo Handelsman</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
+  <li><a href="https://cos.northeastern.edu/people/herbie-levine/">Herbert Levine</a>, &nbsp; 	Northeastern University, USA</li>
+  <li><a href="https://bact.wisc.edu/people_profile.php?t=rf&p=emajumder">Erica Majumder</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
+  <li><a href="https://engineering.wisc.edu/directory/profile/megan-mcclean/">Megan Mcclean</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
+  <li><a href="https://facultydirectory.uchc.edu/profile?profileId=Moraru-Ion">Ion Moraru</a>, &nbsp;		UConn Health, USA</li>
+  <li><a href="https://profiles.auckland.ac.nz/d-nickerson">David Nickerson</a>, &nbsp; Auckland Bioengineering Institute, University of Auckland, New Zealand</li>
+  <li><a href="https://engineering.wisc.edu/directory/profile/brian-pfleger/">Brian Pfleger</a>, &nbsp;		University of Wisconsin-Madison, USA</li>
+  <li><a href="https://wid.wisc.edu/people/sushmita-roy/">Sushmita Roy</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
+  <li><a href="https://luddy.indiana.edu/contact/profile/?James_Sluka">James Sluka</a>, &nbsp; 	Indiana University - Bloomington, USA</li>
+  <li><a href=" ">Lucian Smith</a>, &nbsp; University of Washington, USA</li>
+  <li><a href="https://wid.wisc.edu/people/john-yin/">John Yin</a>, &nbsp;		University of Wisconsin-Madison, USA</li>
 
 </ol> 
 
