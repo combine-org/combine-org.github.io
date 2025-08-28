@@ -53,8 +53,9 @@ information:
 
 
 topics:
-- Model use and development to advance mechanistic understanding in various biological areas, including: development, epigenetics, host-pathogen systems, plant systems, and microbiomes and communities
+
 - Data exchange, pipelines and model standards for systems and synthetic biology
+- Model use and development to advance mechanistic understanding in various biological areas, including: development, epigenetics, host-pathogen systems, plant systems, and microbiomes and communities
 - Visualization and graphical notation standards for systems and synthetic biology
 - Standards for sharing and analysing biological pathway data
 - Standards for computational biological models and modelling support
