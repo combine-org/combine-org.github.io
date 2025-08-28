@@ -81,8 +81,31 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 Local organizers are <a href="mailto:emay5@wisc.edu">Elebeoba E. May</a> and colleagues. 
 
 <h3>Workshop Location</h3>
-COMBINE 2025 will take place on the campus of the University of Wisconsin-Madison in the Pyle Center (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
+COMBINE 2025 will take place on the campus of the [University of Wisconsin-Madison](https://www.wisc.edu/) in the Pyle Center (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
 
+<h3>Confirmed Plenary and Invited Speakers</h3>
+
+<ol>
+  <li>Belinda Akpa		University of Tennessee-Knoxville, USA</li>
+  <li>William Bentley 	University of Maryland-College Park, USA</li>
+  <li>Gheorghe Craciun	University of Wisconsin-Madison, USA</li>
+  <li>Adriana Dawes	The Ohio State University, USA</li>
+  <li>Bernard de Bono 	Indiana University, USA & University of Auckland, New Zealand</li>
+  <li>John Denu		University of Wisconsin-Madison, USA</li>
+  <li>Anthony Gitter	Morgridge Institute & University of Wisconsin-Madison, USA</li>
+  <li>Jo Handelsman	University of Wisconsin-Madison, USA</li>
+  <li>Herbert Levine 	Northeastern University, USA</li>
+  <li>Erica Majumder	University of Wisconsin-Madison, USA</li>
+  <li>Megan Mcclean	University of Wisconsin-Madison, USA</li>
+  <li>Ion Moraru		UConn Health, USA</li>
+  <li>David Nickerson, Auckland Bioengineering Institute, University of Auckland, New Zealand</li>
+  <li>Brian Pfleger		University of Wisconsin-Madison, USA</li>
+  <li>Sushmita Roy	University of Wisconsin-Madison, USA</li>
+  <li>James Sluka 	Indiana University - Bloomington, USA</li>
+  <li>Lucian Smith, University of Washington, USA</li>
+  <li>John Yin		University of Wisconsin-Madison, USA</li>
+
+</ol> 
 
 <h3>Schedule</h3>
 
