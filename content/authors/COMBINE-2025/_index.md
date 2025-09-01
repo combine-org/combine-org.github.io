@@ -19,15 +19,15 @@ important_dates:
   date: October 13, 2025
 - name: Accomodations (conference rate) - deadline for booking rooms at the conference hotel (Union South and DoubleTree)
   date: September 28, 2025
-#- name: Travel support applications NOW CLOSED 
-#  date: 
-#- name: Notification of travel support awards
-#  date: 21 February, 2024
+- name: Conference and travel support applications 
+  date: September 28, 2025 
+- name: Notification of support awards
+  date: October 13, 2025
 
 important_links:
 #- name: Agenda
 #  link: 
-- name: Registration
+- name: Registration 
   link: https://forms.gle/Ri2E2fivqewsLE5Y9
 - name: Break-outs and tutorials submission
   link: https://forms.gle/yzwLdzN1BgKqWydq5
@@ -47,9 +47,9 @@ information:
   description: Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed during a dedicated poster session at the meeting.
   link: https://forms.gle/psHVu5TwDwAk6Zgu7
 
-#- name: Application for travel funding
-#  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who have a significant contribution to make to the HARMONY meeting.
-#  link: https://forms.gle/Ta72fwz5Bt2zb4YKA
+- name: Application for travel funding
+  description: We have limited funding to support trainnee participation in the COMBINE 2025 Workshop for students and postdocs who make a significant contribution to the meeting.  Applications will be considered as they are received until funds are exhausted.  Therefore, please submit your application as soon as possible.
+  link: https://forms.gle/1vfzp7dbB1jTeYFCA
 
 
 topics:
