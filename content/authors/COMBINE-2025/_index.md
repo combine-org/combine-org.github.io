@@ -42,7 +42,7 @@ important_links:
 
 information:
 - name: Registration
-  description: Registration for the meeting is $199 USD (standard) for in person and free for virtual attendees. <b>After September 28th, late registration is $219 USD.</b>  Please register at the link above as soon as possible and finalize your registration using the EventBrite link on the registration form. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
+  description: Registration for the meeting is $199 USD (standard) for in person and free for virtual attendees. **After September 28th, late registration is $219 USD.**  Please register at the link above as soon as possible and finalize your registration using the EventBrite link on the registration form. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
   link: https://forms.gle/Ri2E2fivqewsLE5Y9
 - name: Call for Breakout Sessions and Tutorials
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
