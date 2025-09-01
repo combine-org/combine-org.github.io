@@ -9,6 +9,10 @@ conf_date: 20 - 23 October 2025
 conf_location: University of Wisconsin-Madison, USA
 
 important_dates:
+- name: Standard registration deadline ($199 USD)
+  date: September 28, 2025
+- name: Late registration ($219 USD)
+  date: September 29 to October 19, 2025
 - name: Breakouts and tutorials submission deadline
   date: September 28, 2025
 - name: Notification of acceptance for breakout and tutorials
@@ -38,7 +42,7 @@ important_links:
 
 information:
 - name: Registration
-  description: Registration for the meeting is $199 USD for in person and free for virtual attendees. Please register at the link above as soon as possible and finalize your registration using the EventBrite link on the registration form. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
+  description: Registration for the meeting is $199 USD (standard) for in person and free for virtual attendees. <b>After September 28th, late registration is $219 USD.</b>  Please register at the link above as soon as possible and finalize your registration using the EventBrite link on the registration form. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
   link: https://forms.gle/Ri2E2fivqewsLE5Y9
 - name: Call for Breakout Sessions and Tutorials
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
@@ -82,6 +86,11 @@ Local organizers are <a href="mailto:emay5@wisc.edu">Elebeoba E. May</a> and col
 
 <h3>Workshop Location</h3>
 COMBINE 2025 will take place on the campus of the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a> in the Pyle Center (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
+
+<img src="/images/combine2025/nsf_logo-desktop.png" alt="demo" class="img-responsive">
+<img src="/images/combine2025/wid.png" alt="demo" class="img-responsive">
+<img src="/images/combine2025/crbm.png" alt="demo" class="img-responsive">
+
 
 <h3>Confirmed Plenary and Invited Speakers</h3>
 
@@ -139,5 +148,5 @@ There are two conference hotels for COMBINE 2025, UW-Madison's Union South Hotel
 [Type B](https://www.netio-products.com/en/glossary/type-b-nema-5-15) plugs are used in USA.
 
 
-<h3>Support</h3>
+# <h3>Support</h3>
 
