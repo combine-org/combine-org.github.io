@@ -17,7 +17,7 @@ important_dates:
   date: September 28, 2025
 - name: Notification of acceptance for breakout and tutorials
   date: October 6, 2025
-- name: Lightning talk and poster submission deadline
+- name: Talks, lightning talk and poster submission deadline
   date: October 6, 2025 
 - name: Notification of acceptance for lightning talks and posters
   date: October 13, 2025
@@ -35,7 +35,7 @@ important_links:
   link: https://forms.gle/Ri2E2fivqewsLE5Y9
 - name: Break-outs and tutorials submission
   link: https://forms.gle/yzwLdzN1BgKqWydq5
-- name: Lightning talks and poster submission
+- name: Talks/Lightning talks and poster submission
   link: https://forms.gle/psHVu5TwDwAk6Zgu7
 #- <!-- name: Application for travel support
 #  link: https://forms.gle/Ta72fwz5Bt2zb4YKA -->
@@ -48,7 +48,7 @@ information:
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
   link: https://forms.gle/yzwLdzN1BgKqWydq5
 - name: Call for Talks, Lightning Talks and Posters
-  description: Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. This link should also be used to submit title and abstract for invited talks.  Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed during a dedicated poster session at the meeting.
+  description: Requests for a short talk, lightning talk (5 min max.) and/or poster can be submitted via the link above. This link should also be used to submit title and abstract for invited talks.  Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed during a dedicated poster session at the meeting.
   link: https://forms.gle/psHVu5TwDwAk6Zgu7
 
 - name: Application for travel funding
