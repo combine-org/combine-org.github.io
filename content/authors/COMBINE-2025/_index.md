@@ -51,8 +51,8 @@ information:
   description: Requests for a short talk, lightning talk (5 min max.) and/or poster can be submitted via the link above. This link should also be used to submit title and abstract for invited talks.  Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed during a dedicated poster session at the meeting.
   link: https://forms.gle/psHVu5TwDwAk6Zgu7
 
-- name: Application for travel funding
-  description: We have limited funding to support trainnee participation in the COMBINE 2025 Workshop for students and postdocs who make a significant contribution to the meeting.  Applications will be considered as they are received until funds are exhausted.  Therefore, please submit your application as soon as possible.
+- name: Application for travel funding & registration support
+  description: We have limited funding to support **trainnee** participation in the COMBINE 2025 Workshop for students and postdocs who make a significant contribution to the meeting.  Applications will be considered as they are received until funds are exhausted.  Therefore, please submit your application as soon as possible.
   link: https://forms.gle/1vfzp7dbB1jTeYFCA
 
 
@@ -105,6 +105,7 @@ COMBINE 2025 will take place on the campus of the <a href="https://www.wisc.edu/
   <li><a href="https://bact.wisc.edu/people_profile.php?t=rf&p=emajumder">Erica Majumder</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
   <li><a href="https://engineering.wisc.edu/directory/profile/megan-mcclean/">Megan Mcclean</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
   <li><a href="https://facultydirectory.uchc.edu/profile?profileId=Moraru-Ion">Ion Moraru</a>, &nbsp;		UConn Health, USA</li>
+  <li><a href="https://www.colorado.edu/ecee/chris-myers">Chris Myers</a>, &nbsp;		University of Colorado-Boulder, USA</li>
   <li><a href="https://profiles.auckland.ac.nz/d-nickerson">David Nickerson</a>, &nbsp; Auckland Bioengineering Institute, University of Auckland, New Zealand</li>
   <li><a href="https://engineering.wisc.edu/directory/profile/brian-pfleger/">Brian Pfleger</a>, &nbsp;		University of Wisconsin-Madison, USA</li>
   <li><a href="https://wid.wisc.edu/people/sushmita-roy/">Sushmita Roy</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
@@ -116,7 +117,10 @@ COMBINE 2025 will take place on the campus of the <a href="https://www.wisc.edu/
 
 <h3>Schedule</h3>
 
-The schedule will be available here.
+COMBINE 2025 Workshop Agenda (subject to change).
+
+<img src="/images/combine2025/Agenda3A_combine2025.png" alt="demo" class="img-responsive">
+
  
 <h3>Arrival and Transportation</h3>
 
@@ -130,20 +134,23 @@ There are several airports near Madison, Wisconsin and the University of Wiscons
 <h4>Ground Transportation </h4>
   Direct flights to MSN are available from major US cities (Chicago, Washington, DC).  If flying into MSN you can use ride share or taxi to get to the university.  If flying into airports close to Madison, WI (e.g., MKE and ORD) there are reasonably priced regional buses with stops on UW-Madison's campus. <li><a href="https://transportation.wisc.edu/commuter-solutions/bus/intercitybuses/">Regional busses</a> 
 
-
 <h3>Accommodations and Conference Hotels </h3>
 There are two conference hotels for COMBINE 2025, UW-Madison's Union South Hotel and the DoubleTree Hotel. A block of rooms have been held and are available for workshop participants to book stays from October 19th-24th at a nightly rate of $186 USD (exclusive of taxes and any applicable fees).  Reservations must be made by September 28, 2025.
 
- - DoubleTree Hotel Downtown Madison – COMBINE 2025 (https://www.hilton.com/en/attend-my-event/msndtdt-com-9f9ba3f4-979e-4320-988e-43095848ebec/) DoubleTree is 0.4 miles from the Pyle Center with complimentary downtown and airport shuttle service.
- - Union South Hotel COMBINE 2025(https://go.wisc.edu/hotel-combine-2025)  Union South is 0.8 miles from the Pyle Center with complimentary parking.
+ - <a href="https://www.hilton.com/en/attend-my-event/msndtdt-com-9f9ba3f4-979e-4320-988e-43095848ebec/">DoubleTree Hotel Downtown Madison COMBINE 2025</a> - DoubleTree is 0.4 miles from the Pyle Center with complimentary downtown and airport shuttle service.
+ - <a href="https://go.wisc.edu/hotel-combine-2025"> Union South Hotel COMBINE 2025 </a> -   Union South is 0.8 miles from the Pyle Center with complimentary parking.
 
 <h3>Power outlet</h3>
-
 <img src="/images/combine2025/type-a-plug.png" alt="Type A power plug" class="img-responsive" width="200" height="200">
 <img src="/images/combine2025/type-b-plug.png" alt="Type B power plug" class="img-responsive" width="200" height="200">
-
 [Type A](https://www.netio-products.com/en/glossary/type-a-electrical-socketelectrical-plug) and
 [Type B](https://www.netio-products.com/en/glossary/type-b-nema-5-15) plugs are used in USA.
+
+<h3> Anti-Harassment Policies </h3>
+The COMBINE community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in our meetings, email list, and other communication mechanisms in any form. Sexual language and imagery is not appropriate for any of these venues, including talks, workshops, parties, email lists, Twitter and other online media. Participants in our meetings and discussions violating these rules may be sanctioned or expelled from our mailing lists and our meetings without a refund at the discretion of the COMBINE coordinators. This policy is linked on the COMBINE website.
+
+<h3> Child Care Availabilty & Local Resources </h3>
+COMBINE 2025 does not provide child care, however local resources for short-term child care may be available through Care.com or similar services.  Additional information/resources will be shared as available. 
 
 
 # <h3>Support</h3>
