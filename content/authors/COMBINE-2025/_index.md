@@ -50,7 +50,6 @@ information:
 - name: Call for Talks, Lightning Talks and Posters
   description: Requests for a short talk, lightning talk (5 min max.) and/or poster can be submitted via the link above. This link should also be used to submit title and abstract for invited talks.  Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed during a dedicated poster session at the meeting.
   link: https://forms.gle/psHVu5TwDwAk6Zgu7
-
 - name: Application for travel funding & registration support
   description: We have limited funding to support **trainnee** participation in the COMBINE 2025 Workshop for students and postdocs who make a significant contribution to the meeting.  Applications will be considered as they are received until funds are exhausted.  Therefore, please submit your application as soon as possible.
   link: https://forms.gle/1vfzp7dbB1jTeYFCA
@@ -153,5 +152,5 @@ The COMBINE community is dedicated to providing a harassment-free experience for
 COMBINE 2025 does not provide child care, however local resources for short-term child care may be available through Care.com or similar services.  Additional information/resources will be shared as available. 
 
 
-# <h3>Support</h3>
+<h3>Support</h3>
 
