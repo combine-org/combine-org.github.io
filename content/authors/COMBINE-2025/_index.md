@@ -10,7 +10,7 @@ conf_location: University of Wisconsin-Madison, USA
 
 important_dates:
 - name: Standard registration deadline ($199 USD)
-  date: September 28, 2025
+  date: <p class="strikethrough-text">September 28, 2025</p>
 - name: Late registration ($219 USD)
   date: September 29 to October 19, 2025
 - name: Breakouts and tutorials submission deadline
