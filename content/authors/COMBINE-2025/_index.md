@@ -9,24 +9,24 @@ conf_date: 20 - 23 October 2025
 conf_location: University of Wisconsin-Madison, USA
 
 important_dates:
-- name: Standard registration deadline ($199 USD)
-  date: <p class="strikethrough-text">September 28, 2025</p>
+- name: Conference and travel support applications 
+  date: October 12, 2025 (EXTENDED) 
+- name: Notification of support awards
+  date: October 13, 2025
 - name: Late registration ($219 USD)
   date: September 29 to October 19, 2025
-- name: Breakouts and tutorials submission deadline
-  date: September 28, 2025
 - name: Notification of acceptance for breakout and tutorials
   date: October 6, 2025
 - name: Talks, lightning talk and poster submission deadline
   date: October 6, 2025 
 - name: Notification of acceptance for lightning talks and posters
   date: October 13, 2025
+- name: Standard registration deadline ($199 USD)
+  date: September 28, 2025
+- name: Breakouts and tutorials submission deadline
+  date: September 28, 2025
 - name: Accomodations (conference rate) - deadline for booking rooms at the conference hotel (Union South and DoubleTree)
   date: September 28, 2025
-- name: Conference and travel support applications 
-  date: September 28, 2025 
-- name: Notification of support awards
-  date: October 13, 2025
 
 important_links:
 #- name: Agenda
