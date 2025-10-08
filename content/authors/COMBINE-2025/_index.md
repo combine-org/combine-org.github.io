@@ -118,7 +118,7 @@ COMBINE 2025 will take place on the campus of the <a href="https://www.wisc.edu/
 
 COMBINE 2025 Workshop Agenda (subject to change).
 
-<img src="/images/combine2025/Agenda3A_combine2025.png" alt="demo" class="img-responsive">
+<img src="/images/combine2025/Agenda4A_combine2025.png" alt="demo" class="img-responsive">
 
  
 <h3>Arrival and Transportation</h3>
