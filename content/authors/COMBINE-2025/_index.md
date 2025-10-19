@@ -55,7 +55,7 @@ information:
   link: https://forms.gle/1vfzp7dbB1jTeYFCA
 
 
-topics:
+Topics:
 
 - Model use and development to advance mechanistic understanding of biological systems from molecular to physiome and community scales (e.g., development, epigenetics, host-pathogen systems, plant systems, microbiomes and communities)
 - Data exchange, pipelines and model standards for systems and synthetic biology
@@ -88,14 +88,16 @@ COMBINE 2025 will take place on the campus of the <a href="https://www.wisc.edu/
 
 <img src="/images/combine2025/nsf_wid_crbm.png" width="700" height="50" alt="demo" class="img-responsive">  
 
-<h3>Schedule</h3>
-
-COMBINE 2025 Workshop Agenda 
+<h3>Schedule: COMBINE 2025 Workshop Agenda (Final) </h3>
 
 <img src="/images/combine2025/AgendaFinal_COMBINE2025.png" alt="demo" class="img-responsive">
 
+<h3> COMBINE 2025 Participants </h3>
+Participants that have registered on Eventbrite and provided consent on Google registration form.
+<img src="/images/combine2025/Participants_COMBINE2025.png" alt="demo" class="img-responsive">
 
-<h3>Confirmed Plenary and Invited Speakers</h3>
+
+<h3> Invited Keynotes and Plenary Speakers</h3>
 
 <ol>
   <li><a href="https://cbe.utk.edu/people/belinda-akpa/">Belinda Akpa</a>, &nbsp;		University of Tennessee-Knoxville, USA</li>
@@ -139,11 +141,6 @@ There are two conference hotels for COMBINE 2025, UW-Madison's Union South Hotel
  - <a href="https://www.hilton.com/en/attend-my-event/msndtdt-com-9f9ba3f4-979e-4320-988e-43095848ebec/">DoubleTree Hotel Downtown Madison COMBINE 2025</a> - DoubleTree is 0.4 miles from the Pyle Center with complimentary downtown and airport shuttle service.
  - <a href="https://go.wisc.edu/hotel-combine-2025"> Union South Hotel COMBINE 2025 </a> -   Union South is 0.8 miles from the Pyle Center with complimentary parking.
 
-# <h3>Power outlet</h3>
-# <img src="/images/combine2025/type-a-plug.png" alt="Type A power plug" class="img-responsive" width="200" height="200">
-# <img src="/images/combine2025/type-b-plug.png" alt="Type B power plug" class="img-responsive" width="200" height="200">
-# [Type A](https://www.netio-products.com/en/glossary/type-a-electrical-socketelectrical-plug) and
-# [Type B](https://www.netio-products.com/en/glossary/type-b-nema-5-15) plugs are used in USA.
 
 <h3> Anti-Harassment Policies </h3>
 The COMBINE community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in our meetings, email list, and other communication mechanisms in any form. Sexual language and imagery is not appropriate for any of these venues, including talks, workshops, parties, email lists, Twitter and other online media. Participants in our meetings and discussions violating these rules may be sanctioned or expelled from our mailing lists and our meetings without a refund at the discretion of the COMBINE coordinators. This policy is linked on the COMBINE website.
