@@ -75,6 +75,7 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 Local organizers are <a href="mailto:g.misirli@keele.ac.uk">Goksel Misirli</a> and colleagues. 
 
 <h3>Workshop Location</h3>
+COMBINE 2026 will take place at <a href="https://www.keele.ac.uk/">Keele University</a> in Newcastle under Lyme, Staffordshire, United Kingdom. The conference will be held in the <a href="https://keele-conference.com/venue/denise-coates-foundation-building-keele-campus/">Denise Coates Foundation Building</a> (also known as Innovation Centre 6).
 
 <h3>Schedule</h3>
 
