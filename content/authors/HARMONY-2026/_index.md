@@ -40,7 +40,7 @@ important_links:
 
 information:
 - name: Registration
-  description: There is a NZ$640.00 registration fee for in-person attendess, please use the [eventbrite link](https://human-digital-twin-meetings-2026.eventbrite.co.nz/) to pay and sign up for any add-on activities. Please register at the link above as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
+  description: There is a NZ$640.00 registration fee for in-person attendess, please use the [eventbrite link](https://human-digital-twin-meetings-2026.eventbrite.co.nz/) to pay and sign up for any add-on activities. For virtual attendess there is no fee but you do need to register. Also, please register using the link provided as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to the meeting.
   link: https://forms.gle/GQFMkiSxmx1yiwzd6
 - name: Call for Breakout Sessions and Tutorials
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The topics for those breakout sessions, and the time slots which would suit their communities can be submitted via the link above. Note, breakout session organisers will be responsible for creating and hosting their own online sessions, if required.
@@ -170,7 +170,7 @@ Accommodation has been combined with the Human Digital Twin meetings and informa
 ## Meals
 
 Meals during the day for Harmony 2026 will be provided in coordination with the other digital twins meetings. 
-For evening meals there is a selection of restaurants a short walk or taxi/Uber from the conference location.
+For evening meals there is a great selection of a wide variety of restaurants a short walk or short taxi/Uber from the conference location.
 
 ## Power outlet
 
