@@ -72,19 +72,19 @@ Topics:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Events
+- Past Events
 
 ---
 
 <img src="/images/combine2025/combine-2025-logo2.png" alt="demo" class="img-responsive">
 <br/>
 
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2025** will be a workshop-style event hosted at the University of Wisconsin-Madison, USA.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2025** was a workshop-style event hosted at the University of Wisconsin-Madison, USA.
 
 Local organizers are <a href="mailto:emay5@wisc.edu">Elebeoba E. May</a> and colleagues. 
 
 <h3>Workshop Location</h3>
-COMBINE 2025 will take place on the campus of the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a> in the Pyle Center (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
+COMBINE 2025 took place on the campus of the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a> in the Pyle Center (702 Langdon St., Madison, WI), within walking distance of hotels, downtown Madison, the state capitol, and Lake Mendota. In addition to great talks, breakouts and meetings, there will be much to enjoy in Madison:  food (known for the cheese and beer), football, lakes, great bike trails, museums, and one of the largest outdoor farmers markets in the USA.  Many restaurants are within walking distance of campus and venue.
 
 <img src="/images/combine2025/nsf_wid_crbm.png" width="700" height="50" alt="demo" class="img-responsive">  
 
