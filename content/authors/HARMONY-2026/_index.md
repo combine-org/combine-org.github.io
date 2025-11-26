@@ -79,7 +79,7 @@ HARMONY 2026 will be held at the **University of Auckland**.
 
 Local organizers are <a href="mailto:d.nickerson@auckland.ac.nz">David Nickerson</a> and colleagues at the Auckland Bioengineering Institute.
 
-## a href="https://www.auckland.ac.nz/en/abi/news-and-events/digital-twin-meetings-2026.html">Auckland Human Digital Twin Meetings 2026</a>
+## <a href="https://www.auckland.ac.nz/en/abi/news-and-events/digital-twin-meetings-2026.html">Auckland Human Digital Twin Meetings 2026</a>
 
 From 2–12 Feb 2026, the Auckland Bioengineering Institute hosts three workshops in Auckland advancing digital twin modelling, interoperability standards, and clinical translation.
 
@@ -89,7 +89,7 @@ Find conference accommodation rates, venue and transport information for getting
 
 HARMONY 2026 will be held at the University of Auckland. It will be co-located with the 2026 <a href="https://cardiacphysiome.org">Cardiac Physiome Workshop</a>.
 
-## Schedule (Draft)
+## Draft Schedule
 
 <img src="/images/harmony2026/draft_schedule.png" alt="draft schedule" class="img-responsive">
 
@@ -102,7 +102,7 @@ Here’s a breakdown of the best ways to travel.
 Note: Travel times can be heavily affected by traffic, especially during morning (7:00 AM - 9:30 AM) and evening (4:00 PM - 6:30 PM) peak hours.
 
 
-### 1. Express Bus (SkyDrive)
+#### 1. Express Bus (SkyDrive)
 
 This is a dedicated express bus service that runs directly between the airport and the SkyCity Terminal in the central city.
 
@@ -112,7 +112,7 @@ This is a dedicated express bus service that runs directly between the airport a
 * **Frequency:** Runs every 30 minutes during its operating hours (typically 5:00 AM to 10:30 PM).
 * **Where to find it:** Follow the "Buses & Shuttles" signs at the international or domestic terminal. Look for the designated SkyDrive stop.
 
-### 2. Public Transport (Bus & Train)
+#### 2. Public Transport (Bus & Train)
 
 This is the most budget-friendly option. It involves two steps: taking the **AirportLink bus** (it's bright orange!) to **Puhinui Train Station**, and then catching a train to **Britomart Station** (which is in the downtown CBD).
 
@@ -122,7 +122,7 @@ This is the most budget-friendly option. It involves two steps: taking the **Air
 * **Frequency:** The AirportLink bus runs very frequently (every 10-12 minutes) from 4:30 AM to 12:40 AM, 7 days a week.
 * **Where to find it:** Follow the "Public Transport" or "AT" signs to the bus stop. You can buy an AT HOP card from the "Take Home" convenience store in the international arrivals hall.
 
-### 3. Ride-Sharing (Uber, Ola, etc.)
+#### 3. Ride-Sharing (Uber, Ola, etc.)
 
 Services like Uber are a popular, convenient, and often cheaper-than-a-taxi option.
 
@@ -131,7 +131,7 @@ Services like Uber are a popular, convenient, and often cheaper-than-a-taxi opti
 * **Approx. Time:** 25 - 45 minutes.
 * **Where to find it:** Follow the signs for the "Ride-Share" pickup zone, which is a short walk from the arrivals terminal. You book this via the app on your phone.
 
-### 4. Taxi (Fixed Fare)
+#### 4. Taxi (Fixed Fare)
 
 Taxis are available 24/7 directly outside the terminals.
 
@@ -142,7 +142,7 @@ Taxis are available 24/7 directly outside the terminals.
 * **Approx. Time:** 20 - 40 minutes (this is often the fastest way outside of peak traffic).
 * **Where to find it:** Follow the "Taxis" signs to the official taxi rank just outside the arrivals doors.
 
-### 5. Shared Shuttle (e.g., Super Shuttle)
+#### 5. Shared Shuttle (e.g., Super Shuttle)
 
 These are vans that take multiple groups of passengers heading in the same direction. It's a door-to-door service that can be cost-effective, especially for groups.
 
@@ -151,7 +151,7 @@ These are vans that take multiple groups of passengers heading in the same direc
 * **Approx. Time:** 45 - 75 minutes (it can take longer as they may drop off other passengers before you).
 * **Where to find it:** You can pre-book online or find the "Shared Shuttle" rank at the terminal.
 
-### Quick Comparison Table
+#### Quick Comparison Table
 
 | Method                 | Approx. Cost (1 Adult) | Approx. Time | Best For              |
 | ---------------------- | ---------------------- | ------------ | --------------------- |
@@ -163,9 +163,9 @@ These are vans that take multiple groups of passengers heading in the same direc
 
 ## Accommodation
 
-Accommodation has been combined with the Human Digital Twin meetings and information on accommodation can be found there
+Accommodation has been combined with the Human Digital Twin meetings and information on accommodation can be found there.
 
-[Accommodation information](https://www.auckland.ac.nz/en/abi/news-and-events/digital-twin-meetings-2026/conference-accommodation.html)
+[Human Digital Twin meetings accommodation information](https://www.auckland.ac.nz/en/abi/news-and-events/digital-twin-meetings-2026/conference-accommodation.html)
 
 ## Meals
 
@@ -178,4 +178,4 @@ Type I plugs are used in Australia and New Zealand, featuring three flat pins ar
 
 [Plugs used in NZ and Aus.](https://en.wikipedia.org/wiki/AS/NZS_3112)
 
-<img src="/images/harmony2026/plug.jpeg" alt="New Zealand power plugs" class="img-responsive">
+<img src="/images/harmony2026/plug.jpeg" alt="New Zealand power plugs" width="50%" style="margin: auto;" class="img-responsive">
