@@ -70,7 +70,7 @@ user_groups:
   - Events
 ---
 
-<img src="/images/harmony2026/plug.png" alt="demo" class="img-responsive">
+<img src="/images/combine.png" alt="combine logo" class="img-responsive">
 <br/>
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
@@ -91,7 +91,7 @@ HARMONY 2026 will be held at the University of Auckland. It will be co-located w
 
 ## Schedule (Draft)
 
-<img src="/images/harmony2026/draft_schedule.png" alt="draft-schedule" class="img-responsive">
+<img src="/images/harmony2026/draft_schedule.png" alt="draft schedule" class="img-responsive">
 
 ## Arrival and Transportation
 
@@ -177,3 +177,5 @@ For evening meals there is a selection of restaurants a short walk or taxi/Uber 
 Type I plugs are used in Australia and New Zealand, featuring three flat pins arranged in a triangular pattern. They operate on a voltage of 230V and are designed to ensure safety with an earth pin for grounding. 
 
 [Plugs used in NZ and Aus.](https://en.wikipedia.org/wiki/AS/NZS_3112)
+
+<img src="/images/harmony2026/plug.jpeg" alt="New Zealand power plugs" class="img-responsive">
