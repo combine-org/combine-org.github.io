@@ -77,7 +77,7 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 
 HARMONY 2026 will be held at the **University of Auckland**.
 
-Local organizers are <a href="mailto:d.nickerson@auckland.ac.nz">David Nickerson</a>,  <a href="mailto:weiwei.ai@auckland.ac.nz">Weiwei Ai</a>,  <a href="mailto:j.dowrick@auckland.ac.nz">Jarrah Dowrick</a>,  <a href="mailto:a.garny@auckland.ac.nz">Alan Garny</a> and  <a href="mailto:h.sorby@auckland.ac.nz">Hugh Sorby</a> at the Auckland Bioengineering Institute.
+Local organizers are <a href="mailto:d.nickerson@auckland.ac.nz">David Nickerson</a>,  <a href="mailto:weiwei.ai@auckland.ac.nz">Weiwei Ai</a>,  <a href="mailto:j.dowrick@auckland.ac.nz">Jarrah Dowrick</a>,  <a href="mailto:a.garny@auckland.ac.nz">Alan Garny</a>, and  <a href="mailto:h.sorby@auckland.ac.nz">Hugh Sorby</a> at the Auckland Bioengineering Institute.
 
 ## <a href="https://www.auckland.ac.nz/en/abi/news-and-events/digital-twin-meetings-2026.html">Auckland Human Digital Twin Meetings 2026</a>
 
