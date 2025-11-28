@@ -89,6 +89,12 @@ On this page you can find conference accommodation rates, venue and transport in
 
 HARMONY 2026 will be held at the University of Auckland. It will be co-located with the <a href="https://www.cardiacphysiome.org/meetings/2026-cardiopulmonary-physiome-workshop/">2026 Cardiopulmonary Physiome Workshop</a>.
 
+The workshop will take place at:
+
+The Faculty of Engineering  (Building 401)
+Atrium (Room 418)
+20 Symonds Street, Auckland Central.
+
 ## Draft Schedule
 
 <img src="/images/harmony2026/draft_schedule.png" alt="draft schedule" class="img-responsive">
