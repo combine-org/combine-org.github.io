@@ -14,7 +14,7 @@ names:
 superuser: false
 
 # Role/position
-role: SBOL Visual Delegate
+role: SBOL Visual Delegate (Vice Chair)
 
 # Organizations/Affiliations
 organizations:

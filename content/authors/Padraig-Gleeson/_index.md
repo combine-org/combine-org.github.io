@@ -14,7 +14,7 @@ names:
 superuser: false
 
 # Role/position
-role: NeuroML Delegate (Vice Chair)
+role: NeuroML Delegate
 
 # Organizations/Affiliations
 organizations:
