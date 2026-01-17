@@ -1,0 +1,6 @@
+{{- $file := .Get 0 -}}
+{{- if (fileExists $file) -}}
+    {{- $file | readFile | markdownify -}}
+{{- else -}}
+    {{- errorf "readfile shortcode: file %s not found" $file -}}
+{{- end -}}
