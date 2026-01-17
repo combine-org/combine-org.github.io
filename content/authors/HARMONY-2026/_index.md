@@ -143,3 +143,7 @@ Type I plugs are used in New Zealand, featuring three flat pins arranged in a tr
 [Plugs used in New Zealand (Wikipedia).](https://en.wikipedia.org/wiki/AS/NZS_3112)
 
 <img src="/images/harmony2026/plug.jpeg" alt="New Zealand power plugs" width="50%" style="margin: auto;" class="img-responsive">
+
+# Attendees
+
+{{< readfile "content/authors/HARMONY-2026/AttendeeList.md" >}}
