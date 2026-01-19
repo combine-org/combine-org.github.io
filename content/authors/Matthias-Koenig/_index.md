@@ -19,19 +19,19 @@ role: SED-ML Delegate
 
 # Organizations/Affiliations
 organizations:
-- name: Humboldt-University Berlin, Institute for Theoretical Biology
+- name: Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver; University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering 
   url: "https://livermetabolism.com"
 
-university: Humboldt-University
+university: Humboldt-University; University of Stuttgart
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computational Systems Biology
-- Modeling of metabolic systems
-- Analysis and Visualisation of Biological Networks
-- Immersive analytics in the life sciences
+- Computational systems biology
+- Modeling of metabolic and physiological systems
+- Analysis and visualization of biological networks
+- Immersive and interactive analytics in the life sciences
 
 projects:
 - 
@@ -113,4 +113,34 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Matthias König (PhD. in Biophysics) leads an <a href="https://livermetabolism.com">junior research group for Systems Biology and Systems Medicine of the Liver</a> at the Humboldt-University Berlin. His research areas include computational modeling, data science, development of bioinformatics methods and machine learning based on biological, medical and clinical data. He has been actively involved in the development of SBML, SED-ML and software supporting these standards as well as the COMBINE archive. 
+<p>
+<strong>Matthias König</strong> (PhD in Biophysics) is
+<strong>Head of the Systems Medicine of the Liver Lab</strong> at
+Humboldt-Universität zu Berlin, Faculty of Life Sciences, Institute of Biology
+(ITB), and <strong>Head of the Computational Biomechanics Group</strong> at the
+University of Stuttgart, Institute of Structural Mechanics and Dynamics in
+Aerospace Engineering.
+</p>
+
+<p>
+His research focuses on computational modeling, data science, bioinformatics,
+and machine learning applied to biological, medical, and clinical data, with a
+particular emphasis on predictive and mechanistic models of liver function,
+physiology, and drug metabolism.
+</p>
+
+<p>
+He has been actively involved in the development of community standards and
+tools in systems and computational biology, including <strong>SBML</strong>,
+<strong>SED-ML</strong>, and software supporting these standards, as well as the
+<strong>COMBINE</strong> initiative and the COMBINE Archive. His work strongly
+emphasizes reproducibility, interoperability, and FAIR data and modeling
+practices.
+</p>
+
+<p>
+More information about his research is available at
+<a href="https://livermetabolism.com" target="_blank" rel="noopener">
+https://livermetabolism.com
+</a>
+</p>
