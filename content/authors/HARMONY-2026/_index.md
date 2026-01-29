@@ -95,9 +95,9 @@ The Faculty of Engineering  (Building 401)
 Atrium (Room 418)
 20 Symonds Street, Auckland Central.
 
-## Draft Schedule
+## Current Schedule
 
-<img src="/images/harmony2026/draft_schedule.png" alt="draft schedule" class="img-responsive">
+<img src="/images/harmony2026/current_schedule.png" alt="current schedule" class="img-responsive">
 
 ## Arrival and Transportation
 
