@@ -662,178 +662,208 @@
 &lt;td>SBML;Multicellular modeling&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title/><link>/author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/</guid><description/></item><item><title/><link>/author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/</guid><description>&lt;p>The following are the registered attendees for HARMONY 2026, as of 2026-01-17 05:28 UTC.&lt;/p>
+&lt;/table></description></item><item><title/><link>/author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/</guid><description/></item><item><title/><link>/author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/</guid><description>&lt;p>The following are the registered attendees for HARMONY 2026, as of 2026-01-29 01:28 UTC.&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:left">Name&lt;/th>
-&lt;th style="text-align:left">Affiliation&lt;/th>
-&lt;th style="text-align:left">Attendance&lt;/th>
-&lt;th style="text-align:left">Interests&lt;/th>
+&lt;th>Name&lt;/th>
+&lt;th>Affiliation&lt;/th>
+&lt;th>Attendance&lt;/th>
+&lt;th>Interests&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:left">Alan Garny&lt;/td>
-&lt;td style="text-align:left">University of Auckland&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SED-ML&lt;/td>
+&lt;td>Hugh Sorby&lt;/td>
+&lt;td>Auckland Bioengineering Institute&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>CellML, SED-ML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Augustin Luna&lt;/td>
-&lt;td style="text-align:left">National Library of Medicine&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">BioPAX, SBGN; sbgn.org; pathwaycommons.org&lt;/td>
+&lt;td>Falk Schreiber&lt;/td>
+&lt;td>University of Konstanz&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>SBGN, SBML, SBOL and SBOL Visual&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Ayesha Abubakr&lt;/td>
-&lt;td style="text-align:left">St. John&amp;rsquo;s Kilmarnock School&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">BioPAX, CellML, Multicellular Modelling, NeuroML, SBML, SBOL and SBOL Visual, SED-ML; Exploring drug-like molecules for inhibition of overexpressed NSCLC integrins using in-silico methods to identify, optimize, and dock ligands. Researching the use of bacteriophages in combination with synthetic peptides as monoclonal antibodies.&lt;/td>
+&lt;td>Alan Garny&lt;/td>
+&lt;td>University of Auckland&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SED-ML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Chris Myers&lt;/td>
-&lt;td style="text-align:left">University of Colorado Boulder&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">COMBINE Archive, SBML, SBOL and SBOL Visual, SED-ML; SynBioHub, iBioSim, SynBioSuite&lt;/td>
+&lt;td>Weiwei Ai&lt;/td>
+&lt;td>Auckland Bioengineering Institute, University Of Auckland&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>CellML, SED-ML, PE-TAB&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">David Nickerson&lt;/td>
-&lt;td style="text-align:left">Auckland Bioengineering Institute, University of Auckland&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SED-ML, PE-TAB, repositories; model publishing&lt;/td>
+&lt;td>Xiaoming Hu&lt;/td>
+&lt;td>Bioquant, University Heidelberg&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>SBML, Data Management, Ro-Crate&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Eric Young&lt;/td>
-&lt;td style="text-align:left">WPI&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">SBOL and SBOL Visual; I have developed Prymetime, a sequencing assembly pipeline that can accurately assemble genetic engineering signatures and detect them in microbiomes. &lt;a href="https://github.com/emyounglab/prymetime">https://github.com/emyounglab/prymetime&lt;/a>&lt;/td>
+&lt;td>Lucian Smith&lt;/td>
+&lt;td>University of Washington&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>COMBINE Archive, Multicellular Modelling, OMEX Metadata, SBML, SED-ML, FROG&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Falk Schreiber&lt;/td>
-&lt;td style="text-align:left">University of Konstanz&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">SBGN, SBML, SBOL and SBOL Visual; Vanted (&lt;a href="http://www.vanted.org">www.vanted.org&lt;/a>), SBGN-ED (&lt;a href="http://www.sbgn-ed.org">www.sbgn-ed.org&lt;/a>)&lt;/td>
+&lt;td>Chris Myers&lt;/td>
+&lt;td>University of Colorado Boulder&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>COMBINE Archive, SBML, SBOL and SBOL Visual, SED-ML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Frank T. Bergmann&lt;/td>
-&lt;td style="text-align:left">BioQUANT, Heidelberg University&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">COMBINE Archive, SBGN, SBML, SED-ML, PE-TAB, FROG; &lt;a href="https://copasi.org">https://copasi.org&lt;/a>: Analysis Tool, Model Editor / Simulation engine, for biochemical networks. &lt;a href="https://basico.rtfd.io">https://basico.rtfd.io&lt;/a>: A simplified python interface to COPASI. &lt;a href="http://copasijs.rtfd.io/:">http://copasijs.rtfd.io/:&lt;/a> JavaScript version, exposing simulation capabilities of COPASI.&lt;/td>
+&lt;td>Frank T. Bergmann&lt;/td>
+&lt;td>BioQUANT, Heidelberg University&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>COMBINE Archive, SBGN, SBML, SED-ML, PE-TAB, FROG&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Goksel Misirli&lt;/td>
-&lt;td style="text-align:left">Keele University&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">Multicellular Modelling, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual&lt;/td>
+&lt;td>David Nickerson&lt;/td>
+&lt;td>Auckland Bioengineering Institute, University of Auckland&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SED-ML, PE-TAB, repositories; model publishing&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Gonzalo Vidal&lt;/td>
-&lt;td style="text-align:left">University of Colorado Boulder&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">SBOL and SBOL Visual; SeqTrainer. Python package to train ML models on SBOL data.&lt;/td>
+&lt;td>Eric Young&lt;/td>
+&lt;td>WPI&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>SBOL and SBOL Visual&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Hoda Rahimi&lt;/td>
-&lt;td style="text-align:left">The University of Auckland&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">BioPAX, CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB&lt;/td>
+&lt;td>Triana Karnadipa&lt;/td>
+&lt;td>ABI&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>COMBINE Archive, NeuroML, OMEX Metadata&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Hugh Sorby&lt;/td>
-&lt;td style="text-align:left">Auckland Bioengineering Institute&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">CellML, SED-ML&lt;/td>
+&lt;td>Pedro T. Monteiro&lt;/td>
+&lt;td>IST - University of Lisbon&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>Multicellular Modelling, SBML, SED-ML, FROG&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Jarrah Dowrick&lt;/td>
-&lt;td style="text-align:left">Auckland Bioengineering Institute&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">CellML, COMBINE Archive, OMEX Metadata, SBGN, SED-ML, FieldML; Graphical interface to couple CellML models together: &lt;a href="https://github.com/physiomelinks/phlynx">https://github.com/physiomelinks/phlynx&lt;/a>&lt;/td>
+&lt;td>MORETTI Sébastien&lt;/td>
+&lt;td>SIB Swiss Institute of Bioinformatics&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>BioPAX, SBGN, SBML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Koray Atalag&lt;/td>
-&lt;td style="text-align:left">Auckland Bioengineering Institute&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">health data interoperability (FHIR, openEHR, SNOMED, LOINC, ICD etc.); Digital Twins on FHIR&lt;/td>
+&lt;td>Ayesha Abubakr&lt;/td>
+&lt;td>St. John&amp;rsquo;s Kilmarnock School&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>BioPAX, CellML, Multicellular Modelling, NeuroML, SBML, SBOL and SBOL Visual, SED-ML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Leo Willyanto Santoso&lt;/td>
-&lt;td style="text-align:left">Auckland Bioengineering Institute, The University of Auckland&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">CellML; Semantic annotation of computational biological model&lt;/td>
+&lt;td>Gonzalo Vidal&lt;/td>
+&lt;td>University of Colorado Boulder&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>SBOL and SBOL Visual&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Litian Su&lt;/td>
-&lt;td style="text-align:left">Auckland Bioengineering Institute&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">CellML, SBML; I&amp;rsquo;m involved in the computational fluid dynamics of gastric inflows.&lt;/td>
+&lt;td>Hoda Rahimi&lt;/td>
+&lt;td>The University of Auckland&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>BioPAX, CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Lucian Smith&lt;/td>
-&lt;td style="text-align:left">University of Washington&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">COMBINE Archive, Multicellular Modelling, OMEX Metadata, SBML, SED-ML, FROG; Antimony (&lt;a href="https://github.com/sys-bio/antimony/">https://github.com/sys-bio/antimony/&lt;/a>) is a human-readable, human-writable model definition language that translates to SBML since 2008. It&amp;rsquo;s used in Tellurium (&lt;a href="https://github.com/sys-bio/tellurium/),">https://github.com/sys-bio/tellurium/),&lt;/a> our lab&amp;rsquo;s simulation environment.&lt;/td>
+&lt;td>Litian Su&lt;/td>
+&lt;td>Auckland Bioengineering Institute&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>CellML, SBML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Lutz Brusch&lt;/td>
-&lt;td style="text-align:left">TU Dresden, Germany&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">Multicellular Modelling, SBML, PE-TAB, OpenVT, MultiCellML, MorpheusML; Multicellular modeling, &lt;a href="https://MultiCellML.org">https://MultiCellML.org&lt;/a>, MorpheusML, &lt;a href="https://morpheus.gitlab.io">https://morpheus.gitlab.io&lt;/a>, SBML-Spatial, PEtab-MS, &lt;a href="https://gitlab.com/fitmulticell/fit">https://gitlab.com/fitmulticell/fit&lt;/a>&lt;/td>
+&lt;td>Maria Chiara Langella&lt;/td>
+&lt;td>University of Naples Federico II&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>BioPAX, CellML, COMBINE Archive, Multicellular Modelling, SBML, SBOL and SBOL Visual, PE-TAB&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Marc Molla Garcia&lt;/td>
-&lt;td style="text-align:left">UPF&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">BioPAX, CellML, COMBINE Archive, Multicellular Modelling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG&lt;/td>
+&lt;td>Leo Willyanto Santoso&lt;/td>
+&lt;td>Auckland Bioengineering Institute, The University of Auckland&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>CellML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Maria Chiara Langella&lt;/td>
-&lt;td style="text-align:left">University of Naples Federico II&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">BioPAX, CellML, COMBINE Archive, Multicellular Modelling, SBML, SBOL and SBOL Visual, PE-TAB&lt;/td>
+&lt;td>Koray Atalag&lt;/td>
+&lt;td>Auckland Bioengineering Institute&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>health data interoperability (FHIR, openEHR, SNOMED, LOINC, ICD etc.)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Matthias König&lt;/td>
-&lt;td style="text-align:left">Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver; University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG&lt;/td>
+&lt;td>Lutz Brusch&lt;/td>
+&lt;td>TU Dresden, Germany&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>Multicellular Modelling, SBML, PE-TAB, OpenVT, MultiCellML, MorpheusML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">MORETTI Sébastien&lt;/td>
-&lt;td style="text-align:left">SIB Swiss Institute of Bioinformatics&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">BioPAX, SBGN, SBML; MetaNetX&lt;/td>
+&lt;td>Jarrah Dowrick&lt;/td>
+&lt;td>Auckland Bioengineering Institute&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>CellML, COMBINE Archive, OMEX Metadata, SBGN, SED-ML, FieldML&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">N/A&lt;/td>
-&lt;td style="text-align:left">University at Buffalo&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td>Goksel Misirli&lt;/td>
+&lt;td>Keele University&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>Multicellular Modelling, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Pedro T. Monteiro&lt;/td>
-&lt;td style="text-align:left">IST - University of Lisbon&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">Multicellular Modelling, SBML, SED-ML, FROG; CoLoMoTo, GINsim, EpiLog, Yeastract&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>University at Buffalo&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Triana Karnadipa&lt;/td>
-&lt;td style="text-align:left">ABI&lt;/td>
-&lt;td style="text-align:left">Remotely&lt;/td>
-&lt;td style="text-align:left">COMBINE Archive, NeuroML, OMEX Metadata; My PhD project combines movement-specific brain atlases and lesion radiomics to predict post-stroke upper-limb recovery, improving accuracy and interpretability beyond whole-brain models.&lt;/td>
+&lt;td>Marc Molla Garcia&lt;/td>
+&lt;td>UPF&lt;/td>
+&lt;td>In person&lt;/td>
+&lt;td>BioPAX, CellML, COMBINE Archive, Multicellular Modelling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Weiwei Ai&lt;/td>
-&lt;td style="text-align:left">Auckland Bioengineering Institute, University Of Auckland&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">CellML, SED-ML, PE-TAB&lt;/td>
+&lt;td>Matthias König&lt;/td>
+&lt;td>Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver; University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:left">Xiaoming Hu&lt;/td>
-&lt;td style="text-align:left">Bioquant, University Heidelberg&lt;/td>
-&lt;td style="text-align:left">In person&lt;/td>
-&lt;td style="text-align:left">SBML, Data Management, Ro-Crate; FAIRDOM-SEEK is an open-source, web-based platform for FAIR research data management, enabling storage, cataloguing, sharing, and publication of research outputs using the ISA framework, with support for metadata, versioning, and DOI creation.&lt;/td>
+&lt;td>Augustin Luna&lt;/td>
+&lt;td>National Library of Medicine&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>BioPAX, SBGN&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hasan Balci&lt;/td>
+&lt;td>National Library of Medicine, NIH&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>SBGN, SBML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fengkai Zhang&lt;/td>
+&lt;td>NIH, US&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>COMBINE Archive, Multicellular Modelling, OMEX Metadata, SBGN, SBOL and SBOL Visual, SED-ML, PE-TAB&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Te Chen&lt;/td>
+&lt;td>Technical University of Denmark&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>SBML, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Viola Rintoul&lt;/td>
+&lt;td>UW Madison&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>CellML, COMBINE Archive, Multicellular Modelling, SBOL and SBOL Visual, SED-ML&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Rahuman Sheriff&lt;/td>
+&lt;td>EMBL-EBI&lt;/td>
+&lt;td>Remotely&lt;/td>
+&lt;td>CellML, COMBINE Archive, Multicellular Modelling, OMEX Metadata, SBGN, SBML, SED-ML, PE-TAB, FROG&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>HARMONY 2025</title><link>/author/harmony-2025/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/author/harmony-2025/</guid><description>&lt;img src="/images/harmony2025/combine.png" alt="demo" class="img-responsive">
