@@ -4,14 +4,15 @@
 
 The global COMBINE effort is led by the COMBINE Coordination Board which meets regularly. The notes of the meetings are made public:
 
-[2026 Coordinator Meeting Notes](https://docs.google.com/document/d/117wvWtX2DTX3NDvJmpZc72-pco4WrVgNVALmRVEhISc/edit?tab=t.0)
-[2025 Coordinator Meeting Notes](https://docs.google.com/document/d/1Oxu9cQAhWIYxZS0RoJG2oUWHoNERLfaMz6KNqF3By14/edit?tab=t.0)
-[2024 Coordinator Meeting Notes](https://docs.google.com/document/d/1MHXmt47v0x-uAT4SXsFkkyICtIpvD0angxnf_dfDlV0/edit?tab=t.0)
-[2023 Coordinator Meeting Notes](https://docs.google.com/document/d/1XzyiN-2QXan7RQd4RwuCTCHiNYv7RH5OMTW_ip_cXZA/edit?tab=t.0)
-[2022 Coordinator Meeting Notes](https://docs.google.com/document/d/1MI7YrsAnklbRfnpON69GRkd1p5f5ELqMrrQ0o9ZAlDo/edit?tab=t.0)
-[2021 Coordinator Meeting Notes](https://docs.google.com/document/d/1pRMUPDWJWhoSb-GrqTgNtjdGhpXPyQCquR44zmPGgTs/edit?tab=t.0)
-[2020 Coordinator Meeting Notes](https://docs.google.com/document/d/1pRMUPDWJWhoSb-GrqTgNtjdGhpXPyQCquR44zmPGgTs/edit?tab=t.0)
-[2019 Coordinator Meeting Notes](https://docs.google.com/document/d/1GTppq4VwwK3AUZnkBR6gmsgjOB2Lx09h1QNedhFSLr8/edit?tab=t.0)
+* [2026 Coordinator Meeting Notes](https://docs.google.com/document/d/117wvWtX2DTX3NDvJmpZc72-pco4WrVgNVALmRVEhISc/edit?tab=t.0)
+* [2025 Coordinator Meeting Notes](https://docs.google.com/document/d/1Oxu9cQAhWIYxZS0RoJG2oUWHoNERLfaMz6KNqF3By14/edit?tab=t.0)
+* [2024 Coordinator Meeting Notes](https://docs.google.com/document/d/1MHXmt47v0x-uAT4SXsFkkyICtIpvD0angxnf_dfDlV0/edit?tab=t.0)
+* [2023 Coordinator Meeting Notes](https://docs.google.com/document/d/1XzyiN-2QXan7RQd4RwuCTCHiNYv7RH5OMTW_ip_cXZA/edit?tab=t.0)
+* [2022 Coordinator Meeting Notes](https://docs.google.com/document/d/1MI7YrsAnklbRfnpON69GRkd1p5f5ELqMrrQ0o9ZAlDo/edit?tab=t.0)
+* [2021 Coordinator Meeting Notes](https://docs.google.com/document/d/1pRMUPDWJWhoSb-GrqTgNtjdGhpXPyQCquR44zmPGgTs/edit?tab=t.0)
+* 2020 Coordinator Meeting Notes
+<!--* [2020 Coordinator Meeting Notes](https://docs.google.com/document/d/1pRMUPDWJWhoSb-GrqTgNtjdGhpXPyQCquR44zmPGgTs/edit?tab=t.0)-->
+* [2019 Coordinator Meeting Notes](https://docs.google.com/document/d/1GTppq4VwwK3AUZnkBR6gmsgjOB2Lx09h1QNedhFSLr8/edit?tab=t.0)
 
 ## COMBINE procedures
 
@@ -44,11 +45,9 @@ An important activity of COMBINE is to organise common meetings, where the devel
 ### COMBINE discussions
 Some technical discussions launched within the community are of COMBINE-wide interest. They are therefore documented on this website. They may, or may not, result in documents, solutions, technologies, included in the COMBINE procedures. If you want to discuss the goals, organization and operation of COMBINE, subscribe to [combine-discuss](https://groups.google.com/d/forum/combine-discuss).
 
-### Miscellanea
-COMBINE logos and banners at different resolution are available in [this archive](http://old_co.mbine.org/system/files/COMBINE_logo.tar__0.gz) and in [this repository](https://github.com/combine-org/Logos).
+## Miscellanea
+COMBINE logos and banners at different resolution are available in [this archive](https://github.com/combine-org/Logos/blob/master/COMBINE_logo.tar__0.gz) from [this repository](https://github.com/combine-org/Logos).
 
 Those logo are provided under the Creative Commons Attribution-ShareAlike 4.0 International licence. Feel free to copy and redistribute them in any medium or format, remix, transform, and build upon them for any COMBINE related purposes.
 
-[A list of all COMBINE standard documents](https://co.mbine.org/standards/)
-
-**Please note: COMBINE specification documents are in the process of being moved over from the [old COMBINE website](http://old_co.mbine.org/). Please [go there](http://old_co.mbine.org/) to find the documents until the move is completed.**
+Some older documents may still be at the [old COMBINE website](http://old_co.mbine.org/documents)
