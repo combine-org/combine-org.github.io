@@ -1,5 +1,5 @@
 ---
-title: Harmony 2023
+title: HARMONY 2023
 
 # Is this the primary user of the site?
 superuser: false
