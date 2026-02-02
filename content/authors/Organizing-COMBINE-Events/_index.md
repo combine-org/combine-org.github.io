@@ -4,12 +4,15 @@ title: Organizing a COMBINE event
 # Is this the primary user of the site?
 superuser: false
 
+conf_date: 2027+
+
+conf_location: Your location here!
 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Past Events
+- Future Events
 
 ---
 The coordination of COMBINE owes much to the people organizing the meetings, and in particular the hosts of the events. Conversely, COMBINE events have become such successes that hosting them boosts recognition in the field, and permits to build or to strengthen collaborations.
@@ -19,7 +22,7 @@ People interested in organizing a meeting should start by filling the <a rel="no
 
 # Procedure to organize a COMBINE meeting
 
-People interested in organizing a COMBINE meeting should begin by filling out the <a href="http://www.surveymonkey.com/s/combine-harmony-hosting-interest">hosting interest survey as early as possible. This will enable potential hosts to highlight the advantages and possible issues associated with each bid, and start the discussion with the <a href="/people">COMBINE coordinators</a>. The currently-planned events are listed on the <a href="/events">COMBINE events page</a>; dates not listed there are usually still up for bidding.
+People interested in organizing a COMBINE meeting should begin by filling out the <a rel="nofollow" class="external text" href="https://goo.gl/forms/QAQS9sBbJDh1XTwe2">interest survey</a> as early as possible. This will enable potential hosts to highlight the advantages and possible issues associated with each bid, and start the discussion with the <a href="/people">COMBINE coordinators</a>. The currently-planned events are listed on the <a href="/events">COMBINE events page</a>; dates not listed there are usually still up for bidding.
 
 Well in advance of a given future event, the COMBINE coordinators will discuss the bids made.  Based on the qualities of the proposals, as well as more strategic considerations such as alternating timezones and proximity with other conferences, the coordinators prioritize the bids and also engage in discussions with potential hosts.  When a project is mature, it is announced on the <a href="/events">event page</a>, as well as on <a href="https://twitter.com/combine_coord">Twitter</a>, and on other social media.
 
@@ -33,7 +36,7 @@ Depending on the country where the meeting is located, some people may need visa
 
 * They write letters of support for grant applications written by the bidding groups to support the event.
 
-* They create the master web pages and documents for the meeting on the COMBINE web site.
+* They create the master web pages and documents for the meeting on the COMBINE website.
 
 ## Local organizers
 
