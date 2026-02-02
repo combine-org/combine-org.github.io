@@ -9,9 +9,7 @@ The global COMBINE effort is led by the COMBINE Coordination Board which meets r
 * [2024 Coordinator Meeting Notes](https://docs.google.com/document/d/1MHXmt47v0x-uAT4SXsFkkyICtIpvD0angxnf_dfDlV0/edit?tab=t.0)
 * [2023 Coordinator Meeting Notes](https://docs.google.com/document/d/1XzyiN-2QXan7RQd4RwuCTCHiNYv7RH5OMTW_ip_cXZA/edit?tab=t.0)
 * [2022 Coordinator Meeting Notes](https://docs.google.com/document/d/1MI7YrsAnklbRfnpON69GRkd1p5f5ELqMrrQ0o9ZAlDo/edit?tab=t.0)
-* [2021 Coordinator Meeting Notes](https://docs.google.com/document/d/1pRMUPDWJWhoSb-GrqTgNtjdGhpXPyQCquR44zmPGgTs/edit?tab=t.0)
-* 2020 Coordinator Meeting Notes
-<!--* [2020 Coordinator Meeting Notes](https://docs.google.com/document/d/1pRMUPDWJWhoSb-GrqTgNtjdGhpXPyQCquR44zmPGgTs/edit?tab=t.0)-->
+* [2021 and 2020 Coordinator Meeting Notes](https://docs.google.com/document/d/1pRMUPDWJWhoSb-GrqTgNtjdGhpXPyQCquR44zmPGgTs/edit?tab=t.0)
 * [2019 Coordinator Meeting Notes](https://docs.google.com/document/d/1GTppq4VwwK3AUZnkBR6gmsgjOB2Lx09h1QNedhFSLr8/edit?tab=t.0)
 
 ## COMBINE procedures
