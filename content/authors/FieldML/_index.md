@@ -15,7 +15,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: University of Colorado Boulder
+- name: University of Auckland
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -23,7 +23,7 @@ organizations:
 weight: 1
 
 #Utah or CU
-university: CU
+#university: CU
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,25 +31,25 @@ university: CU
 interests:
 - <a rel="nofollow" class="external text" href="http://www.fieldml.org/">FieldML</a>'s (Field Modelling/Markup Language) goal is to be a declarative language for building hierarchical models represented by generalized mathematical fields. Its primary use will be to represent the dynamic geometry and solution fields from computational models of cells, tissues and organs.
 
-projects:
-- <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="/author/sbol-canvas/">SBOLCanvas</a>
+#projects:
+#- <a href="https://synbioks.github.io/">SBKS</a>
+#- <a href="/author/sbol-canvas/">SBOLCanvas</a>
 
 
-department:
-- Electrical, Computer, and Energy Engineering
+#department:
+#- Electrical, Computer, and Energy Engineering
 
-education:
-  courses:
-  - course: PhD in Electrical Engineering
-    institution: Stanford University
-    year: 1995
-  - course: MS in Electrical Engineering
-    institution: Stanford University
-    year: 1993
-  - course: BS in Electrical Engineering / History
-    institution: California Institute of Technology
-    year: 1991
+#education:
+#  courses:
+#  - course: PhD in Electrical Engineering
+#    institution: Stanford University
+#    year: 1995
+#  - course: MS in Electrical Engineering
+#    institution: Stanford University
+#    year: 1993
+#  - course: BS in Electrical Engineering / History
+#    institution: California Institute of Technology
+#    year: 1991
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,19 +58,19 @@ education:
 social:
 - icon: star
   icon_pack: fas
-  link: http://www.biopax.org/
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:biopax-discuss@googlegroups.com'
-- icon: file
-  icon_pack: fas
-  link: http://www.biopax.org/release/biopax-level3-documentation.pdf
-- icon: quote-left
-  icon_pack: fas
-  link: http://identifiers.org/pubmed/20829833
+  link: http://www.fieldml.org/
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:biopax-discuss@googlegroups.com'
+#- icon: file
+#  icon_pack: fas
+#  link: http://www.biopax.org/release/biopax-level3-documentation.pdf
+#- icon: quote-left
+#  icon_pack: fas
+#  link: http://identifiers.org/pubmed/20829833
 - icon: github
   icon_pack: fab
-  link: https://github.com/BioPAX
+  link: https://github.com/FieldML
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -95,4 +95,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-BioPAX is a standard language that aims to enable integration, exchange and analysis of biological pathway data. It is expressed in <a rel="nofollow" class="external text" href="http://www.w3.org/2004/OWL/">OWL</a>. The last specification is <a rel="nofollow" class="external text" href="http://www.biopax.org/release/biopax-level3-documentation.pdf">BioPAX Level 3</a>. BioPAX development is <a rel="nofollow" class="external text" href="http://www.biopax.org/mediawiki/index.php/BioPAX_Governance">coordinated</a> by an elected editorial board and a Scientific Advisory Board. BioPAX is supported by <a rel="nofollow" class="external text" href="http://biopax.sourceforge.net/mediawiki/index.php?title=Category:SOFTWARE">many pathway database or processing tools</a>. An API is available to help implementing support: <a rel="nofollow" class="external text" href="http://www.biopax.org/mediawiki/index.php/Paxtools">Paxtools</a>
+<a rel="nofollow" class="external text" href="http://www.fieldml.org/">FieldML</a>'s (Field Modelling/Markup Language) goal is to be a declarative language for building hierarchical models represented by generalized mathematical fields. Its primary use will be to represent the dynamic geometry and solution fields from computational models of cells, tissues and organs.
