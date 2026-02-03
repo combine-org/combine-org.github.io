@@ -15,6 +15,6 @@ user_groups:
 - Related Standardization Efforts
 
 interests:
-- The [NineML][https://app.readthedocs.org/projects/nineml-spec/downloads/pdf/latest/] standard (showcased [here](https://v1.opensourcebrain.org/projects/ninemlshowcase)) is designed to facilitate the exchange neuronal network models between researchers and simulator platforms.
+- The [NineML](https://app.readthedocs.org/projects/nineml-spec/downloads/pdf/latest/) standard (showcased [here](https://v1.opensourcebrain.org/projects/ninemlshowcase)) is designed to facilitate the exchange neuronal network models between researchers and simulator platforms.
 
 ---
