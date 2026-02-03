@@ -17,6 +17,6 @@ user_groups:
 - Associated Standards
 
 interests:
-- <a rel="nofollow" class="external text" href="http://co.mbine.org/standards/omex-metadata">COMBINE archive metadata</a> provides a harmonized, community-driven approach for annotating a variety of standardized model and data representation formats within a COMBINE archive.
+- <a rel="nofollow" class="external text" href="https://identifiers.org/combine.specifications:omex-metadata">COMBINE archive metadata</a> provides a harmonized, community-driven approach for annotating a variety of standardized model and data representation formats within a COMBINE archive.
 
 ---
