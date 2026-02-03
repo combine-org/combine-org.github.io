@@ -7,6 +7,7 @@
   { "old": "/standards/cellml/1/0", "new": "https://identifiers.org/combine.specifications:cellml.1.0" },
   { "old": "/standards/cellml/1/1", "new": "https://identifiers.org/combine.specifications:cellml.1.1" },
   { "old": "/standards/omex", "new": "https://identifiers.org/combine.specifications:omex" },
+  { "old": "/documents/archive", "new": "https://identifiers.org/combine.specifications:omex" },
   { "old": "/standards/omex/version-1", "new": "https://identifiers.org/combine.specifications:omex.version-1" },
   { "old": "/standards/omex-manifest", "new": "https://identifiers.org/combine.specifications:omex-manifest" },
   { "old": "/standards/omex-metadata", "new": "https://identifiers.org/combine.specifications:omex-metadata" },
