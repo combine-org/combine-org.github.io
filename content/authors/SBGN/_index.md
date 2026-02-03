@@ -23,13 +23,13 @@ social:
   link: 'mailto:sbgn-discuss@googlegroups.com'
 - icon: file
   icon_pack: fas
-  link: http://co.mbine.org/specifications/sbgn.pd.level-1
+  link: https://identifiers.org/combine.specifications:sbgn.pd.level-1
 - icon: file
   icon_pack: fas
-  link: http://co.mbine.org/freelinking/standards/sbgn/er/level-1/version-2%20
+  link: https://identifiers.org/combine.specifications:sbgn.er.level-1
 - icon: file
   icon_pack: fas
-  link: http://co.mbine.org/freelinking/standards/sbgn/er/level-1/version-2%20
+  link: https://identifiers.org/combine.specifications:sbgn.af.level-1
 - icon: quote-left
   icon_pack: fas
   link: http://identifiers.org/pubmed/19668183
