@@ -98,7 +98,7 @@ The following is the list of known attendees as of 24/04/2023 23:58:54 UTC (72 t
 | Bryan Bartley | Raytheon BBN | In person <br/> SBOL and SBOL Visual  |
 | Jacob Beal | Raytheon BBN | In person <br/> SBOL and SBOL Visual  |
 | Frank Bergmann | Heidelberg University | In person <br/> COMBINE Archive, SBGN, SBML, SED-ML <br/>COPASI (copasi.org), basico (basico.rtfd.io), libsbml, libsedml, libcombine |
-| Lutz Brusch | Technische Universität Dresden, Germany | Remotely (virtually) <br/> Multicellular modeling, SBML <br/>COMBINE Archive and OMEX, PEtab, MorpheusML, SBML-Spatial, FAIRSPACE, https://www.MultiCellML.org  |
+| Lutz Brusch | Technische Universität Dresden, Germany | Remotely (virtually) <br/> Multicellular modeling, SBML <br/>COMBINE Archive and OMEX, PEtab, MorpheusML, SBML-Spatial, FAIRSPACE, https://multicellml.org/wiki/doku.php?id=start  |
 | Lukas Buecherl | University of Colorado Boulder | In person <br/> COMBINE Archive, SBML, SBOL and SBOL Visual, SED-ML <br/>Genetic Design Automation |
 | Kevin Chen | University of Washington | In person <br/> BioPAX, CellML, COMBINE Archive, NeuroML, OMEX Metadata, SBML, SED-ML  |
 | Rafael Costa | FCT-NOVA, NOVA School of Science and Technology | Remotely (virtually) <br/> COMBINE Archive, SBML  |

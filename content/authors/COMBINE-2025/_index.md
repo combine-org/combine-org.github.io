@@ -110,7 +110,7 @@ Participants that have registered on Eventbrite and provided consent on Google r
   <li><a href="https://morgridge.org/profile/anthony-gitter/">Anthony Gitter</a>, &nbsp;	Morgridge Institute & University of Wisconsin-Madison, USA</li>
   <li><a href="https://wid.wisc.edu/people/jo-handelsman/">Jo Handelsman</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
   <li><a href="https://cos.northeastern.edu/people/herbie-levine/">Herbert Levine</a>, &nbsp; 	Northeastern University, USA</li>
-  <li><a href="https://bact.wisc.edu/people_profile.php?t=rf&p=emajumder">Erica Majumder</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
+  <li>Erica Majumder, &nbsp;	University of Wisconsin-Madison, USA</li>
   <li><a href="https://engineering.wisc.edu/directory/profile/megan-mcclean/">Megan Mcclean</a>, &nbsp;	University of Wisconsin-Madison, USA</li>
   <li><a href="https://facultydirectory.uchc.edu/profile?profileId=Moraru-Ion">Ion Moraru</a>, &nbsp;		UConn Health, USA</li>
   <li><a href="https://www.colorado.edu/ecee/chris-myers">Chris Myers</a>, &nbsp;		University of Colorado-Boulder, USA</li>
