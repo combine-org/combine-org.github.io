@@ -262,7 +262,7 @@ This tutorial (https://sikaoguo22.github.io/NERDSSTutorial/ ) is intended for re
 PySB (Python Systems Biology) is a powerful and versatile biological modeling tool that has gained prominence in systems biology. It provides a Python-based programming platform with a rule-based framework for constructing dynamic models of sophisticated biochemical systems, enabling researchers to simulate and analyze complex cellular processes. This unique tool empowers researchers to modularly define molecular interactions and transformations, facilitating the representation of a wide array of biological processes in a simple, interpretable way. PySB accommodates both stochastic and deterministic simulation methods, providing a comprehensive view of system behavior. Its seamless integration with various model calibration, analysis, and visualization libraries further assists researchers in interpreting simulation results effectively. In this tutorial session, we aim to walk the attendants through the foundations of PySB, show them how it works, and provide them with hands-on experience.  
 
 Relevant Resources:
-PySB Paper: https://www.embopress.org/doi/full/10.1038/msb.2013.1
+PySB Paper: https://identifiers.org/doi/10.1038/msb.2013.1
 PySB Website: https://pysb.org/
 PySB GitHub: https://github.com/pysb/pysb
 PySB Tutorial: https://pysb.readthedocs.io/en/stable/tutorial.html
