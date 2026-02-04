@@ -29,7 +29,7 @@ weight: 1
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- <a rel="nofollow" class="external text" href="http://www.fieldml.org/">FieldML</a>'s (Field Modelling/Markup Language) goal is to be a declarative language for building hierarchical models represented by generalized mathematical fields. Its primary use will be to represent the dynamic geometry and solution fields from computational models of cells, tissues and organs.
+- <a rel="nofollow" class="external text" href="https://physiomeproject.org/software/fieldml">FieldML</a>'s (Field Modelling/Markup Language) goal is to be a declarative language for building hierarchical models represented by generalized mathematical fields. Its primary use will be to represent the dynamic geometry and solution fields from computational models of cells, tissues and organs.
 
 #projects:
 #- <a href="https://synbioks.github.io/">SBKS</a>
@@ -58,7 +58,7 @@ interests:
 social:
 - icon: star
   icon_pack: fas
-  link: http://www.fieldml.org/
+  link: https://physiomeproject.org/software/fieldml
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:biopax-discuss@googlegroups.com'
@@ -94,5 +94,3 @@ user_groups:
 # - SBOL Designer Tool
 # - SynBioHub Plugins Tool
 ---
-
-<a rel="nofollow" class="external text" href="http://www.fieldml.org/">FieldML</a>'s (Field Modelling/Markup Language) goal is to be a declarative language for building hierarchical models represented by generalized mathematical fields. Its primary use will be to represent the dynamic geometry and solution fields from computational models of cells, tissues and organs.
