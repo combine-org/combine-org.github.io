@@ -99,7 +99,7 @@ The closest airport is the [Stuttgart Airport (STR)](https://www.stuttgart-airpo
 
 <h3>Accomodation</h3>
 
-There are no hotels at the workshop venue. However, you can find accommodations along the S-Bahn route, such as near the stations "Hauptbahnhof", "Stadtmitte", "Feuersee" or „Schwabstraße" (e.g. Studierendenhotel Stuttgart (was www.studierendenhotel-stuttgart.de/en), [Römerhof Vaihingen](https://roemerhof-kulinarium.de/en/roemerhof/)). From these stations you will need approximately 15-20 minutes to the campus.
+There are no hotels at the workshop venue. However, you can find accommodations along the S-Bahn route, such as near the stations "Hauptbahnhof", "Stadtmitte", "Feuersee" or „Schwabstraße" (e.g. [Studierendenhotel Stuttgart](https://www.studierendenhotel-stuttgart.de/en), [Römerhof Vaihingen](https://roemerhof-kulinarium.de/en/roemerhof/)). From these stations you will need approximately 15-20 minutes to the campus.
 
 
 ### <a name="Breakouts"></a>Breakout sessions
