@@ -80,7 +80,7 @@ social:
   link: https://orcid.org/0000-0002-5886-5563
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.medizin.uni-greifswald.de/de/home/
+  link: https://www.unimedizin-greifswald.de/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
