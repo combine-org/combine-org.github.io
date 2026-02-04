@@ -20,7 +20,7 @@ important_links:
 - name: Registration
   link: https://forms.gle/Em226LwEQsuJedkf7
 - name: Zoom stream registration
-  link: https://hu-berlin.zoom.us/meeting/register/u5EocOGoqzgiE9LPwbHLtC-m_6UTn7LCXx6X
+  link: (no longer valid - was hu-berlin.zoom.us/meeting/register/u5EocOGoqzgiE9LPwbHLtC-m_6UTn7LCXx6X)
 
 # - name: Breakouts/Tutorials submission
 #   link: https://forms.gle/4VHZTxR5FcY2GLhR8
@@ -59,9 +59,9 @@ user_groups:
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. COMBINE 2022 will be a workshop-style event with oral presentations, breakout sessions and tutorials. The three meeting days will include talks about the COMBINE standards and associated or related standardization efforts, presentations of tools using these standards, breakout sessions for detailed discussions as well as tutorials.
 
-COMBINE 2022 will be an **in-person meeting** organised as a satellite to the [ICSB 2022 meeting](https://www.icsb2022.berlin/) in Berlin.
+COMBINE 2022 will be an **in-person meeting** organised as a satellite to the ICSB 2022 meeting in Berlin.
 
-The daily welcomes, wrap-up and the COMBINE forum will be streamed online. Please register via the following link for the stream: https://hu-berlin.zoom.us/meeting/register/u5EocOGoqzgiE9LPwbHLtC-m_6UTn7LCXx6X
+The daily welcomes, wrap-up and the COMBINE forum will be streamed online. Please register via the following link for the stream: (was hu-berlin.zoom.us/meeting/register/u5EocOGoqzgiE9LPwbHLtC-m_6UTn7LCXx6X)
 
 The COMBINE 2022 meeting is organised by Dagmar Waltemath and Matthias König.
 
@@ -106,9 +106,9 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | 10:30am | <i>Break / Coffee</i> |
 | 11am | <i>Breakouts & Tutorials 2</i> <br/>**Tutorial**:<br/> - Room 3 (House 18, Maut Menten): CovidGraph: Interfaces and Usage (Lea Gütebier) <br/> **Breakouts**: <br/> - Room 2 (House 4, 012a): Parametric SVG for SBOL Visual (Thomas Gorochowski) <br/> - Room 1 (House 4, Lecture Hall): SED-ML Level 2: Proposals and Requirements |
 | 12:30pm | <i>Lunch</i> (self organized) |
-| 2pm | <i>Breakouts & Tutorials 3</i><br/>**Tutorial**: <br/> - Room 3 (House 18, Maud Menten): Clinical trial simulations with the Jinkō modeling platform <br/> **Breakouts**: <br/> - Room 2 (House 4, 012a): SBOL 3.1 (Gonzalo Vidal)<br/> - Room 1 (House 4, Lecture hall): Curating models and simulations for BioSimulations (David Nickerson)<br/> - [online](https://us02web.zoom.us/j/88377443615?pwd=M1FSaEV2OGwrdDlWMUNkYTBseUpSQT09): Protocol Activity Modeling Language Standard Working Group (Daniel Bryce) |
+| 2pm | <i>Breakouts & Tutorials 3</i><br/>**Tutorial**: <br/> - Room 3 (House 18, Maud Menten): Clinical trial simulations with the Jinkō modeling platform <br/> **Breakouts**: <br/> - Room 2 (House 4, 012a): SBOL 3.1 (Gonzalo Vidal)<br/> - Room 1 (House 4, Lecture hall): Curating models and simulations for BioSimulations (David Nickerson)<br/> - online: Protocol Activity Modeling Language Standard Working Group (Daniel Bryce) |
 | 3:30pm | <i>Break / Coffee</i> |
-| 4pm | <i>Breakouts & Tutorials 4</i> <br/>**Breakouts**: <br/> - Room 2 (House 4, 012a): Representation of Site-Variant Libraries (James Diggans) <br/> - Room 1 (House 4, Lecture Hall): VSCode-Antimony: A Smart Editor for Developing Models in Systems Biology (Joe Hellerstein/Herbert Sauro) <br/> - [online](https://us02web.zoom.us/j/88377443615?pwd=M1FSaEV2OGwrdDlWMUNkYTBseUpSQT09): Protocol Activity Modeling Language Standard Working Group |
+| 4pm | <i>Breakouts & Tutorials 4</i> <br/>**Breakouts**: <br/> - Room 2 (House 4, 012a): Representation of Site-Variant Libraries (James Diggans) <br/> - Room 1 (House 4, Lecture Hall): VSCode-Antimony: A Smart Editor for Developing Models in Systems Biology (Joe Hellerstein/Herbert Sauro) <br/> - online: Protocol Activity Modeling Language Standard Working Group |
 | 5:30pm | Wrap-up (House 4, Lecture Hall) |
 
 <br/>
@@ -121,9 +121,9 @@ The main entry is at Philippstraße 13. The main event site is in House 4, where
 | 10:30am | <i>Break / Coffee</i> |
 | 11am | <b><i>Breakouts & Tutorials 6</i></b><br/> **Breakouts**: <br/> - Room 3 (House 20, Seminar Room 1): SBOL Examples (Prashant Vaidyanathan) <br/> - Room 2 (House 4, 012a): FAIRness assessment of COMBINE archives (Irina Balaur, Dagmar Waltemath) <br/> - Room 1 (House 4, Lecture Hall): MultiCellML -- a "to-be" Multi-cellular Modelling language (Jörn Starruß)<br/> - Room 4 (House 20, Seminar Room 2): SBML FBC Package Finalization (Matthias König) |
 | 12:30pm | <i>Lunch</i> (self organized) |
-| 2pm | <b><i>Breakouts & Tutorials 7</i></b> <br/>**Tutorial**: <br/> - Room 1 (House 4, Lecture Hall): Creating reproducible biochemical modeling workflows in Python (Part 1) <br/> **Breakouts**: <br/> - Room 3 (House 20, Seminar Room 1): RNA Working Group Discussions (Thomas Gorochowski) <br/> - Room 2 (House 4, 012a): FAIRness assessment of COMBINE archives <br/> - Room 4 (House 20, Seminar Room 2): MultiCellML -- a "to-be" Multi-cellular Modelling language (Jörn Starruß) <br/> - [online](https://us02web.zoom.us/j/88377443615?pwd=M1FSaEV2OGwrdDlWMUNkYTBseUpSQT09): Protocol Activity Modeling Language Standard Working Group (Daniel Bryce) |
+| 2pm | <b><i>Breakouts & Tutorials 7</i></b> <br/>**Tutorial**: <br/> - Room 1 (House 4, Lecture Hall): Creating reproducible biochemical modeling workflows in Python (Part 1) <br/> **Breakouts**: <br/> - Room 3 (House 20, Seminar Room 1): RNA Working Group Discussions (Thomas Gorochowski) <br/> - Room 2 (House 4, 012a): FAIRness assessment of COMBINE archives <br/> - Room 4 (House 20, Seminar Room 2): MultiCellML -- a "to-be" Multi-cellular Modelling language (Jörn Starruß) <br/> - online: Protocol Activity Modeling Language Standard Working Group (Daniel Bryce) |
 | 3:30pm | <i>Break / Coffee</i> |
-| 4pm | <b><i>Breakouts & Tutorials 8</i></b> <br/>**Tutorial**:<br/> - Room 1 (House 4, Lecture Hall): Creating reproducible biochemical modeling workflows in Python (Part 2) <br/> **Breakouts**: <br/> - Room 3 (House 20, Seminar Room 1): RNA Working Group Discussions <br/> - Room 4 (House 20, Seminar Room 2): "Data Hazards: framework for thinking ethics in computational systems biology (Susana Roman Garcia)" <br/> - Room 2 (House 4, 012a): SBGN general discussion (Adrien Rougny) <br/> - [online](https://us02web.zoom.us/j/88377443615?pwd=M1FSaEV2OGwrdDlWMUNkYTBseUpSQT09): Protocol Activity Modeling Language Standard Working Group (Daniel Bryce) |
+| 4pm | <b><i>Breakouts & Tutorials 8</i></b> <br/>**Tutorial**:<br/> - Room 1 (House 4, Lecture Hall): Creating reproducible biochemical modeling workflows in Python (Part 2) <br/> **Breakouts**: <br/> - Room 3 (House 20, Seminar Room 1): RNA Working Group Discussions <br/> - Room 4 (House 20, Seminar Room 2): "Data Hazards: framework for thinking ethics in computational systems biology (Susana Roman Garcia)" <br/> - Room 2 (House 4, 012a): SBGN general discussion (Adrien Rougny) <br/> - online: Protocol Activity Modeling Language Standard Working Group (Daniel Bryce) |
 | 5:30pm | Wrap-up (House 4, Lecture Hall) |
 
 | &nbsp; | &nbsp; |
