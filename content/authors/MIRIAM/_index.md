@@ -51,14 +51,14 @@ MIRIAM guidelines are composed of three parts: #Reference correspondence, #Attri
 * The referenced information should be described using a triplet {collection, identifier, qualifier}:
 * The annotation should be written as a Uniform Resource Identifier (URI).
 * The identifier should be considered within the context of the framework of the collection.
-* Collection namespace and identifier are be combined into a single URI, such as: https://identifiers.org/collection/identifier. For example: https://identifiers.org/uniprot/P62158.
+* Collection namespace and identifier are be combined into a single URI, such as: https:&#47;&#47;identifiers.org/collection/identifier. For example: https://identifiers.org/uniprot/P62158.
 * Qualifiers (optional) should refine the link between the model constituent and the piece of knowledge: “has a”, “is version of”, “is homolog to”, etc.
 * The standard set of valid URIs is agreed upon by the community. A database and the associated API (Web Services) have been developed at the EBI to provide the generation and interpretation of URIs.
 
 ## MIRIAM URIs
 An important part of the MIRIAM guidelines consists of the controlled annotation of model components, based on Uniform Resource Identifiers (URIs). In order to support this task, a set of controlled URIs were created: MIRIAM URIs. These allowed the unique and unambiguous identification of a model component, in a stable and perennial manner. The #MIRIAM Registry and Identifiers.org system are a set of services and resources that provide support for generating, interpreting and resolving MIRIAM URIs.
 
-MIRIAM URIs are composed of two main parts: the first defines a namespace that particular 'entities of the same type' may occupy. This is called a collection. The second component precisely identifies a given entity within this collection, called a record. For example, 'https://identifiers.org/pubmed/16333295' is the MIRIAM URI that identifies the publication of the MIRIAM Standard within the PubMed data collection. Here, 'https://identifiers.org/pubmed' defines the collection (PubMed), and '16333295' precisely identifies the record within it.
+MIRIAM URIs are composed of two main parts: the first defines a namespace that particular 'entities of the same type' may occupy. This is called a collection. The second component precisely identifies a given entity within this collection, called a record. For example, https://identifiers.org/pubmed/16333295 is the MIRIAM URI that identifies the publication of the MIRIAM Standard within the PubMed data collection. Here, https://identifiers.org/pubmed defines the collection (PubMed), and '16333295' precisely identifies the record within it.
 
 ## MIRIAM Registry and Identifiers.org
 In order to enable the interoperability of this annotation scheme, the community has to agree upon a set of recognised collections. The MIRIAM Registry is an online service created to catalogue these collections, their URIs and the corresponding physical URLs or resources, whether they are controlled vocabularies or databases.
@@ -78,7 +78,7 @@ BMC Systems Biology, 1: 58
 
 Le Novère N, Courtot M, Laibe C (2007)
 Adding semantics in kinetics models of biochemical pathways.
-Proceedings of the 2nd International Symposium on experimental standard conditions of enzyme characterizations, available at http://www.beilstein-institut.de/index.php?id=196
+Proceedings of the 2nd International Symposium on experimental standard conditions of enzyme characterizations
 
 Le Novère N., Finney A., Hucka M., Bhalla U., Campagne F., Collado-Vides J., Crampin E., Halstead M., Klipp E., Mendes P., Nielsen P., Sauro H., Shapiro B., Snoep J.L., Spence H.D., Wanner B.L. (2005)
 Minimum Information Requested In the Annotation of biochemical Models (MIRIAM)

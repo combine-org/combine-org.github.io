@@ -196,7 +196,7 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 | Carissa Bleker | National Institute of Biology, Slovenia | COMBINE Archive, Multicellular modeling, SBGN, SBML, SED-ML, FROG, ELIXIR Systems Biology community |
 | Chris Evelo | Maastricht University, The Netherlands | BioPAX, SBGN, SBML, WikiPathways, ELIXIR's task on PBPK modelling and SBML conversions for that |
 | Francis Chemorion | University of Pompeu Fabra, InSilicoTrials Technologies | BioPAX, CellML, COMBINE Archive, Multicellular modeling, NeuroML, OMEX Metadata, SBGN, SBML, SBOL and SBOL Visual, SED-ML, PE-TAB, FROG, I am a phd student researching the management of clinical, biological and simulated data for uniform simulation workflows in the Disc4All project https://disc4all.upf.edu |
-| Gaoxiang(Gavin) Zhou | University of Pittsburgh, 4200 Fifth Ave, Pittsburgh PA 15260 | BioPAX, CellML, COMBINE Archive, SBML, SBOL and SBOL Visual, PE-TAB, Dish2.0 https://github.com/pitt-miskov-zivanov-lab/DiSH   BioRECIPE https://github.com/pitt-miskov-zivanov-lab/BioRECIPE         Model analysis in sensitivity etc |
+| Gaoxiang(Gavin) Zhou | University of Pittsburgh, 4200 Fifth Ave, Pittsburgh PA 15260 | BioPAX, CellML, COMBINE Archive, SBML, SBOL and SBOL Visual, PE-TAB, Dish2.0 https://github.com/pitt-miskov-zivanov-lab/   BioRECIPE https://github.com/pitt-miskov-zivanov-lab/BioRECIPE         Model analysis in sensitivity etc |
 | Haomiao Luo | University of Pittsburgh | BioRECIPE, CAR T cell, DiSH, BioRECIPE, http://www.nmzlab.pitt.edu |
 | Herbert Sauro | University of Washington, Seattle, USA | COMBINE Archive, Multicellular modeling, OMEX Metadata, SBML, SED-ML |
 | Ilya Kiselev | Biosoft.ru | CellML, COMBINE Archive, Multicellular modeling, SBGN, SBML, SED-ML, BioUML platform |
@@ -214,7 +214,7 @@ This meeting has been generously supported by the <a href="https://www.kavlifoun
 | Qi Wu | HITS |  |
 | Randy Heiland | Indiana University, Bloomington, IN USA | CellML, Multicellular modeling, SED-ML, PhysiCell, CompuCell3D |
 | Thomas Gorochowski | University of Bristol | SBOL and SBOL Visual |
-| Veronica Henao | Universidad de Antioquia | COMBINE Archive, NeuroML, https://www.canva.com/design/DAFmX5dbOQA/5y0xNdtqzE7RmHXdCERZ3w/view?website#4 |
+| Veronica Henao | Universidad de Antioquia | COMBINE Archive, NeuroML |
 
 
 

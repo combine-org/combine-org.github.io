@@ -18,12 +18,6 @@ important_dates:
 - name: HARMONY Workshop
   date: 22-26th March 2021
 
-important_links:
-- name: Agenda
-  link: http://co.mbine.org/events/COMBINE_2019/attendees
-- name: Conference Book
-  link: http://co.mbine.org/events/COMBINE_2019/attendees
-
 information:
 - name: Registration
   description: Registration for the meeting is open and is free. Please register at the link below as soon as possible. This will help us plan the schedule and match your interests to the timing of the breakouts, etc. Note, only registered attendees will be sent information related to video conferencing links, etc.
@@ -55,4 +49,4 @@ user_groups:
 ---
 The Computational Modeling in Biology Network (COMBINE) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
 
-HARMONY 2021 will be an online only meeting similar to COMBINE 2020 (http://co.mbine.org/events/COMBINE_2020). Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
+HARMONY 2021 will be an online only meeting similar to COMBINE 2020. Most of the day will be scheduled by the communities as breakouts. In addition, we will have some time each day for community discussion and wrap-ups of breakouts and advertisements for following breakouts.
