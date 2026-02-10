@@ -67,26 +67,79 @@ user_groups:
 
 ---
 
-<img src="/images/harmony2024/combine_london24.png" alt="demo" class="img-responsive">
+<img src="/images/combine.png" alt="COMBINE 2026" class="img-responsive">
 <br/>
 
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology and related fields. **COMBINE 2026** will be a workshop-style event hosted at Keele University, UK.
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. **COMBINE 2026** will be a workshop-style event hosted at Keele University, UK.
 
-Local organizers are <a href="mailto:g.misirli@keele.ac.uk">Goksel Misirli</a> and colleagues. 
+Local organisers are <a href="mailto:g.misirli@keele.ac.uk">Goksel Misirli</a>, <a href="mailto:m.unal@keele.ac.uk">Metehan Unal</a>, and Roberto Galizi. 
 
 <h3>Workshop Location</h3>
+COMBINE 2026 will take place at <a href="https://www.keele.ac.uk/">Keele University</a> in Newcastle under Lyme, Staffordshire, ST5 5NS, United Kingdom. The conference will be held at the <a href="https://keele-conference.com/venue/denise-coates-foundation-building-keele-campus/">Smart Innovation Hub</a> (also known as Innovation Centre 6).
+<br/><br/>
+The Think Lab (LG0.31) will be used as the main room on the lower ground floor. Please see the <a href="https://keele-conference.com/wp-content/uploads/2023/03/Denise-Coates-Foundation-Building-Floor-Plan.pdf">floor plan</a>. A lift is available from the upper ground floor. The lower ground floor has also its own access from outside. Please contact us should you require assistance prior to your arrival. 
+<br><br>
+In addition to the main room, three breakout rooms will be available after 12:00. All of the rooms are located on the lower ground floor.
+
+  * Open Innovation - LG.035 (up to 34 people)
+  * Executive Boardroom - LG.035 (up to 20 people)
+  * Boardroom - LG.036 (up to 14 people)
+
 
 <h3>Schedule</h3>
 
 The schedule will be available here.
- 
+<br><br><br>
+
+<h4>Posters</h4>
+The posters will be displayed on Monday, 7 Sep. A0 poster boards will be available in the <a href="https://keele-conference.com/room/atrium-at-denise-coates-building/">Atrium</a>. Please make sure to submit your poster abstracts.
+
+<h4>COMBINE Dinner</h4>
+The registration also includes a three course banquet dinner, which will be on Monday at 19:00 and held in <a href="https://keele-conference.com/room/the-salvin-room-at-keele-hall/">Salvin Room</a> at <a href="https://keele-conference.com/venues-conference-space-in-staffordshire/keele-hall-small-meetings-at-keele/">Keele Hall</a> (number 15 on <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">the Keele campus map on page 3</a>). Please advise the organisers if you have any allergies, intolerances or special dietary requirements, using the registration form.
+
+
 <h3>Arrival and Transportation</h3>
+Please see <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">the Delegate Information Sheet on page 2 </a> for travelling to Keele. You will find information about the nearby airports, and getting to Keele by rail or car. 
+<br><br>
+Additional information can be found at:<br/>
+<a href="https://keele-conference.com/delegates-visitors-how-to-get-to-keele/">https://keele-conference.com/delegates-visitors-how-to-get-to-keele/</a>
+<br/><br/>
+The venue, Smart Innovation Hub, is marked as number 51 (close to the main university entrance) on <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">the Keele campus map on page 3</a>. The post code for the building is ST5 5NS. 
+<br/>
+<h4>Parking</h4>
+For those who plan to arrive by car, please see the <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">the car parking section on page 1</a>. You must register your car prior to arrival at Keele. We will share a link for you to register your details closer to the event. If you have any questions, please contact the organisers.
+<br><br>
+Once registered, car parking is available in <a href="https://maps.app.goo.gl/mTNGsdeyREVucvxq6">Plot 7 </a>, also known as A3 (see <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">page 3 on the Delegate Information Sheet</a>).
 
-Information to come.
 
-<h3>Accommodations and meals</h3>
+
+<h3>Accommodation</h3>
+Some accommodation options are listed below. There are several other options available in Newcastle-under-Lyme and Stoke-on-Trent. Some of the nearby hotels:
+
+*  Courtyard by Marriott: The hotel is on campus and just opposite of the venue. 95.00 GBP per night if you book using <a href="TODO"> this link [TODO] </a>. Number 45 (close to the main university entrance) on <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">the Keele campus map on page 3</a>.
+*  <a href="https://www.travelodge.co.uk/hotels/424/Newcastle-Under-Lyme-Central-hotel">Travelodge - Newcastle under Lyme</a>
+* <a href="https://www.ihg.com/holidayinn/hotels/gb/en/newcastle-under-lyme/xwhsf/hoteldetail">Holiday Inn - Newcastle under Lyme</a>
+* There are also other options such as Premier Inn and Hilton.
+
+
+
+
+<h3>Meals</h4>
+The registration includes a two-course buffet lunch, which will be in the <a href="https://keele-conference.com/room/atrium-at-denise-coates-building/">Atrium</a> on the lower ground floor. Please advise the organisers if you have any allergies, intolerances or special dietary requirements, using the registration form. Tea and coffee will also be provided during the breaks. 
+<br><br>
+There is also a small cafe on the lower ground floor, which offers a selection of teas, coffees, breakfast, lunch, snacks and sweet treats.
+<br><br>
+For more options, please see below:<br>
+
+https://www.keele.ac.uk/study/student-life/campuscommunity/food-and-drink/restaurantsbarsandcafes/
+
+https://www.keele.ac.uk/study/student-life/campuscommunity/food-and-drink/shopsandvending/
 
 <h3>Power outlet</h3>
+<img src="./plug.jpg" alt="UK plug" class="img-responsive" width="200" height="200">
+
+[G-type](https://www.endesa.com/en/blogs/endesa-s-blog/light/types-plugs-travel#:~:text=G%2Dtype%20plugs%2C%20the%20most,a%20triangular%20or%20t%20position.) plugs are used in the UK.
 
 <h3>Support</h3>
+This event is supported by BBSRC (BB/Z517367/1) and the School of Computer Science and Mathematics, Keele University.
 
