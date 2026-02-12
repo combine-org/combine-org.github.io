@@ -33,8 +33,8 @@ important_links:
 #  link: 
   - name: Registration
     link: https://forms.gle/hZsttWHuz5TefRmu8
-#  - name: Break-out and tutorial submission
-#     link: https://forms.gle/WR6DsCnkT3NC2F6fA
+  - name: Breakout and tutorial submission
+    link: https://forms.gle/WR6DsCnkT3NC2F6fA
   - name: Talk, lightning talk, and poster submission
     link: https://forms.gle/2JdPBoJNwRtJd8UC6
 #- <!-- name: Application for travel support
