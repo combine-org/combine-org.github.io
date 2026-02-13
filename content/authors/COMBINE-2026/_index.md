@@ -80,6 +80,12 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 
 Local organisers are <a href="mailto:g.misirli@keele.ac.uk">Goksel Misirli</a>, <a href="mailto:m.unal@keele.ac.uk">Metehan Unal</a>, and Roberto Galizi. 
 
+<h3>Confirmed Invited Speakers</h3>
+
+  * Geoff Baldwin, Centre for Engineering Biology, Imperial College, UK
+  * Rahuman Sheriff, European Bioinformatics Institute, European Molecular Biology Laboratory (EMBL-EBI), UK
+  * Gary Mirams, Centre for Mathematical Medicine & Biology, University of Nottingham, UK
+
 <h3>Workshop Location</h3>
 COMBINE 2026 will take place at <a href="https://www.keele.ac.uk/">Keele University</a> in Newcastle under Lyme, Staffordshire, ST5 5NS, United Kingdom. The conference will be held at the <a href="https://keele-conference.com/venue/denise-coates-foundation-building-keele-campus/">Smart Innovation Hub</a> (also known as Innovation Centre 6).
 <br/><br/>
@@ -148,4 +154,15 @@ https://www.keele.ac.uk/study/student-life/campuscommunity/food-and-drink/shopsa
 
 <h3>Support</h3>
 This event is supported by BBSRC (BB/Z517367/1) and the School of Computer Science and Mathematics, Keele University.
+
+<br>
+
+<img src="./ukri-bbsrc-square-logo.png" alt="UKRI BBSRC Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px;">
+<img src="./Keele.jpg" alt="Keele University Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px;">
+
+
+
+
+
+
 
