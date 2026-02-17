@@ -157,12 +157,9 @@ This event is supported by BBSRC (BB/Z517367/1) and the School of Computer Scien
 
 <br>
 
-<img src="./ukri-bbsrc-square-logo.png" alt="UKRI BBSRC Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px;">
-<img src="./Keele.jpg" alt="Keele University Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px;">
-
-
-
-
-
+<img src="./ukri-bbsrc-square-logo.png" alt="UKRI BBSRC Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
+<img src="./Keele.jpg" alt="Keele University Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
+<img src="./marieCurie.jpg" alt="Marie Skłodowska-Curie Actions Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
+<img src="./EffectFact.gif" alt="Effect Fact Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-top: 20px;">
 
 
