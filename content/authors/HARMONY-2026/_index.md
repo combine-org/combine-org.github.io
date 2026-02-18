@@ -67,7 +67,7 @@ topics:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Events
+  - Past Events
 ---
 
 <img src="/images/combine.png" alt="combine logo" class="img-responsive">
@@ -75,7 +75,7 @@ user_groups:
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
 
-HARMONY 2026 will be held at the **University of Auckland**.
+HARMONY 2026 was held at the **University of Auckland**.
 
 Local organizers are <a href="mailto:d.nickerson@auckland.ac.nz">David Nickerson</a>,  <a href="mailto:weiwei.ai@auckland.ac.nz">Weiwei Ai</a>,  <a href="mailto:j.dowrick@auckland.ac.nz">Jarrah Dowrick</a>,  <a href="mailto:a.garny@auckland.ac.nz">Alan Garny</a>, and  <a href="mailto:h.sorby@auckland.ac.nz">Hugh Sorby</a> at the Auckland Bioengineering Institute.
 
@@ -87,9 +87,9 @@ On this page you can find conference accommodation rates, venue and transport in
 
 ## Workshop Location
 
-HARMONY 2026 will be held at the University of Auckland. It will be co-located with the <a href="https://www.cardiacphysiome.org/meetings/2026-cardiopulmonary-physiome-workshop/">2026 Cardiopulmonary Physiome Workshop</a>.
+HARMONY 2026 was held at the University of Auckland. It will be co-located with the <a href="https://www.cardiacphysiome.org/meetings/2026-cardiopulmonary-physiome-workshop/">2026 Cardiopulmonary Physiome Workshop</a>.
 
-The workshop will take place at:
+The workshop took place at:
 
 The Faculty of Engineering  (Building 401)
 Atrium (Room 418)
