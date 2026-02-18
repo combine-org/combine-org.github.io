@@ -152,8 +152,11 @@ https://www.keele.ac.uk/study/student-life/campuscommunity/food-and-drink/shopsa
 
 [G-type](https://www.endesa.com/en/blogs/endesa-s-blog/light/types-plugs-travel#:~:text=G%2Dtype%20plugs%2C%20the%20most,a%20triangular%20or%20t%20position.) plugs are used in the UK.
 
+<h3>Visa</h3>
+Please check <a href="https://www.gov.uk/check-uk-visa">here</a> if you require a visa. If you need a letter to support your application, please contact the organisers. Additionally, if you need confirmation that a talk, poster, or breakout session will be accepted before the confirmation deadline, please contact the organisers.
+
 <h3>Support</h3>
-This event is supported by BBSRC (BB/Z517367/1) and the School of Computer Science and Mathematics, Keele University.
+We gratefully acknowledge the support of the Biotechnology and Biological Sciences Research Council (BB/Z517367/1), the School of Computer Science and Mathematics at Keele University, and the EU H2020 grant MSCA-RISE-2020-101008140-EffectFact.
 
 <br>
 
