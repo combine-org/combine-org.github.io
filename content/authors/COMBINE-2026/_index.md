@@ -148,7 +148,7 @@ https://www.keele.ac.uk/study/student-life/campuscommunity/food-and-drink/restau
 https://www.keele.ac.uk/study/student-life/campuscommunity/food-and-drink/shopsandvending/
 
 <h3>Power outlet</h3>
-<img src="./plug.jpg" alt="UK plug" class="img-responsive" width="200" height="200">
+<img src="/images/combine2026/plug.jpg" alt="UK plug" class="img-responsive" width="200" height="200">
 
 [G-type](https://www.endesa.com/en/blogs/endesa-s-blog/light/types-plugs-travel#:~:text=G%2Dtype%20plugs%2C%20the%20most,a%20triangular%20or%20t%20position.) plugs are used in the UK.
 
@@ -160,9 +160,9 @@ We gratefully acknowledge the support of the Biotechnology and Biological Scienc
 
 <br>
 
-<img src="./ukri-bbsrc-square-logo.png" alt="UKRI BBSRC Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
-<img src="./Keele.jpg" alt="Keele University Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
-<img src="./marieCurie.jpg" alt="Marie Skłodowska-Curie Actions Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
-<img src="./EffectFact.gif" alt="Effect Fact Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-top: 20px;">
+<img src="/images/combine2026/ukri-bbsrc-square-logo.png" alt="UKRI BBSRC Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
+<img src="/images/combine2026/Keele.jpg" alt="Keele University Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
+<img src="/images/combine2026/marieCurie.jpg" alt="Marie Skłodowska-Curie Actions Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
+<img src="/images/combine2026/EffectFact.gif" alt="Effect Fact Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-top: 20px;">
 
 
