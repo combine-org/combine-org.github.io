@@ -31,7 +31,7 @@ bio: Elebeoba May (Ph.D in Computer Engineering) is an Associate Professor in th
 
 interests:
 - Computational Systems Bioloy
-- Moultiscale modeling
+- Multiscale modeling
 - Reproducible science
 
 Website:
