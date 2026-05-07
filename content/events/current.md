@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear in.
 title = ""
 
 # Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
+# This should be the folder name of an event page in your `content/events/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "COMBINE-2026"
 +++

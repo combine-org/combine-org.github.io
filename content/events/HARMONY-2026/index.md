@@ -1,5 +1,7 @@
 ---
 title: HARMONY 2026
+aliases:
+- /author/harmony-2026/
 
 # Is this the primary user of the site?
 superuser: false
@@ -146,4 +148,4 @@ Type I plugs are used in New Zealand, featuring three flat pins arranged in a tr
 
 # Attendees
 
-{{< readfile "content/authors/HARMONY-2026/AttendeeList.md" >}}
+{{< readfile "content/events/HARMONY-2026/AttendeeList.md" >}}
