@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 100
+nav_label: "Events prior to 2021"
 
 # Section title
 title: ""
