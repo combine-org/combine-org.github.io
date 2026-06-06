@@ -155,6 +155,13 @@ https://www.keele.ac.uk/study/student-life/campuscommunity/food-and-drink/shopsa
 <h3>Visa</h3>
 Please check <a href="https://www.gov.uk/check-uk-visa">here</a> if you require a visa. If you need a letter to support your application, please contact the organisers. Additionally, if you need confirmation that a talk, poster, or breakout session will be accepted before the confirmation deadline, please contact the organisers.
 
+<h3> Anti-Harassment Policies </h3>
+The COMBINE community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in our meetings, email list, and other communication mechanisms in any form. Sexual language and imagery is not appropriate for any of these venues, including talks, workshops, parties, email lists, Twitter and other online media. Participants in our meetings and discussions violating these rules may be sanctioned or expelled from our mailing lists and our meetings without a refund at the discretion of the COMBINE coordinators. This policy is linked on the COMBINE website.
+
+<h3> Child Care Availabilty & Local Resources </h3>
+COMBINE 2026 does not provide child care, however local resources for short-term child care may be available through childcare.co.uk, nannyjob.co.uk, or similar services.  Additional information/resources will be shared as they become available. 
+
+
 <h3>Support</h3>
 We gratefully acknowledge the support of the Biotechnology and Biological Sciences Research Council (BB/Z517367/1), the School of Computer Science and Mathematics at Keele University, and the EU H2020 grant MSCA-RISE-2020-101008140-EffectFact.
 
