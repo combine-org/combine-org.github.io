@@ -1,5 +1,8 @@
 ---
 title: COMBINE 2023
+aliases:
+- /author/combine-2023/
+- /events/combine_2023/
 
 # Is this the primary user of the site?
 superuser: false
