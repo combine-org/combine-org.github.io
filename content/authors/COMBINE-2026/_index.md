@@ -37,8 +37,8 @@ important_links:
     link: https://forms.gle/WR6DsCnkT3NC2F6fA
   - name: Talk, lightning talk, and poster submission
     link: https://forms.gle/2JdPBoJNwRtJd8UC6
-#- <!-- name: Application for travel support
-#  link: https://forms.gle/Ta72fwz5Bt2zb4YKA -->
+  - name: Application for travel support
+    link: https://forms.gle/aoArq4TmcUVqdxCL8
 
 information:
 - name: Registration
@@ -49,10 +49,10 @@ information:
   link: https://forms.gle/WR6DsCnkT3NC2F6fA
 - name: Call for Talks, Lightning Talks and Posters
   description: Requests for a short talk, lightning talk (5 min max.) and/or poster can be submitted via the link above. This link should also be used to submit the title and abstract for invited talks. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
-- link: https://forms.gle/2JdPBoJNwRtJd8UC6
-#- name: Application for travel funding
-#  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who have a significant contribution to make to the HARMONY meeting.
-#  link: https://forms.gle/Ta72fwz5Bt2zb4YKA
+  link: https://forms.gle/2JdPBoJNwRtJd8UC6
+- name: Application for travel funding
+  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who have a significant contribution to the COMBINE meeting.
+  link: https://forms.gle/aoArq4TmcUVqdxCL8
 
 topics:
 - Data exchange, pipelines and model standards for systems and synthetic biology
