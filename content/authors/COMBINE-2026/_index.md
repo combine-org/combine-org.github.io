@@ -40,7 +40,7 @@ important_links:
   - name: Application for travel support
     link: https://forms.gle/aoArq4TmcUVqdxCL8
   - name: NSF Application for travel support - for US students
-    link: https://forms.gle/aoArq4TmcUVqdxCL8
+    link: https://forms.gle/wFfn9YveExoyibuA6
 
 information:
 - name: Registration
