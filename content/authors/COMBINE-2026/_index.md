@@ -50,9 +50,12 @@ information:
 - name: Call for Talks, Lightning Talks and Posters
   description: Requests for a short talk, lightning talk (5 min max.) and/or poster can be submitted via the link above. This link should also be used to submit the title and abstract for invited talks. Please use several forms if you want to submit abstracts on different topics. The submission deadline is outlined above. Talks will take place during the community session and posters will be displayed throughout the meeting.
   link: https://forms.gle/2JdPBoJNwRtJd8UC6
-- name: Application for travel funding
-  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who have a significant contribution to the COMBINE meeting.
+- name: Application for travel funding (towards travel and accommodation)
+  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who make significant contributions to the COMBINE meeting. To be considered for this support, please fill out the form below. Applications will be considered as they are received until funds are exhausted.  Therefore, please submit your application as soon as possible.
   link: https://forms.gle/aoArq4TmcUVqdxCL8
+- name: For US students - NSF Application for COMBINE 2026 support (towards registration, travel and accommodation)
+  description: We have funds from the National Science Foundation to help support registration, travel and lodging for the 2026 COMBINE workshop for US-based students. To be considered for this support, please fill out the form below. Applications will be considered as they are received until funds are exhausted.
+  link: https://forms.gle/wFfn9YveExoyibuA6
 
 topics:
 - Data exchange, pipelines and model standards for systems and synthetic biology
