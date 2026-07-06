@@ -56,7 +56,7 @@ information:
   description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who make significant contributions to the COMBINE meeting. To be considered for this support, please fill out the form below. Applications will be considered as they are received until funds are exhausted.  Therefore, please submit your application as soon as possible.
   link: https://forms.gle/aoArq4TmcUVqdxCL8
 - name: For US students - NSF Application for COMBINE 2026 support (towards registration, travel and accommodation)
-  description: We have funds from the National Science Foundation to help support registration, travel and lodging for the 2026 COMBINE workshop for US-based students. To be considered for this support, please fill out the form below. Applications will be considered as they are received until funds are exhausted.
+  description: We have funds from the National Science Foundation (NSF Award# MCB-2629009) to help support registration, travel and lodging for the 2026 COMBINE workshop for US-based students. To be considered for this support, please fill out the form below. Applications will be considered as they are received until funds are exhausted.
   link: https://forms.gle/wFfn9YveExoyibuA6
 
 topics:
