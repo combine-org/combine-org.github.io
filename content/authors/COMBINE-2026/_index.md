@@ -172,9 +172,11 @@ We gratefully acknowledge the support of the Biotechnology and Biological Scienc
 
 <br>
 
-<img src="/images/combine2026/ukri-bbsrc-square-logo.png" alt="UKRI BBSRC Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
-<img src="/images/combine2026/Keele.jpg" alt="Keele University Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
-<img src="/images/combine2026/marieCurie.jpg" alt="Marie Skłodowska-Curie Actions Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
-<img src="/images/combine2026/EffectFact.gif" alt="Effect Fact Logo" class="img-responsive" style="vertical-align: top; display: inline-block; width: 200px; margin-right: 20px; margin-top: 20px;">
-<img src="/images/combine2026/NSF.png" alt="U.S. National Science Foundation" class="img-responsive" style="vertical-align: top; display: inline-block; height: 100px; margin-top: 20px;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+<img src="/images/combine2026/ukri-bbsrc-square-logo.png" alt="UKRI BBSRC Logo" class="img-responsive" style="width: 200px;">
+<img src="/images/combine2026/Keele.jpg" alt="Keele University Logo" class="img-responsive" style="width: 200px;">
+<img src="/images/combine2026/marieCurie.jpg" alt="Marie Skłodowska-Curie Actions Logo" class="img-responsive" style="width: 200px;">
+<img src="/images/combine2026/EffectFact.gif" alt="Effect Fact Logo" class="img-responsive" style="width: 200px;">
+<img src="/images/combine2026/NSF.png" alt="U.S. National Science Foundation" class="img-responsive" style="height: 100px;">
+</div>
 
