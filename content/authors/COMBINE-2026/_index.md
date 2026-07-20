@@ -15,14 +15,14 @@ important_dates:
     date: 23 August 2026
   - name: Virtual registration closing date (virtual)
     date: 3 September 2026
-  - name: Talk, lightning talk and poster submission deadline
-    date: 19 July 2026  
-  - name: Breakout and tutorial submission deadline
-    date: 19 July 2026
+  - name: Talk, lightning talk and poster submission deadline - Extended
+    date: 23 August 2026  
+  - name: Breakout and tutorial submission deadline - Extended
+    date: 23 August 2026
   - name: Notification of acceptance for talks, lightning talks and posters
-    date: 26 July 2026
+    date: 23 August 2026
   - name: Notification of acceptance for breakouts and tutorials
-    date: 26 July 2026
+    date: 23 August 2026
 #- name: Travel support applications NOW CLOSED 
 #  date: 
 #- name: Notification of travel support awards
@@ -98,8 +98,8 @@ The Think Lab (LG0.31) will be used as the main room on the lower ground floor. 
 <br><br>
 In addition to the main room, three breakout rooms will be available after 12:00. All of the rooms are located on the lower ground floor.
 
-  * Open Innovation - LG.035 (up to 34 people)
-  * Executive Boardroom - LG.035 (up to 20 people)
+  * Open Innovation - LG.034 (up to 34 people)
+  * Innovation 1 - LG.007 (up to 24 people)
   * Boardroom - LG.036 (up to 14 people)
 
 
@@ -124,7 +124,9 @@ Additional information can be found at:<br/>
 The venue, Smart Innovation Hub, is marked as number 51 (close to the main university entrance) on <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">the Keele campus map on page 3</a>. The postcode for the building is ST5 5NS. 
 <br/>
 <h4>Parking</h4>
-For those who plan to arrive by car, please see the <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">car parking section on page 1</a>. You must register your car prior to arrival at Keele. We will share a link for you to register your details closer to the event. If you have any questions, please contact the organisers.
+For those who plan to arrive by car, please register your details using <a href="https://keele.firstparking.co.uk/Event/Register/6ZTxxAEj"> this form.</a>
+<br/><br/>
+Please also see the <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">car parking section on page 1</a>. You must register your car prior to arrival at Keele using the link provided above. If you have any questions, please contact the organisers.
 <br><br>
 Once registered, car parking is available in <a href="https://maps.app.goo.gl/mTNGsdeyREVucvxq6">Plot 7 </a>, also known as A3 (see <a href="https://keele-conference.com/wp-content/uploads/2021/06/Denise-Coates-Foundation-Building-Information-Sheet.pdf">page 3 on the Delegate Information Sheet</a>).
 
