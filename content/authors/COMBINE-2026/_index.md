@@ -104,8 +104,11 @@ In addition to the main room, three breakout rooms will be available after 12:00
 
 
 <h3>Schedule</h3>
+Please <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVhglmctKNQREpOKiyKEaXrxeH-WzTwsc_Y5611ZMB4_9qUKe69F5Ug-2SY9Ly0E01uuo0vcn3Sl07/pubhtml" target="_blank" rel="noopener noreferrer">click here</a> to see the schedule.
 
-The schedule will be available here.
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVhglmctKNQREpOKiyKEaXrxeH-WzTwsc_Y5611ZMB4_9qUKe69F5Ug-2SY9Ly0E01uuo0vcn3Sl07/pubhtml?embedded=true"
+width="100%" height="800" frameborder="2"></iframe>
+
 <br><br><br>
 
 <h4>Posters</h4>
