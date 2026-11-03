@@ -1,0 +1,39 @@
+{{- define "main" -}}
+
+<span class="js-widget-page d-none"></span>
+
+{{ $widgets := where (where site.RegularPages "Section" "events") ".Params.headless" true }}
+{{ $widgets = where $widgets ".Params.active" "!=" false }}
+{{ $sorted := sort $widgets ".Params.weight" }}
+
+<nav class="events-section-nav" aria-label="Events sections" style="background:#f7f7f7;border-top:1px solid #e0e0e0;border-bottom:1px solid #e0e0e0;padding:0.6rem 0;">
+	<div class="container" style="display:flex;gap:1.5rem;flex-wrap:wrap;align-items:center;">
+		<span style="font-size:0.85rem;color:#666;font-weight:600;text-transform:uppercase;letter-spacing:0.05em;">Jump to:</span>
+		{{ range $sorted }}
+			{{ $hash := .File.ContentBaseName }}
+			{{ with .Params.nav_label }}
+			<a href="#{{ $hash }}" style="font-size:0.9rem;color:rgb(31,100,107);text-decoration:none;font-weight:500;">{{ . }}</a>
+			{{ end }}
+		{{ end }}
+	</div>
+</nav>
+
+{{ range $sorted }}
+	{{ $widget := or .Params.widget "blank" }}
+	{{ if eq $widget "custom" }}{{ $widget = "blank" }}{{ end }}
+	{{ if eq $widget "projects" }}{{ $widget = "portfolio" }}{{ end }}
+
+	{{ $hash_id := .File.ContentBaseName }}
+	{{ $widget_path := printf "widgets/%s.html" $widget }}
+	{{ $widget_args := dict "root" $ "page" . "hash_id" $hash_id }}
+	{{ $widget_class := printf "wg-%s" (replace (replace $widget "." "-") "_" "-") }}
+
+	<section id="{{$hash_id}}" class="home-section {{$widget_class}}">
+		<div class="home-section-bg"></div>
+		<div class="container">
+			{{ partial $widget_path $widget_args }}
+		</div>
+	</section>
+{{ end }}
+
+{{- end -}}

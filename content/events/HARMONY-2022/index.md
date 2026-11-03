@@ -1,5 +1,7 @@
 ---
 title: HARMONY 2022
+aliases:
+- /author/harmony-2022/
 
 # Is this the primary user of the site?
 superuser: false

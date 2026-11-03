@@ -8,10 +8,23 @@
   {{ $author = $page.Params.author }}
 {{end}}
 
-{{ $person_page_path := (printf "/authors/%s" $author) }}
-{{ $person_page := site.GetPage $person_page_path }}
+{{ $person_page := "" }}
+{{ $person_page_path := "" }}
+{{ $author_title := lower (replace (replace $author "-" " ") "_" " ") }}
+{{ range (where site.RegularPages "Section" "events") }}
+  {{ if or (and .File (eq (lower (path.Base (path.Dir .File.Path))) (lower $author))) (eq (lower .Title) $author_title) }}
+    {{ $person_page = . }}
+    {{ $person_page_path = .RelPermalink }}
+  {{ end }}
+{{ end }}
 {{ if not $person_page }}
-  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://sourcethemes.com/academic/docs/page-builder/#about " $person_page_path }}
+  {{ $author_path := (printf "/authors/%s" (urlize $author)) }}
+  {{ $person_page = site.GetPage $author_path }}
+  {{ $person_page_path = $author_path }}
+{{ end }}
+{{ if not $person_page }}
+  {{ warnf "Could not find an event page for `%s` (resolved path: `%s`)." $author $person_page_path }}
+  {{ $person_page = site.GetPage "/events" }}
 {{end}}
 {{ $person := $person_page.Params }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}

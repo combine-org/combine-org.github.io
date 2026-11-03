@@ -1,5 +1,7 @@
 ---
 title: COMBINE 2021
+aliases:
+- /author/combine-2021/
 
 # Is this the primary user of the site?
 superuser: false

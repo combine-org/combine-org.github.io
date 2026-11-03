@@ -14,6 +14,9 @@ conf_location: Your location here!
 user_groups:
 - Future Events
 
+aliases:
+- /author/organizing-a-combine-event/
+
 ---
 The coordination of COMBINE owes much to the people organizing the meetings, and in particular the hosts of the events. Conversely, COMBINE events have become such successes that hosting them boosts recognition in the field, and permits to build or to strengthen collaborations.
 
