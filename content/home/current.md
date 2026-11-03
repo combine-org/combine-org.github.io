@@ -10,5 +10,5 @@ title = "Upcoming Conferences"
 # Choose the user profile to display
 # This should be the folder name of an event page in your `content/events/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "COMBINE-2026"
+author = "HARMONY-2027"
 +++
