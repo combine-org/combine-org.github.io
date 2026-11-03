@@ -19,15 +19,16 @@ role: SED-ML Delegate
 
 # Organizations/Affiliations
 organizations:
-- name: Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver; University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering 
+- name: Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver; University Hospital Schleswig-Holstein, Campus Lübeck, First Department of Medicine, Lübeck, Germany
   url: "https://livermetabolism.com"
 
-university: Humboldt-University; University of Stuttgart
+university: Humboldt-Universität zu Berlin; Universität zu Lübeck; University Hospital Schleswig-Holstein
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Digital Twins
 - Computational systems biology
 - Modeling of metabolic and physiological systems
 - Analysis and visualization of biological networks
@@ -56,9 +57,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=xD9IjnYAAAAJ&hl=de
 #- icon: user-graduate
 #  icon_pack: fas
 #  link: https://www.colorado.edu/ecee/chris-myers
@@ -113,30 +114,11 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-<p>
-<strong>Matthias König</strong> (PhD in Biophysics) is
-<strong>Head of the Systems Medicine of the Liver Lab</strong> at
-Humboldt-Universität zu Berlin, Faculty of Life Sciences, Institute of Biology
-(ITB), and <strong>Head of the Computational Biomechanics Group</strong> at the
-University of Stuttgart, Institute of Structural Mechanics and Dynamics in
-Aerospace Engineering.
-</p>
+<p> <strong>Matthias König</strong> (PhD in Biophysics) is <strong>Professor of Metabolic Inflammation and Carcinogenesis of the Liver</strong> at the University of Lübeck and University Hospital Schleswig-Holstein (UKSH), and a <strong>Guest Professor</strong> at Humboldt-Universität zu Berlin. </p>
 
-<p>
-His research focuses on computational modeling, data science, bioinformatics,
-and machine learning applied to biological, medical, and clinical data, with a
-particular emphasis on predictive and mechanistic models of liver function,
-physiology, and drug metabolism.
-</p>
+<p> His research focuses on systems medicine of the liver, combining computational modeling, artificial intelligence, data science, and digital pathology. His work includes pharmacological digital twins, mechanistic models of liver physiology and drug metabolism, and AI-based analysis of biomedical data and tissue images. </p>
 
-<p>
-He has been actively involved in the development of community standards and
-tools in systems and computational biology, including <strong>SBML</strong>,
-<strong>SED-ML</strong>, and software supporting these standards, as well as the
-<strong>COMBINE</strong> initiative and the COMBINE Archive. His work strongly
-emphasizes reproducibility, interoperability, and FAIR data and modeling
-practices.
-</p>
+<p> He contributes to community standards and tools in systems and computational biology, including <strong>SBML</strong>, <strong>SED-ML</strong>, <strong>COMBINE</strong>, and the COMBINE Archive. His work emphasizes reproducibility, interoperability, and FAIR data and modeling practices. </p>
 
 <p>
 More information about his research is available at
