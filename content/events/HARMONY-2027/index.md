@@ -81,7 +81,16 @@ user_groups:
   .h27-glance dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.35rem 1rem; margin: 0; }
   .h27-glance dt { font-weight: 700; }
   .h27-glance dd { margin: 0; }
-  .h27-combine { display: block; width: 40%; max-width: 220px; height: auto; margin-bottom: 1rem; }
+  .h27-combine { display: block; width: 60%; max-width: 340px; height: auto; margin: 0.5rem 0 1.25rem; }
+  /* Tables: replace the theme's always-on scrollbar, small text and stripes. */
+  .h27 { --h27-line: rgba(0, 0, 0, 0.12); }
+  .dark .h27 { --h27-line: rgba(255, 255, 255, 0.14); }
+  .h27 table { display: table; width: 100%; overflow: visible; font-size: 0.9rem; margin: 0.75rem 0 1.5rem; }
+  .h27 table th, .h27 table td { padding: 0.6rem 0.75rem; border-top: 1px solid var(--h27-line); border-bottom: 0; background: transparent !important; }
+  .h27 table thead th { background: var(--h27-tint) !important; vertical-align: bottom; }
+  .h27 table td:first-child { font-weight: 600; }
+  .h27 h4 { margin-top: 1.5rem; }
+  @media (max-width: 576px) { .h27 table th, .h27 table td { padding: 0.45rem 0.4rem; } }
 </style>
 
 <div class="h27">
@@ -114,7 +123,7 @@ HARMONY 2027 will be held in Salisbury Laboratories on the WPI campus (100 Insti
 
 #### Airports
 
-| Airport | Approx. distance to WPI | Approx. drive time | Notes |
+| Airport | Distance | Drive time | Notes |
 | --- | --- | --- | --- |
 | Boston Logan (BOS) | 50 miles | 1 hour | Most international flights; see below for ground transport |
 | Worcester Regional (ORH) | a few miles | 10 - 15 min | Small airport: JetBlue, American and Delta, with nonstops to Philadelphia, New York LaGuardia, Fort Lauderdale and Orlando ([airlines](https://www.massport.com/worcester-airport/flights-airlines)) |
@@ -122,11 +131,11 @@ HARMONY 2027 will be held in Salisbury Laboratories on the WPI campus (100 Insti
 | Bradley, Hartford (BDL) | 70 miles | 1 hour 15 min | Windsor Locks, Connecticut |
 | Manchester-Boston (MHT) | 65 miles | 1 hour 30 min | Manchester, New Hampshire |
 
-Drive times are without traffic. Boston traffic is heavy at weekday rush hours (about 7:00 - 9:30 AM and 4:00 - 6:30 PM).
+Distances and drive times to WPI are approximate and without traffic. Boston traffic is heavy at weekday rush hours (about 7:00 - 9:30 AM and 4:00 - 6:30 PM).
 
 #### From Logan Airport to Worcester
 
-| Option | Approx. cost (one way) | Approx. time | Notes |
+| Option | Cost, one way | Time | Notes |
 | --- | --- | --- | --- |
 | Silver Line + Commuter Rail | about $12 | 2 - 2.5 hours | Free SL1 bus from every terminal to South Station, then the MBTA Framingham/Worcester Line to Worcester Union Station; trains run about hourly ([fares](https://www.mbta.com/fares/commuter-rail?origin=Worcester&destination=place-sstat), [schedule](https://www.mbta.com/schedules/commuter-rail)) |
 | Knight's Airport Limousine | quote on booking | about 1 - 1.5 hours | Worcester-based shared shuttle (up to three stops) or private car; book at least 24 hours ahead at [knightslimo.com](https://www.knightslimo.com/logan-airport) or 1-800-822-5456 |
