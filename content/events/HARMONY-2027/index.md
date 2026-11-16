@@ -104,7 +104,7 @@ The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiati
 
 HARMONY 2027 will be held at Worcester Polytechnic Institute (WPI) in Worcester, Massachusetts, USA, from 8 to 12 March 2027.
 
-Local organizers are <a href="https://www.wpi.edu/people/faculty/emyoung">Eric M. Young</a> and colleagues at WPI.
+The local organizer is <a href="https://www.wpi.edu/people/faculty/emyoung">Eric M. Young</a>, Associate Professor of Chemical Engineering at WPI.
 
 ## Workshop Location
 
