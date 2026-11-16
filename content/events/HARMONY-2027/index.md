@@ -81,7 +81,7 @@ user_groups:
   .h27-glance dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.35rem 1rem; margin: 0; }
   .h27-glance dt { font-weight: 700; }
   .h27-glance dd { margin: 0; }
-  .h27-combine { display: block; width: 60%; max-width: 340px; height: auto; margin: 0.5rem 0 1.25rem; }
+  .h27-combine { display: block; width: 70%; max-width: 560px; height: auto; margin: 0.5rem 0 1.25rem; }
   /* Tables: replace the theme's always-on scrollbar, small text and stripes. */
   .h27 { --h27-line: rgba(0, 0, 0, 0.12); }
   .dark .h27 { --h27-line: rgba(255, 255, 255, 0.14); }
