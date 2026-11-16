@@ -66,11 +66,15 @@ user_groups:
 
 <style>
   .h27 { --h27-red: #C41230; --h27-tint: rgba(196, 18, 48, 0.07); }
-  .dark .h27 { --h27-red: #F0576B; --h27-tint: rgba(240, 87, 107, 0.12); }
+  .dark .h27 { --h27-red: #F26B6B; --h27-tint: rgba(255, 255, 255, 0.06); }
   .h27 h2 { color: var(--h27-red); margin-top: 2rem; }
   /* The template's Information and Topics headings follow .h27 in the same column. */
   .h27 ~ h2, .h27 ~ h2 span { color: #C41230 !important; }
-  .dark .h27 ~ h2, .dark .h27 ~ h2 span { color: #F0576B !important; }
+  .dark .h27 ~ h2, .dark .h27 ~ h2 span { color: #F26B6B !important; }
+  /* The template's title and left-column headings, on this page only (browsers without :has keep the COMBINE colours). */
+  .container:has(.h27) .col-lg-4 h1, .container:has(.h27) h2 { color: #C41230 !important; }
+  .dark .container:has(.h27) h2 { color: #F26B6B !important; }
+  .dark .container:has(.h27) .col-lg-4 h1 { color: #E6E6E6 !important; }
   .h27-banner { width: 100%; height: auto; border-radius: 6px; margin-bottom: 1.5rem; }
   .h27-glance { background: var(--h27-tint); border-radius: 6px; padding: 1rem 1.25rem; margin: 1.5rem 0; }
   .h27-glance h3 { color: var(--h27-red); margin-top: 0; font-size: 1.2rem; }
