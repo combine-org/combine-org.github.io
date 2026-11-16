@@ -112,9 +112,29 @@ HARMONY 2027 will be held in Salisbury Laboratories on the WPI campus (100 Insti
 
 ## Arrival and Transportation
 
-Most international attendees will fly into Boston Logan International Airport (BOS). Worcester is about an hour west of Boston by car. The MBTA Commuter Rail (Framingham/Worcester Line) runs from Boston South Station to Worcester Union Station.
+#### Airports
 
-More detailed travel information will be posted here soon.
+| Airport | Approx. distance to WPI | Approx. drive time | Notes |
+| --- | --- | --- | --- |
+| Boston Logan (BOS) | 50 miles | 1 hour | Most international flights; see below for ground transport |
+| Worcester Regional (ORH) | a few miles | 10 - 15 min | Small airport: JetBlue, American and Delta, with nonstops to Philadelphia, New York LaGuardia, Fort Lauderdale and Orlando ([airlines](https://www.massport.com/worcester-airport/flights-airlines)) |
+| T.F. Green, Providence (PVD) | 50 miles | 1 hour | Warwick, Rhode Island |
+| Bradley, Hartford (BDL) | 70 miles | 1 hour 15 min | Windsor Locks, Connecticut |
+| Manchester-Boston (MHT) | 65 miles | 1 hour 30 min | Manchester, New Hampshire |
+
+Drive times are without traffic. Boston traffic is heavy at weekday rush hours (about 7:00 - 9:30 AM and 4:00 - 6:30 PM).
+
+#### From Logan Airport to Worcester
+
+| Option | Approx. cost (one way) | Approx. time | Notes |
+| --- | --- | --- | --- |
+| Silver Line + Commuter Rail | about $12 | 2 - 2.5 hours | Free SL1 bus from every terminal to South Station, then the MBTA Framingham/Worcester Line to Worcester Union Station; trains run about hourly ([fares](https://www.mbta.com/fares/commuter-rail?origin=Worcester&destination=place-sstat), [schedule](https://www.mbta.com/schedules/commuter-rail)) |
+| Knight's Airport Limousine | quote on booking | about 1 - 1.5 hours | Worcester-based shared shuttle (up to three stops) or private car; book at least 24 hours ahead at [knightslimo.com](https://www.knightslimo.com/logan-airport) or 1-800-822-5456 |
+| Uber / Lyft | about $100 - $150 | about 1 hour | Prices rise at busy times; check the app for a quote |
+
+From Worcester Union Station, WPI is a short taxi or rideshare ride.
+
+Prices and schedules were checked in November 2026 and may change; please confirm before you travel.
 
 ## Accommodation
 
