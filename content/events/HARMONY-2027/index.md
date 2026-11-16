@@ -92,7 +92,7 @@ user_groups:
 <h3>At a glance</h3>
 <dl>
 <dt>When</dt><dd>Monday 8 to Friday 12 March 2027</dd>
-<dt>Where</dt><dd>Worcester Polytechnic Institute (WPI), Worcester, Massachusetts, USA</dd>
+<dt>Where</dt><dd>Salisbury Laboratories, Worcester Polytechnic Institute (WPI), Worcester, Massachusetts, USA</dd>
 <dt>Format</dt><dd>Codefest: hands-on development of the COMBINE standards and their tools</dd>
 <dt>Registration</dt><dd>Opening soon; fee to be announced</dd>
 </dl>
@@ -108,7 +108,7 @@ The local organizer is <a href="https://www.wpi.edu/people/faculty/emyoung">Eric
 
 ## Workshop Location
 
-The building and rooms at WPI will be announced soon.
+HARMONY 2027 will be held in Salisbury Laboratories on the WPI campus (100 Institute Road, Worcester, MA 01609). Room details will be announced soon.
 
 ## Arrival and Transportation
 
@@ -118,7 +118,10 @@ More detailed travel information will be posted here soon.
 
 ## Accommodation
 
-Recommended hotels will be posted here soon.
+Hotels near WPI include:
+
+* [Courtyard by Marriott Worcester](https://www.marriott.com/en-us/hotels/boswr-courtyard-worcester/overview/)
+* [Hampton Inn & Suites Worcester](https://www.hilton.com/en/hotels/orhwohx-hampton-suites-worcester/)
 
 ## Meals
 
