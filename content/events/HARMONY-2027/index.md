@@ -68,6 +68,9 @@ user_groups:
   .h27 { --h27-red: #C41230; --h27-tint: rgba(196, 18, 48, 0.07); }
   .dark .h27 { --h27-red: #F0576B; --h27-tint: rgba(240, 87, 107, 0.12); }
   .h27 h2 { color: var(--h27-red); margin-top: 2rem; }
+  /* The template's Information and Topics headings follow .h27 in the same column. */
+  .h27 ~ h2, .h27 ~ h2 span { color: #C41230 !important; }
+  .dark .h27 ~ h2, .dark .h27 ~ h2 span { color: #F0576B !important; }
   .h27-banner { width: 100%; height: auto; border-radius: 6px; margin-bottom: 1.5rem; }
   .h27-glance { background: var(--h27-tint); border-radius: 6px; padding: 1rem 1.25rem; margin: 1.5rem 0; }
   .h27-glance h3 { color: var(--h27-red); margin-top: 0; font-size: 1.2rem; }
