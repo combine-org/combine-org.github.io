@@ -97,6 +97,14 @@ user_groups:
 
 <img class="h27-banner" src="/images/harmony2027/banner.jpg" alt="HARMONY 2027, March 8 to 12, Worcester, MA, USA: aerial view of the WPI campus and Worcester, with the WPI seal and a map of New England">
 
+<img class="h27-combine" src="/images/combine.png" alt="COMBINE logo">
+
+The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
+
+HARMONY 2027 will be held at Worcester Polytechnic Institute (WPI) in Worcester, Massachusetts, USA, from 8 to 12 March 2027.
+
+The local organizer is <a href="https://www.wpi.edu/people/faculty/emyoung">Eric M. Young</a>, Associate Professor of Chemical Engineering at WPI.
+
 <div class="h27-glance">
 <h3>At a glance</h3>
 <dl>
@@ -106,14 +114,6 @@ user_groups:
 <dt>Registration</dt><dd>Opening soon; fee to be announced</dd>
 </dl>
 </div>
-
-<img class="h27-combine" src="/images/combine.png" alt="COMBINE logo">
-
-The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
-
-HARMONY 2027 will be held at Worcester Polytechnic Institute (WPI) in Worcester, Massachusetts, USA, from 8 to 12 March 2027.
-
-The local organizer is <a href="https://www.wpi.edu/people/faculty/emyoung">Eric M. Young</a>, Associate Professor of Chemical Engineering at WPI.
 
 ## Workshop Location
 
