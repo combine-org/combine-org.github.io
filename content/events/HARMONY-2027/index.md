@@ -64,8 +64,34 @@ user_groups:
   - Events
 ---
 
-<img src="/images/combine.png" alt="combine logo" class="img-responsive">
-<br/>
+<style>
+  .h27 { --h27-red: #C41230; --h27-tint: rgba(196, 18, 48, 0.07); }
+  .dark .h27 { --h27-red: #F0576B; --h27-tint: rgba(240, 87, 107, 0.12); }
+  .h27 h2 { color: var(--h27-red); margin-top: 2rem; }
+  .h27-banner { width: 100%; height: auto; border-radius: 6px; margin-bottom: 1.5rem; }
+  .h27-glance { background: var(--h27-tint); border-radius: 6px; padding: 1rem 1.25rem; margin: 1.5rem 0; }
+  .h27-glance h3 { color: var(--h27-red); margin-top: 0; font-size: 1.2rem; }
+  .h27-glance dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.35rem 1rem; margin: 0; }
+  .h27-glance dt { font-weight: 700; }
+  .h27-glance dd { margin: 0; }
+  .h27-combine { display: block; width: 40%; max-width: 220px; height: auto; margin-bottom: 1rem; }
+</style>
+
+<div class="h27">
+
+<img class="h27-banner" src="/images/harmony2027/banner.jpg" alt="HARMONY 2027, March 8 to 12, Worcester, MA, USA: aerial view of the WPI campus and Worcester, with the WPI seal and a map of New England">
+
+<div class="h27-glance">
+<h3>At a glance</h3>
+<dl>
+<dt>When</dt><dd>Monday 8 to Friday 12 March 2027</dd>
+<dt>Where</dt><dd>Worcester Polytechnic Institute (WPI), Worcester, Massachusetts, USA</dd>
+<dt>Format</dt><dd>Codefest: hands-on development of the COMBINE standards and their tools</dd>
+<dt>Registration</dt><dd>Opening soon; fee to be announced</dd>
+</dl>
+</div>
+
+<img class="h27-combine" src="/images/combine.png" alt="COMBINE logo">
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
 
@@ -94,3 +120,5 @@ Information on meals will be posted here soon.
 ## Power outlet
 
 The USA uses Type A and Type B plugs (two flat pins, with a round earth pin on Type B) at 120V. Attendees from most other countries will need a plug adapter, and should check that their devices accept 120V.
+
+</div>
