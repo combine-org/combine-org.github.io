@@ -1,5 +1,7 @@
 ---
 title: HARMONY 2027
+aliases:
+- /author/harmony-2027/
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,48 +11,40 @@ conf_date: 8 - 12 March 2027
 conf_location: Worcester Polytechnic Institute, Worcester, MA, USA
 
 important_dates:
- - name: Registration closing date (in-person)
-   date: TBA
- - name: Registration closing date (virtual)
-   date: TBA
- - name: Breakouts and tutorials submission deadline
-   date: TBA
- - name: Notification of acceptance for breakout and tutorials
-   date: TBA
-#  - name: Lightning talk and poster submission deadline
-#    date: 8th January 2026
-#  - name: Notification of acceptance for lightning talks and posters
-#    date: 12th January 2026
-#- name: Travel support applications NOW CLOSED
-#  date:
-#- name: Notification of travel support awards
-#  date: 21 February, 2024
+  - name: Registration closing date (in-person)
+    date: TBA
+  - name: Registration closing date (virtual)
+    date: TBA
+  - name: Breakouts and tutorials submission deadline
+    date: TBA
+  - name: Notification of acceptance for breakout and tutorials
+    date: TBA
+  - name: Lightning talk and poster submission deadline
+    date: TBA
+  - name: Notification of acceptance for lightning talks and posters
+    date: TBA
 
+# Uncomment each link once its HARMONY 2027 form is ready.
 important_links:
 #- name: Agenda
 #  link:
 #- name: Registration
-#  link: https://forms.gle/GQFMkiSxmx1yiwzd6
+#  link:
 #- name: Break-outs and tutorials submission
-#  link: https://forms.gle/QVH7C2u7xjhgF7e58
+#  link:
 #- name: Lightning talks and poster submission
-#  link: https://forms.gle/RVU7636QYvrex1aU7
-#- <!-- name: Application for travel support
-#  link: https://forms.gle/Ta72fwz5Bt2zb4YKA -->
+#  link:
 
 information:
 - name: Registration
-  description: Registration information will be announced shortly.
+  description: Registration will open soon. Details on the registration fee and on in-person and virtual attendance will be announced shortly. Please register as soon as registration opens; this helps us plan the schedule and match your interests to the timing of the breakouts. Only registered attendees will be sent information related to the meeting.
   link: https://groups.google.com/g/combine-discuss
 - name: Call for Breakout Sessions and Tutorials
   description: All attendees can suggest breakout sessions for hacking and/or detailed discussions of certain aspects of one or several of the COMBINE standard(s), metadata and semantic annotations (format-specific or overarching), application and implementations of the COMBINE standards, or any other topic relevant for the COMBINE community. The call for breakouts and tutorials will be announced shortly.
   link: https://groups.google.com/g/combine-discuss
-# - name: Call for Lightning Talks and Posters
-#   description: Requests for a lightning talk (5 min max.) and/or poster can be submitted via the link above. Please make multiple submissions if you want to submit abstracts on different topics. Talks will take place during the community session and posters will be displayed throughout the meeting.
-#   link: https://forms.gle/RVU7636QYvrex1aU7
-#- name: Application for travel funding
-#  description: We have limited funding for travel bursaries or contributions towards accommodation. These will be given out to those who have a significant contribution to make to the HARMONY meeting.
-#  link: https://forms.gle/Ta72fwz5Bt2zb4YKA
+- name: Call for Lightning Talks and Posters
+  description: Attendees can request a lightning talk (5 min max.) and/or a poster. Talks will take place during the community session and posters will be displayed throughout the meeting. The call for lightning talks and posters will be announced shortly.
+  link: https://groups.google.com/g/combine-discuss
 
 topics:
   - Data exchange, pipelines and model standards for systems and synthetic biology
@@ -75,18 +69,28 @@ user_groups:
 
 The "**Computational Modeling in Biology**" Network (**COMBINE**) is an initiative to coordinate the development of the various community standards and formats in systems biology, synthetic biology and related fields. HARMONY is a codefest-type meeting, with a focus on development of the standards, interoperability and infrastructure. There are generally not many general discussions or oral presentations during HARMONY; instead, the time is devoted to allowing hands-on hacking and interaction between people focused on practical development of software and standards.
 
-HARMONY 2027 will be held at WPI in Worcester, MA, USA from March 8 - 12.
+HARMONY 2027 will be held at Worcester Polytechnic Institute (WPI) in Worcester, Massachusetts, USA, from 8 to 12 March 2027.
 
-Local organizers are <a href="https://www.wpi.edu/people/faculty/emyoung">Eric M. Young</a> and colleagues.
+Local organizers are <a href="https://www.wpi.edu/people/faculty/emyoung">Eric M. Young</a> and colleagues at WPI.
 
-<!-- ## Power outlet
+## Workshop Location
 
-Type I plugs are used in New Zealand, featuring three flat pins arranged in a triangular pattern. They operate on a voltage of 230V and are designed to ensure safety with an earth pin for grounding. 
+The building and rooms at WPI will be announced soon.
 
-[Plugs used in New Zealand (Wikipedia).](https://en.wikipedia.org/wiki/AS/NZS_3112)
+## Arrival and Transportation
 
-<img src="/images/harmony2026/plug.jpeg" alt="New Zealand power plugs" width="50%" style="margin: auto;" class="img-responsive"> -->
+Most international attendees will fly into Boston Logan International Airport (BOS). Worcester is about an hour west of Boston by car. The MBTA Commuter Rail (Framingham/Worcester Line) runs from Boston South Station to Worcester Union Station.
 
-<!-- # Attendees
+More detailed travel information will be posted here soon.
 
-{{< readfile "content/events/HARMONY-2026/AttendeeList.md" >}} -->
+## Accommodation
+
+Recommended hotels will be posted here soon.
+
+## Meals
+
+Information on meals will be posted here soon.
+
+## Power outlet
+
+The USA uses Type A and Type B plugs (two flat pins, with a round earth pin on Type B) at 120V. Attendees from most other countries will need a plug adapter, and should check that their devices accept 120V.
